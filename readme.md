@@ -1,6 +1,6 @@
-# TechiDaily
+# Screen Capture Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://screen-capture.techidaily.com](https://screen-capture.techidaily.com)
 
 ## Publish
 

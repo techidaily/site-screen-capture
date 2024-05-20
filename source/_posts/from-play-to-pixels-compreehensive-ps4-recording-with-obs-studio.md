@@ -357,3 +357,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-20-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 20 to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

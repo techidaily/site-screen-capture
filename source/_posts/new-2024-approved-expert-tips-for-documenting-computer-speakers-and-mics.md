@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expert Tips for Documenting Computer Speakers & Mics\""
-date: 2024-05-18T03:29:56.631Z
-updated: 2024-05-19T03:29:56.631Z
+date: 2024-05-19T20:08:54.862Z
+updated: 2024-05-20T20:08:54.862Z
 tags: 
   - screen-recording
   - ai video
@@ -822,4 +822,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://sound-tweaking.techidaily.com/updated-step-by-step-guide-saving-desktop-noises-via-audacity-for-2024/"><u>Updated Step-by-Step Guide Saving Desktop Noises via Audacity for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-mix-fold-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Mix Fold 3?</u></a></li>
 </ul></div>
+
 

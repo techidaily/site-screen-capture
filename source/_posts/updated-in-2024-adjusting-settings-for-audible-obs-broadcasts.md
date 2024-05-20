@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Adjusting Settings for Audible OBS Broadcasts"
-date: 2024-05-18T03:49:33.333Z
-updated: 2024-05-19T03:49:33.333Z
+date: 2024-05-19T20:09:39.697Z
+updated: 2024-05-20T20:09:39.697Z
 tags: 
   - screen-recording
   - ai video
@@ -560,4 +560,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-plus-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Plus Phone without Any Data Loss</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Find X7 | Dr.fone</u></a></li>
 </ul></div>
+
 

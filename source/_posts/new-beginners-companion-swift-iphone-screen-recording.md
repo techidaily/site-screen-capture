@@ -559,3 +559,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-3-different-methods-to-correct-color-distortion-in-videos/"><u>Updated In 2024, 3 Different Methods to Correct Color Distortion in Videos</u></a></li>
 </ul></div>
 
+

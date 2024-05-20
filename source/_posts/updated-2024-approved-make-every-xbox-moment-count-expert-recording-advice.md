@@ -622,3 +622,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Magic 6 Pro</u></a></li>
 </ul></div>
 
+

@@ -565,3 +565,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-aspect-ratio-adjustment-a-beginners-guide-updated/"><u>New FCP Aspect Ratio Adjustment A Beginners Guide (Updated )</u></a></li>
 </ul></div>
 
+

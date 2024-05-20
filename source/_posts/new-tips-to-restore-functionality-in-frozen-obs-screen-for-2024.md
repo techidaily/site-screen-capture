@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips to Restore Functionality in Frozen OBS Screen for 2024"
-date: 2024-05-18T03:49:51.409Z
-updated: 2024-05-19T03:49:51.409Z
+date: 2024-05-19T20:09:40.326Z
+updated: 2024-05-20T20:09:40.326Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-hunt-for-emotional-throat-clearing-audio/"><u>Updated In 2024, Hunt for Emotional Throat-Clearing Audio</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
+
 

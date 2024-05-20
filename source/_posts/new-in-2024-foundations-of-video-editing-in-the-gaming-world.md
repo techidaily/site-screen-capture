@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Foundations of Video Editing in the Gaming World"
-date: 2024-05-18T03:49:34.679Z
-updated: 2024-05-19T03:49:34.679Z
+date: 2024-05-19T20:09:39.742Z
+updated: 2024-05-20T20:09:39.742Z
 tags: 
   - screen-recording
   - ai video
@@ -872,4 +872,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/new-confused-as-to-how-to-add-subtitles-to-a-video-on-iphone-no-worries-as-we-bring-you-the-best-solution-to-get-the-task-done-for-2024/"><u>New Confused as to How to Add Subtitles to a Video on iPhone? No Worries as We Bring You the Best Solution to Get the Task Done for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

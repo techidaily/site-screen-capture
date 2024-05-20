@@ -551,3 +551,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-defy-2-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Defy 2.</u></a></li>
 </ul></div>
 
+

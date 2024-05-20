@@ -1,7 +1,7 @@
 ---
 title: "\"Broadcast Elegance  Gamers' Guide to Using OBS\""
-date: 2024-05-18T03:42:26.087Z
-updated: 2024-05-19T03:42:26.087Z
+date: 2024-05-19T20:09:22.487Z
+updated: 2024-05-20T20:09:22.487Z
 tags: 
   - screen-recording
   - ai video
@@ -440,4 +440,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-moto-g14-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Moto G14 Pictures  An Easy Method Explained.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+
 

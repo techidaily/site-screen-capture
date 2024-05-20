@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Set Custom Save Path for Screen Captures (Mac)\""
-date: 2024-05-18T03:29:59.313Z
-updated: 2024-05-19T03:29:59.313Z
+date: 2024-05-19T20:08:54.945Z
+updated: 2024-05-20T20:08:54.945Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-top-rated-trailer-creation-apps-for-mac-and-windows-computers/"><u>In 2024, Top-Rated Trailer Creation Apps for Mac and Windows Computers</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-beginners-handbook-to-saving-your-conversations-via-google-voice/"><u>Updated 2024 Approved The Beginners Handbook to Saving Your Conversations via Google Voice</u></a></li>
 </ul></div>
+
 

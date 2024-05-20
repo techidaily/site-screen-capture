@@ -1,7 +1,7 @@
 ---
 title: "How to Blur the Video Background in a Microsoft Teams Meeting for 2024"
-date: 2024-05-18T03:42:10.899Z
-updated: 2024-05-19T03:42:10.899Z
+date: 2024-05-19T20:09:21.913Z
+updated: 2024-05-20T20:09:21.913Z
 tags: 
   - screen-recording
   - ai video
@@ -822,4 +822,5 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-4k-video-editing-tools-for-creators-for-2024/"><u>Updated Top-Rated 4K Video Editing Tools for Creators for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-k11x-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo K11x</u></a></li>
 </ul></div>
+
 

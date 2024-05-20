@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Rectify Silent Streams with OBS"
-date: 2024-05-18T03:29:01.331Z
-updated: 2024-05-19T03:29:01.331Z
+date: 2024-05-19T20:08:52.975Z
+updated: 2024-05-20T20:08:52.975Z
 tags: 
   - screen-recording
   - ai video
@@ -553,4 +553,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco F5 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-mini-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 mini to Windows 10? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Ultimate Tutorial  How To Add a Countdown Timer in OBS\""
-date: 2024-05-18T03:40:23.614Z
-updated: 2024-05-19T03:40:23.614Z
+date: 2024-05-19T20:09:18.143Z
+updated: 2024-05-20T20:09:18.143Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus 11 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-what-is-anime-anime-vs-manga-vs-cartoon-for-2024/"><u>Updated What Is Anime? Anime VS Manga VS Cartoon for 2024</u></a></li>
 </ul></div>
+
 

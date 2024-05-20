@@ -478,3 +478,4 @@ For macOS 10.12 or later
 <li><a href="https://audio-shaping.techidaily.com/exploring-the-wave-editor-fundamental-aspects-perceived-value-and-educational-pathways/"><u>Exploring the Wave Editor Fundamental Aspects, Perceived Value, and Educational Pathways</u></a></li>
 </ul></div>
 
+

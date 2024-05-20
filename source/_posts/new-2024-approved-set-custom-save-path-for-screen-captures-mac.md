@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Set Custom Save Path for Screen Captures (Mac)\""
-date: 2024-05-18T03:33:27.725Z
-updated: 2024-05-19T03:33:27.725Z
+date: 2024-05-19T20:09:03.002Z
+updated: 2024-05-20T20:09:03.002Z
 tags: 
   - screen-recording
   - ai video
@@ -357,4 +357,5 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-5-best-mobile-call-modification-apps-android-and-ios-edition/"><u>In 2024, 5 Best Mobile Call Modification Apps Android & iOS Edition</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 Pro Max When Its Locked Within Seconds</u></a></li>
 </ul></div>
+
 

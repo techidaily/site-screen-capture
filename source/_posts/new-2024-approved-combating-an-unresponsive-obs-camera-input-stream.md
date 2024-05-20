@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Combating an Unresponsive OBS Camera Input Stream\""
-date: 2024-05-18T03:32:29.733Z
-updated: 2024-05-19T03:32:29.733Z
+date: 2024-05-19T20:09:00.588Z
+updated: 2024-05-20T20:09:00.588Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://video-content-creator.techidaily.com/updated-proxy-perfection-the-top-8-video-editing-apps-for-4k-for-2024/"><u>Updated Proxy Perfection The Top 8 Video Editing Apps for 4K for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-sonic-spectrum-crafting-the-ideal-audio-backdrop-for-different-video-genres/"><u>New In 2024, Sonic Spectrum Crafting the Ideal Audio Backdrop for Different Video Genres</u></a></li>
 </ul></div>
+
 

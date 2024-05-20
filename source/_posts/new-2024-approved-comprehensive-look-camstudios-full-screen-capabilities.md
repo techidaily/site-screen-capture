@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Comprehensive Look  CamStudio's Full Screen Capabilities\""
-date: 2024-05-18T03:38:50.468Z
-updated: 2024-05-19T03:38:50.468Z
+date: 2024-05-19T20:09:14.610Z
+updated: 2024-05-20T20:09:14.610Z
 tags: 
   - screen-recording
   - ai video
@@ -208,4 +208,5 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-best-4k-proxy-video-editing-software-for-creators/"><u>Updated Best 4K Proxy Video Editing Software for Creators</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-top-10-song-recorder-that-you-wont-want-to-miss/"><u>Updated In 2024, Top 10 Song Recorder That You Wont Want to Miss</u></a></li>
 </ul></div>
+
 

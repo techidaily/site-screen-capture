@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ending Grey Shades in Live Stream Translations"
-date: 2024-05-18T03:47:00.535Z
-updated: 2024-05-19T03:47:00.535Z
+date: 2024-05-19T20:09:33.974Z
+updated: 2024-05-20T20:09:33.974Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Huawei </u></a></li>
 </ul></div>
+
 

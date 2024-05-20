@@ -621,3 +621,4 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Galaxy A25 5G ?</u></a></li>
 </ul></div>
 
+

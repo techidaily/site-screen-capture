@@ -1,7 +1,7 @@
 ---
 title: "[New] Discovering the Power of Fraps in Video Capture for 2024"
-date: 2024-05-18T03:28:00.356Z
-updated: 2024-05-19T03:28:00.356Z
+date: 2024-05-19T20:08:50.664Z
+updated: 2024-05-20T20:08:50.665Z
 tags: 
   - screen-recording
   - ai video
@@ -348,4 +348,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-made-easy-top-10-trimming-tools-for-pc-for-2024/"><u>New Video Editing Made Easy Top 10 Trimming Tools for PC for 2024</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-chinese-video-to-english-translator/"><u>New In 2024, Best 10 Chinese Video to English Translator</u></a></li>
 </ul></div>
+
 

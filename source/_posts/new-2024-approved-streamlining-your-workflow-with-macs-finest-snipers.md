@@ -310,3 +310,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-flip-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Flip Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

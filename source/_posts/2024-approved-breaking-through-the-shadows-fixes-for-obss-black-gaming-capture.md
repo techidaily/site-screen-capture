@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Breaking Through the Shadows  Fixes for OBS's Black Gaming Capture\""
-date: 2024-05-18T03:43:14.933Z
-updated: 2024-05-19T03:43:14.933Z
+date: 2024-05-19T20:09:25.319Z
+updated: 2024-05-20T20:09:25.319Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-funny-content-ideas-for-youtube-videos/"><u>New 2024 Approved Funny Content Ideas for YouTube Videos</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus 11 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

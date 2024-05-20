@@ -1,7 +1,7 @@
 ---
 title: "The Art of Minimizing Lag with Additional RAM for Minecraft for 2024"
-date: 2024-05-18T03:51:10.947Z
-updated: 2024-05-19T03:51:10.947Z
+date: 2024-05-19T20:09:43.295Z
+updated: 2024-05-20T20:09:43.295Z
 tags: 
   - screen-recording
   - ai video
@@ -649,4 +649,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-understanding-aspect-ratios-on-amazon-prime-video/"><u>Updated Understanding Aspect Ratios on Amazon Prime Video</u></a></li>
 </ul></div>
+
 

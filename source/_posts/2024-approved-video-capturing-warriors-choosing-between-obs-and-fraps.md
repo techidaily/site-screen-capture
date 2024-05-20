@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Video Capturing Warriors  Choosing Between OBS and Fraps\""
-date: 2024-05-18T03:48:58.073Z
-updated: 2024-05-19T03:48:58.073Z
+date: 2024-05-19T20:09:38.521Z
+updated: 2024-05-20T20:09:38.521Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-editing-video.techidaily.com/add-fade-in-windows-video-editor/"><u>Add Fade in Windows Video Editor</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/video-editing-software-showdown-top-10-picks/"><u>Video Editing Software Showdown Top 10 Picks</u></a></li>
 </ul></div>
+
 

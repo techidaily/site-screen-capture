@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Resolved  Faulty OBS Camera\""
-date: 2024-05-18T03:48:33.907Z
-updated: 2024-05-19T03:48:33.907Z
+date: 2024-05-19T20:09:37.442Z
+updated: 2024-05-20T20:09:37.442Z
 tags: 
   - screen-recording
   - ai video
@@ -297,4 +297,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-subtitle-it-for-free-10-best-online-tools/"><u>Updated In 2024, Subtitle It for Free 10 Best Online Tools</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -923,3 +923,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/the-art-of-time-control-fcpx-freeze-frames-and-slow-motion/"><u>The Art of Time Control FCPX Freeze Frames and Slow Motion</u></a></li>
 </ul></div>
 
+

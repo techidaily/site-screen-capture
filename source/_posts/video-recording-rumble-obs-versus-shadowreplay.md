@@ -1,7 +1,7 @@
 ---
 title: "\"Video Recording Rumble  OBS Versus ShadowReplay\""
-date: 2024-05-18T03:53:32.595Z
-updated: 2024-05-19T03:53:32.595Z
+date: 2024-05-19T20:09:48.549Z
+updated: 2024-05-20T20:09:48.549Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://audio-editing.techidaily.com/updated-how-to-remove-audio-from-avi-2023-update-for-2024/"><u>Updated How to Remove Audio From AVI-2023 Update for 2024</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-quicktime-player-tutorial-fast-forward-your-videos/"><u>Updated 2024 Approved QuickTime Player Tutorial Fast Forward Your Videos</u></a></li>
 </ul></div>
+
 

@@ -735,3 +735,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/updated-unleash-the-power-of-time-lapse-a-final-cut-pro-tutorial/"><u>Updated Unleash the Power of Time Lapse A Final Cut Pro Tutorial</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Eclipse Etiquette  Secrets to Stunning Night Photos\""
-date: 2024-05-18T03:44:14.543Z
-updated: 2024-05-19T03:44:14.543Z
+date: 2024-05-19T20:09:28.026Z
+updated: 2024-05-20T20:09:28.026Z
 tags: 
   - screen-recording
   - ai video
@@ -185,4 +185,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://smart-video-creator.techidaily.com/transform-memories-into-movies-ezvid-for-mac-slideshow-creator/"><u>Transform Memories Into Movies Ezvid for Mac Slideshow Creator</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-oppo-find-x6-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X6 Pro Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

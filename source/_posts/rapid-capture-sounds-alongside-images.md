@@ -1,7 +1,7 @@
 ---
 title: "\"Rapid Capture  Sounds Alongside Images\""
-date: 2024-05-18T03:41:26.384Z
-updated: 2024-05-19T03:41:26.384Z
+date: 2024-05-19T20:09:20.339Z
+updated: 2024-05-20T20:09:20.339Z
 tags: 
   - screen-recording
   - ai video
@@ -504,4 +504,5 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6 Plus i Do? Get Answers here | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi K70E won’t play MP4 files</u></a></li>
 </ul></div>
+
 

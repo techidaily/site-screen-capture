@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expert Techniques in Game Recording via OBS"
-date: 2024-05-18T03:29:47.962Z
-updated: 2024-05-19T03:29:47.962Z
+date: 2024-05-19T20:08:54.612Z
+updated: 2024-05-20T20:08:54.612Z
 tags: 
   - screen-recording
   - ai video
@@ -423,4 +423,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-creator.techidaily.com/new-from-fcp-to-vhs-effortless-ways-to-add-retro-flair-for-2024/"><u>New From FCP to VHS Effortless Ways to Add Retro Flair for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-slideshow-with-icecream-slideshow-maker-for-2024/"><u>New How to Create a Slideshow with Icecream Slideshow Maker for 2024</u></a></li>
 </ul></div>
+
 

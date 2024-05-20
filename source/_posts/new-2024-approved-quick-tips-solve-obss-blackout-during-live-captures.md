@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Tips  Solve OBS's Blackout During Live Captures\""
-date: 2024-05-18T03:28:29.752Z
-updated: 2024-05-19T03:28:29.752Z
+date: 2024-05-19T20:08:51.662Z
+updated: 2024-05-20T20:08:51.662Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools/"><u>Updated 2024 Approved Bringing Your Nikon Videos to Life Essential Editing Skills and Tools</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic5-ultimate-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor Magic5 Ultimate?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Shine Through the Game  Fixes for Dark Capture by OBS\""
-date: 2024-05-18T03:50:42.402Z
-updated: 2024-05-19T03:50:42.402Z
+date: 2024-05-19T20:09:42.084Z
+updated: 2024-05-20T20:09:42.084Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor 70 Lite 5G</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-cloud-animators-handbook-stop-motion-software-and-more-for-2024/"><u>New The Cloud Animators Handbook Stop Motion Software and More for 2024</u></a></li>
 </ul></div>
+
 

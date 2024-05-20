@@ -935,3 +935,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://ai-video-editing.techidaily.com/updated-splitting-a-video-in-vsdc-step-by-step-for-2024/"><u>Updated Splitting a Video in VSDC Step by Step for 2024</u></a></li>
 </ul></div>
 
+

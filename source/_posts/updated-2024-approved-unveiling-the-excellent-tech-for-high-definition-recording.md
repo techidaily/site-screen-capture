@@ -813,3 +813,4 @@ Assuming you have perused our article cautiously, you might observe that most no
 <li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel A60 | Dr.fone</u></a></li>
 </ul></div>
 
+

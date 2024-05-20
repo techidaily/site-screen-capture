@@ -1,7 +1,7 @@
 ---
 title: "Communicating Confidently on Google Meet"
-date: 2024-05-18T03:29:01.597Z
-updated: 2024-05-19T03:29:01.597Z
+date: 2024-05-19T20:08:52.982Z
+updated: 2024-05-20T20:08:52.982Z
 tags: 
   - screen-recording
   - ai video
@@ -687,4 +687,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-pixel-art-generator/"><u>2024 Approved What Is AI Pixel Art Generator?</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-premium-techniques-for-integrating-audio-into-instagram-tv/"><u>New In 2024, Premium Techniques for Integrating Audio Into Instagram TV</u></a></li>
 </ul></div>
+
 

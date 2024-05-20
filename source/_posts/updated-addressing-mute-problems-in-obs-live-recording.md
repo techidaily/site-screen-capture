@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Addressing Mute Problems in OBS Live Recording"
-date: 2024-05-18T03:45:16.349Z
-updated: 2024-05-19T03:45:16.349Z
+date: 2024-05-19T20:09:30.047Z
+updated: 2024-05-20T20:09:30.047Z
 tags: 
   - screen-recording
   - ai video
@@ -576,4 +576,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://phone-solutions.techidaily.com/bypass-iphone-xr-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone XR activation lock with a professional tool</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

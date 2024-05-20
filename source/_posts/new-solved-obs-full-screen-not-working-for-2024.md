@@ -1,7 +1,7 @@
 ---
 title: "[New] [Solved] OBS Full Screen Not Working for 2024"
-date: 2024-05-18T03:53:54.157Z
-updated: 2024-05-19T03:53:54.157Z
+date: 2024-05-19T20:09:49.334Z
+updated: 2024-05-20T20:09:49.334Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://audio-shaping.techidaily.com/the-new-frontier-of-video-conversations-a-2023-guide-to-non-omegle-chat-websites/"><u>The New Frontier of Video Conversations A 2023 Guide to Non-Omegle Chat Websites</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/video-editing-on-a-budget-top-free-ubuntu-options-for-2024/"><u>Video Editing on a Budget Top Free Ubuntu Options for 2024</u></a></li>
 </ul></div>
+
 

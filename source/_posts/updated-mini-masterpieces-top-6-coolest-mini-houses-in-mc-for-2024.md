@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mini Masterpieces  Top 6 Coolest Mini-Houses in MC for 2024\""
-date: 2024-05-18T03:50:04.902Z
-updated: 2024-05-19T03:50:04.902Z
+date: 2024-05-19T20:09:40.813Z
+updated: 2024-05-20T20:09:40.813Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-beam-local-content-to-chromecast-easy-setup-for-windows-mac-android-and-ios-users/"><u>2024 Approved Beam Local Content to Chromecast Easy Setup for Windows, Mac, Android, and iOS Users</u></a></li>
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-8t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+
 

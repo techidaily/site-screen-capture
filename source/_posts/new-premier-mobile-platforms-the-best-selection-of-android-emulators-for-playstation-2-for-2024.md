@@ -568,3 +568,4 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/new-how-to-reduce-gif-size-and-best-gif-resizers/"><u>New How to Reduce GIF Size and Best GIF Resizers</u></a></li>
 </ul></div>
 
+

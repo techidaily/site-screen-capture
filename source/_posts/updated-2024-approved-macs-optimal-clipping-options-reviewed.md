@@ -280,3 +280,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/tecno-spark-20c-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Comprehensive Tutorial  Adding Timer Functionality to OBS\""
-date: 2024-05-18T03:29:56.095Z
-updated: 2024-05-19T03:29:56.095Z
+date: 2024-05-19T20:08:54.849Z
+updated: 2024-05-20T20:08:54.849Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo K11x? | Dr.fone</u></a></li>
 </ul></div>
+
 

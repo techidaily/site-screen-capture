@@ -613,3 +613,4 @@ Follow @Richard Bennett
 <li><a href="https://audio-editing.techidaily.com/2024-approved-capturing-your-computers-audio-spectrum-with-audacity/"><u>2024 Approved Capturing Your Computers Audio Spectrum with Audacity</u></a></li>
 </ul></div>
 
+

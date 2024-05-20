@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Digital Diary  The Art of Screen Recording on MacBook Air\""
-date: 2024-05-18T03:31:52.021Z
-updated: 2024-05-19T03:31:52.021Z
+date: 2024-05-19T20:08:59.280Z
+updated: 2024-05-20T20:08:59.280Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://smart-video-creator.techidaily.com/adobe-premiere-pro-essentials-20-shortcuts-to-streamline-your-workflow/"><u>Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-100-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor 100 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

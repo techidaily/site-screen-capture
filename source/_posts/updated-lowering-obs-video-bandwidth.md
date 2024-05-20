@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lowering OBS Video Bandwidth"
-date: 2024-05-18T03:41:29.101Z
-updated: 2024-05-19T03:41:29.101Z
+date: 2024-05-19T20:09:20.431Z
+updated: 2024-05-20T20:09:20.431Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-professional-grade-glitch-video-editors-top-paid-and-free-tools-for-windows-mac-and-online/"><u>2024 Approved Professional-Grade Glitch Video Editors Top Paid and Free Tools for Windows, Mac, and Online</u></a></li>
 </ul></div>
+
 

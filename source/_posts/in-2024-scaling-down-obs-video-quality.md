@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Scaling Down OBS Video Quality"
-date: 2024-05-18T03:54:36.202Z
-updated: 2024-05-19T03:54:36.202Z
+date: 2024-05-19T20:09:50.795Z
+updated: 2024-05-20T20:09:50.795Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://howto.techidaily.com/why-does-my-vivo-y02t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y02T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-c12-plus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia C12 Plus Unlock Without Password</u></a></li>
 </ul></div>
+
 

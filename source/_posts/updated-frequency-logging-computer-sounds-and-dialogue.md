@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Frequency Logging  Computer Sounds & Dialogue\""
-date: 2024-05-18T03:48:16.423Z
-updated: 2024-05-19T03:48:16.423Z
+date: 2024-05-19T20:09:36.701Z
+updated: 2024-05-20T20:09:36.701Z
 tags: 
   - screen-recording
   - ai video
@@ -770,4 +770,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://animation-videos.techidaily.com/in-2024-little-known-techniques-of-motion-graphics-in-premiere-pro/"><u>In 2024, Little Known Techniques of Motion Graphics in Premiere Pro</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-15-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 15 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
 </ul></div>
+
 

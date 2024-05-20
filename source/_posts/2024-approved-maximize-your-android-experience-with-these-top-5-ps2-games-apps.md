@@ -570,3 +570,4 @@ For macOS 10.12 or later
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor Play 40C? | Dr.fone</u></a></li>
 </ul></div>
 
+

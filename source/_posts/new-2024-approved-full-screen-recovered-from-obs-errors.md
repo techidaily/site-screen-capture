@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Full Screen Recovered From OBS Errors\""
-date: 2024-05-18T03:38:22.643Z
-updated: 2024-05-19T03:38:22.643Z
+date: 2024-05-19T20:09:13.625Z
+updated: 2024-05-20T20:09:13.625Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-se-2022ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone SE (2022)/iPad Without Computer | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nubia-z50-ultra-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nubia Z50 Ultra</u></a></li>
 </ul></div>
+
 

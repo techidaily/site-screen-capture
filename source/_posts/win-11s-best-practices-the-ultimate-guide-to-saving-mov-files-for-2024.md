@@ -641,3 +641,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo A18? | Dr.fone</u></a></li>
 </ul></div>
 
+

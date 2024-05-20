@@ -851,3 +851,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-art-of-cinematic-color-grading-in-final-cut-pro-x/"><u>2024 Approved The Art of Cinematic Color Grading in Final Cut Pro X</u></a></li>
 </ul></div>
 
+

@@ -235,3 +235,4 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://video-creation-software.techidaily.com/new-split-screen-merge-creativity-top-video-editing-apps-for-mobile-devices-for-2024/"><u>New Split Screen, Merge Creativity Top Video Editing Apps for Mobile Devices for 2024</u></a></li>
 </ul></div>
 
+

@@ -530,3 +530,4 @@ Follow @Richard Bennett
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-phantom-v-fold-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Phantom V Fold Back to Operation | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Guide to Capturing Skype Conversations on Windows/Mac for 2024"
-date: 2024-05-18T03:33:41.023Z
-updated: 2024-05-19T03:33:41.023Z
+date: 2024-05-19T20:09:03.460Z
+updated: 2024-05-20T20:09:03.460Z
 tags: 
   - screen-recording
   - ai video
@@ -617,4 +617,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android/"><u>Updated 2024 Approved Free and Fabulous Best Video Special Effects Apps for iPhone and Android</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-photos-to-film-a-beginners-guide-to-video-creation/"><u>New 2024 Approved From Photos to Film A Beginners Guide to Video Creation</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Budget-Friendly OBS Configuration Guide for 2024\""
-date: 2024-05-18T03:50:09.233Z
-updated: 2024-05-19T03:50:09.233Z
+date: 2024-05-19T20:09:40.958Z
+updated: 2024-05-20T20:09:40.958Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 10 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/motorola-razr-40-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Razr 40 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

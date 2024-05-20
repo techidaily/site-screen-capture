@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Sounds  Audacity Tutorial for Mac Users for 2024\""
-date: 2024-05-18T03:30:51.005Z
-updated: 2024-05-19T03:30:51.005Z
+date: 2024-05-19T20:08:56.818Z
+updated: 2024-05-20T20:08:56.818Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y200 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11 Pro Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

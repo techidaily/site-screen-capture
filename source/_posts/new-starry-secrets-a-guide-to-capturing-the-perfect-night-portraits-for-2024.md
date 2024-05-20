@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starry Secrets  A Guide to Capturing the Perfect Night Portraits for 2024\""
-date: 2024-05-18T03:50:19.476Z
-updated: 2024-05-19T03:50:19.476Z
+date: 2024-05-19T20:09:41.312Z
+updated: 2024-05-20T20:09:41.312Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-10-best-free-dvd-players-for-windows-10-2023-updated/"><u>New In 2024, 10 Best Free DVD Players for Windows 10 2023 Updated</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-top-10-free-online-subtitle-creators/"><u>New 2024 Approved The Top 10 Free Online Subtitle Creators</u></a></li>
 </ul></div>
+
 

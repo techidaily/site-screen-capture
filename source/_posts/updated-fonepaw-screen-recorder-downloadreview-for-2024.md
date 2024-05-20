@@ -325,3 +325,4 @@ FonePaw Screen Recorder Mac and Windows is good enough for regular screen record
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-10c-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 10C Safely | Dr.fone</u></a></li>
 </ul></div>
 
+

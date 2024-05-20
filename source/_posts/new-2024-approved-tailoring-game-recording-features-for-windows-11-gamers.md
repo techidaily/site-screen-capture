@@ -441,3 +441,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-y200-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Y200</u></a></li>
 </ul></div>
 
+

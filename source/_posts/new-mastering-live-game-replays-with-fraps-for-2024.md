@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Live Game Replays with Fraps for 2024"
-date: 2024-05-18T03:51:01.538Z
-updated: 2024-05-19T03:51:01.538Z
+date: 2024-05-19T20:09:42.710Z
+updated: 2024-05-20T20:09:42.710Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y27 5G Phone Without Password?</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-motorola-razr-40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Razr 40 Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

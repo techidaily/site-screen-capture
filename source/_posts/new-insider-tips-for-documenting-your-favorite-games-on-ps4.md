@@ -1,7 +1,7 @@
 ---
 title: "[New] Insider Tips for Documenting Your Favorite Games on PS4"
-date: 2024-05-18T03:30:22.029Z
-updated: 2024-05-19T03:30:22.029Z
+date: 2024-05-19T20:08:55.721Z
+updated: 2024-05-20T20:08:55.721Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-detailed-guide-to-crop-videos-in-sony-vegas-pro/"><u>Updated In 2024, Detailed Guide to Crop Videos in Sony Vegas Pro</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-prevent-dynamic-volume-reduction-by-apps-on-iphone/"><u>Updated Prevent Dynamic Volume Reduction by Apps on iPhone</u></a></li>
 </ul></div>
+
 

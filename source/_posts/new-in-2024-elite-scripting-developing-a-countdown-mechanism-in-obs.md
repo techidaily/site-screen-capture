@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Elite Scripting  Developing a Countdown Mechanism in OBS\""
-date: 2024-05-18T03:40:33.846Z
-updated: 2024-05-19T03:40:33.846Z
+date: 2024-05-19T20:09:18.516Z
+updated: 2024-05-20T20:09:18.516Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-tools.techidaily.com/new-you-have-a-chromebook-and-want-to-edit-videos-but-are-not-sure-which-video-editor-works-on-chromebook-perfectly-dont-worry-here-is-a-list-of-the-best-vi/"><u>New You Have a Chromebook and Want to Edit Videos but Are Not Sure Which Video Editor Works on Chromebook Perfectly? Dont Worry, Here Is a List of the Best Video Editors for Chromebook for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-integrating-lame-library-into-audacity-for-advanced-audio-editing-for-2024/"><u>Updated Integrating Lame Library Into Audacity for Advanced Audio Editing for 2024</u></a></li>
 </ul></div>
+
 

@@ -418,3 +418,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-no-sound-in-avidemux-dont-worry-weve-got-you-covered/"><u>New 2024 Approved No Sound in Avidemux? Dont Worry, Weve Got You Covered</u></a></li>
 </ul></div>
 
+

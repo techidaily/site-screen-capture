@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Video Presentation in Adobe Captivate"
-date: 2024-05-18T03:36:42.438Z
-updated: 2024-05-19T03:36:42.438Z
+date: 2024-05-19T20:09:09.798Z
+updated: 2024-05-20T20:09:09.798Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-free-subtitle-makers-online/"><u>Updated 2024 Approved Best Free Subtitle Makers Online</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-fcpx-training-hub-top-channels-sites-and-resources/"><u>New The FCPX Training Hub Top Channels, Sites, and Resources</u></a></li>
 </ul></div>
+
 

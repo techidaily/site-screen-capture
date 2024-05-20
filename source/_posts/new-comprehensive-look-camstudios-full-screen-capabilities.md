@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Comprehensive Look  CamStudio's Full Screen Capabilities\""
-date: 2024-05-18T03:47:19.685Z
-updated: 2024-05-19T03:47:19.685Z
+date: 2024-05-19T20:09:34.630Z
+updated: 2024-05-20T20:09:34.630Z
 tags: 
   - screen-recording
   - ai video
@@ -204,4 +204,5 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone SE (2020)</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Xiaomi Redmi 12 5G</u></a></li>
 </ul></div>
+
 

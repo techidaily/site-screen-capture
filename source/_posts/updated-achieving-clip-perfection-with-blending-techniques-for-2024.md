@@ -468,3 +468,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/popular-tips-on-learning-animate-rigging/"><u>Popular Tips on Learning Animate Rigging</u></a></li>
 </ul></div>
 
+

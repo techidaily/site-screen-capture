@@ -494,3 +494,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 6s? | Dr.fone</u></a></li>
 </ul></div>
 
+

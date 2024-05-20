@@ -1,7 +1,7 @@
 ---
 title: "\"Capture Gaming Sessions in HD - Using OBS\""
-date: 2024-05-18T03:48:30.141Z
-updated: 2024-05-19T03:48:30.141Z
+date: 2024-05-19T20:09:37.289Z
+updated: 2024-05-20T20:09:37.289Z
 tags: 
   - screen-recording
   - ai video
@@ -407,4 +407,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-10-best-podcast-recording-software-free-options-included/"><u>New 2024 Approved 10 Best Podcast Recording Software Free Options Included</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-5-leading-whiteboard-animation-makers-for-stunning-hand-drawn-content/"><u>New In 2024, 5 Leading Whiteboard Animation Makers for Stunning Hand-Drawn Content</u></a></li>
 </ul></div>
+
 

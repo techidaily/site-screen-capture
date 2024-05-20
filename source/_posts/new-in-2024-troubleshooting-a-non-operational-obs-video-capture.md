@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Troubleshooting a Non-Operational OBS Video Capture\""
-date: 2024-05-18T03:50:52.133Z
-updated: 2024-05-19T03:50:52.133Z
+date: 2024-05-19T20:09:42.394Z
+updated: 2024-05-20T20:09:42.394Z
 tags: 
   - screen-recording
   - ai video
@@ -301,4 +301,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>New In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-add-emojis-to-videos-on-youtubefacebooksnapchat-step-by-step-guide-for-2024/"><u>Updated Add Emojis to Videos on YouTube/Facebook/Snapchat Step by Step Guide for 2024</u></a></li>
 </ul></div>
+
 

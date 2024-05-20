@@ -491,3 +491,4 @@ TinyTake is not difficult to utilize screen catch and recorder, which you can us
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel A05s | Dr.fone</u></a></li>
 </ul></div>
 
+

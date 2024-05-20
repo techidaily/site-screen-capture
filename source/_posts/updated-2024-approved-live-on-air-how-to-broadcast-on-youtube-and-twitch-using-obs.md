@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-05-18T03:43:23.878Z
-updated: 2024-05-19T03:43:23.878Z
+date: 2024-05-19T20:09:25.668Z
+updated: 2024-05-20T20:09:25.668Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 Pro to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-gt-5-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme GT 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

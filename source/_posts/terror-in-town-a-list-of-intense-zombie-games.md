@@ -1,7 +1,7 @@
 ---
 title: "\"Terror in Town  A List of Intense Zombie Games\""
-date: 2024-05-18T03:33:07.599Z
-updated: 2024-05-19T03:33:07.599Z
+date: 2024-05-19T20:09:01.952Z
+updated: 2024-05-20T20:09:01.952Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://ai-vdieo-software.techidaily.com/looking-beyond-vegas-pro-discover-the-best-mac-video-editing-alternatives/"><u>Looking Beyond Vegas Pro? Discover the Best Mac Video Editing Alternatives</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-oppo-reno-11-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo Reno 11 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

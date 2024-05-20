@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, FBX for the Aspiring Gamer Filmmaker"
-date: 2024-05-18T03:52:27.748Z
-updated: 2024-05-19T03:52:27.748Z
+date: 2024-05-19T20:09:45.997Z
+updated: 2024-05-20T20:09:45.997Z
 tags: 
   - screen-recording
   - ai video
@@ -547,4 +547,5 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://video-ai-editor.techidaily.com/new-vn-video-editor-app-review-is-it-worth-the-download-in-2024/"><u>New VN Video Editor App Review Is It Worth the Download, In 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo A59 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -386,3 +386,4 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/new-mastering-the-art-of-syncing-sound-and-imagery/"><u>New Mastering the Art of Syncing Sound and Imagery</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced Setup  Setting up an Elapsed Time Display in OBS\""
-date: 2024-05-18T03:49:47.622Z
-updated: 2024-05-19T03:49:47.622Z
+date: 2024-05-19T20:09:40.170Z
+updated: 2024-05-20T20:09:40.170Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-note-12-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi Note 12 5G Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/1714274535234-updated-2024-approved-no-budget-no-problem-top-free-4k-video-editors/"><u>Updated 2024 Approved No Budget? No Problem! Top Free 4K Video Editors</u></a></li>
 </ul></div>
+
 

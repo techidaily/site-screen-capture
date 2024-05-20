@@ -929,3 +929,4 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-mastering-the-ken-burns-effect-a-step-by-step-guide/"><u>New In 2024, Mastering the Ken Burns Effect A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

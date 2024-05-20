@@ -1,7 +1,7 @@
 ---
 title: "[New] Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite for 2024"
-date: 2024-05-18T03:46:12.845Z
-updated: 2024-05-19T03:46:12.845Z
+date: 2024-05-19T20:09:32.056Z
+updated: 2024-05-20T20:09:32.056Z
 tags: 
   - screen-recording
   - ai video
@@ -574,4 +574,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-g310-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia G310 FRP Without Computer</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-perfectly-use-the-audio-mixer-in-filmora/"><u>New Perfectly Use the Audio Mixer in Filmora</u></a></li>
 </ul></div>
+
 

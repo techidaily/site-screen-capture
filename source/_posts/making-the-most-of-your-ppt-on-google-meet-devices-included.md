@@ -668,3 +668,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-subtitles-in-canva/"><u>Updated How to Add Subtitles in Canva?</u></a></li>
 </ul></div>
 
+

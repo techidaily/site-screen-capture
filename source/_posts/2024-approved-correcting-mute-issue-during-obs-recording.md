@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Correcting Mute Issue During OBS Recording\""
-date: 2024-05-18T03:34:11.587Z
-updated: 2024-05-19T03:34:11.587Z
+date: 2024-05-19T20:09:04.456Z
+updated: 2024-05-20T20:09:04.456Z
 tags: 
   - screen-recording
   - ai video
@@ -557,4 +557,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-shaping.techidaily.com/new-the-silent-song-methods-to-extract-and-remove-vocal-tracks-from-audio-sequences-in-audacity/"><u>New The Silent Song Methods to Extract and Remove Vocal Tracks From Audio Sequences in Audacity</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/elevate-your-audio-output-with-incremental-vocal-tweaks-on-audacity-for-2024/"><u>Elevate Your Audio Output with Incremental Vocal Tweaks on Audacity for 2024</u></a></li>
 </ul></div>
+
 

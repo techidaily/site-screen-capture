@@ -174,3 +174,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://smart-video-creator.techidaily.com/motion-tracking-for-text-the-top-software-choices/"><u>Motion Tracking for Text The Top Software Choices</u></a></li>
 </ul></div>
 
+

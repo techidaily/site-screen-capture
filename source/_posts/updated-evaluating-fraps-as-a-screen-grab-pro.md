@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Evaluating Fraps as a Screen Grab Pro"
-date: 2024-05-18T03:45:13.364Z
-updated: 2024-05-19T03:45:13.364Z
+date: 2024-05-19T20:09:29.951Z
+updated: 2024-05-20T20:09:29.951Z
 tags: 
   - screen-recording
   - ai video
@@ -372,4 +372,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-x6-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco X6 Pro</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/how-to-add-audio-to-video-in-android/"><u>How to Add Audio to Video in Android</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Foundations of Video Editing in the Gaming World\""
-date: 2024-05-18T03:45:40.109Z
-updated: 2024-05-19T03:45:40.109Z
+date: 2024-05-19T20:09:30.850Z
+updated: 2024-05-20T20:09:30.850Z
 tags: 
   - screen-recording
   - ai video
@@ -863,4 +863,5 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-os-x-mavericks-video-editing-tutorial-from-basics-to-advanced/"><u>Updated In 2024, OS X Mavericks Video Editing Tutorial From Basics to Advanced</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 90 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

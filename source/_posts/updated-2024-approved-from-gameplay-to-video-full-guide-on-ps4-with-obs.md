@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Gameplay to Video  Full Guide on PS4 with OBS\""
-date: 2024-05-18T03:44:51.357Z
-updated: 2024-05-19T03:44:51.357Z
+date: 2024-05-19T20:09:29.203Z
+updated: 2024-05-20T20:09:29.203Z
 tags: 
   - screen-recording
   - ai video
@@ -400,4 +400,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor X50i | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-list-slow-motion-video-editing-solutions-for-2024/"><u>New The Ultimate List Slow Motion Video Editing Solutions for 2024</u></a></li>
 </ul></div>
+
 

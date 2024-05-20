@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fraps  Revolutionizing Gamer's Screen Recording\""
-date: 2024-05-18T03:39:09.041Z
-updated: 2024-05-19T03:39:09.041Z
+date: 2024-05-19T20:09:15.234Z
+updated: 2024-05-20T20:09:15.234Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-apply-professional-looking-color-grading-on-your-iphones-photos-and-videos-you-can-use-different-iphone-luts-for-your-pictures-and-videos/"><u>New Do You Want to Apply Professional-Looking Color Grading on Your iPhones Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-avidemux-audio-fix-expert-solutions-for-common-issues/"><u>New Avidemux Audio Fix Expert Solutions for Common Issues</u></a></li>
 </ul></div>
+
 

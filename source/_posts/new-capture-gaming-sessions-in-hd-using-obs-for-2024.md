@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture Gaming Sessions in HD - Using OBS for 2024\""
-date: 2024-05-18T03:52:36.882Z
-updated: 2024-05-19T03:52:36.882Z
+date: 2024-05-19T20:09:46.382Z
+updated: 2024-05-20T20:09:46.382Z
 tags: 
   - screen-recording
   - ai video
@@ -391,4 +391,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y02T? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 6s Plus?</u></a></li>
 </ul></div>
+
 

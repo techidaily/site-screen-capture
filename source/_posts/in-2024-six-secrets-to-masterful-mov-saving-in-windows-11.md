@@ -649,3 +649,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to make a digital signature for .xls files</u></a></li>
 </ul></div>
 
+

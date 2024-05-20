@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Tips to Restore Functionality in Frozen OBS Screen\""
-date: 2024-05-18T03:28:32.430Z
-updated: 2024-05-19T03:28:32.430Z
+date: 2024-05-19T20:08:51.775Z
+updated: 2024-05-20T20:08:51.775Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-lava-blaze-2-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Lava Blaze 2.</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-g24-power-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola G24 Power FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

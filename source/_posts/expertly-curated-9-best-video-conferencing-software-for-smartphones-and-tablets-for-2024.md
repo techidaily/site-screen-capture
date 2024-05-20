@@ -1,7 +1,7 @@
 ---
 title: "Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets for 2024"
-date: 2024-05-18T03:42:24.738Z
-updated: 2024-05-19T03:42:24.738Z
+date: 2024-05-19T20:09:22.428Z
+updated: 2024-05-20T20:09:22.428Z
 tags: 
   - screen-recording
   - ai video
@@ -770,4 +770,5 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-10plus-slow-motion-video-editing-software/"><u>New In 2024, Top 10+ Slow Motion Video Editing Software</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-top-8-dictation-software-for-windows-mac-and-online/"><u>New Top 8 Dictation Software for Windows, Mac, and Online</u></a></li>
 </ul></div>
+
 

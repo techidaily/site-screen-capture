@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS Capture Directly on Instagram\""
-date: 2024-05-18T03:30:07.370Z
-updated: 2024-05-19T03:30:07.370Z
+date: 2024-05-19T20:08:55.220Z
+updated: 2024-05-20T20:08:55.220Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-an-insightful-guide-to-determining-best-practices-for-audio-format-selection/"><u>Updated In 2024, An Insightful Guide to Determining Best Practices for Audio Format Selection</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-s-log-is-a-gamma-curve-optimized-for-digital-cameras-to-maximize-the-image-sensors-performance-although-these-videos-may-look-flat-and-washed-out-th/"><u>Updated S-Log Is a Gamma Curve Optimized for Digital Cameras to Maximize the Image Sensors Performance. Although These Videos May Look Flat and Washed Out, They Contain Lots of Color Information</u></a></li>
 </ul></div>
+
 

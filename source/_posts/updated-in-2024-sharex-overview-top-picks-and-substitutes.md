@@ -281,3 +281,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://techidaily.com/repair-corrupt-pdf-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF File using PDF Repair Tool</u></a></li>
 </ul></div>
 
+

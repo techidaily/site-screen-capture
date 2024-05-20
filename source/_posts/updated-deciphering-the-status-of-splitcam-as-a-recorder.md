@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Deciphering the Status of SplitCam as a Recorder"
-date: 2024-05-18T03:32:40.206Z
-updated: 2024-05-19T03:32:40.206Z
+date: 2024-05-19T20:09:00.972Z
+updated: 2024-05-20T20:09:00.972Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-8t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 8T FRP Bypass</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y77t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y77t in Minutes | Dr.fone</u></a></li>
 </ul></div>
+
 

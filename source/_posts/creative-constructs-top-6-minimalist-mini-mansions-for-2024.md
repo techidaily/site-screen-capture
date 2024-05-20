@@ -1,7 +1,7 @@
 ---
 title: "\"Creative Constructs  Top 6 Minimalist Mini-Mansions for 2024\""
-date: 2024-05-18T03:37:45.497Z
-updated: 2024-05-19T03:37:45.497Z
+date: 2024-05-19T20:09:11.978Z
+updated: 2024-05-20T20:09:11.978Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/1713948837040-new-as-a-designer-color-is-the-most-powerful-and-the-most-diverse-tool-at-your-disposal-here-are-ten-matching-color-combinations-to-get-you-started-on-your-/"><u>New As a Designer, Color Is the Most Powerful and the Most Diverse Tool at Your Disposal. Here Are Ten Matching Color Combinations to Get You Started on Your Next Project</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Updated 2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
 </ul></div>
+
 

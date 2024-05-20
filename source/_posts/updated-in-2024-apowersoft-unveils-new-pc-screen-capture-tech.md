@@ -605,3 +605,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://ai-vdieo-software.techidaily.com/high-definition-video-made-easy-a-beginners-guide-to-pixel-size/"><u>High-Definition Video Made Easy A Beginners Guide to Pixel Size</u></a></li>
 </ul></div>
 
+

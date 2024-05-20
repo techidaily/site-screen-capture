@@ -266,3 +266,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://ai-video-apps.techidaily.com/new-windows-live-movie-maker-tutorial-splitting-videos-made-easy/"><u>New Windows Live Movie Maker Tutorial Splitting Videos Made Easy</u></a></li>
 </ul></div>
 
+

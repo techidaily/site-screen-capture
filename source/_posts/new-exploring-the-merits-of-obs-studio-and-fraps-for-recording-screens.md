@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Merits of OBS Studio & Fraps for Recording Screens"
-date: 2024-05-18T03:30:03.077Z
-updated: 2024-05-19T03:30:03.077Z
+date: 2024-05-19T20:08:55.082Z
+updated: 2024-05-20T20:08:55.082Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-rated-free-divx-video-editors-with-cutting-features/"><u>Updated In 2024, Top-Rated Free Divx Video Editors with Cutting Features</u></a></li>
 </ul></div>
+
 

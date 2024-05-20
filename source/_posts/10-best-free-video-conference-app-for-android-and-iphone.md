@@ -769,3 +769,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/the-fcpx-shortcut-bible-40-essential-commands-to-know/"><u>The FCPX Shortcut Bible 40 Essential Commands to Know</u></a></li>
 </ul></div>
 
+

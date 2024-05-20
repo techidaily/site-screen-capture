@@ -421,3 +421,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-c67-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme C67 4G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

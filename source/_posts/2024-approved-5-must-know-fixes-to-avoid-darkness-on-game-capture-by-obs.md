@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS\""
-date: 2024-05-18T03:53:18.755Z
-updated: 2024-05-19T03:53:18.755Z
+date: 2024-05-19T20:09:48.077Z
+updated: 2024-05-20T20:09:48.077Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-optimizing.techidaily.com/updated-best-recommendations-for-music-video-editors/"><u>Updated Best Recommendations for Music Video Editors</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-sound-scourge-methods-for-eradicating-irrelevant-audio-noise-in-productions/"><u>New 2024 Approved The Sound Scourge Methods for Eradicating Irrelevant Audio Noise in Productions</u></a></li>
 </ul></div>
+
 

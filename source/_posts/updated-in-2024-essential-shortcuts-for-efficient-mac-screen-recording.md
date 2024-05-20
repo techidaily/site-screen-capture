@@ -420,3 +420,4 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

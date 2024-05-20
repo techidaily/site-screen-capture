@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Step-by-Step  Full PS4 Game Recording in OBS Studio\""
-date: 2024-05-18T03:36:09.319Z
-updated: 2024-05-19T03:36:09.319Z
+date: 2024-05-19T20:09:08.745Z
+updated: 2024-05-20T20:09:08.745Z
 tags: 
   - screen-recording
   - ai video
@@ -393,4 +393,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unleash-the-power-of-fcp-advanced-audio-editing-techniques/"><u>New In 2024, Unleash the Power of FCP Advanced Audio Editing Techniques</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/effortless-video-editing-how-to-change-aspect-ratios-quickly-for-2024/"><u>Effortless Video Editing How to Change Aspect Ratios Quickly for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Limiting Bitrate Overshoot in OBS"
-date: 2024-05-18T03:49:11.254Z
-updated: 2024-05-19T03:49:11.254Z
+date: 2024-05-19T20:09:38.933Z
+updated: 2024-05-20T20:09:38.933Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://audio-editing.techidaily.com/updated-skys-acoustics-a-selection-of-bird-songs-for-digital-listening-for-2024/"><u>Updated Skys Acoustics - A Selection of Bird Songs for Digital Listening for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a15-4g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A15 4G to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+
 

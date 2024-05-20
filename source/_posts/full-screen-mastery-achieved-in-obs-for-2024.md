@@ -1,7 +1,7 @@
 ---
 title: "Full Screen Mastery Achieved in Obs for 2024"
-date: 2024-05-18T03:29:17.101Z
-updated: 2024-05-19T03:29:17.101Z
+date: 2024-05-19T20:08:53.492Z
+updated: 2024-05-20T20:08:53.492Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi A2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-where-to-download-high-quality-mp3s-of-purring-animals/"><u>In 2024, Where to Download High-Quality MP3s of Purring Animals</u></a></li>
 </ul></div>
+
 

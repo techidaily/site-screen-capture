@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Camtasia  Ken Burns Technique Unveiled\""
-date: 2024-05-18T03:32:25.437Z
-updated: 2024-05-19T03:32:25.437Z
+date: 2024-05-19T20:09:00.424Z
+updated: 2024-05-20T20:09:00.424Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Huawei Nova Y71 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x7b-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X7b to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

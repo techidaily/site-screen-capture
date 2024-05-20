@@ -1,7 +1,7 @@
 ---
 title: "Quick & Easy IPhone Screen Recording Tutorial"
-date: 2024-05-18T03:49:55.993Z
-updated: 2024-05-19T03:49:55.993Z
+date: 2024-05-19T20:09:40.487Z
+updated: 2024-05-20T20:09:40.487Z
 tags: 
   - screen-recording
   - ai video
@@ -555,4 +555,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-f54-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy F54 5G? Fixed | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-stunning-glitch-effect-and-its-creation-steps-for-premiere-pro/"><u>New 2024 Approved Stunning Glitch Effect and Its Creation Steps for Premiere Pro</u></a></li>
 </ul></div>
+
 

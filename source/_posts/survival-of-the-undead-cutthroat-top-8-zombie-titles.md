@@ -1,7 +1,7 @@
 ---
 title: "\"Survival of the Undead  Cutthroat Top 8 Zombie Titles\""
-date: 2024-05-18T03:46:13.917Z
-updated: 2024-05-19T03:46:13.917Z
+date: 2024-05-19T20:09:32.103Z
+updated: 2024-05-20T20:09:32.103Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://sound-tweaking.techidaily.com/updated-top-5-mp3-cutters-online/"><u>Updated Top 5 MP3 Cutters Online</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/resize-crop-and-optimize-mastering-linkedin-video-thumbnails-for-2024/"><u>Resize, Crop, and Optimize Mastering LinkedIn Video Thumbnails for 2024</u></a></li>
 </ul></div>
+
 

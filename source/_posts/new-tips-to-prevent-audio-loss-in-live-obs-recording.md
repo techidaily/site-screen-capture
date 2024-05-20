@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips to Prevent Audio Loss in Live OBS Recording"
-date: 2024-05-18T03:47:05.926Z
-updated: 2024-05-19T03:47:05.926Z
+date: 2024-05-19T20:09:34.175Z
+updated: 2024-05-20T20:09:34.175Z
 tags: 
   - screen-recording
   - ai video
@@ -556,4 +556,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-the-best-of-the-best-top-8-video-animation-apps-for-android-ios-and-ipad/"><u>2024 Approved The Best of the Best Top 8 Video Animation Apps for Android, iOS, and iPad</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C210 FRP</u></a></li>
 </ul></div>
+
 

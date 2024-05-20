@@ -1,7 +1,7 @@
 ---
 title: "\"Miniature Homes  Japanese & Chinese Inspirations for 2024\""
-date: 2024-05-18T03:51:25.462Z
-updated: 2024-05-19T03:51:25.462Z
+date: 2024-05-19T20:09:43.828Z
+updated: 2024-05-20T20:09:43.828Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y02t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y02T Phone without Any Data Loss</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/a-guide-to-effective-video-marketing-for-2024/"><u>A Guide to Effective Video Marketing for 2024</u></a></li>
 </ul></div>
+
 

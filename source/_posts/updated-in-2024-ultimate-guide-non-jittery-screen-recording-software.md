@@ -656,3 +656,4 @@ You may choose any of these recorders from the list above to help you capture HD
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Smart 7 HD.</u></a></li>
 </ul></div>
 
+

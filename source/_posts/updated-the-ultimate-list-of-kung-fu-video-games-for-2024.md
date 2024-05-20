@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate List of Kung Fu Video Games for 2024"
-date: 2024-05-18T03:42:54.893Z
-updated: 2024-05-19T03:42:54.893Z
+date: 2024-05-19T20:09:24.603Z
+updated: 2024-05-20T20:09:24.604Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/undelete-lost-messages-from-realme-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-effortless-video-editing-how-to-split-and-merge-clips-in-windows-live-movie-maker-for-2024/"><u>New Effortless Video Editing How to Split and Merge Clips in Windows Live Movie Maker for 2024</u></a></li>
 </ul></div>
+
 

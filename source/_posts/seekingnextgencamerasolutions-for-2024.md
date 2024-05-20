@@ -236,3 +236,4 @@ If you want to record your webcam video, MyCam serves the purpose perfectly. But
 <li><a href="https://ai-video-editing.techidaily.com/featuring-the-use-of-camera-shake-in-creating-the-best-videos/"><u>Featuring The Use of Camera Shake in Creating the Best Videos</u></a></li>
 </ul></div>
 
+

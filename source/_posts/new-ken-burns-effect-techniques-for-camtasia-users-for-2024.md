@@ -1,7 +1,7 @@
 ---
 title: "[New] Ken Burns Effect Techniques for Camtasia Users for 2024"
-date: 2024-05-18T03:47:40.124Z
-updated: 2024-05-19T03:47:40.124Z
+date: 2024-05-19T20:09:35.369Z
+updated: 2024-05-20T20:09:35.369Z
 tags: 
   - screen-recording
   - ai video
@@ -356,4 +356,5 @@ Follow @Max Wales
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C33 2023 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-blaze-curve-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Blaze Curve 5G FRP</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Making the Most of Your Phone's Camera in Video Production for 2024"
-date: 2024-05-18T03:44:14.812Z
-updated: 2024-05-19T03:44:14.812Z
+date: 2024-05-19T20:09:28.033Z
+updated: 2024-05-20T20:09:28.033Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-voicing-the-future-on-a-budget-the-free-high-impact-online-platforms-leading-the-change/"><u>2024 Approved Voicing the Future on a Budget The Free, High-Impact Online Platforms Leading the Change</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

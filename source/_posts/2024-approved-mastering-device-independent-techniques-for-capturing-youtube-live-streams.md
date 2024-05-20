@@ -468,3 +468,4 @@ Recording anyone’s live stream video on YouTube should no more be an issue on 
 <li><a href="https://sound-tweaking.techidaily.com/new-show-audio-waveform-and-add-waveform-animation-in-premiere-protutor/"><u>New Show Audio Waveform and Add Waveform Animation in Premiere ProTutor</u></a></li>
 </ul></div>
 
+

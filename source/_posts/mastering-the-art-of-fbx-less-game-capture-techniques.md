@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Art of FBX-Less Game Capture Techniques\""
-date: 2024-05-18T03:38:14.824Z
-updated: 2024-05-19T03:38:14.824Z
+date: 2024-05-19T20:09:13.382Z
+updated: 2024-05-20T20:09:13.382Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ If you are facing FBX recorder not working issue or you are not satisfied with t
 <li><a href="https://fix-guide.techidaily.com/lava-blaze-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-learn-how-to-make-your-characters-interactive-in-unity-animation-rigging/"><u>New In 2024, Learn How to Make Your Characters Interactive in Unity Animation Rigging</u></a></li>
 </ul></div>
+
 

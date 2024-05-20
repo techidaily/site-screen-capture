@@ -651,3 +651,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

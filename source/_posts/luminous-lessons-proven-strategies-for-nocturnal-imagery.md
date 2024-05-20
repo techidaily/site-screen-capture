@@ -171,3 +171,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y78t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y78t Safely | Dr.fone</u></a></li>
 </ul></div>
 
+

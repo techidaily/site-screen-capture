@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  PS4 Broadcasting Basics with a Focus on OBS Integration\""
-date: 2024-05-18T03:31:30.629Z
-updated: 2024-05-19T03:31:30.629Z
+date: 2024-05-19T20:08:58.520Z
+updated: 2024-05-20T20:08:58.520Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo V27 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
+
 

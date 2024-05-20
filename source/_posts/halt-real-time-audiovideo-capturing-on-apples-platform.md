@@ -1,7 +1,7 @@
 ---
 title: "\"Halt Real-Time Audio/Video Capturing on Apple's Platform\""
-date: 2024-05-18T03:36:01.499Z
-updated: 2024-05-19T03:36:01.499Z
+date: 2024-05-19T20:09:08.479Z
+updated: 2024-05-20T20:09:08.479Z
 tags: 
   - screen-recording
   - ai video
@@ -431,4 +431,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-a24-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy A24 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-game-downloads-the-top-10-websites-you-need-to-know/"><u>Updated 2024 Approved Free Game Downloads The Top 10 Websites You Need to Know</u></a></li>
 </ul></div>
+
 

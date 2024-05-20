@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Adding Panoramic Movement  A Camtasa Guide to Ken Burns\""
-date: 2024-05-18T03:38:49.656Z
-updated: 2024-05-19T03:38:49.656Z
+date: 2024-05-19T20:09:14.575Z
+updated: 2024-05-20T20:09:14.575Z
 tags: 
   - screen-recording
   - ai video
@@ -352,4 +352,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-beginner-to-pro-a-step-by-step-guide-to-choosing-an-aiff-converter/"><u>Updated In 2024, From Beginner to Pro A Step-by-Step Guide to Choosing an AIFF Converter</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-m14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy M14 5G Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

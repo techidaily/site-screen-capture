@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Solving OBS Fullscreen Glitches"
-date: 2024-05-18T03:46:58.372Z
-updated: 2024-05-19T03:46:58.372Z
+date: 2024-05-19T20:09:33.891Z
+updated: 2024-05-20T20:09:33.891Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sound-tweaking.techidaily.com/the-updated-guide-to-video-audio-integration-for-filmmakers/"><u>The Updated Guide to Video-Audio Integration for Filmmakers</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-omegle-reinstated-guide-to-regaining-profile-approval-status/"><u>2024 Approved Omegle Reinstated Guide to Regaining Profile Approval Status</u></a></li>
 </ul></div>
+
 

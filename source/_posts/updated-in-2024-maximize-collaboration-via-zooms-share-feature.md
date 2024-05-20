@@ -563,3 +563,4 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi 12?</u></a></li>
 </ul></div>
 
+

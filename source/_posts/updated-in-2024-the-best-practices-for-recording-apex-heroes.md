@@ -490,3 +490,4 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Note 30 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

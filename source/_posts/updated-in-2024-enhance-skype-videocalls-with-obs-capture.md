@@ -339,3 +339,4 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://audio-editing.techidaily.com/updated-perfecting-the-sound-the-process-of-equalizing-audio-in-davinci-resolve/"><u>Updated Perfecting the Sound The Process of Equalizing Audio in DaVinci Resolve</u></a></li>
 </ul></div>
 
+

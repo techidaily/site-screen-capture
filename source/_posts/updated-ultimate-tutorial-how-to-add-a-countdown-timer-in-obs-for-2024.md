@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Tutorial  How To Add a Countdown Timer in OBS for 2024\""
-date: 2024-05-18T03:30:18.498Z
-updated: 2024-05-19T03:30:18.498Z
+date: 2024-05-19T20:08:55.589Z
+updated: 2024-05-20T20:08:55.589Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-resize-your-video-in-minutes-a-quick-fix-for-2024/"><u>Updated Resize Your Video in Minutes A Quick Fix for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-poco-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Poco X6 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

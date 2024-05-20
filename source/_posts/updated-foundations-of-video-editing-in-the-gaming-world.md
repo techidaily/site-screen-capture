@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Foundations of Video Editing in the Gaming World"
-date: 2024-05-18T03:41:07.086Z
-updated: 2024-05-19T03:41:07.086Z
+date: 2024-05-19T20:09:19.651Z
+updated: 2024-05-20T20:09:19.651Z
 tags: 
   - screen-recording
   - ai video
@@ -892,4 +892,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-se-2020-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone SE (2020) Parental Restrictions With/Without Password | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-10-realistic-cartoon-characters-you-would-run-away-from-if-you-met-in-real-life/"><u>Updated 2024 Approved 10 Realistic Cartoon Characters You Would Run Away From if You Met in Real Life</u></a></li>
 </ul></div>
+
 

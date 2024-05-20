@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Xiaomi Mi 11  A Guide to Screen Recording Pro\""
-date: 2024-05-18T03:34:57.720Z
-updated: 2024-05-19T03:34:57.720Z
+date: 2024-05-19T20:09:05.972Z
+updated: 2024-05-20T20:09:05.972Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel A60 PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/avs-video-editor-is-only-available-on-windows-you-need-to-get-avs-video-editor-alternative-for-mac/"><u>AVS Video Editor Is only Available on Windows, You Need to Get AVS Video Editor Alternative for Mac</u></a></li>
 </ul></div>
+
 

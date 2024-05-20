@@ -488,3 +488,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/updated-videdit-mac/"><u>Updated VidEdit Mac</u></a></li>
 </ul></div>
 
+

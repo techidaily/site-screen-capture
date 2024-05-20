@@ -185,3 +185,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://audio-shaping.techidaily.com/integrating-sound-into-imovie-projects-for-complete-novices/"><u>Integrating Sound Into iMovie Projects For Complete Novices</u></a></li>
 </ul></div>
 
+

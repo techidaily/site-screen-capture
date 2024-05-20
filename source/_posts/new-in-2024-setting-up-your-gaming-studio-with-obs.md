@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Setting Up Your Gaming Studio with OBS"
-date: 2024-05-18T03:33:27.998Z
-updated: 2024-05-19T03:33:27.998Z
+date: 2024-05-19T20:09:03.014Z
+updated: 2024-05-20T20:09:03.014Z
 tags: 
   - screen-recording
   - ai video
@@ -413,4 +413,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-editing.techidaily.com/new-get-professional-results-for-free-top-10-webm-video-editors-for-2024/"><u>New Get Professional Results for Free Top 10 WebM Video Editors for 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-trim-videos-online-for-free-10-best-websites-and-tools/"><u>New 2024 Approved Trim Videos Online for Free 10 Best Websites and Tools</u></a></li>
 </ul></div>
+
 

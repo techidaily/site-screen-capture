@@ -349,3 +349,4 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://fix-guide.techidaily.com/lava-yuva-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

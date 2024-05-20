@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values\""
-date: 2024-05-18T03:37:06.315Z
-updated: 2024-05-19T03:37:06.315Z
+date: 2024-05-19T20:09:10.624Z
+updated: 2024-05-20T20:09:10.624Z
 tags: 
   - screen-recording
   - ai video
@@ -621,4 +621,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Moto G04 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-play-40c-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor Play 40C Device SIM</u></a></li>
 </ul></div>
+
 

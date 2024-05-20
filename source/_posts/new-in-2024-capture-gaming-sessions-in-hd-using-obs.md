@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capture Gaming Sessions in HD - Using OBS\""
-date: 2024-05-18T03:39:46.984Z
-updated: 2024-05-19T03:39:46.984Z
+date: 2024-05-19T20:09:16.473Z
+updated: 2024-05-20T20:09:16.473Z
 tags: 
   - screen-recording
   - ai video
@@ -379,4 +379,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://location-social.techidaily.com/how-to-change-your-poco-c50-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Poco C50 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-top-5-free-avi-video-editing-programs-for-beginners/"><u>Updated Top 5 Free AVI Video Editing Programs for Beginners</u></a></li>
 </ul></div>
+
 

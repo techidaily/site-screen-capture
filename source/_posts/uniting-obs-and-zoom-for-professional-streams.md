@@ -1,7 +1,7 @@
 ---
 title: "Uniting OBS & Zoom for Professional Streams"
-date: 2024-05-18T03:32:39.670Z
-updated: 2024-05-19T03:32:39.670Z
+date: 2024-05-19T20:09:00.952Z
+updated: 2024-05-20T20:09:00.952Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://sound-tweaking.techidaily.com/updated-step-by-step-instructions-for-creating-professional-recordings-in-garageband/"><u>Updated Step-by-Step Instructions for Creating Professional Recordings in GarageBand</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy S23 Ultra</u></a></li>
 </ul></div>
+
 

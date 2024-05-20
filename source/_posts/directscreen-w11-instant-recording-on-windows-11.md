@@ -1,7 +1,7 @@
 ---
 title: "\"DirectScreen W11  Instant Recording on Windows 11\""
-date: 2024-05-18T03:51:36.793Z
-updated: 2024-05-19T03:51:36.793Z
+date: 2024-05-19T20:09:44.178Z
+updated: 2024-05-20T20:09:44.178Z
 tags: 
   - screen-recording
   - ai video
@@ -476,4 +476,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-8-excellent-video-and-photo-mergers-on-desktopmobileonline/"><u>Updated 2024 Approved 8 Excellent Video and Photo Mergers on Desktop/Mobile/Online</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-xcover-6-pro-tactical-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy XCover 6 Pro Tactical Edition Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

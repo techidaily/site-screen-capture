@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Phones to Cameras  DIY Setup Guide for Mobile Video Recording\""
-date: 2024-05-18T03:39:26.568Z
-updated: 2024-05-19T03:39:26.568Z
+date: 2024-05-19T20:09:15.833Z
+updated: 2024-05-20T20:09:15.833Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ Follow @Max Wales
 <li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-xr-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone XR</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

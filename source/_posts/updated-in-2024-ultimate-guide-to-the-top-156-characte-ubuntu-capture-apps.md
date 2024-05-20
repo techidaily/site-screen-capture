@@ -720,3 +720,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y78t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y78t? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
 
+

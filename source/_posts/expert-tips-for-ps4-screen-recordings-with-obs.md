@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for PS4 Screen Recordings with OBS"
-date: 2024-05-18T03:29:33.982Z
-updated: 2024-05-19T03:29:33.982Z
+date: 2024-05-19T20:08:54.070Z
+updated: 2024-05-20T20:08:54.070Z
 tags: 
   - screen-recording
   - ai video
@@ -407,4 +407,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-huawei-nova-y71-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Huawei Nova Y71? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S24</u></a></li>
 </ul></div>
+
 

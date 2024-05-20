@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resuscitating Dormant Connections with Your OBS Cam"
-date: 2024-05-18T03:51:54.401Z
-updated: 2024-05-19T03:51:54.401Z
+date: 2024-05-19T20:09:44.802Z
+updated: 2024-05-20T20:09:44.802Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-v29e-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo V29e Pattern Lock Screen</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-mastering-gopro-footage-a-step-by-step-mac-editing-guide-for-2024/"><u>Updated Mastering GoPro Footage A Step-by-Step Mac Editing Guide for 2024</u></a></li>
 </ul></div>
+
 

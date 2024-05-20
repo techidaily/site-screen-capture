@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Technique  Programming a Time Counter in OBS for 2024\""
-date: 2024-05-18T03:40:15.714Z
-updated: 2024-05-19T03:40:15.714Z
+date: 2024-05-19T20:09:17.642Z
+updated: 2024-05-20T20:09:17.642Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 12 Pro Max</u></a></li>
 </ul></div>
+
 

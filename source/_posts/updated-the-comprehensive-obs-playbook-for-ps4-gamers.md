@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Comprehensive OBS Playbook for PS4 Gamers"
-date: 2024-05-18T03:45:19.612Z
-updated: 2024-05-19T03:45:19.612Z
+date: 2024-05-19T20:09:30.148Z
+updated: 2024-05-20T20:09:30.148Z
 tags: 
   - screen-recording
   - ai video
@@ -392,4 +392,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-hot-40-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Hot 40 Pro Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-10-leading-intro-creator-platforms-free-and-paid-options/"><u>Updated 2024 Approved 10 Leading Intro Creator Platforms Free and Paid Options</u></a></li>
 </ul></div>
+
 

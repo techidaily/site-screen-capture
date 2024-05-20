@@ -399,3 +399,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nubia-z50-ultra-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nubia Z50 Ultra Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

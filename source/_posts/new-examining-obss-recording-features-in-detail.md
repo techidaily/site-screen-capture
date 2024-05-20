@@ -1,7 +1,7 @@
 ---
 title: "[New] Examining OBS's Recording Features in Detail"
-date: 2024-05-18T03:46:30.634Z
-updated: 2024-05-19T03:46:30.634Z
+date: 2024-05-19T20:09:32.971Z
+updated: 2024-05-20T20:09:32.971Z
 tags: 
   - screen-recording
   - ai video
@@ -540,4 +540,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-14-plus-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 14 Plus IMEI Checker</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-x50iplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor X50i+</u></a></li>
 </ul></div>
+
 

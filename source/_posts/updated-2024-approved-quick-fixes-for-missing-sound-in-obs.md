@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Quick Fixes for Missing Sound in OBS\""
-date: 2024-05-18T03:39:06.890Z
-updated: 2024-05-19T03:39:06.890Z
+date: 2024-05-19T20:09:15.166Z
+updated: 2024-05-20T20:09:15.166Z
 tags: 
   - screen-recording
   - ai video
@@ -551,4 +551,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-v30-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme V30</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-time-saving-approaches-to-turn-whatsapp-audios-into-mp3-format/"><u>Updated 2024 Approved Time-Saving Approaches to Turn WhatsApp Audios Into MP3 Format</u></a></li>
 </ul></div>
+
 

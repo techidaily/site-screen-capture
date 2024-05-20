@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting OBS Frame Loss"
-date: 2024-05-18T03:54:33.521Z
-updated: 2024-05-19T03:54:33.521Z
+date: 2024-05-19T20:09:50.707Z
+updated: 2024-05-20T20:09:50.707Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-90-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor 90 Pro Running Slow and Freezing | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nubia-red-magic-8s-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nubia Red Magic 8S Pro Phone that is Locked?</u></a></li>
 </ul></div>
+
 

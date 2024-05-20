@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhance Visuals with Better OBS Settings"
-date: 2024-05-18T03:37:15.549Z
-updated: 2024-05-19T03:37:15.549Z
+date: 2024-05-19T20:09:10.930Z
+updated: 2024-05-20T20:09:10.930Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-90-pro-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor 90 Pro with Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE | Dr.fone</u></a></li>
 </ul></div>
+
 

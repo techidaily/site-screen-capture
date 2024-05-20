@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive Into Fraps Recording Capabilities for 2024"
-date: 2024-05-18T03:30:05.761Z
-updated: 2024-05-19T03:30:05.761Z
+date: 2024-05-19T20:08:55.177Z
+updated: 2024-05-20T20:08:55.177Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-editing-video.techidaily.com/2-easy-methods-how-to-zoom-in-on-tiktok-videos-in-2024/"><u>2 Easy Methods | How To Zoom In On TikTok Videos, In 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-secret-to-viral-linkedin-videos-aspect-ratio-essentials/"><u>2024 Approved The Secret to Viral LinkedIn Videos Aspect Ratio Essentials</u></a></li>
 </ul></div>
+
 

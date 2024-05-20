@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, End Live Recording Mode Immediately in QT App"
-date: 2024-05-18T03:30:24.744Z
-updated: 2024-05-19T03:30:24.744Z
+date: 2024-05-19T20:08:55.829Z
+updated: 2024-05-20T20:08:55.829Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oneplus-nord-ce-3-lite-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From OnePlus Nord CE 3 Lite 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Xiaomi Redmi Note 13 5G</u></a></li>
 </ul></div>
+
 

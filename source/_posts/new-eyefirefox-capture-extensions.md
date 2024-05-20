@@ -1,7 +1,7 @@
 ---
 title: "[New] EyeFirefox Capture Extensions"
-date: 2024-05-18T03:46:31.175Z
-updated: 2024-05-19T03:46:31.175Z
+date: 2024-05-19T20:09:32.997Z
+updated: 2024-05-20T20:09:32.997Z
 tags: 
   - screen-recording
   - ai video
@@ -687,4 +687,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://techidaily.com/hard-reset-itel-p40plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P40+ in 3 Efficient Ways | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 14 Pro and iPad?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Skype Call Audio & Video Capture Windows/OS X for 2024"
-date: 2024-05-18T03:36:46.241Z
-updated: 2024-05-19T03:36:46.241Z
+date: 2024-05-19T20:09:09.932Z
+updated: 2024-05-20T20:09:09.932Z
 tags: 
   - screen-recording
   - ai video
@@ -587,4 +587,5 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/achieving-sonic-excellence-incorporating-auto-tune-into-your-audacity-workflow/"><u>Achieving Sonic Excellence Incorporating Auto-Tune Into Your Audacity Workflow</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-t2x-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo T2x 5G FRP Without Computer</u></a></li>
 </ul></div>
+
 

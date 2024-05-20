@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Fixed Color Voids in Recording Software"
-date: 2024-05-18T03:38:58.537Z
-updated: 2024-05-19T03:38:58.537Z
+date: 2024-05-19T20:09:14.910Z
+updated: 2024-05-20T20:09:14.910Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/recommended-video-background-changers-for-2024/"><u>Recommended Video Background Changers for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-mix-fold-3-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Mix Fold 3 to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

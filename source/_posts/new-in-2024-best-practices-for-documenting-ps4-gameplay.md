@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Best Practices for Documenting PS4 Gameplay"
-date: 2024-05-18T03:41:15.236Z
-updated: 2024-05-19T03:41:15.236Z
+date: 2024-05-19T20:09:19.984Z
+updated: 2024-05-20T20:09:19.984Z
 tags: 
   - screen-recording
   - ai video
@@ -385,4 +385,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-video-effects-guide-transform-your-footage/"><u>Updated In 2024, The Ultimate Video Effects Guide Transform Your Footage</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

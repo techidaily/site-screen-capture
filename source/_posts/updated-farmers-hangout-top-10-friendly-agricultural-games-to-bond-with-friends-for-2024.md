@@ -854,3 +854,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-change-aspect-ratio-in-imovie/"><u>New How to Change Aspect Ratio in iMovie</u></a></li>
 </ul></div>
 
+

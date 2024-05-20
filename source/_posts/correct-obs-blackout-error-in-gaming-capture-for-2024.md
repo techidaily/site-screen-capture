@@ -1,7 +1,7 @@
 ---
 title: "Correct OBS Blackout Error in Gaming Capture for 2024"
-date: 2024-05-18T03:40:43.245Z
-updated: 2024-05-19T03:40:43.245Z
+date: 2024-05-19T20:09:18.818Z
+updated: 2024-05-20T20:09:18.818Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://techidaily.com/complete-tutorial-for-tecno-spark-10-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Spark 10 4G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-20-must-have-graduation-songs/"><u>New 2024 Approved 20 Must-Have Graduation Songs</u></a></li>
 </ul></div>
+
 

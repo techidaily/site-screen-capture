@@ -636,3 +636,4 @@ Follow @Richard Bennett
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-samsung-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Samsung Galaxy A15 4G</u></a></li>
 </ul></div>
 
+

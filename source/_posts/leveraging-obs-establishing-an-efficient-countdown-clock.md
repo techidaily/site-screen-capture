@@ -1,7 +1,7 @@
 ---
 title: "\"Leveraging OBS  Establishing an Efficient Countdown Clock\""
-date: 2024-05-18T03:27:50.971Z
-updated: 2024-05-19T03:27:50.971Z
+date: 2024-05-19T20:08:50.352Z
+updated: 2024-05-20T20:08:50.352Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-pova-6-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Pova 6 Pro 5G Face Lock?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-redmi-note-12-pro-4g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Redmi Note 12 Pro 4G to New Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Instant Video Capture Effortlessly Using QuickTime"
-date: 2024-05-18T03:39:41.870Z
-updated: 2024-05-19T03:39:41.870Z
+date: 2024-05-19T20:09:16.296Z
+updated: 2024-05-20T20:09:16.296Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Civi 3 Phone Without Password?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-phantom-v-fold-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Ending Automatic Video Captures in QT Player for 2024"
-date: 2024-05-18T03:38:05.919Z
-updated: 2024-05-19T03:38:05.919Z
+date: 2024-05-19T20:09:13.063Z
+updated: 2024-05-20T20:09:13.063Z
 tags: 
   - screen-recording
   - ai video
@@ -443,4 +443,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oneplus-11-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from OnePlus 11 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -415,3 +415,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-g2-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo G2 Phone</u></a></li>
 </ul></div>
 
+

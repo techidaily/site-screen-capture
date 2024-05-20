@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Budget Computer - Mastering OBS Configurations\""
-date: 2024-05-18T03:51:23.853Z
-updated: 2024-05-19T03:51:23.853Z
+date: 2024-05-19T20:09:43.771Z
+updated: 2024-05-20T20:09:43.771Z
 tags: 
   - screen-recording
   - ai video
@@ -232,4 +232,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-driven-video-production.techidaily.com/uncover-the-best-audio-conversion-tools-top-12-ranked/"><u>Uncover the Best Audio Conversion Tools Top 12 Ranked</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 11R | Dr.fone</u></a></li>
 </ul></div>
+
 

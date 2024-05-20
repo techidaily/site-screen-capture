@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Adding Time-Bound Elements to Your OBS Productions\""
-date: 2024-05-18T03:48:42.517Z
-updated: 2024-05-19T03:48:42.517Z
+date: 2024-05-19T20:09:38.030Z
+updated: 2024-05-20T20:09:38.030Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-editing.techidaily.com/1713962647961-updated-do-you-want-to-print-designs-onto-your-garments-or-other-fashion-accessories-find-out-how-to-create-a-screen-print-effect-in-photoshop-to-give-your-/"><u>Updated Do You Want to Print Designs Onto Your Garments or Other Fashion Accessories? Find Out How to Create a Screen Print Effect in Photoshop to Give Your Text or Graphics a Vintage or Retro Look for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-fcpx-title-effects-take-your-videos-to-the-next-level-for-2024/"><u>Updated FCPX Title Effects Take Your Videos to the Next Level for 2024</u></a></li>
 </ul></div>
+
 

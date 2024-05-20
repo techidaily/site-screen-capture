@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step OBS Tutorial for Skype Sessions\""
-date: 2024-05-18T03:38:31.015Z
-updated: 2024-05-19T03:38:31.015Z
+date: 2024-05-19T20:09:13.936Z
+updated: 2024-05-20T20:09:13.936Z
 tags: 
   - screen-recording
   - ai video
@@ -351,4 +351,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y200-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y200 PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100t | Dr.fone</u></a></li>
 </ul></div>
+
 

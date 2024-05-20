@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Techniques to Overcome Blackout During OBS Fullscreen\""
-date: 2024-05-18T03:52:41.139Z
-updated: 2024-05-19T03:52:41.139Z
+date: 2024-05-19T20:09:46.496Z
+updated: 2024-05-20T20:09:46.496Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-unlocking-the-power-of-chroma-keying-in-final-cut-pro-x/"><u>2024 Approved Unlocking the Power of Chroma Keying in Final Cut Pro X</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-ultimate-list-of-linux-based-audio-editors-review-and-ratings-edition-for-2024/"><u>New Ultimate List of Linux-Based Audio Editors Review and Ratings Edition for 2024</u></a></li>
 </ul></div>
+
 

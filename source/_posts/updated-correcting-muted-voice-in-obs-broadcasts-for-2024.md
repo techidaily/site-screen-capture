@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Correcting Muted Voice in OBS Broadcasts for 2024"
-date: 2024-05-18T03:40:18.728Z
-updated: 2024-05-19T03:40:18.728Z
+date: 2024-05-19T20:09:17.966Z
+updated: 2024-05-20T20:09:17.966Z
 tags: 
   - screen-recording
   - ai video
@@ -555,4 +555,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 5G 2023 Turbo to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-2024-approved-10-best-software-to-detach-audio-from-video/"><u>New 2024 Approved 10 Best Software to Detach Audio From Video</u></a></li>
 </ul></div>
+
 

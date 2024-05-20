@@ -387,3 +387,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://techidaily.com/undelete-lost-data-from-honor-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor</u></a></li>
 </ul></div>
 
+

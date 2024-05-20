@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illuminate Your Recording Setup  How to Prevent a Dark Screen on OBS\""
-date: 2024-05-18T03:51:50.879Z
-updated: 2024-05-19T03:51:50.879Z
+date: 2024-05-19T20:09:44.681Z
+updated: 2024-05-20T20:09:44.681Z
 tags: 
   - screen-recording
   - ai video
@@ -304,4 +304,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-viral-video-marketing-techniques-for-big-sellers-for-2024/"><u>Updated Top 5 Viral Video Marketing Techniques For Big Sellers for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-nokia-c32-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Nokia C32</u></a></li>
 </ul></div>
+
 

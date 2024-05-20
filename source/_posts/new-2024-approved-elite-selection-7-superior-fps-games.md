@@ -514,3 +514,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>New In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
 </ul></div>
 
+

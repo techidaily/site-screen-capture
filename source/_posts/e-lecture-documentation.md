@@ -1,7 +1,7 @@
 ---
 title: "\"E-Lecture Documentation\""
-date: 2024-05-18T03:43:43.872Z
-updated: 2024-05-19T03:43:43.872Z
+date: 2024-05-19T20:09:26.455Z
+updated: 2024-05-20T20:09:26.455Z
 tags: 
   - screen-recording
   - ai video
@@ -449,4 +449,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-video-editing-on-a-shoestring-top-software/"><u>Updated In 2024, Video Editing on a Shoestring Top Software</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-split-screen-merge-creativity-top-video-editing-apps-for-mobile-devices/"><u>Updated 2024 Approved Split Screen, Merge Creativity Top Video Editing Apps for Mobile Devices</u></a></li>
 </ul></div>
+
 

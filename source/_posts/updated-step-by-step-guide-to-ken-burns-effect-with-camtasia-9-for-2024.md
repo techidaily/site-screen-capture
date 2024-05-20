@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Ken Burns Effect with Camtasia 9 for 2024\""
-date: 2024-05-18T03:45:27.472Z
-updated: 2024-05-19T03:45:27.472Z
+date: 2024-05-19T20:09:30.404Z
+updated: 2024-05-20T20:09:30.404Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-samsung-galaxy-s23-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Samsung Galaxy S23</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Note 30 VIP Racing Edition</u></a></li>
 </ul></div>
+
 

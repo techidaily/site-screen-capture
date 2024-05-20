@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Using OBS in Android"
-date: 2024-05-18T03:41:21.769Z
-updated: 2024-05-19T03:41:21.769Z
+date: 2024-05-19T20:09:20.203Z
+updated: 2024-05-20T20:09:20.203Z
 tags: 
   - screen-recording
   - ai video
@@ -495,4 +495,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://audio-shaping.techidaily.com/updated-harmonizing-visuals-and-audio-the-step-by-step-guide-to-fade-inout-techniques-in-adobe-after-effects-for-2024/"><u>Updated Harmonizing Visuals & Audio The Step-by-Step Guide to Fade In/Out Techniques in Adobe After Effects for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-a-beginners-guide-to-online-video-editing/"><u>New Unleash Your Creativity A Beginners Guide to Online Video Editing</u></a></li>
 </ul></div>
+
 

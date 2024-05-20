@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Resolving OBS Darkness During Playbacks\""
-date: 2024-05-18T03:52:56.350Z
-updated: 2024-05-19T03:52:56.350Z
+date: 2024-05-19T20:09:47.006Z
+updated: 2024-05-20T20:09:47.006Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-vdieo-software.techidaily.com/edit-avi-videos-for-free-top-editor-choices-for-2024/"><u>Edit AVI Videos for Free Top Editor Choices for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-soniccraft-user-guide-detailed-product-details-significant-features-perspectives-from-users/"><u>In 2024, SonicCraft User Guide Detailed Product Details, Significant Features, Perspectives From Users</u></a></li>
 </ul></div>
+
 

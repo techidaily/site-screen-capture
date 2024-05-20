@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Studio Screen Capture  An In-Depth Analysis\""
-date: 2024-05-18T03:45:51.359Z
-updated: 2024-05-19T03:45:51.359Z
+date: 2024-05-19T20:09:31.261Z
+updated: 2024-05-20T20:09:31.261Z
 tags: 
   - screen-recording
   - ai video
@@ -547,4 +547,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://sound-tweaking.techidaily.com/uniting-visuals-and-vocals-decomposing-media-files-in-imovie-for-macos/"><u>Uniting Visuals and Vocals Decomposing Media Files in iMovie for macOS</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-create-engaging-whatsapp-videos-with-these-tools/"><u>Updated In 2024, Create Engaging WhatsApp Videos with These Tools</u></a></li>
 </ul></div>
+
 

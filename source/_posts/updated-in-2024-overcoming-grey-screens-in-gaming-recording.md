@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Overcoming Grey Screens in Gaming Recording"
-date: 2024-05-18T03:54:27.941Z
-updated: 2024-05-19T03:54:27.941Z
+date: 2024-05-19T20:09:50.497Z
+updated: 2024-05-20T20:09:50.497Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://audio-shaping.techidaily.com/updated-tracking-down-simulated-acoustics-from-steel-percussion-devices/"><u>Updated Tracking Down Simulated Acoustics From Steel Percussion Devices</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a14-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A14 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

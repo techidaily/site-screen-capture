@@ -400,3 +400,4 @@ Recording all of your favorite movies on your Mac or PC is now easy and enjoyabl
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 </ul></div>
 
+

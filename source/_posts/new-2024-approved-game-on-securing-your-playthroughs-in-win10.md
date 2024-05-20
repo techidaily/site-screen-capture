@@ -460,3 +460,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia</u></a></li>
 </ul></div>
 
+

@@ -672,3 +672,4 @@ Follow @Richard Bennett
 <li><a href="https://voice-adjusting.techidaily.com/the-art-of-dividing-sounds-from-videos-in-imovie-for-mac-enthusiasts/"><u>The Art of Dividing Sounds From Videos in iMovie for Mac Enthusiasts</u></a></li>
 </ul></div>
 
+

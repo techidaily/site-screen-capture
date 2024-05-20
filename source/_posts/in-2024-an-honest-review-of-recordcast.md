@@ -249,3 +249,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-tutorial-fading-in-and-out-of-audio-like-a-pro/"><u>Updated Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones."
-date: 2024-05-18T03:46:38.185Z
-updated: 2024-05-19T03:46:38.185Z
+date: 2024-05-19T20:09:33.235Z
+updated: 2024-05-20T20:09:33.235Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ Follow @Max Wales
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-motorola-defy-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Motorola Defy 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-2024-approved-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New 2024 Approved How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Transitions to Prevent Drops in OBS"
-date: 2024-05-18T03:49:08.834Z
-updated: 2024-05-19T03:49:08.834Z
+date: 2024-05-19T20:09:38.861Z
+updated: 2024-05-20T20:09:38.861Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x7b-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor X7b Contacts  An Easy Method Explained.</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-v2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic V2 Find My Friends No Location Found? | Dr.fone</u></a></li>
 </ul></div>
+
 

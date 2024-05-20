@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Moons  A Guide to Proper Night Photography Techniques\""
-date: 2024-05-18T03:49:28.221Z
-updated: 2024-05-19T03:49:28.221Z
+date: 2024-05-19T20:09:39.530Z
+updated: 2024-05-20T20:09:39.530Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://audio-shaping.techidaily.com/updated-musical-vignettes-infusing-life-into-your-cinematic-creations-with-filmora/"><u>Updated Musical Vignettes Infusing Life Into Your Cinematic Creations with Filmora</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -586,3 +586,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-stillness-freezing-frames-in-videos-made-easy/"><u>Updated The Art of Stillness Freezing Frames in Videos Made Easy</u></a></li>
 </ul></div>
 
+

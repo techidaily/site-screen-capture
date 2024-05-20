@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Steps for Unlocking Stuck OBS Fullscreen Mode"
-date: 2024-05-18T03:35:57.478Z
-updated: 2024-05-19T03:35:57.478Z
+date: 2024-05-19T20:09:08.330Z
+updated: 2024-05-20T20:09:08.330Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-magic-5-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor Magic 5 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a78-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A78 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

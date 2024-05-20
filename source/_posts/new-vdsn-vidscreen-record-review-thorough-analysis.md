@@ -337,3 +337,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-infinix-smart-7-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Infinix Smart 7 on Mac?</u></a></li>
 </ul></div>
 
+

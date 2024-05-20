@@ -771,3 +771,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://ai-vdieo-software.techidaily.com/taming-the-shake-how-to-smooth-out-your-videos-in-after-effects/"><u>Taming the Shake How to Smooth Out Your Videos in After Effects</u></a></li>
 </ul></div>
 
+

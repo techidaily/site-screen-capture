@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Muting Unwanted Noise  OBS Audio Solution\""
-date: 2024-05-18T03:42:14.430Z
-updated: 2024-05-19T03:42:14.430Z
+date: 2024-05-19T20:09:22.054Z
+updated: 2024-05-20T20:09:22.054Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo T2 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

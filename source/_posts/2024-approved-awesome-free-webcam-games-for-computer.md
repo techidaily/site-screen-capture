@@ -465,3 +465,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-c12-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia C12 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 
+

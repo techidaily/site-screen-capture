@@ -1,7 +1,7 @@
 ---
 title: "\"Full Page Screen Capture  How to Capture Screenshots of a Full Page?\""
-date: 2024-05-18T03:49:55.453Z
-updated: 2024-05-19T03:49:55.453Z
+date: 2024-05-19T20:09:40.470Z
+updated: 2024-05-20T20:09:40.470Z
 tags: 
   - screen-recording
   - ai video
@@ -540,4 +540,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-v-purse-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor V Purse</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/2024-approved-picture-in-picture-made-easy-final-cut-pro-tutorial/"><u>2024 Approved Picture-in-Picture Made Easy Final Cut Pro Tutorial</u></a></li>
 </ul></div>
+
 

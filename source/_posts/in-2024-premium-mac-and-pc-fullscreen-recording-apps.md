@@ -427,3 +427,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-note-30-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Note 30 5G?</u></a></li>
 </ul></div>
 
+

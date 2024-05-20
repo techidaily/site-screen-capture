@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Guide to Capturing Moments During Google Meets"
-date: 2024-05-18T03:43:32.770Z
-updated: 2024-05-19T03:43:32.770Z
+date: 2024-05-19T20:09:26.022Z
+updated: 2024-05-20T20:09:26.022Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-quintessential-quality-control-for-sound-customization/"><u>Updated In 2024, The Quintessential Quality Control for Sound Customization</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/in-2024-essential-techniques-effective-chromebook-audio-capture-in-7-steps/"><u>In 2024, Essential Techniques Effective Chromebook Audio Capture in 7 Steps</u></a></li>
 </ul></div>
+
 

@@ -507,3 +507,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-vivo-y27s-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Vivo Y27s</u></a></li>
 </ul></div>
 
+

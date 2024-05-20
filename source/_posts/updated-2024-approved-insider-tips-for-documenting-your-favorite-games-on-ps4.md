@@ -378,3 +378,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-13-mini-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 13 mini</u></a></li>
 </ul></div>
 
+

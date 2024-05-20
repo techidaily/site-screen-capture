@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 5 Essential Steps to Prevent Blank-Screen Issues in OBS for 2024\""
-date: 2024-05-18T03:42:30.695Z
-updated: 2024-05-19T03:42:30.695Z
+date: 2024-05-19T20:09:22.684Z
+updated: 2024-05-20T20:09:22.684Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/new-the-right-ways-to-slow-down-a-video-on-iphone/"><u>New The Right Ways to Slow Down a Video on iPhone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-create-datamoshing-effect-to-your-footage-in-after-effects/"><u>Updated 2024 Approved How to Create Datamoshing Effect to Your Footage in After Effects?</u></a></li>
 </ul></div>
+
 

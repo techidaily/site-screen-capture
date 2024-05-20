@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide\""
-date: 2024-05-18T03:35:05.615Z
-updated: 2024-05-19T03:35:05.615Z
+date: 2024-05-19T20:09:06.245Z
+updated: 2024-05-20T20:09:06.245Z
 tags: 
   - screen-recording
   - ai video
@@ -351,4 +351,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-advanced-audio-filtration-how-to-mute-irrelevant-clips-in-cinemapro/"><u>In 2024, Advanced Audio Filtration How to Mute Irrelevant Clips in CinemaPro</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco C65 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -721,3 +721,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-subtitles-in-quicktime-player-for-2024/"><u>Updated How to Add Subtitles in QuickTime Player for 2024</u></a></li>
 </ul></div>
 
+

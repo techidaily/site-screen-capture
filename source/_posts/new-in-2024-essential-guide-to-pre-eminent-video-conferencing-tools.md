@@ -766,3 +766,4 @@ Follow @Richard Bennett
 <li><a href="https://animation-videos.techidaily.com/updated-best-10-animated-templates-in-canva-for-2024/"><u>Updated Best 10 Animated Templates in Canva for 2024</u></a></li>
 </ul></div>
 
+

@@ -723,3 +723,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-in-this-article-we-will-discuss-how-to-rotate-videos-in-the-lightworks-application-below-is-a-way-to-rotate-videos-in-lightworks-manually-here-we-wi/"><u>In 2024, In This Article, We Will Discuss How to Rotate Videos in the Lightworks Application. Below Is a Way to Rotate Videos in Lightworks Manually, Here, We Will Use the Z-Axis Rotation</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Play to Pause  Save Games via OBS\""
-date: 2024-05-18T03:44:51.084Z
-updated: 2024-05-19T03:44:51.084Z
+date: 2024-05-19T20:09:29.193Z
+updated: 2024-05-20T20:09:29.193Z
 tags: 
   - screen-recording
   - ai video
@@ -431,4 +431,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-fcpx-top-10-free-plugins-for-video-editors/"><u>New 2024 Approved Unlock FCPX Top 10 Free Plugins for Video Editors</u></a></li>
 </ul></div>
+
 

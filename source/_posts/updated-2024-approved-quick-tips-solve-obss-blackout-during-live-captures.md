@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Quick Tips  Solve OBS's Blackout During Live Captures\""
-date: 2024-05-18T03:41:52.512Z
-updated: 2024-05-19T03:41:52.512Z
+date: 2024-05-19T20:09:21.221Z
+updated: 2024-05-20T20:09:21.221Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X50i+ | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unable-to-save-excel-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel Workbook Issue Fix 2024</u></a></li>
 </ul></div>
+
 

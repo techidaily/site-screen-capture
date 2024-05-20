@@ -205,3 +205,4 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-hot-40-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Hot 40 without backup.</u></a></li>
 </ul></div>
 
+

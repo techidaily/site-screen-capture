@@ -359,3 +359,4 @@ You can also use a few third-party applications to add a spark of professionalis
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-in-this-wax-tutorial-we-are-going-to-show-you-how-to-zoom-crop-and-pan-video-and-image-how-to-make-project-settings-and-how-to-render-avi-videos/"><u>New In 2024, In This Wax Tutorial, We Are Going to Show You How to Zoom, Crop and Pan Video and Image, How to Make Project Settings and How to Render AVI Videos</u></a></li>
 </ul></div>
 
+

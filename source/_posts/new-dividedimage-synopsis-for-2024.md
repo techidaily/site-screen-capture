@@ -221,3 +221,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"The Videographer's Minecraft  6 Proven Ways to Document Gameplay\""
-date: 2024-05-18T03:34:10.230Z
-updated: 2024-05-19T03:34:10.230Z
+date: 2024-05-19T20:09:04.405Z
+updated: 2024-05-20T20:09:04.405Z
 tags: 
   - screen-recording
   - ai video
@@ -698,4 +698,5 @@ Gameplay recording, for instance, Minecraft should be possible effectively utili
 <li><a href="https://animation-videos.techidaily.com/how-to-create-an-adobe-collage-for-2024/"><u>How to Create an Adobe Collage for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-aspect-ratio-conversion-in-final-cut-pro-a-quick-and-easy-guide/"><u>New 2024 Approved Aspect Ratio Conversion in Final Cut Pro A Quick and Easy Guide</u></a></li>
 </ul></div>
+
 

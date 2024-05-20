@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Videographer's Guide to Capturing Sports Competitions"
-date: 2024-05-18T03:36:55.480Z
-updated: 2024-05-19T03:36:55.480Z
+date: 2024-05-19T20:09:10.232Z
+updated: 2024-05-20T20:09:10.232Z
 tags: 
   - screen-recording
   - ai video
@@ -615,4 +615,5 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://video-creation-software.techidaily.com/new-the-aspect-ratio-effect-enhancing-or-detracting-from-your-videos-message/"><u>New The Aspect Ratio Effect Enhancing or Detracting From Your Videos Message</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
+
 

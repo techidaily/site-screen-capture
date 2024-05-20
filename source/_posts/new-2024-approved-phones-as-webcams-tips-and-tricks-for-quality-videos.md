@@ -623,3 +623,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/sign-a-pdf-v11-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.1 document with electronic signature tool</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Monitoring  Adding Time-Based Events to OBS\""
-date: 2024-05-18T03:38:30.200Z
-updated: 2024-05-19T03:38:30.200Z
+date: 2024-05-19T20:09:13.911Z
+updated: 2024-05-20T20:09:13.911Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Meizu 21 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-v30-lite-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo V30 Lite 5G Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

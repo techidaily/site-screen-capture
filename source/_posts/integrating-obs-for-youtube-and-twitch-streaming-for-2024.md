@@ -1,7 +1,7 @@
 ---
 title: "Integrating OBS for YouTube & Twitch Streaming for 2024"
-date: 2024-05-18T03:38:43.709Z
-updated: 2024-05-19T03:38:43.709Z
+date: 2024-05-19T20:09:14.387Z
+updated: 2024-05-20T20:09:14.387Z
 tags: 
   - screen-recording
   - ai video
@@ -194,4 +194,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor X50i | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-x90s-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo X90S to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

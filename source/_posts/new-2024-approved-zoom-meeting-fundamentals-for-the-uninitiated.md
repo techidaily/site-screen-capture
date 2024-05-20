@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Zoom Meeting Fundamentals for the Uninitiated\""
-date: 2024-05-18T03:42:23.375Z
-updated: 2024-05-19T03:42:23.375Z
+date: 2024-05-19T20:09:22.381Z
+updated: 2024-05-20T20:09:22.381Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/samsung-galaxy-xcover-7-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy XCover 7 won’t play MP4 files</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a79-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A79 5G Phone</u></a></li>
 </ul></div>
+
 

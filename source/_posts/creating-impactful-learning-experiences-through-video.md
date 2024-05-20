@@ -1,7 +1,7 @@
 ---
 title: "Creating Impactful Learning Experiences Through Video"
-date: 2024-05-18T03:45:14.450Z
-updated: 2024-05-19T03:45:14.450Z
+date: 2024-05-19T20:09:29.983Z
+updated: 2024-05-20T20:09:29.983Z
 tags: 
   - screen-recording
   - ai video
@@ -783,4 +783,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo X100? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-x-flip-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo X Flip Face Lock?</u></a></li>
 </ul></div>
+
 

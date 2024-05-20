@@ -979,3 +979,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-want-to-have-slow-zoom-effect-in-your-video-we-will-illustrate-how-to-apply-slow-zoom-effect-to-your-video-on-your-smartphone-computer-and-tiktok/"><u>In 2024, Want to Have Slow Zoom Effect in Your Video? We Will Illustrate How to Apply Slow Zoom Effect to Your Video on Your Smartphone, Computer, and TikTok</u></a></li>
 </ul></div>
 
+

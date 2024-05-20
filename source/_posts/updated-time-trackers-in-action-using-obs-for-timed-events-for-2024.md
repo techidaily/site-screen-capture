@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Time Trackers in Action  Using OBS for Timed Events for 2024\""
-date: 2024-05-18T03:28:31.894Z
-updated: 2024-05-19T03:28:31.894Z
+date: 2024-05-19T20:08:51.744Z
+updated: 2024-05-20T20:08:51.744Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-find-x6-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo Find X6 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y78plus-t1-edition-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y78+ (T1) Edition to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

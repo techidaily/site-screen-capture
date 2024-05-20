@@ -1,7 +1,7 @@
 ---
 title: "\"Starlit Secrets  Do's & Don'ts of Astrophotography for 2024\""
-date: 2024-05-18T03:31:40.403Z
-updated: 2024-05-19T03:31:40.403Z
+date: 2024-05-19T20:08:58.856Z
+updated: 2024-05-20T20:08:58.856Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://techidaily.com/best-fixes-for-honor-70-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 70 Lite 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

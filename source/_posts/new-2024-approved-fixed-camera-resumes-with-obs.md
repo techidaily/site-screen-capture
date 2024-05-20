@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fixed  Camera Resumes with OBS\""
-date: 2024-05-18T03:44:50.809Z
-updated: 2024-05-19T03:44:50.809Z
+date: 2024-05-19T20:09:29.181Z
+updated: 2024-05-20T20:09:29.181Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://audio-shaping.techidaily.com/the-soundtrack-for-aspiring-reporters-a-15-piece-selection-of-news-centric-melodies/"><u>The Soundtrack for Aspiring Reporters A 15 Piece Selection of News-Centric Melodies</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-spark-20-proplus-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Spark 20 Pro+ Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Your Gateway to Digital Proficiency  Understanding Screen Capture on MacBook Air\""
-date: 2024-05-18T03:28:21.467Z
-updated: 2024-05-19T03:28:21.467Z
+date: 2024-05-19T20:08:51.365Z
+updated: 2024-05-20T20:08:51.365Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-mp3-converter-windows-resource-why-you-need-it/"><u>Updated In 2024, The Ultimate Mp3 Converter Windows Resource Why You Need It</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23+ Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

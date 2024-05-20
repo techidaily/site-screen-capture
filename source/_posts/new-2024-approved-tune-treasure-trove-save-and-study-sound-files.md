@@ -422,3 +422,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://smart-video-creator.techidaily.com/visual-victory-how-to-choose-the-right-aspect-ratio-for-each-social-platform-for-2024/"><u>Visual Victory How to Choose the Right Aspect Ratio for Each Social Platform for 2024</u></a></li>
 </ul></div>
 
+

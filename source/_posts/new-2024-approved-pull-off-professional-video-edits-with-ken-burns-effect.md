@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Pull Off Professional Video Edits with Ken Burns Effect\""
-date: 2024-05-18T03:32:17.124Z
-updated: 2024-05-19T03:32:17.124Z
+date: 2024-05-19T20:09:00.111Z
+updated: 2024-05-20T20:09:00.111Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo F25 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-8-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

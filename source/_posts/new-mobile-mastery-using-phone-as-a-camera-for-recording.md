@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mobile Mastery  Using Phone as a Camera for Recording\""
-date: 2024-05-18T03:51:10.139Z
-updated: 2024-05-19T03:51:10.139Z
+date: 2024-05-19T20:09:43.267Z
+updated: 2024-05-20T20:09:43.267Z
 tags: 
   - screen-recording
   - ai video
@@ -611,4 +611,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/updated-video-on-the-go-how-to-speed-up-playback-in-quicktime-player-for-2024/"><u>Updated Video on the Go How to Speed Up Playback in QuickTime Player for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-video-blurring-made-easy-no-cost-no-hassle/"><u>New Video Blurring Made Easy No Cost, No Hassle</u></a></li>
 </ul></div>
+
 

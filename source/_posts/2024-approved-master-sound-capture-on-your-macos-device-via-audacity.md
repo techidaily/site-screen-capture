@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Sound Capture on Your MacOS Device via Audacity\""
-date: 2024-05-18T03:47:03.511Z
-updated: 2024-05-19T03:47:03.511Z
+date: 2024-05-19T20:09:34.081Z
+updated: 2024-05-20T20:09:34.081Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-pova-6-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Pova 6 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

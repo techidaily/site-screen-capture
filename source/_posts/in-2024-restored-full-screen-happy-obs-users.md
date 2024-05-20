@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Restored Full Screen, Happy OBS Users"
-date: 2024-05-18T03:39:44.302Z
-updated: 2024-05-19T03:39:44.302Z
+date: 2024-05-19T20:09:16.377Z
+updated: 2024-05-20T20:09:16.377Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-editing-video.techidaily.com/new-ways-to-merge-videos-in-handbrake-expectation-vs-reality/"><u>New Ways to Merge Videos in HandBrake? Expectation Vs. Reality</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

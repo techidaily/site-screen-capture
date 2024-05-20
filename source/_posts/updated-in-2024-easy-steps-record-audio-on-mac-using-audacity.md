@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Easy Steps  Record Audio on Mac Using Audacity\""
-date: 2024-05-18T03:45:23.671Z
-updated: 2024-05-19T03:45:23.671Z
+date: 2024-05-19T20:09:30.246Z
+updated: 2024-05-20T20:09:30.246Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-11-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-zte-axon-40-lite-by-drfone-android/"><u>How to Show Wi-Fi Password on ZTE Axon 40 Lite</u></a></li>
 </ul></div>
+
 

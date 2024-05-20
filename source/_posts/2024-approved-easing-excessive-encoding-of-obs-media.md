@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Easing Excessive Encoding of OBS Media\""
-date: 2024-05-18T03:39:01.228Z
-updated: 2024-05-19T03:39:01.228Z
+date: 2024-05-19T20:09:14.996Z
+updated: 2024-05-20T20:09:14.996Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-ditch-sony-vegas-explore-the-best-video-editing-alternatives-for-windows/"><u>2024 Approved Ditch Sony Vegas Explore the Best Video Editing Alternatives for Windows</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 3 Ways To Unlock</u></a></li>
 </ul></div>
+
 

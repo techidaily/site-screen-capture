@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Essential Audacity Manual for Mac Audio Capture\""
-date: 2024-05-18T03:36:10.411Z
-updated: 2024-05-19T03:36:10.411Z
+date: 2024-05-19T20:09:08.782Z
+updated: 2024-05-20T20:09:08.782Z
 tags: 
   - screen-recording
   - ai video
@@ -293,4 +293,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-topics.techidaily.com/new-top-5-best-tools-to-convert-text-to-audio-online-for-free-for-2024/"><u>New Top 5 Best Tools to Convert Text to Audio Online for Free for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

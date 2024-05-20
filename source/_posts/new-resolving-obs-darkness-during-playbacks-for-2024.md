@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving OBS Darkness During Playbacks for 2024"
-date: 2024-05-18T03:37:40.930Z
-updated: 2024-05-19T03:37:40.930Z
+date: 2024-05-19T20:09:11.820Z
+updated: 2024-05-20T20:09:11.820Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Pop 8 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/honor-magic-5-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 5 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

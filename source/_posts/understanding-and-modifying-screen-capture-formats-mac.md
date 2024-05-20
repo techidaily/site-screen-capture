@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Modifying Screen Capture Formats (Mac)"
-date: 2024-05-18T03:39:42.138Z
-updated: 2024-05-19T03:39:42.138Z
+date: 2024-05-19T20:09:16.302Z
+updated: 2024-05-20T20:09:16.302Z
 tags: 
   - screen-recording
   - ai video
@@ -459,4 +459,5 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-make-gif-instagram/"><u>New In 2024, How to Make GIF Instagram</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-top-6-video-dubbing-tools-for-pc-free-download-options-for-2024/"><u>New Top 6 Video Dubbing Tools for PC Free Download Options for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Camera Troubles No More with OBS"
-date: 2024-05-18T03:50:10.036Z
-updated: 2024-05-19T03:50:10.036Z
+date: 2024-05-19T20:09:40.981Z
+updated: 2024-05-20T20:09:40.981Z
 tags: 
   - screen-recording
   - ai video
@@ -291,4 +291,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-rated-audio-editing-software-for-macos-identifying-the-ultimate-mp3-trimmer/"><u>New In 2024, Top-Rated Audio Editing Software for macOS Identifying the Ultimate MP3 Trimmer</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 </ul></div>
+
 

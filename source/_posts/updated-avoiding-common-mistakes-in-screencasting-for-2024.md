@@ -437,3 +437,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-do-i-reset-my-sony-xperia-10-v-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Sony Xperia 10 V Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

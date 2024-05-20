@@ -1,7 +1,7 @@
 ---
 title: "Tips for Uninterrupted OBS Video Playback for 2024"
-date: 2024-05-18T03:31:54.726Z
-updated: 2024-05-19T03:31:54.726Z
+date: 2024-05-19T20:08:59.378Z
+updated: 2024-05-20T20:08:59.378Z
 tags: 
   - screen-recording
   - ai video
@@ -603,4 +603,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://sound-tweaking.techidaily.com/new-5-best-backwards-music-videos/"><u>New 5 Best Backwards Music Videos</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Quitting Live Video in QuickTime"
-date: 2024-05-18T03:53:58.969Z
-updated: 2024-05-19T03:53:58.969Z
+date: 2024-05-19T20:09:49.501Z
+updated: 2024-05-20T20:09:49.501Z
 tags: 
   - screen-recording
   - ai video
@@ -413,4 +413,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://ai-live-streaming.techidaily.com/updated-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi 14 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

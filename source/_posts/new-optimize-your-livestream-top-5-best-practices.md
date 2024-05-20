@@ -509,3 +509,4 @@ Both Twitch streamer and viewer need to record Twitch stream. A Twitch streamer 
 <li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-walkthrough-for-extracting-vocals-from-audio-files-using-adobe-audition/"><u>Updated Step-by-Step Walkthrough for Extracting Vocals From Audio Files Using Adobe Audition</u></a></li>
 </ul></div>
 
+

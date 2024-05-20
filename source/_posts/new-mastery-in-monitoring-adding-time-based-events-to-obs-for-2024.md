@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastery in Monitoring  Adding Time-Based Events to OBS for 2024\""
-date: 2024-05-18T03:52:14.546Z
-updated: 2024-05-19T03:52:14.546Z
+date: 2024-05-19T20:09:45.535Z
+updated: 2024-05-20T20:09:45.535Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 12 Pro without Password?</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-spark-20-proplus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Spark 20 Pro+ System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

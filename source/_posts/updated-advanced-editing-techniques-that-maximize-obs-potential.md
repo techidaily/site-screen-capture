@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Editing Techniques That Maximize OBS Potential"
-date: 2024-05-18T03:41:27.200Z
-updated: 2024-05-19T03:41:27.200Z
+date: 2024-05-19T20:09:20.371Z
+updated: 2024-05-20T20:09:20.371Z
 tags: 
   - screen-recording
   - ai video
@@ -517,4 +517,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://ai-video-editing.techidaily.com/updated-the-right-ways-to-slow-down-a-video-on-iphone/"><u>Updated The Right Ways to Slow Down a Video on iPhone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor 90 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

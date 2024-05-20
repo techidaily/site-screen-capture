@@ -566,3 +566,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-tools.techidaily.com/updated-system-requirements-for-running-premiere-pro-how-to-set-up-computer/"><u>Updated System Requirements for Running Premiere Pro How to Set Up Computer</u></a></li>
 </ul></div>
 
+

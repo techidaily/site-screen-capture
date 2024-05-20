@@ -1,7 +1,7 @@
 ---
 title: "\"Ending Echoes  Reconnecting Audio to OBS\""
-date: 2024-05-18T03:42:41.831Z
-updated: 2024-05-19T03:42:41.831Z
+date: 2024-05-19T20:09:23.298Z
+updated: 2024-05-20T20:09:23.298Z
 tags: 
   - screen-recording
   - ai video
@@ -553,4 +553,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-beyond-powerdirector-the-best-mobile-video-editing-apps/"><u>New 2024 Approved Beyond PowerDirector The Best Mobile Video Editing Apps</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-mobile-media-mastery-best-mp4-to-mp3-converter-apps/"><u>In 2024, Mobile Media Mastery Best MP4 to MP3 Converter Apps</u></a></li>
 </ul></div>
+
 

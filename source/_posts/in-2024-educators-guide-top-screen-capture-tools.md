@@ -913,3 +913,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://ai-video-apps.techidaily.com/updated-speed-up-your-video-workflow-quicktime-player-tips-for-windows-and-mac-users/"><u>Updated Speed Up Your Video Workflow QuickTime Player Tips for Windows and Mac Users</u></a></li>
 </ul></div>
 
+

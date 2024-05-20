@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Muting Problem Solutions for OBS Sound Capture"
-date: 2024-05-18T03:41:03.549Z
-updated: 2024-05-19T03:41:03.549Z
+date: 2024-05-19T20:09:19.541Z
+updated: 2024-05-20T20:09:19.541Z
 tags: 
   - screen-recording
   - ai video
@@ -572,4 +572,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-11-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 11 iCloud Lock</u></a></li>
 </ul></div>
+
 

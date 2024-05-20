@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step  Creating a Skype Group on Both Systems\""
-date: 2024-05-18T03:43:17.917Z
-updated: 2024-05-19T03:43:17.917Z
+date: 2024-05-19T20:09:25.439Z
+updated: 2024-05-20T20:09:25.439Z
 tags: 
   - screen-recording
   - ai video
@@ -703,4 +703,5 @@ Follow @Richard Bennett
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-vn-video-editor-for-mac-install-now-or-discover-alternatives/"><u>New In 2024, VN Video Editor for Mac Install Now or Discover Alternatives</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unlock-cross-platform-video-editing-run-windows-and-mac-apps-on-chromebook/"><u>Updated 2024 Approved Unlock Cross-Platform Video Editing Run Windows & Mac Apps on Chromebook</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  In-Depth Guide  OBS for Gamers\""
-date: 2024-05-18T03:45:25.304Z
-updated: 2024-05-19T03:45:25.304Z
+date: 2024-05-19T20:09:30.308Z
+updated: 2024-05-20T20:09:30.308Z
 tags: 
   - screen-recording
   - ai video
@@ -396,4 +396,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Sony Xperia 10 V | Dr.fone</u></a></li>
 </ul></div>
+
 

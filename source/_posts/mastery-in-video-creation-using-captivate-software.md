@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Video Creation Using Captivate Software"
-date: 2024-05-18T03:28:47.443Z
-updated: 2024-05-19T03:28:47.443Z
+date: 2024-05-19T20:08:52.281Z
+updated: 2024-05-20T20:08:52.281Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-lava-storm-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Lava Storm 5G</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y200-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y200 Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

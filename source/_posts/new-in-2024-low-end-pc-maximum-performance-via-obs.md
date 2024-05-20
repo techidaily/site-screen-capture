@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Low-End Pc - Maximum Performance via OBS\""
-date: 2024-05-18T03:32:59.696Z
-updated: 2024-05-19T03:32:59.696Z
+date: 2024-05-19T20:09:01.661Z
+updated: 2024-05-20T20:09:01.661Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-mastering-video-speed-a-step-by-step-camtasia-tutorial/"><u>Updated In 2024, Mastering Video Speed A Step-by-Step Camtasia Tutorial</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-decoding-speech-ways-to-generate-written-text/"><u>New 2024 Approved Decoding Speech Ways to Generate Written Text</u></a></li>
 </ul></div>
+
 

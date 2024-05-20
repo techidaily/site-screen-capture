@@ -395,3 +395,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://sound-tweaking.techidaily.com/how-to-record-computer-audio-and-voice-audio-with-audacity-for-free/"><u>How to Record Computer Audio and Voice Audio with Audacity for Free?</u></a></li>
 </ul></div>
 
+

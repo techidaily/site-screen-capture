@@ -1,7 +1,7 @@
 ---
 title: "\"Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-05-18T03:40:11.425Z
-updated: 2024-05-19T03:40:11.425Z
+date: 2024-05-19T20:09:17.453Z
+updated: 2024-05-20T20:09:17.453Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/undelete-lost-data-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-data/"><u>Undelete lost data from Samsung Galaxy XCover 7</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -475,3 +475,4 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-mini-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 mini With or Without Password</u></a></li>
 </ul></div>
 
+

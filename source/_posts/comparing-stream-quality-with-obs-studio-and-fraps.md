@@ -1,7 +1,7 @@
 ---
 title: "Comparing Stream Quality with OBS Studio and Fraps"
-date: 2024-05-18T03:35:49.162Z
-updated: 2024-05-19T03:35:49.162Z
+date: 2024-05-19T20:09:08.036Z
+updated: 2024-05-20T20:09:08.036Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-fcp-project-saving-cheat-sheet-for-2024/"><u>The Ultimate FCP Project Saving Cheat Sheet for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-why-does-fcpx-keep-crashing-find-out-and-fix-it-for-2024/"><u>New Why Does FCPX Keep Crashing? Find Out and Fix It for 2024</u></a></li>
 </ul></div>
+
 

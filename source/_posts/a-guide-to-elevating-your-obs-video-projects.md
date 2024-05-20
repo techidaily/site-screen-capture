@@ -1,7 +1,7 @@
 ---
 title: "A Guide to Elevating Your OBS Video Projects"
-date: 2024-05-18T03:54:15.184Z
-updated: 2024-05-19T03:54:15.184Z
+date: 2024-05-19T20:09:50.048Z
+updated: 2024-05-20T20:09:50.048Z
 tags: 
   - screen-recording
   - ai video
@@ -529,4 +529,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic 5 | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-source-directory-10-websites-offering-high-definition-video-wallpapers-and-backgrounds/"><u>Updated The Ultimate Source Directory 10 Websites Offering High-Definition Video Wallpapers and Backgrounds</u></a></li>
 </ul></div>
+
 

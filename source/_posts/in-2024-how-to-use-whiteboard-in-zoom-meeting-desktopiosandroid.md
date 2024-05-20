@@ -587,3 +587,4 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/new-optimizing-mobile-design-a-guide-to-vertical-aspect-ratios/"><u>New Optimizing Mobile Design A Guide to Vertical Aspect Ratios</u></a></li>
 </ul></div>
 
+

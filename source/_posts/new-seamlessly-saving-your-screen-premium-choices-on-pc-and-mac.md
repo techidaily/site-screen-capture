@@ -422,3 +422,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://audio-shaping.techidaily.com/updated-normalizing-volume-in-vlc-a-step-by-step-guide/"><u>Updated Normalizing Volume in VLC A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

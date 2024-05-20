@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Enhancing Collaboration  Slack Melded With Filmora’s Video Capabilities\""
-date: 2024-05-18T03:51:13.912Z
-updated: 2024-05-19T03:51:13.912Z
+date: 2024-05-19T20:09:43.414Z
+updated: 2024-05-20T20:09:43.414Z
 tags: 
   - screen-recording
   - ai video
@@ -516,4 +516,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-text-to-video/"><u>Updated What Is AI Text to Video?</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

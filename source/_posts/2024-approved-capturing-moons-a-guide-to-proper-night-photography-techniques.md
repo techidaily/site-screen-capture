@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capturing Moons  A Guide to Proper Night Photography Techniques\""
-date: 2024-05-18T03:51:09.061Z
-updated: 2024-05-19T03:51:09.061Z
+date: 2024-05-19T20:09:43.229Z
+updated: 2024-05-20T20:09:43.229Z
 tags: 
   - screen-recording
   - ai video
@@ -166,4 +166,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://screen-mirror.techidaily.com/how-nokia-150-2023-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nokia 150 (2023) Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-m14-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy M14 5G Is Unlocked</u></a></li>
 </ul></div>
+
 

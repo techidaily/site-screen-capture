@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seize the Day! Documenting Games on Samsung Phones for 2024"
-date: 2024-05-19T20:09:49.933Z
-updated: 2024-05-20T20:09:49.933Z
+date: 2024-06-09T04:04:32.570Z
+updated: 2024-06-10T04:04:32.570Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Seize the Day! Documenting Games on Samsung Phones for 2024"
 excerpt: "This Article Describes [Updated] Seize the Day! Documenting Games on Samsung Phones for 2024"
 keywords: "\"Gamers' Daily Capture,Mobile Gaming Snaps,Samsung Game Footage,Phone Gaming Photography,Live-Game Recording,Photo-Gaming Documents,Screen Shots on Samsung\""
-thumbnail: https://www.lifewire.com/thmb/RHk5CzUskZEHtVQS5Kba30nHhvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-kindle-unlimited-worth-it-fda01dceb923406a8524c64d2b72693e.jpg
+thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
 ## Seize the Day! Documenting Games on Samsung Phones

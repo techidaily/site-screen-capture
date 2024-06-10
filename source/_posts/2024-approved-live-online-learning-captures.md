@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live Online Learning Captures\""
-date: 2024-05-18T04:14:44.127Z
-updated: 2024-05-19T04:14:44.127Z
+date: 2024-06-09T04:04:34.241Z
+updated: 2024-06-10T04:04:34.241Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Live Online Learning Captures\""
 excerpt: "\"This Article Describes 2024 Approved: Live Online Learning Captures\""
 keywords: "\"Live Learning Online,Online Education Live,Live Streaming Classes,Web-Based Learning Live,Real-Time E-Learning,Online Learning Sessions,Digital Education Live\""
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Live Online Learning Captures

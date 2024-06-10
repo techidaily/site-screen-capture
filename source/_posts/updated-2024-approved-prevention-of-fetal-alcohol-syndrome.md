@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Prevention of Fetal Alcohol Syndrome\""
-date: 2024-05-18T04:18:50.220Z
-updated: 2024-05-19T04:18:50.220Z
+date: 2024-06-09T04:04:30.113Z
+updated: 2024-06-10T04:04:30.113Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Prevention of Fetal Alcohol Syndrome\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Prevention of Fetal Alcohol Syndrome\""
 keywords: "Fetal ALS Prevention,Avoid Birth Defects,Stop Fetal Drinking,Safe Pregnancy Guide,Eliminate Alcohol Risks,Protect Unborn Child,No Prenatal Alcohol"
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Prevention of Fetal Alcohol Syndrome

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Free, Open-Source Cameras Decoded for 2024\""
-date: 2024-05-18T03:54:58.142Z
-updated: 2024-05-19T03:54:58.142Z
+date: 2024-06-09T04:04:34.651Z
+updated: 2024-06-10T04:04:34.651Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Free, Open-Source Cameras Decoded for 2024\""
 excerpt: "\"This Article Describes [Updated] Free, Open-Source Cameras Decoded for 2024\""
 keywords: "Free OSS Cameras Guide,Open Source Camera Basics,DIY OSS Camera Projects,OSS Cameras for Beginners,Accessible OSS Camera Tech,Understanding OSS Cameras,Learn OSS Cameras Easy Way"
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Free, Open-Source Cameras Decoded

@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide to PS3 Gameplay Recording"
-date: 2024-05-19T20:09:00.311Z
-updated: 2024-05-20T20:09:00.311Z
+date: 2024-06-09T04:04:29.716Z
+updated: 2024-06-10T04:04:29.716Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes A Comprehensive Guide to PS3 Gameplay Recording"
 excerpt: "This Article Describes A Comprehensive Guide to PS3 Gameplay Recording"
 keywords: "PS3 Record Gaming,Capture PS3 Games,PS3 Game Screencasts,PlayStation 3 Videography,PS3 Gaming Recording,StudioPS3Gaming,PS3 Gameplay Capture"
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## A Comprehensive Guide to PS3 Gameplay Recording

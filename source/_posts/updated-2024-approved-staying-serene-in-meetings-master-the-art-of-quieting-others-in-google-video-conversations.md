@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Staying Serene in Meetings  Master the Art of Quieting Others in Google Video Conversations\""
-date: 2024-05-19T20:09:16.732Z
-updated: 2024-05-20T20:09:16.732Z
+date: 2024-06-09T04:04:35.510Z
+updated: 2024-06-10T04:04:35.510Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Staying Serene in Meetings: Master the Art of Quieting Others in Google Video Conversations\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Staying Serene in Meetings: Master the Art of Quieting Others in Google Video Conversations\""
 keywords: "Calm Video Chats,Soften Discussions,Gentle Debate Tips,Peaceful Meetings,Quiet Conversations,Silent Dialogue Strategies,Harmonious Talks"
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Staying Serene in Meetings: Master the Art of Quieting Others in Google Video Conversations

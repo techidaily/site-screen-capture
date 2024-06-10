@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Studio Basics - Full Guide to PS4 Game Recording\""
-date: 2024-05-18T04:12:10.704Z
-updated: 2024-05-19T04:12:10.704Z
+date: 2024-06-09T04:04:29.383Z
+updated: 2024-06-10T04:04:29.383Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Obs Studio Basics - Full Guide to PS4 Game Recording\""
 excerpt: "\"This Article Describes [Updated] Obs Studio Basics - Full Guide to PS4 Game Recording\""
 keywords: "PS4 Gaming Record,Obs Studio Tutorial,Ps4 Game Capture Guide,Basic Obs Studio Use,Video Games PS4 Tracking,Studio Basics Recording,Full Guide to PS4 Saving Games"
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## Obs Studio Basics - Full Guide to PS4 Game Recording

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record YouTube Videos"
-date: 2024-05-18T04:08:13.186Z
-updated: 2024-05-19T04:08:13.186Z
+date: 2024-06-09T04:04:31.823Z
+updated: 2024-06-10T04:04:31.823Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Record YouTube Videos"
 excerpt: "This Article Describes [New] How to Record YouTube Videos"
 keywords: "Hangout Video Record,Google Hangouts Capture,Recording Calls Hangouts,Hangouts Screen Recording,Save Hangouts Videos,Video Recording Hangouts,Capture Hangouts Call"
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## How to Record YouTube Videos

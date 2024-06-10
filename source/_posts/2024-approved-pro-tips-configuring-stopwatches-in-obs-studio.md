@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Tips  Configuring Stopwatches in OBS Studio\""
-date: 2024-05-18T04:29:55.377Z
-updated: 2024-05-19T04:29:55.377Z
+date: 2024-06-09T04:04:31.123Z
+updated: 2024-06-10T04:04:31.123Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Pro Tips: Configuring Stopwatches in OBS Studio\""
 excerpt: "\"This Article Describes 2024 Approved: Pro Tips: Configuring Stopwatches in OBS Studio\""
 keywords: "Skype Call Recording,OBS CAPTURE,OBS Skype Integration,Live Stream Recording,Skype Screen Capture,OBS Call Recordings,Remote Calls Capture"
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Pro Tips: Configuring Stopwatches in OBS Studio

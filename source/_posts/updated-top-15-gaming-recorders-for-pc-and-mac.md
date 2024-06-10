@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 15 Gaming Recorders for PC and Mac"
-date: 2024-05-18T04:10:34.626Z
-updated: 2024-05-19T04:10:34.626Z
+date: 2024-06-09T04:04:34.938Z
+updated: 2024-06-10T04:04:34.938Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Top 15 Gaming Recorders for PC and Mac"
 excerpt: "This Article Describes [Updated] Top 15 Gaming Recorders for PC and Mac"
 keywords: "\"Free Windows Recorder,Mac Screen Capture Tools,Top Windows Recorder Apps,Best Free Recording Software,Free PC Screen Recorder,Affordable Mac Recorders,No-Cost Windows Screen Recording\""
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## Top 15 Gaming Recorders for PC and Mac

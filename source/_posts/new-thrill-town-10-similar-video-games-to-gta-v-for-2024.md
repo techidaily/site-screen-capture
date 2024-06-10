@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Thrill Town  10 Similar Video Games To GTA V for 2024\""
-date: 2024-05-18T03:55:15.540Z
-updated: 2024-05-19T03:55:15.540Z
+date: 2024-06-09T04:04:40.834Z
+updated: 2024-06-10T04:04:40.834Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Thrill Town: 10 Similar Video Games To GTA V for 2024\""
 excerpt: "\"This Article Describes [New] Thrill Town: 10 Similar Video Games To GTA V for 2024\""
 keywords: "\"Thrill Games vs GTA,GTA Alternatives,GTA Clones List,Non-GTA V Titles,Similar to GTA V,Next-Gen Game Options,Eco-Friendly Gaming Choices\""
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## Thrill Town: 10 Similar Video Games To GTA V

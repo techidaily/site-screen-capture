@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Elite Firefox Screencap Add-Ons\""
-date: 2024-05-18T04:21:39.756Z
-updated: 2024-05-19T04:21:39.756Z
+date: 2024-06-09T04:04:33.224Z
+updated: 2024-06-10T04:04:33.224Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Elite Firefox Screencap Add-Ons\""
 excerpt: "\"This Article Describes In 2024, Elite Firefox Screencap Add-Ons\""
 keywords: "\"Elite FX Screencap,FireFox Extensions,Premium Firefox Cap,Firefox Custom Views,Top Firefox Tools,Enhanced Firefox Add-Ons,Exclusive FF Screencaps\""
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Elite Firefox Screencap Add-Ons

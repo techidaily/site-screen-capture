@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Foundations of Video Editing in the Gaming World"
-date: 2024-05-19T20:09:19.651Z
-updated: 2024-05-20T20:09:19.651Z
+date: 2024-06-09T04:04:36.859Z
+updated: 2024-06-10T04:04:36.859Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Foundations of Video Editing in the Gaming World"
 excerpt: "This Article Describes [Updated] Foundations of Video Editing in the Gaming World"
 keywords: "Game Edits Basics,Videogame Editing Foundations,Video Games Edit Fundamentals,Game Editing Principles,Gamified Video Editing,Gaming Edit Procedures,Video Gaming Edit Techniques"
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## Foundations of Video Editing in the Gaming World

@@ -1,7 +1,7 @@
 ---
 title: "\"Starlit Secrets  Do's & Don'ts of Astrophotography\""
-date: 2024-05-19T20:09:35.605Z
-updated: 2024-05-20T20:09:35.605Z
+date: 2024-06-09T04:04:37.518Z
+updated: 2024-06-10T04:04:37.518Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Starlit Secrets: Do's & Don'ts of Astrophotography\""
 excerpt: "\"This Article Describes Starlit Secrets: Do's & Don'ts of Astrophotography\""
 keywords: "Zoom Screenshots Guide,Share Screen on Zoom,Zoom Snippet Tips,Zoom Video Capture,Master Zoom Screens,Zoom Sharing Secrets,Zoom Image Recording"
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## Starlit Secrets: Do's & Don'ts of Astrophotography

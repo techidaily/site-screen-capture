@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Elite Linux Screenshots & Videos Guide"
-date: 2024-05-18T04:20:31.474Z
-updated: 2024-05-19T04:20:31.474Z
+date: 2024-06-09T04:04:29.753Z
+updated: 2024-06-10T04:04:29.753Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Elite Linux Screenshots & Videos Guide"
 excerpt: "This Article Describes [Updated] Elite Linux Screenshots & Videos Guide"
 keywords: "Elite Linux Guide,Linux Screenshot Tips,Linux Video Capture,Best Linux Tools,Linux Tech Basics,Linux Screen Shots,Linux Video Guide"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Elite Linux Screenshots & Videos Guide

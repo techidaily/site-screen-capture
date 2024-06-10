@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging NVIDIA Tools for Screen Capture\""
-date: 2024-05-19T20:09:07.429Z
-updated: 2024-05-20T20:09:07.429Z
+date: 2024-06-09T04:04:33.926Z
+updated: 2024-06-10T04:04:33.926Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Leveraging NVIDIA Tools for Screen Capture\""
 excerpt: "\"This Article Describes 2024 Approved: Leveraging NVIDIA Tools for Screen Capture\""
 keywords: "\"NVIDIA Screen Capture,GPU-Based Imaging,NVIDIA Tech Video,Graphics Tool Screenshot,CUDA Image Recording,Real-Time GPU Capture,Visualization Data Screening\""
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## Leveraging NVIDIA Tools for Screen Capture

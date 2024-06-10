@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Rescuing Muted Voices During OBS Sessions"
-date: 2024-05-18T04:02:21.181Z
-updated: 2024-05-19T04:02:21.181Z
+date: 2024-06-09T04:04:39.116Z
+updated: 2024-06-10T04:04:39.116Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Rescuing Muted Voices During OBS Sessions"
 excerpt: "This Article Describes [Updated] Rescuing Muted Voices During OBS Sessions"
 keywords: "Zoom Cluster Analysis Basics,Essential Zoom Clusters Guide,Mastering Zoom Clustering Techniques,Understanding Zoom's Group Formation,Fundamentals of Zoom Clustering,Zoom Cluster Feature Explained,Introduction to Zoom Clustering Tools"
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## Rescuing Muted Voices During OBS Sessions

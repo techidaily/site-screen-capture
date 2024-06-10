@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unlock Advanced Features of OBS Studio on Android Platforms\""
-date: 2024-05-19T20:09:07.196Z
-updated: 2024-05-20T20:09:07.196Z
+date: 2024-06-09T04:04:37.032Z
+updated: 2024-06-10T04:04:37.032Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Unlock Advanced Features of OBS Studio on Android Platforms\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Unlock Advanced Features of OBS Studio on Android Platforms\""
 keywords: "OBS Studio Android Tips,Android OBS Studio Guide,Advanced OBS Android Use,Unleash OBS Studio Potential,Mastering OBS on Android,Enhance OBS Studio Android,Expert OBS Features Android"
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## Unlock Advanced Features of OBS Studio on Android Platforms

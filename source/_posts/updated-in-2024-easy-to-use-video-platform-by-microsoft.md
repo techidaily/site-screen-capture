@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Easy-to-Use Video Platform by Microsoft\""
-date: 2024-05-18T04:13:51.955Z
-updated: 2024-05-19T04:13:51.955Z
+date: 2024-06-09T04:04:45.176Z
+updated: 2024-06-10T04:04:45.176Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Easy-to-Use Video Platform by Microsoft\""
 excerpt: "\"This Article Describes [Updated] In 2024, Easy-to-Use Video Platform by Microsoft\""
 keywords: "\"Simple Windows Video,EasyMSN Streaming,QuickVideo Microsoft,Microsoft Video Ease,Basic MS VideoHub,Effortless MS Videon,User-Friendly MSVideo\""
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Easy-to-Use Video Platform by Microsoft

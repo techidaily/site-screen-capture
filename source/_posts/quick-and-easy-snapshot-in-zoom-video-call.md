@@ -1,7 +1,7 @@
 ---
 title: "Quick and Easy Snapshot in Zoom Video Call"
-date: 2024-05-18T04:12:33.042Z
-updated: 2024-05-19T04:12:33.042Z
+date: 2024-06-09T04:04:32.351Z
+updated: 2024-06-10T04:04:32.351Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Quick and Easy Snapshot in Zoom Video Call"
 excerpt: "This Article Describes Quick and Easy Snapshot in Zoom Video Call"
 keywords: "Zoom Snapshots,Quick Zoom Shot,Zoom Easy Capture,Zoom Immediate Image,Fast Zoom Photograph,Simple Zoom Picture,Instant Zoom Screen"
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Quick and Easy Snapshot in Zoom Video Call

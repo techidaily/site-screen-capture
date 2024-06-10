@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Beat the Bad Guys  Top Kung Fu Action Puzzle Games\""
-date: 2024-05-18T04:16:53.116Z
-updated: 2024-05-19T04:16:53.116Z
+date: 2024-06-09T04:04:35.293Z
+updated: 2024-06-10T04:04:35.293Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Beat the Bad Guys: Top Kung Fu Action Puzzle Games\""
 excerpt: "\"This Article Describes In 2024, Beat the Bad Guys: Top Kung Fu Action Puzzle Games\""
 keywords: "Kung Fu Battles,Fighter Arcade,Puzzle Fighting Game,Martial Arts Challenges,Action Kung Fu Titles,Agile Fighters Games,Jump and Combat Quest"
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## Beat the Bad Guys: Top Kung Fu Action Puzzle Games

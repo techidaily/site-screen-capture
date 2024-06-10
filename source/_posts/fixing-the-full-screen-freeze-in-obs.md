@@ -1,7 +1,7 @@
 ---
 title: "\"Fixing the Full-Screen Freeze in OBS\""
-date: 2024-05-18T04:20:16.603Z
-updated: 2024-05-19T04:20:16.603Z
+date: 2024-06-09T04:04:33.499Z
+updated: 2024-06-10T04:04:33.499Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Fixing the Full-Screen Freeze in OBS\""
 excerpt: "\"This Article Describes Fixing the Full-Screen Freeze in OBS\""
 keywords: "OBS Freeze Fix,Screen Freezing OBS,End Fullscreen Lag,OBS Glitch Resolution,Stop OBS Blackout,Free OBS Fullscreen,Quick OBS Screen Fix"
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## Fixing the Full-Screen Freeze in OBS

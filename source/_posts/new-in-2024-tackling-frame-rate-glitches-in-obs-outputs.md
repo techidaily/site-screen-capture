@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Tackling Frame Rate Glitches in OBS Outputs"
-date: 2024-05-18T04:13:27.588Z
-updated: 2024-05-19T04:13:27.588Z
+date: 2024-06-09T04:04:30.401Z
+updated: 2024-06-10T04:04:30.401Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Tackling Frame Rate Glitches in OBS Outputs"
 excerpt: "This Article Describes [New] In 2024, Tackling Frame Rate Glitches in OBS Outputs"
 keywords: "Fixing OBS Glitches,Overcoming OBS Output Delays,Reducing OBS Frame Rate Errors,Enhancing OBS Video Smoothness,Stabilizing OBS Stream Output,Eliminating OBS Frame Lags,Optimizing OBS Playback Quality"
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## Tackling Frame Rate Glitches in OBS Outputs

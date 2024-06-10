@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Redirect Saved Image to Custom Folder on Mac\""
-date: 2024-05-18T04:00:36.375Z
-updated: 2024-05-19T04:00:36.375Z
+date: 2024-06-09T04:04:30.904Z
+updated: 2024-06-10T04:04:30.904Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Redirect Saved Image to Custom Folder on Mac\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Redirect Saved Image to Custom Folder on Mac\""
 keywords: "\"Redirect ImgMac Save,Custom Folder Sync Mac,Image Rename MacPath,Folder Redirect Mac,Auto-Save MacFolder,ImageRedirect MacDocs,CustomSave ImageMac\""
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## Redirect Saved Image to Custom Folder on Mac

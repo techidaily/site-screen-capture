@@ -1,7 +1,7 @@
 ---
 title: "Capturing the Heart of Sims 4 Games"
-date: 2024-05-19T20:11:04.168Z
-updated: 2024-05-20T20:11:04.168Z
+date: 2024-06-09T04:04:38.698Z
+updated: 2024-06-10T04:04:38.698Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Capturing the Heart of Sims 4 Games"
 excerpt: "This Article Describes Capturing the Heart of Sims 4 Games"
 keywords: "Sims 4 Romance Lives,Love in Sims 4 World,Sims 4 Emotional Depth,Hearts & Happiness Sims,Sims 4 Relationship Core,Heartfelt Sims Experience,Sims 4 Deep Connection"
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Capturing the Heart of Sims 4 Games

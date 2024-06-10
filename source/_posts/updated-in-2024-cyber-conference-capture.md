@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Cyber Conference Capture"
-date: 2024-05-18T04:21:03.443Z
-updated: 2024-05-19T04:21:03.443Z
+date: 2024-06-09T04:04:44.200Z
+updated: 2024-06-10T04:04:44.200Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Cyber Conference Capture"
 excerpt: "This Article Describes [Updated] In 2024, Cyber Conference Capture"
 keywords: "CyberConSecure,TechTalksCapture,NetSummitSessions,OnlineSecurityGathering,DigitalTechTrends,VirtualCyberExpo,InfoNetConference"
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Cyber Conference Capture

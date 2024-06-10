@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Get Hooked  Our Curated 12 Best PC Clicker Titles\""
-date: 2024-05-18T04:11:05.855Z
-updated: 2024-05-19T04:11:05.855Z
+date: 2024-06-09T04:04:38.585Z
+updated: 2024-06-10T04:04:38.585Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Get Hooked: Our Curated 12 Best PC Clicker Titles\""
 excerpt: "\"This Article Describes [Updated] Get Hooked: Our Curated 12 Best PC Clicker Titles\""
 keywords: "PC Clickers Guide,Top PC Games List,Clicker Collection PC,Best PC Clicker Picks,Premier PC Games Series,Ultimate Clicker Titles,Curated PC Gaming Selections"
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Get Hooked: Our Curated 12 Best PC Clicker Titles

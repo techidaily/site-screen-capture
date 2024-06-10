@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Cracked  The Full Screen Hurdle in OBS\""
-date: 2024-05-19T20:08:57.636Z
-updated: 2024-05-20T20:08:57.636Z
+date: 2024-06-09T04:04:39.708Z
+updated: 2024-06-10T04:04:39.708Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Cracked: The Full Screen Hurdle in OBS\""
 excerpt: "\"This Article Describes [Updated] In 2024, Cracked: The Full Screen Hurdle in OBS\""
 keywords: "OBS Screen Overhead,Obs Full Screen Issue,Cracked OBS Hurdle,Screen Capture In OBS,Video Editor Bugs OBS,Full Screen Fix OBS,Overcoming OBS Barriers"
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## Cracked: The Full Screen Hurdle in OBS

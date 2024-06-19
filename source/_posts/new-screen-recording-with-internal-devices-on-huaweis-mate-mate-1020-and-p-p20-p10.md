@@ -1,7 +1,7 @@
 ---
 title: "[New] Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)"
-date: 2024-05-19T20:09:33.181Z
-updated: 2024-05-20T20:09:33.181Z
+date: 2024-06-18T03:53:13.141Z
+updated: 2024-06-19T03:53:13.141Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)"
 excerpt: "This Article Describes [New] Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)"
 keywords: "\"Mate 10 Screen Record,Mate 20 Video Capture,Internal Device Mate Recording,Huawei Mate Screencast,P20 Internal Screening,P10 Mate Recording Guide,Device-Internal Mate Capture\""
-thumbnail: https://www.lifewire.com/thmb/WOQtH1Yeu3Y77xTI-f6-N4Xb6Kc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SetaLiveWallpaperinWindows11-b8ca3913592d4a5790808131bf8f34e1.jpg
+thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f1455915fe3cbbbf65ceba836d3f9e.jpg
 ---
 
 ## Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)

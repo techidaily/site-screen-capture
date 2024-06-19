@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Elite Selection of Nintendo Switch Fighting Games (Max 156)"
-date: 2024-05-19T20:09:00.198Z
-updated: 2024-05-20T20:09:00.198Z
+date: 2024-06-18T03:53:12.173Z
+updated: 2024-06-19T03:53:12.173Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Elite Selection of Nintendo Switch Fighting Games (Max 156)"
 excerpt: "This Article Describes [Updated] Elite Selection of Nintendo Switch Fighting Games (Max 156)"
 keywords: "Nintendo Switch Fighters,Switch Game Battles,Elite Fighting Switch,Top Fighting Switch Games,Best Switch Fighting Titles,Exclusive Switch Combat,Premium Switch Battle Selection"
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## Elite Selection of Nintendo Switch Fighting Games (Max 156)

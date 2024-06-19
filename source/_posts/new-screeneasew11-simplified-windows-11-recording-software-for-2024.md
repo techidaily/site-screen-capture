@@ -1,7 +1,7 @@
 ---
 title: "\"[New] ScreenEaseW11  Simplified Windows 11 Recording Software for 2024\""
-date: 2024-05-18T04:07:53.243Z
-updated: 2024-05-19T04:07:53.243Z
+date: 2024-06-18T03:53:14.302Z
+updated: 2024-06-19T03:53:14.302Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] ScreenEaseW11: Simplified Windows 11 Recording Software for 2024\""
 excerpt: "\"This Article Describes [New] ScreenEaseW11: Simplified Windows 11 Recording Software for 2024\""
 keywords: "EasyWinRecorder,ScreenCaptureWin11,SimpWindowsRecorder,Win11EaseScreen,StreamWin11,RecordEaseWin,Windows11RecordPro"
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## ScreenEaseW11: Simplified Windows 11 Recording Software

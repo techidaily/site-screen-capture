@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Guide to Initiating and Archiving Webinars Economically\""
-date: 2024-05-18T04:29:17.849Z
-updated: 2024-05-19T04:29:17.849Z
+date: 2024-06-18T03:53:12.135Z
+updated: 2024-06-19T03:53:12.135Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Guide to Initiating and Archiving Webinars Economically\""
 excerpt: "\"This Article Describes 2024 Approved: Guide to Initiating and Archiving Webinars Economically\""
 keywords: "\"Webinar Cost-Saving Guide,Webinar Archive Tips,Eco-Webinar Techniques,Cheap Webinar Strategies,Economical Webinars Tricks,Affordable Webinar Methods,Low-Cost Webinar Practices\""
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## Guide to Initiating and Archiving Webinars Economically

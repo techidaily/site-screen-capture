@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  HighSpeed SlowScene Videograph\""
-date: 2024-05-19T20:09:14.657Z
-updated: 2024-05-20T20:09:14.657Z
+date: 2024-06-18T03:53:10.617Z
+updated: 2024-06-19T03:53:10.617Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: HighSpeed SlowScene Videograph\""
 excerpt: "\"This Article Describes [New] 2024 Approved: HighSpeed SlowScene Videograph\""
 keywords: "FreeVidOS Suite,OSS Videoworks 2024,OpenSource VC 2024,LibFreeCapture Studio,OpenLib VideoSuite,VidiOpen Source 2024,FreeVidOS 2024 Suite"
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## HighSpeed SlowScene Videograph

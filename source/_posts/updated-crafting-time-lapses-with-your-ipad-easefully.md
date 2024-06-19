@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Time-Lapses with Your iPad Easefully\""
-date: 2024-05-18T04:18:39.041Z
-updated: 2024-05-19T04:18:39.041Z
+date: 2024-06-18T03:53:13.090Z
+updated: 2024-06-19T03:53:13.090Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Crafting Time-Lapses with Your iPad Easefully\""
 excerpt: "\"This Article Describes [Updated] Crafting Time-Lapses with Your iPad Easefully\""
 keywords: "Build Minecraft Home,Design Game House,Minecraft Abode Planning,Easy Mojang Dwelling,Dream Minecraft Habitat,Construct Crafted Shelter,Simplified Mansion Creation"
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Crafting Time-Lapses with Your iPad Easefully

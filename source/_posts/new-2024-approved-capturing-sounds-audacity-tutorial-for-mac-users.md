@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capturing Sounds  Audacity Tutorial for Mac Users\""
-date: 2024-05-18T04:07:18.516Z
-updated: 2024-05-19T04:07:18.516Z
+date: 2024-06-18T03:53:13.331Z
+updated: 2024-06-19T03:53:13.331Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Capturing Sounds: Audacity Tutorial for Mac Users\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Capturing Sounds: Audacity Tutorial for Mac Users\""
 keywords: "Mac Audio Recording,Audacity Mac Guide,Sound Capture Basics,Mac Sound Editing,Learning Audacity Quickly,Mac Digital Audio Tools,Essential Mac Recording Tips"
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Capturing Sounds: Audacity Tutorial for Mac Users

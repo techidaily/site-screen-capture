@@ -1,7 +1,7 @@
 ---
 title: "Techniques to Halt Live Streams in QT Player for 2024"
-date: 2024-05-18T04:08:33.911Z
-updated: 2024-05-19T04:08:33.911Z
+date: 2024-06-18T03:53:10.919Z
+updated: 2024-06-19T03:53:10.919Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Techniques to Halt Live Streams in QT Player for 2024"
 excerpt: "This Article Describes Techniques to Halt Live Streams in QT Player for 2024"
 keywords: "Stopping Live Streams,Freeze QT Video Playback,Pause Live Broadcasting,QT Player Control Shortcut,Halting Live Media in Qt,Stop Live Streams Quickly,Qt Player Live Halt Techniques"
-thumbnail: https://www.lifewire.com/thmb/m4BcH-XQSOpQcuE-5vTn1swsxLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-591408071-5bc7767d4cedfd0026a2ce3f.jpg
+thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951f603f30c9c8797a450783bc.jpg
 ---
 
 ## Techniques to Halt Live Streams in QT Player
@@ -21,7 +21,7 @@ QuickTime Player by Apple is the default media player on Mac, and the applicatio
 
 When the application fails to stop recording, it fails to save the recording as well. Therefore, QuickTime Player keeps recording the screen, and this slows down the Mac as it keeps occupying the system resources. In this article, we will illustrate all the possible ways to QuickTime Player stop screen recording. We will also recommend a better alternative to QuickTime for professional-quality screen recording.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

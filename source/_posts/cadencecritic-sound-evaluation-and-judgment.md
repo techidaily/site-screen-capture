@@ -1,7 +1,7 @@
 ---
 title: "\"CadenceCritic  Sound Evaluation & Judgment\""
-date: 2024-05-19T20:10:58.567Z
-updated: 2024-05-20T20:10:58.567Z
+date: 2024-06-18T03:53:11.231Z
+updated: 2024-06-19T03:53:11.231Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes CadenceCritic: Sound Evaluation & Judgment\""
 excerpt: "\"This Article Describes CadenceCritic: Sound Evaluation & Judgment\""
 keywords: "Cadence Critique,Sound Testing,Audio Judgement,Evaluating Music,Sound Quality Review,Listeners' Assessment,Audio Reputation"
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## CadenceCritic: Sound Evaluation & Judgment

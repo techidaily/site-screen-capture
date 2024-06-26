@@ -1,7 +1,7 @@
 ---
 title: "Gratuitous Screen Snap for MacOS"
-date: 2024-05-19T20:09:10.979Z
-updated: 2024-05-20T20:09:10.979Z
+date: 2024-06-25T06:47:58.205Z
+updated: 2024-06-26T06:47:58.205Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Gratuitous Screen Snap for MacOS"
 excerpt: "This Article Describes Gratuitous Screen Snap for MacOS"
 keywords: "Free MacSnap,MacScreenShot,MacFreeCapture,NoCostMacSnap,SnapshotMacOS,ZeroChargeMacSnap,FREEMacImage"
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## Gratuitous Screen Snap for MacOS

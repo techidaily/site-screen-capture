@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Exclusive Play on Apex  How to Turn Off Cross-Platform Mode\""
-date: 2024-05-18T04:15:08.961Z
-updated: 2024-05-19T04:15:08.961Z
+date: 2024-06-25T06:48:03.009Z
+updated: 2024-06-26T06:48:03.009Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Exclusive Play on Apex: How to Turn Off Cross-Platform Mode\""
 excerpt: "\"This Article Describes [Updated] Exclusive Play on Apex: How to Turn Off Cross-Platform Mode\""
 keywords: "\"Apex Game Exclusivity,Disable Platform Mode,Cross-Platform OFF,Apex Multiplatform Halt,Playmode Exclusive Switch,Turnoff Apex Crossover,Offset Apex Play Setting\""
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Exclusive Play on Apex: How to Turn Off Cross-Platform Mode

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Ten Financial Fortunes in Gaming - '24 Edition\""
-date: 2024-05-19T20:09:05.949Z
-updated: 2024-05-20T20:09:05.949Z
+date: 2024-06-25T06:47:54.603Z
+updated: 2024-06-26T06:47:54.603Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Top Ten Financial Fortunes in Gaming - '24 Edition\""
 excerpt: "\"This Article Describes [Updated] Top Ten Financial Fortunes in Gaming - '24 Edition\""
 keywords: "Top Gamer Wealth 2024,Gamers' Riches List 2024,Finance Leaders in Games,Game Industry Moguls 2024,Richest Gaming Titans 2024,Elite Gaming Fortunes 2024,Top Gaming Cash Kings 2024"
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Top Ten Financial Fortunes in Gaming - '24 Edition

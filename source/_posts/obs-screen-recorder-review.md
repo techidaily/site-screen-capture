@@ -1,7 +1,7 @@
 ---
 title: "OBS Screen Recorder Review"
-date: 2024-05-18T04:13:31.339Z
-updated: 2024-05-19T04:13:31.339Z
+date: 2024-06-25T06:48:04.253Z
+updated: 2024-06-26T06:48:04.253Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes OBS Screen Recorder Review"
 excerpt: "This Article Describes OBS Screen Recorder Review"
 keywords: "Fraps Screen Capture,FPS Recorder App,Fraps Video Editor,Screen Record with Fraps,Free Screen Grab Tool,QuickScreen Fraps Review,Best Screen Recorder Fraps"
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## OBS Screen Recorder Review

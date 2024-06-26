@@ -1,7 +1,7 @@
 ---
 title: "Skype Call Recording for Windows, OS X Users"
-date: 2024-05-18T04:23:29.900Z
-updated: 2024-05-19T04:23:29.900Z
+date: 2024-06-25T06:48:02.436Z
+updated: 2024-06-26T06:48:02.436Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Skype Call Recording for Windows, OS X Users"
 excerpt: "This Article Describes Skype Call Recording for Windows, OS X Users"
 keywords: "Skype Record Windows,Skype Mac Calling,Windows Skype Calls,OS X Audio Capture,Skype Video Logging,Windows Skype Recorder,OS X Call Recording"
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## Skype Call Recording for Windows, OS X Users

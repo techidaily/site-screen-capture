@@ -1,7 +1,7 @@
 ---
 title: "\"PS4 to Video  Complete OBS Broadcasting Guide\""
-date: 2024-05-18T04:12:22.398Z
-updated: 2024-05-19T04:12:22.398Z
+date: 2024-06-25T06:48:04.291Z
+updated: 2024-06-26T06:48:04.291Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes PS4 to Video: Complete OBS Broadcasting Guide\""
 excerpt: "\"This Article Describes PS4 to Video: Complete OBS Broadcasting Guide\""
 keywords: "PS4 Broadcasting Tips,OBS PS4 Guide,Stream PS4 Easy,Ultimate OBS for PS4,PS4 Video Production,PS4 Broadcast Basics,OBS Studio PS4 Settings"
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## PS4 to Video: Complete OBS Broadcasting Guide

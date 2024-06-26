@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Documenting Xbox Playtime Online"
-date: 2024-05-18T04:09:22.877Z
-updated: 2024-05-19T04:09:22.877Z
+date: 2024-06-25T06:47:56.029Z
+updated: 2024-06-26T06:47:56.029Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] The Art of Documenting Xbox Playtime Online"
 excerpt: "This Article Describes [New] The Art of Documenting Xbox Playtime Online"
 keywords: "Xbox Playtime Logs,Online Gaming Diaries,Track Xbox Sessions,Console Game Timeline,Xbox Usage Records,Playtime Documentation,Digital Gamers' Journals"
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## The Art of Documenting Xbox Playtime Online

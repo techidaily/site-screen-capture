@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 12 Best Idle Games You Can Find on PC"
-date: 2024-05-18T03:58:48.837Z
-updated: 2024-05-19T03:58:48.837Z
+date: 2024-06-25T06:47:57.118Z
+updated: 2024-06-26T06:47:57.118Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 12 Best Idle Games You Can Find on PC"
 excerpt: "This Article Describes [New] Top 12 Best Idle Games You Can Find on PC"
 keywords: "Pc Top Idle Games,Best Idle PC Games,PC Fun Idle Games,Leisurely PC Gaming,Popular Idle PC Titles,Premier Idle Games (PC),Essential PC Games (Idle)"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Top 12 Best Idle Games You Can Find on PC

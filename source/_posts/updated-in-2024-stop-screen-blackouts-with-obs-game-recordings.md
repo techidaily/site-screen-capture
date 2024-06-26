@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Stop Screen Blackouts with OBS Game Recordings"
-date: 2024-05-19T20:09:41.828Z
-updated: 2024-05-20T20:09:41.828Z
+date: 2024-06-25T06:48:02.336Z
+updated: 2024-06-26T06:48:02.336Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Stop Screen Blackouts with OBS Game Recordings"
 excerpt: "This Article Describes [Updated] In 2024, Stop Screen Blackouts with OBS Game Recordings"
 keywords: "Stop Blank Screens,Prevent Gaming Cutoffs,OBS Record Gameplay,No Loss During Recs,End Screen Freeze Out,OBS Minimize Blackouts,Clear Playback Video"
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## Stop Screen Blackouts with OBS Game Recordings

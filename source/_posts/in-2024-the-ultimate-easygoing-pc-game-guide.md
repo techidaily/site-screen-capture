@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Easygoing PC Game Guide"
-date: 2024-05-19T20:09:41.125Z
-updated: 2024-05-20T20:09:41.125Z
+date: 2024-06-25T06:47:59.329Z
+updated: 2024-06-26T06:47:59.329Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, The Ultimate Easygoing PC Game Guide"
 excerpt: "This Article Describes In 2024, The Ultimate Easygoing PC Game Guide"
 keywords: "Easy PC Gaming,Quick PC Games Guide,Relaxed PC Play,Simple PC Titles,Fun PC Gaming Tips,Lightweight Game Ideas,Casual PC Game Selection"
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## The Ultimate Easygoing PC Game Guide

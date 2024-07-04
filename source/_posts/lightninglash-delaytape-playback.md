@@ -1,7 +1,7 @@
 ---
 title: "LightningLash DelayTape Playback"
-date: 2024-05-18T03:59:19.905Z
-updated: 2024-05-19T03:59:19.905Z
+date: 2024-07-03T22:15:08.422Z
+updated: 2024-07-04T22:15:08.422Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes LightningLash DelayTape Playback"
 excerpt: "This Article Describes LightningLash DelayTape Playback"
 keywords: "\"Game High Fidelity,OBS Gaming Quality,OBS Video Output,Realistic Gameplay OBS,Enhanced Gaming Sound,Audio-Visual Game Capture,Ultra HD Game Streaming\""
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## LightningLash DelayTape Playback

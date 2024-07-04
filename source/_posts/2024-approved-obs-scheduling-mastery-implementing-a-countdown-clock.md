@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Obs Scheduling Mastery  Implementing a Countdown Clock\""
-date: 2024-05-18T04:29:44.916Z
-updated: 2024-05-19T04:29:44.916Z
+date: 2024-07-03T22:15:10.659Z
+updated: 2024-07-04T22:15:10.659Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Obs Scheduling Mastery: Implementing a Countdown Clock\""
 excerpt: "\"This Article Describes 2024 Approved: Obs Scheduling Mastery: Implementing a Countdown Clock\""
 keywords: "\"ScreenFlow Tutorials,Mac Video Editing Guide,ScreenFlow for Editors,Streamline Video Workflow,Mastering Mac Video Creation,Mac-Based ScreenFlow Use,Enhance Edits with ScreenFlow\""
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Obs Scheduling Mastery: Implementing a Countdown Clock

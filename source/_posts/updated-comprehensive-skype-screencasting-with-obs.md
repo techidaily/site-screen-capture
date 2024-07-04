@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Comprehensive Skype Screencasting with OBS"
-date: 2024-05-18T04:08:32.324Z
-updated: 2024-05-19T04:08:32.324Z
+date: 2024-07-03T22:15:04.604Z
+updated: 2024-07-04T22:15:04.604Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Comprehensive Skype Screencasting with OBS"
 excerpt: "This Article Describes [Updated] Comprehensive Skype Screencasting with OBS"
 keywords: "OBS Screencast Tips,Skype Screencast Guide,OBS for Skype Video,Master Skype Screencasts,Easy Skype Screencasting,OBS Integration with Skype,Skype Broadcasting Techniques"
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Comprehensive Skype Screencasting with OBS

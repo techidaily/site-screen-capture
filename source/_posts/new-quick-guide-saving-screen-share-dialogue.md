@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Guide  Saving Screen Share Dialogue\""
-date: 2024-05-18T04:23:34.533Z
-updated: 2024-05-19T04:23:34.533Z
+date: 2024-07-03T22:15:06.293Z
+updated: 2024-07-04T22:15:06.293Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Quick Guide: Saving Screen Share Dialogue\""
 excerpt: "\"This Article Describes [New] Quick Guide: Saving Screen Share Dialogue\""
 keywords: "Save Screen Chat,Fast Screen Sharing Help,Quick Screen Dialog Guide,Speedy Screen Share Tips,Efficient Screen Commms,Rapid Dialogue Saving,Swift Screen Dialog Secrets"
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Quick Guide: Saving Screen Share Dialogue

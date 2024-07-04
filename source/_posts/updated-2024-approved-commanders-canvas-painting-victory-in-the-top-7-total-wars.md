@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Commanders' Canvas  Painting Victory in the Top 7 Total Wars\""
-date: 2024-05-19T20:09:34.237Z
-updated: 2024-05-20T20:09:34.237Z
+date: 2024-07-03T22:15:05.981Z
+updated: 2024-07-04T22:15:05.981Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Commanders' Canvas: Painting Victory in the Top 7 Total Wars\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Commanders' Canvas: Painting Victory in the Top 7 Total Wars\""
 keywords: "Commanders' Art Tactics,War Leaders Strategies,Total War Masterpieces,Battlefield Canvas Paintings,Victory Mural Top Games,Elite Game Commanders,Top 7 Total War Stories"
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Commanders' Canvas: Painting Victory in the Top 7 Total Wars

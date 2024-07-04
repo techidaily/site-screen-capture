@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Windows 11 Game Recording [5 Methods]"
-date: 2024-05-19T20:09:48.790Z
-updated: 2024-05-20T20:09:48.790Z
+date: 2024-07-03T22:15:09.891Z
+updated: 2024-07-04T22:15:09.891Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Windows 11 Game Recording [5 Methods]"
 excerpt: "This Article Describes [Updated] Windows 11 Game Recording [5 Methods]"
 keywords: "Win11 Gaming Record [5 Ways],Win11 Game Capture [Multiple Techniques],Windows 11 Gamerecorder [5 Methods],Win11 Gaming Record Tools [5 Options],Windows Game Save Video [Windows 11 Techniques],Gam3rWin11 [Record Games Easy],Win11 Game Vid Save [5 Methods]"
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Windows 11 Game Recording [5 Methods]

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick and Quiet Recording of Games"
-date: 2024-05-19T20:08:55.260Z
-updated: 2024-05-20T20:08:55.260Z
+date: 2024-07-03T22:15:07.698Z
+updated: 2024-07-04T22:15:07.698Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Quick and Quiet Recording of Games"
 excerpt: "This Article Describes [Updated] Quick and Quiet Recording of Games"
 keywords: "\"Game Game Record Quick,Gaming Silent Capture,Fast Game Audio Save,Quiet Game Playback,Rapid Video Game Scratch,Efficient Gaming Mini-Dub,Stealthy Recorder Games\""
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Quick and Quiet Recording of Games

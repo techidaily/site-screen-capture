@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skype Groups  Setting Up Windows/Mac Conversations\""
-date: 2024-05-18T04:20:34.929Z
-updated: 2024-05-19T04:20:34.929Z
+date: 2024-07-03T22:15:05.881Z
+updated: 2024-07-04T22:15:05.881Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Skype Groups: Setting Up Windows/Mac Conversations\""
 excerpt: "\"This Article Describes [New] Skype Groups: Setting Up Windows/Mac Conversations\""
 keywords: "\"Skype Group Chat Windows,Mac Skype Messaging Groups,Windows-Based Skype Discussion,Creating Skype Windows Groups,Setting Up Mac Skype Conversations,Form Windows Skype Collectives,Organize Mac Skype Dialogues\""
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## Skype Groups: Setting Up Windows/Mac Conversations

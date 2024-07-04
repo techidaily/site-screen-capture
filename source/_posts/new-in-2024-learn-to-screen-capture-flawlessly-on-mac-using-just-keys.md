@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Learn to Screen Capture Flawlessly on Mac Using Just Keys"
-date: 2024-05-18T04:19:52.562Z
-updated: 2024-05-19T04:19:52.562Z
+date: 2024-07-03T22:15:10.688Z
+updated: 2024-07-04T22:15:10.688Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Learn to Screen Capture Flawlessly on Mac Using Just Keys"
 excerpt: "This Article Describes [New] In 2024, Learn to Screen Capture Flawlessly on Mac Using Just Keys"
 keywords: "Mac Screen Capture Techniques,Keyboard Mac Screenshots,Easy Mac Flawless Captures,Learn Mac Screen Save Tricks,Mac Keys for Screenshot,Master Mac Screenshot Skills,Perfect Mac Shot with Keys"
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## Learn to Screen Capture Flawlessly on Mac Using Just Keys

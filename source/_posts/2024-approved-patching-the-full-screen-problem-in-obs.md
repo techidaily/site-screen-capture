@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Patching the Full-Screen Problem in OBS\""
-date: 2024-05-18T04:24:51.835Z
-updated: 2024-05-19T04:24:51.835Z
+date: 2024-07-03T22:15:04.353Z
+updated: 2024-07-04T22:15:04.353Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Patching the Full-Screen Problem in OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Patching the Full-Screen Problem in OBS\""
 keywords: "OBS Fullscreen Issue Fix,OBS Patch Fullscreen,Resolve OBS Screen Bug,OBS Screen Fix Guide,Overcoming OBS Fullscreen,OBS Fullview Solution,Debugging OBS Fullscreen"
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## Patching the Full-Screen Problem in OBS

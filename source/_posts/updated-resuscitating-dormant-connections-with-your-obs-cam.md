@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resuscitating Dormant Connections with Your OBS Cam"
-date: 2024-05-19T20:09:44.802Z
-updated: 2024-05-20T20:09:44.802Z
+date: 2024-07-03T22:15:05.167Z
+updated: 2024-07-04T22:15:05.167Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Resuscitating Dormant Connections with Your OBS Cam"
 excerpt: "This Article Describes [Updated] Resuscitating Dormant Connections with Your OBS Cam"
 keywords: "OBS Camera Revival,Resuscitate OBS Links,Reactivate OBS Streams,OBS Connection Revive,Dormant OBS Connections,Reawaken OBS Video,OBS Cam Reboot Guide"
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## Resuscitating Dormant Connections with Your OBS Cam

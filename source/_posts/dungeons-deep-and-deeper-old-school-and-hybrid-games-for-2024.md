@@ -1,7 +1,7 @@
 ---
 title: "\"Dungeons Deep & Deeper  Old School and Hybrid Games for 2024\""
-date: 2024-05-18T04:07:00.418Z
-updated: 2024-05-19T04:07:00.418Z
+date: 2024-07-18T21:08:57.084Z
+updated: 2024-07-19T21:08:57.084Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Dungeons Deep & Deeper: Old School and Hybrid Games for 2024\""
 excerpt: "\"This Article Describes Dungeons Deep & Deeper: Old School and Hybrid Games for 2024\""
 keywords: "\"Dungeon RPGs,Old-School RPG,Hybrid Gameplay,Deep Dive Gaming,Deeper Dungeons,Classic RPG Games,Traditional Role Play\""
-thumbnail: https://www.lifewire.com/thmb/CewnPdEDUshSU0PnqqyQxiaIaFw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-language-exchange-websites-1357059-d87c92dbdba3429dbf17d51ba313b1ff.png
+thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b827af6bb095b68b19082ca48f.png
 ---
 
 ## Dungeons Deep & Deeper: Old School and Hybrid Games
@@ -39,10 +39,16 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 ## What is a Roguelike Game?
@@ -51,6 +57,9 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
@@ -101,6 +110,9 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -109,6 +121,9 @@ For this genre, we've chosen three games that are completely different to illust
 
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 #### Slay the Spire
@@ -121,12 +136,18 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -141,6 +162,9 @@ Follow @Ollie Mattison
 
 Game developers and designers have experimented with a variety of video game genres across the years. None, however, have been stretched as far as roguelikes and roguelites. You've probably heard these terms used to describe recent hit games such as _Hades_, _Dead Cells,_ and _Binding of Isaac_ and have wondered if there's a difference. While both of these game types share a lot of common elements and the lines between them are seemingly blurred, there is a clear distinction between roguelikes and roguelites.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![isaac-poster](https://images.wondershare.com/filmora/article-images/isaac-poster.jpg)
 
 ---
@@ -153,16 +177,25 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 ## What is a Roguelite Game?
@@ -177,6 +210,9 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Clear Distinction
 
 Regardless of where you stand on what defines a faithful roguelike, the distinction between it and roguelites is quite straightforward. You know you are playing a roguelike when dying means you **lose it all**. No matter how far into the game you've progressed, one misstep means all of the time and work you put into your progress has come to an end. Roguelites, on the other hand, prefer to give you **some sense of progression**, making them **friendlier** for players who don't want to play with the stress of potentially losing everything.
@@ -215,6 +251,9 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -239,6 +278,9 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -274,3 +316,48 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>[New] 2024 Approved  Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>[New] 2024 Approved  Step-by-Step  Full PS4 Game Recording in OBS Studio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-comprehensible-guide-to-wincams-bests/"><u>[New] 2024 Approved  The Comprehensible Guide to WinCams' Bests</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-essential-audacity-manual-for-mac-audio-capture/"><u>[New] 2024 Approved  The Essential Audacity Manual for Mac Audio Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-tranquil-touchscreen-best-idle-phone-adventures/"><u>[New] 2024 Approved  Tranquil Touchscreen  Best Idle Phone Adventures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-x-media-library-manager-personal-computer/"><u>[New] 2024 Approved  X-Media Library Manager, Personal Computer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-xiaomi-11-series-a-visual-journey-through-precision-recording/"><u>[New] 2024 Approved  Xiaomi 11 Series  A Visual Journey Through Precision Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-be-a-social-media-wizard-best-tweeter-video-tools/"><u>[New] Be a Social Media Wizard  Best Tweeter Video Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-guide-to-ios-screen-recording-essentials/"><u>[New] Guide to iOS Screen Recording Essentials</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-halt-real-time-audiovideo-capturing-on-apples-platform-for-2024/"><u>[New] Halt Real-Time Audio/Video Capturing on Apple's Platform for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-economical-desktop-encoder-software-guide-revealed/"><u>[New] In 2024, Economical Desktop Encoder Software Guide Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>[New] In 2024, Elevating Gameplay  Tips for Using the Steam Switch Controller</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-prime-8-android-apps-for-multi-person-video-conferencing/"><u>[New] In 2024, Prime 8 Android Apps for Multi-Person Video Conferencing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-iphoneipad-video-and-image-archive/"><u>[New] In 2024, The Ultimate iPhone/iPad Video & Image Archive</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-superior-top-ten-nintendo-switch-combat-games-max-156-for-2024/"><u>[New] Superior Top Ten Nintendo Switch Combat Games (Max 156) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-transform-ppt-content-into-digital-filmstrip-for-2024/"><u>[New] Transform PPT Content Into Digital Filmstrip for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-all-you-need-to-know-about-mobizens-screen-capture/"><u>[Updated] 2024 Approved  All You Need to Know About Mobizen's Screen Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-coded-chronicles-top-10-roguelike-journeys/"><u>[Updated] 2024 Approved  Coded Chronicles  Top 10 Roguelike Journeys</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pc-screenshot-wizardry-unveiling-apowersoft-screen-recorder/"><u>[Updated] 2024 Approved  PC Screenshot Wizardry  Unveiling Apowersoft Screen Recorder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-capturing-the-skyline-drone-cinematography-tips-for-2024/"><u>[Updated] Capturing the Skyline  Drone Cinematography Tips for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-change-saving-spot-for-macs-photos/"><u>[Updated] Change Saving Spot for Mac's Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-methods-for-effortless-recording-of-your-google-classes/"><u>[Updated] In 2024, Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-dissonant-designs-mastering-on-a-mac/"><u>[Updated] In 2024, Dissonant Designs  Mastering on a Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ideal-tools-for-documenting-classroom-engagement/"><u>[Updated] In 2024, Ideal Tools for Documenting Classroom Engagement</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stardews-ultimate-customization-guide-the-top-7-mods-listed/"><u>[Updated] In 2024, Stardew's Ultimate Customization Guide  The Top 7 Mods Listed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-right-approach-for-accurate-google-speech-to-text/"><u>[Updated] In 2024, The Right Approach for Accurate Google Speech-to-Text</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-overcoming-absence-of-color-in-game-feed-for-2024/"><u>[Updated] Overcoming Absence of Color in Game Feed for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-top-8-mirrorless-cameras-ideal-for-vloggers-for-2024/"><u>[Updated] Top 8 Mirrorless Cameras Ideal for Vloggers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-picks-in-depth-review-of-best-macos-screenshot-apps-for-2024/"><u>[Updated] Top Picks  In-Depth Review of Best macOS Screenshot Apps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-windows-best-video-talks-ranked-1-8-for-2024/"><u>[Updated] Windows' Best Video Talks  Ranked #1-8 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-lut-techniques-for-professional-color-grading-and-correction/"><u>2024 Approved  LUT Techniques for Professional Color Grading and Correction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6s-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-redmi-k70-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Redmi K70 Pro ?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-7-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 7 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-chrome-audio-recording-leaders-the-top-6-innovative-microphones-to-watch/"><u>In 2024, Chrome Audio Recording Leaders The Top 6 Innovative Microphones to Watch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-lol-streaming-made-easy-mastering-video-capture-in-3-steps/"><u>In 2024, LOL Streaming Made Easy  Mastering Video Capture in 3 Steps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-fair-use-navigating-youtube-copyright-challenges/"><u>In 2024, Mastering Fair Use  Navigating YouTube Copyright Challenges</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-want-to-learn-how-to-crop-or-trim-video-in-powerpoint-we-have-got-you-covered-we-have-given-a-step-by-step-guide-that-will-allow-you-to-trim-and-cro/"><u>In 2024, Want to Learn How to Crop or Trim Video in PowerPoint? We Have Got You Covered; We Have Given a Step-by-Step Guide that Will Allow You to Trim and Crop Videos Using This Presentation Program</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-7-plus-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 7 Plus? Fixed | Dr.fone</u></a></li>
+</ul></div>

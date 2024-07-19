@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capture Your Discord Sessions  A Guide\""
-date: 2024-05-19T20:08:56.458Z
-updated: 2024-05-20T20:08:56.458Z
+date: 2024-07-18T18:29:28.766Z
+updated: 2024-07-19T18:29:28.766Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Capture Your Discord Sessions: A Guide\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Capture Your Discord Sessions: A Guide\""
 keywords: "\"Discord Session Recording Tips,Save Discord Chats Easily,Capture Discord Live Gaming,Guides for Discord Sessions,Stream Your Discord Gameplay,DiscoRecord: Essentials Guide,Keeping Track of Discord Events\""
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## Capture Your Discord Sessions: A Guide
@@ -39,6 +39,9 @@ Step 1: Download and Install Filmora
 
 In the first step, all you need to do is download and install this software to your MacBook so you can use it on various occasions and for various purposes like screen recording to recordings editing. To do that, follow the link below to download this software for Discord recording.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the recording screen](https://images.wondershare.com/filmora/article-images/the-recording-screen.jpg)
 
 As soon as the download finishes hit the launch application to execute the installation process so you can follow the default steps to get this software in your PC applications in a ready-to-use form.
@@ -47,6 +50,9 @@ Step 2: Launch Discord Recording
 
 In this step, you shall have installed Wondershare Filmora, and now is the time to launch it from your MacBook. As soon as you launch it, you shall see a window interface appearing for two options of recording screen to editing your previous videos or creating videos with this software. Click on the Recording option from the menu. As soon as you hit the recording button, the software will lead you into the recording interface which is the intuitive platform to customize the audio and webcam settings according to your requirements. To include the microphone or Discord sound, you can hit the required buttons to that specified field as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora launch discord recording](https://images.wondershare.com/filmora/article-images/filmora-launch-discord-recording.jpg)
 
 Step 3: Start /Stop Recording
@@ -77,6 +83,9 @@ This is definitely a quick yet comprehensive guide how to record Discord audio t
 
 ****Step 3:** By arrears, audio tracks is documented as a empty video in. MKV format. To choose an alternative format, click on Output, then choose an alternative option from the menus close to Recording Structure. To permit or even disable your mic recording, click upon the loudspeaker image found in the Sound Mixer section.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs start recording](https://images.wondershare.com/filmora/article-images/obs-start-recording.jpg)
 
 ****Step 4:** Close to the loudspeaker image, you should discover a blue slider. Shift it in order to regulate recording quantity. To find your own recordings, click Document, then Show Songs.
@@ -99,6 +108,116 @@ You may use Audacity in order to record from your own microphone which can pick 
 
 ****Step 3:** Set Audacity to record making use of your mic. You are not able to occurs mic in order to talk otherwise a person will talk on the recording.
 
+![sudacity record making use of mic](https://images.wondershare.com/filmora/article-images/sudacity-record-making-use-of-mic.jpg)
+
+****Step 4:** You will certainly also have to ensure the mic is usually far enough aside from your loudspeakers to not conflict with the sound but still obtain it. It’s a good inelegant solution yet it could work. Lastly, done with the recording by referring to the Record button as shown here:
+
+![audacity record button](https://images.wondershare.com/filmora/article-images/audacity-record-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+As a tone of voice and text talk app, Discord assists gamers talk in order to one another in current with high quality and low latency. Sometimes you may want to report the sound plus video calls upon it, and discover that there’s simply no official way in order to do that. As a result, how to report Discord calls? Really, it’s very easy by using some dependable third-party tools. Discord is an outstanding chat and conversation application that created for game players. This really is regularly utilized by gamers regarding its high effectiveness in communication. Discord is really the lightweight program that will won’t take upward much hardware-driven area on computer.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and Install Filmora
+
+In the first step, all you need to do is download and install this software to your MacBook so you can use it on various occasions and for various purposes like screen recording to recordings editing. To do that, follow the link below to download this software for Discord recording.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![the recording screen](https://images.wondershare.com/filmora/article-images/the-recording-screen.jpg)
+
+As soon as the download finishes hit the launch application to execute the installation process so you can follow the default steps to get this software in your PC applications in a ready-to-use form.
+
+Step 2: Launch Discord Recording
+
+In this step, you shall have installed Wondershare Filmora, and now is the time to launch it from your MacBook. As soon as you launch it, you shall see a window interface appearing for two options of recording screen to editing your previous videos or creating videos with this software. Click on the Recording option from the menu. As soon as you hit the recording button, the software will lead you into the recording interface which is the intuitive platform to customize the audio and webcam settings according to your requirements. To include the microphone or Discord sound, you can hit the required buttons to that specified field as shown below:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora launch discord recording](https://images.wondershare.com/filmora/article-images/filmora-launch-discord-recording.jpg)
+
+Step 3: Start /Stop Recording
+
+Now as all the settings are done and dusted, it’s time to hit the recording button and be with it. To proceed with the recordings, hit the red circled button which after giving you a specific 3-5 seconds, eventually start recordings the customized screen of your PC efficiently as shown below:
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
+
+Step 4: Export Discord Recording
+
+The best part with the Wondershare Filmora is that you can export as well as share your output video file directly to YouTube as well with the only requirement as the Sign in to your YouTube channel within the software as follow:
+
+## Way 2\. Use OBS
+
+OBS (Open Broadcaster Software) may be the open-source tool that allows you capture Discord sound from your own desktop on windows, Mac and Linux. With OBS, a person can broadcast your own Discord sound plus share the video gaming conversation. Follow the particular procedure for report Discord calls along with OBS. OBS provides considerably more sound settings than Discord. Therefore, some streamers decide to record sound using OBS plus output it in order to Discord. You are usually able to report an unlimited quantity of sessions for totally free. They have an additional benefit of a built/in video editor because well, which will certainly be available within useful in situation in case a person is trying in order to create a movie podcast.
+
+OBS utilizes open-source movie encoding library x264 to encode movie, which would become very CPU rigorous. Nevertheless, you may take off lots CPU utilization making use of hardware encoders run by Quick sync, AMF, or NVENC. If you need to record Discord sound on your pc at no price, it would be easiest able in order to take OBS in to consideration. OBS will be really a totally free and open-source documenting and streaming software that works upon Windows, macOS plus Linux. Whether you would like to record sound or even video from Discord, it’s best in order to do this using OBS. Open Broadcast Software program is free, open-source, and it will be among the world’s most widely utilized items of video recording/streaming software.
+
+This is definitely a quick yet comprehensive guide how to record Discord audio tracks or video clip using OBS. The particular actual steps beneath to records Discord audio tracks using OBS:
+
+****Step 1:** Visit OBS’s standard website and down load the kind associated with version for your own OS. Install OBS on your computer and sign upward. In OBS, click on the in-addition icon (+) situated at the underside of your display screen, in the Resources section.
+
+![obs in addition icon](https://images.wondershare.com/filmora/article-images/obs-in-addition-icon.jpg)
+
+****Step 2:** From the particular dropdown menu, choose Audio Output Catch. Name your audio tracks source and click on Ok, guarantee the particular Make source obvious option is examined. Expand the dropdown menu next in order to Device and choose your audio tracks result device, for illustration, headphones or audio speakers. Click Ok. Click on on the Begin Recording button found in the Controls area at the bottom-right corner of your own screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![obs dropdown menu audio output catch](https://images.wondershare.com/filmora/article-images/obs-dropdown-menu-audio-output-catch.jpg)
+
+****Step 3:** By arrears, audio tracks is documented as a empty video in. MKV format. To choose an alternative format, click on Output, then choose an alternative option from the menus close to Recording Structure. To permit or even disable your mic recording, click upon the loudspeaker image found in the Sound Mixer section.
+
+![obs start recording](https://images.wondershare.com/filmora/article-images/obs-start-recording.jpg)
+
+****Step 4:** Close to the loudspeaker image, you should discover a blue slider. Shift it in order to regulate recording quantity. To find your own recordings, click Document, then Show Songs.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![obs document show recordings](https://images.wondershare.com/filmora/article-images/obs-document-show-recordings.jpg)
+
+## Way 3\. Use Audacity
+
+Audacity is a free of charge and open supply audio tracks recorder plus editor for windows, macOS X, Linux/GNU and other working systems. With Audacity, you can report discord audio, reside audio tracks and audio tracks playback. What’s a lot more, you can report and convert cassette tapes to MP3 FORMAT or CD. Discover how to report discord audio tracks along with Audacity. You are usually able to report Discord audio tracks along with Audacity. Nevertheless, in the event that you’re planning in order to record a tone of voice chat and desire to hear your own personal voice on the particular recording as properly as other individuals, you’re out associated with luck. Audacity just has a one audio tracks input, therefore that you may either hear specifications of your very own voice or various other people’s although not each. You can make use of OBS or Filmora for this.
+
+You may use Audacity in order to record from your own microphone which can pick up audio tracks from Discord out of your speakers. It’s the convoluted setup yet gets the work done. Now, Along with Discord, this will certainly also be the particular main gaming talk platform that is usually available on the particular internet and furthermore the Audacity. This particular can also become among the best free sound editing programs close to. Now, this may also make a few senses to notice if both associated with these works with each other. Therefore, you may also record Discord sound with Audacity. Although, if a person is also preparing to record the voice chat and after that also want in order to hear this within your own tone of voice on the documenting.
+
+****Step 1:** Download and set up Audacity. Select Modify and Preferences inside Audacity once packed. Select Devices through the popup windowpane.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+![audacity download and set up](https://images.wondershare.com/filmora/article-images/audacity-download-and-set-up.jpg)
+
+****Step 2:** Select the Documenting device as your own microphone. Have the particular voice chat arrive through your loudspeakers loud enough in order to record.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![audacity select the documenting device](https://images.wondershare.com/filmora/article-images/audacity-select-the-documenting-device.jpg)
+
+****Step 3:** Set Audacity to record making use of your mic. You are not able to occurs mic in order to talk otherwise a person will talk on the recording.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sudacity record making use of mic](https://images.wondershare.com/filmora/article-images/sudacity-record-making-use-of-mic.jpg)
 
 ****Step 4:** You will certainly also have to ensure the mic is usually far enough aside from your loudspeakers to not conflict with the sound but still obtain it. It’s a good inelegant solution yet it could work. Lastly, done with the recording by referring to the Record button as shown here:
@@ -147,6 +266,18 @@ This is definitely a quick yet comprehensive guide how to record Discord audio t
 
 ****Step 1:** Visit OBS’s standard website and down load the kind associated with version for your own OS. Install OBS on your computer and sign upward. In OBS, click on the in-addition icon (+) situated at the underside of your display screen, in the Resources section.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs in addition icon](https://images.wondershare.com/filmora/article-images/obs-in-addition-icon.jpg)
 
 ****Step 2:** From the particular dropdown menu, choose Audio Output Catch. Name your audio tracks source and click on Ok, guarantee the particular Make source obvious option is examined. Expand the dropdown menu next in order to Device and choose your audio tracks result device, for illustration, headphones or audio speakers. Click Ok. Click on on the Begin Recording button found in the Controls area at the bottom-right corner of your own screen.
@@ -173,16 +304,28 @@ You may use Audacity in order to record from your own microphone which can pick 
 
 ****Step 2:** Select the Documenting device as your own microphone. Have the particular voice chat arrive through your loudspeakers loud enough in order to record.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audacity select the documenting device](https://images.wondershare.com/filmora/article-images/audacity-select-the-documenting-device.jpg)
 
 ****Step 3:** Set Audacity to record making use of your mic. You are not able to occurs mic in order to talk otherwise a person will talk on the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sudacity record making use of mic](https://images.wondershare.com/filmora/article-images/sudacity-record-making-use-of-mic.jpg)
 
 ****Step 4:** You will certainly also have to ensure the mic is usually far enough aside from your loudspeakers to not conflict with the sound but still obtain it. It’s a good inelegant solution yet it could work. Lastly, done with the recording by referring to the Record button as shown here:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audacity record button](https://images.wondershare.com/filmora/article-images/audacity-record-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 As a tone of voice and text talk app, Discord assists gamers talk in order to one another in current with high quality and low latency. Sometimes you may want to report the sound plus video calls upon it, and discover that there’s simply no official way in order to do that. As a result, how to report Discord calls? Really, it’s very easy by using some dependable third-party tools. Discord is an outstanding chat and conversation application that created for game players. This really is regularly utilized by gamers regarding its high effectiveness in communication. Discord is really the lightweight program that will won’t take upward much hardware-driven area on computer.
@@ -203,18 +346,27 @@ Step 2: Launch Discord Recording
 
 In this step, you shall have installed Wondershare Filmora, and now is the time to launch it from your MacBook. As soon as you launch it, you shall see a window interface appearing for two options of recording screen to editing your previous videos or creating videos with this software. Click on the Recording option from the menu. As soon as you hit the recording button, the software will lead you into the recording interface which is the intuitive platform to customize the audio and webcam settings according to your requirements. To include the microphone or Discord sound, you can hit the required buttons to that specified field as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora launch discord recording](https://images.wondershare.com/filmora/article-images/filmora-launch-discord-recording.jpg)
 
 Step 3: Start /Stop Recording
 
 Now as all the settings are done and dusted, it’s time to hit the recording button and be with it. To proceed with the recordings, hit the red circled button which after giving you a specific 3-5 seconds, eventually start recordings the customized screen of your PC efficiently as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
 
 Step 4: Export Discord Recording
 
 The best part with the Wondershare Filmora is that you can export as well as share your output video file directly to YouTube as well with the only requirement as the Sign in to your YouTube channel within the software as follow:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 2\. Use OBS
 
 OBS (Open Broadcaster Software) may be the open-source tool that allows you capture Discord sound from your own desktop on windows, Mac and Linux. With OBS, a person can broadcast your own Discord sound plus share the video gaming conversation. Follow the particular procedure for report Discord calls along with OBS. OBS provides considerably more sound settings than Discord. Therefore, some streamers decide to record sound using OBS plus output it in order to Discord. You are usually able to report an unlimited quantity of sessions for totally free. They have an additional benefit of a built/in video editor because well, which will certainly be available within useful in situation in case a person is trying in order to create a movie podcast.
@@ -239,6 +391,9 @@ This is definitely a quick yet comprehensive guide how to record Discord audio t
 
 ![obs document show recordings](https://images.wondershare.com/filmora/article-images/obs-document-show-recordings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3\. Use Audacity
 
 Audacity is a free of charge and open supply audio tracks recorder plus editor for windows, macOS X, Linux/GNU and other working systems. With Audacity, you can report discord audio, reside audio tracks and audio tracks playback. What’s a lot more, you can report and convert cassette tapes to MP3 FORMAT or CD. Discover how to report discord audio tracks along with Audacity. You are usually able to report Discord audio tracks along with Audacity. Nevertheless, in the event that you’re planning in order to record a tone of voice chat and desire to hear your own personal voice on the particular recording as properly as other individuals, you’re out associated with luck. Audacity just has a one audio tracks input, therefore that you may either hear specifications of your very own voice or various other people’s although not each. You can make use of OBS or Filmora for this.
@@ -247,6 +402,9 @@ You may use Audacity in order to record from your own microphone which can pick 
 
 ****Step 1:** Download and set up Audacity. Select Modify and Preferences inside Audacity once packed. Select Devices through the popup windowpane.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audacity download and set up](https://images.wondershare.com/filmora/article-images/audacity-download-and-set-up.jpg)
 
 ****Step 2:** Select the Documenting device as your own microphone. Have the particular voice chat arrive through your loudspeakers loud enough in order to record.
@@ -255,84 +413,9 @@ You may use Audacity in order to record from your own microphone which can pick 
 
 ****Step 3:** Set Audacity to record making use of your mic. You are not able to occurs mic in order to talk otherwise a person will talk on the recording.
 
-![sudacity record making use of mic](https://images.wondershare.com/filmora/article-images/sudacity-record-making-use-of-mic.jpg)
-
-****Step 4:** You will certainly also have to ensure the mic is usually far enough aside from your loudspeakers to not conflict with the sound but still obtain it. It’s a good inelegant solution yet it could work. Lastly, done with the recording by referring to the Record button as shown here:
-
-![audacity record button](https://images.wondershare.com/filmora/article-images/audacity-record-button.jpg)
-
-## Conclusion
-
-As a tone of voice and text talk app, Discord assists gamers talk in order to one another in current with high quality and low latency. Sometimes you may want to report the sound plus video calls upon it, and discover that there’s simply no official way in order to do that. As a result, how to report Discord calls? Really, it’s very easy by using some dependable third-party tools. Discord is an outstanding chat and conversation application that created for game players. This really is regularly utilized by gamers regarding its high effectiveness in communication. Discord is really the lightweight program that will won’t take upward much hardware-driven area on computer.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and Install Filmora
-
-In the first step, all you need to do is download and install this software to your MacBook so you can use it on various occasions and for various purposes like screen recording to recordings editing. To do that, follow the link below to download this software for Discord recording.
-
-![the recording screen](https://images.wondershare.com/filmora/article-images/the-recording-screen.jpg)
-
-As soon as the download finishes hit the launch application to execute the installation process so you can follow the default steps to get this software in your PC applications in a ready-to-use form.
-
-Step 2: Launch Discord Recording
-
-In this step, you shall have installed Wondershare Filmora, and now is the time to launch it from your MacBook. As soon as you launch it, you shall see a window interface appearing for two options of recording screen to editing your previous videos or creating videos with this software. Click on the Recording option from the menu. As soon as you hit the recording button, the software will lead you into the recording interface which is the intuitive platform to customize the audio and webcam settings according to your requirements. To include the microphone or Discord sound, you can hit the required buttons to that specified field as shown below:
-
-![filmora launch discord recording](https://images.wondershare.com/filmora/article-images/filmora-launch-discord-recording.jpg)
-
-Step 3: Start /Stop Recording
-
-Now as all the settings are done and dusted, it’s time to hit the recording button and be with it. To proceed with the recordings, hit the red circled button which after giving you a specific 3-5 seconds, eventually start recordings the customized screen of your PC efficiently as shown below:
-
-![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
-
-Step 4: Export Discord Recording
-
-The best part with the Wondershare Filmora is that you can export as well as share your output video file directly to YouTube as well with the only requirement as the Sign in to your YouTube channel within the software as follow:
-
-## Way 2\. Use OBS
-
-OBS (Open Broadcaster Software) may be the open-source tool that allows you capture Discord sound from your own desktop on windows, Mac and Linux. With OBS, a person can broadcast your own Discord sound plus share the video gaming conversation. Follow the particular procedure for report Discord calls along with OBS. OBS provides considerably more sound settings than Discord. Therefore, some streamers decide to record sound using OBS plus output it in order to Discord. You are usually able to report an unlimited quantity of sessions for totally free. They have an additional benefit of a built/in video editor because well, which will certainly be available within useful in situation in case a person is trying in order to create a movie podcast.
-
-OBS utilizes open-source movie encoding library x264 to encode movie, which would become very CPU rigorous. Nevertheless, you may take off lots CPU utilization making use of hardware encoders run by Quick sync, AMF, or NVENC. If you need to record Discord sound on your pc at no price, it would be easiest able in order to take OBS in to consideration. OBS will be really a totally free and open-source documenting and streaming software that works upon Windows, macOS plus Linux. Whether you would like to record sound or even video from Discord, it’s best in order to do this using OBS. Open Broadcast Software program is free, open-source, and it will be among the world’s most widely utilized items of video recording/streaming software.
-
-This is definitely a quick yet comprehensive guide how to record Discord audio tracks or video clip using OBS. The particular actual steps beneath to records Discord audio tracks using OBS:
-
-****Step 1:** Visit OBS’s standard website and down load the kind associated with version for your own OS. Install OBS on your computer and sign upward. In OBS, click on the in-addition icon (+) situated at the underside of your display screen, in the Resources section.
-
-![obs in addition icon](https://images.wondershare.com/filmora/article-images/obs-in-addition-icon.jpg)
-
-****Step 2:** From the particular dropdown menu, choose Audio Output Catch. Name your audio tracks source and click on Ok, guarantee the particular Make source obvious option is examined. Expand the dropdown menu next in order to Device and choose your audio tracks result device, for illustration, headphones or audio speakers. Click Ok. Click on on the Begin Recording button found in the Controls area at the bottom-right corner of your own screen.
-
-![obs dropdown menu audio output catch](https://images.wondershare.com/filmora/article-images/obs-dropdown-menu-audio-output-catch.jpg)
-
-****Step 3:** By arrears, audio tracks is documented as a empty video in. MKV format. To choose an alternative format, click on Output, then choose an alternative option from the menus close to Recording Structure. To permit or even disable your mic recording, click upon the loudspeaker image found in the Sound Mixer section.
-
-![obs start recording](https://images.wondershare.com/filmora/article-images/obs-start-recording.jpg)
-
-****Step 4:** Close to the loudspeaker image, you should discover a blue slider. Shift it in order to regulate recording quantity. To find your own recordings, click Document, then Show Songs.
-
-![obs document show recordings](https://images.wondershare.com/filmora/article-images/obs-document-show-recordings.jpg)
-
-## Way 3\. Use Audacity
-
-Audacity is a free of charge and open supply audio tracks recorder plus editor for windows, macOS X, Linux/GNU and other working systems. With Audacity, you can report discord audio, reside audio tracks and audio tracks playback. What’s a lot more, you can report and convert cassette tapes to MP3 FORMAT or CD. Discover how to report discord audio tracks along with Audacity. You are usually able to report Discord audio tracks along with Audacity. Nevertheless, in the event that you’re planning in order to record a tone of voice chat and desire to hear your own personal voice on the particular recording as properly as other individuals, you’re out associated with luck. Audacity just has a one audio tracks input, therefore that you may either hear specifications of your very own voice or various other people’s although not each. You can make use of OBS or Filmora for this.
-
-You may use Audacity in order to record from your own microphone which can pick up audio tracks from Discord out of your speakers. It’s the convoluted setup yet gets the work done. Now, Along with Discord, this will certainly also be the particular main gaming talk platform that is usually available on the particular internet and furthermore the Audacity. This particular can also become among the best free sound editing programs close to. Now, this may also make a few senses to notice if both associated with these works with each other. Therefore, you may also record Discord sound with Audacity. Although, if a person is also preparing to record the voice chat and after that also want in order to hear this within your own tone of voice on the documenting.
-
-****Step 1:** Download and set up Audacity. Select Modify and Preferences inside Audacity once packed. Select Devices through the popup windowpane.
-
-![audacity download and set up](https://images.wondershare.com/filmora/article-images/audacity-download-and-set-up.jpg)
-
-****Step 2:** Select the Documenting device as your own microphone. Have the particular voice chat arrive through your loudspeakers loud enough in order to record.
-
-![audacity select the documenting device](https://images.wondershare.com/filmora/article-images/audacity-select-the-documenting-device.jpg)
-
-****Step 3:** Set Audacity to record making use of your mic. You are not able to occurs mic in order to talk otherwise a person will talk on the recording.
-
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sudacity record making use of mic](https://images.wondershare.com/filmora/article-images/sudacity-record-making-use-of-mic.jpg)
 
 ****Step 4:** You will certainly also have to ensure the mic is usually far enough aside from your loudspeakers to not conflict with the sound but still obtain it. It’s a good inelegant solution yet it could work. Lastly, done with the recording by referring to the Record button as shown here:
@@ -368,3 +451,51 @@ As a tone of voice and text talk app, Discord assists gamers talk in order to on
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zoom-webinar-mastery-a-novices-step-by-step-tutorial/"><u>[New] 2024 Approved  Zoom Webinar Mastery  A Novice's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-effortless-multimedia-collaboration-streamwork/"><u>[New] Effortless Multimedia Collaboration  StreamWork</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-strategies-for-keeping-a-log-of-whatsapp-calls/"><u>[New] Innovative Strategies for Keeping a Log of WhatsApp Calls</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-insightful-recap-updated-sony-bdp-s3700-features-for-2024/"><u>[New] Insightful Recap  Updated Sony BDP-S3700 Features for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-through-vlcs-recording-options/"><u>[New] Navigating Through VLC's Recording Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-10-final-cut-pro-plugins-ever/"><u>[New] The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insider-guide-to-intensified-minecraft-views/"><u>[New] The Insider Guide to Intensified Minecraft Views</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>[Updated] A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cooking-crusaders-youtube-stars-serving-up-deliciousness-for-2024/"><u>[Updated] Cooking Crusaders  YouTube Stars Serving Up Deliciousness for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-easy-steam-capture-for-cyberpunk-2077-adventures/"><u>[Updated] Easy Steam Capture for Cyberpunk 2077 Adventures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-leveraging-visuals-a-step-by-step-guide-for-youtube-trailers/"><u>[Updated] In 2024, Leveraging Visuals  A Step-by-Step Guide for YouTube Trailers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premier-4k-recorder-apps-reviewed/"><u>[Updated] In 2024, Premier 4K Recorder Apps Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-5-best-live-streaming-webcamscameras-for-twitch/"><u>[Updated] Top 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-turning-voice-into-text-mastering-microsoft-words-speech-toolkit/"><u>[Updated] Turning Voice Into Text  Mastering Microsoft Word's Speech Toolkit</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-veiled-vocal-keepers-ios-and-android-secretive-sound-tools-for-2024/"><u>[Updated] Veiled Vocal Keepers  IOS & Android Secretive Sound Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-crafting-professional-ppt-video-content/"><u>2024 Approved  Crafting Professional PPT Video Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-fastest-8-tech-to-grab-screen-frames/"><u>2024 Approved  Fastest 8 Tech to Grab Screen Frames</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screensnapper-summit-the-ultimate-guide-to-capturing/"><u>2024 Approved  ScreenSnapper Summit  The Ultimate Guide to Capturing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-sharex-dissected-professional-views-and-counterparts/"><u>2024 Approved  ShareX Dissected  Professional Views & Counterparts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-spacious-mini-cities-with-oriental-flair/"><u>2024 Approved  Spacious Mini Cities with Oriental Flair</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/agricultural-bliss-the-10-perfect-gaming-friends-for-farmers/"><u>Agricultural Bliss  The 10 Perfect Gaming Friends for Farmers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/effortless-no-cost-screening-of-android-gadgets-for-2024/"><u>Effortless, No-Cost Screening of Android Gadgets for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevating-ppt-impact-through-high-quality-recordings-for-2024/"><u>Elevating PPT Impact Through High-Quality Recordings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/eternal-display-documentation/"><u>Eternal Display Documentation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellent-mkv-player-on-ios-android-for-2024/"><u>Excellent MKV Player on iOS, Android for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/from-speakers-to-files-storing-system-sounds-using-audacity-for-2024/"><u>From Speakers to Files Storing System Sounds Using Audacity for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-15-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 15 Lock Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-iphoneandroid-the-best-slo-mo-camera-app-compilation/"><u>In 2024, Mastering iPhone/Android  The Best Slo-Mo Camera App Compilation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-navigating-the-world-of-fbx-for-gamers/"><u>In 2024, Navigating the World of FBX for Gamers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-optimize-your-gaming-by-learning-ps3-video-capture-techniques/"><u>In 2024, Optimize Your Gaming by Learning PS3 Video Capture Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-securing-skype-conversations-via-obs/"><u>In 2024, Securing Skype Conversations via OBS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y78-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y78 5G FRP Bypass</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-the-charge-in-sustainable-filmmaking/"><u>Leading the Charge in Sustainable Filmmaking</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/level-up-your-screen-shots-the-experts-approach-to-ps4-capture/"><u>Level Up Your Screen Shots  The Expert's Approach to PS4 Capture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-14-plus-5-ways-to-get-into-a-locked-apple-iphone-14-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 14 Plus? 5 Ways to get into a Locked Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-ultimate-list-of-budget-friendly-web-based-daw-tools/"><u>New 2024 Approved Ultimate List of Budget-Friendly, Web-Based DAW Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-audio-level-management-discover-the-top-5-dynamic-ducking-software/"><u>New Mastering Audio Level Management Discover the Top 5 Dynamic Ducking Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-picks-for-effortless-screenshots/"><u>Prime Picks for Effortless Screenshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screenmasterelite-11-an-experts-recording-guide-for-2024/"><u>ScreenMasterElite 11  An Expert's Recording Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-c110-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia C110 Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-video-dubbing-software-for-pc-top-picks/"><u>Updated 2024 Approved Free Video Dubbing Software for PC Top Picks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-8-favorite-high-quality-audio-recorders-for-online-sharing-for-2024/"><u>Updated 8 Favorite High-Quality Audio Recorders for Online Sharing for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-elite-tone-tweaker-guidebook-top-notch-tools-user-guides-and-backup-voice-alteration-techniques/"><u>Updated In 2024, The Elite Tone Tweaker Guidebook Top-Notch Tools, User Guides & Backup Voice Alteration Techniques</u></a></li>
+</ul></div>

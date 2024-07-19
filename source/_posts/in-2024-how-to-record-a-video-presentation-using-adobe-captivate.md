@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Record a Video Presentation Using Adobe Captivate"
-date: 2024-07-03T22:15:52.866Z
-updated: 2024-07-04T22:15:52.866Z
+date: 2024-07-18T23:04:32.455Z
+updated: 2024-07-19T23:04:32.455Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
 # How to Record a Video Presentation Using Adobe Captivate
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -29,6 +32,9 @@ The Internet has changed the way we look at education since it grants us access 
 
 To make things even better, the Adobe Captivate software is compatible with all documents created with Microsoft PowerPoint and in this article we are going to guide you through each step of the process of recording a video presentation using Adobe Captivate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -46,6 +52,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -56,6 +65,9 @@ Before you can start working on your new project you first need to install the s
 
 Double-click on Adobe Captivate's desktop icon to launch the software, and then head over to Microsft PowerPoint and open the presentation you'd like to record in the second monitor. Adobe Captivate enables you to capture all animations, objects or multimedia featured in the PowerPoint presentation and it also allows you to record any on-screen activity you want.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe Captivate Recording Video](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
@@ -72,6 +84,9 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Captivate Recording Video](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -90,6 +105,9 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -106,3 +124,50 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-emulators-pc-edition-ps1-games/"><u>[New] 2024 Approved  Best Emulators  PC Edition - PS1 Games</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-optimize-tiktok-videos-for-snappy-playback-times/"><u>[New] 2024 Approved  Optimize TikTok Videos for Snappy Playback Times</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-avoiding-pitfalls-in-sub4sub-key-lessons-from-a-seasoned-guide-for-2024/"><u>[New] Avoiding Pitfalls in Sub4sub  Key Lessons From a Seasoned Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-classic-crimson-codec/"><u>[New] Classic Crimson Codec</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-advanced-setup-setting-up-an-elapsed-time-display-in-obs/"><u>[New] In 2024, Advanced Setup  Setting up an Elapsed Time Display in OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-beyond-the-basics-embedding-platforms-reviewed/"><u>[New] In 2024, Beyond the Basics  Embedding Platforms Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-choosing-the-right-microphone-for-mac-devices-a-compreenas/"><u>[New] In 2024, Choosing the Right Microphone for Mac Devices (A Compreenas)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-primary-footage-document-critique-with-asides/"><u>[New] Primary Footage Document Critique with Asides</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] Streamline Your Gaming Memories  Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-experts-guide-to-recording-live-streaming-on-diverse-tech-gadgets/"><u>[New] The Expert's Guide to Recording Live Streaming on Diverse Tech Gadgets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-turn-your-meet-webinar-into-an-interactive-participant-showcase/"><u>[New] Turn Your Meet Webinar Into an Interactive Participant Showcase</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-breaking-the-freeze-reviving-your-obs-cam/"><u>[Updated] 2024 Approved  Breaking the Freeze  Reviving Your OBS Cam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-comprehensive-guide-to-optimizing-facetime-recording-quality/"><u>[Updated] 2024 Approved  Comprehensive Guide to Optimizing FaceTime Recording Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-5-elite-voice-recorders-for-apple-devices-unveiled-for-2024/"><u>[Updated] 5 Elite Voice Recorders for Apple Devices Unveiled for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-filmora-compared-the-ultimate-list-of-free-high-quality-templates/"><u>[Updated] Filmora Compared  The Ultimate List of Free, High-Quality Templates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-downloading-setting-up-to-using-obs-effectively-on-macos/"><u>[Updated] From Downloading, Setting Up, to Using OBS Effectively on macOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-engaging-youtube-openings-and-closers-for-free/"><u>[Updated] In 2024, Creating Engaging YouTube Openings & Closers for Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-vocal-talent-for-engaging-videos/"><u>[Updated] In 2024, Unlocking the Potential of Vocal Talent for Engaging Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-inside-sharex-assessments-and-counterparts/"><u>[Updated] Inside ShareX  Assessments & Counterparts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pixelperfection-suite-windowsmac-screen-grabbers/"><u>[Updated] PixelPerfection Suite  Windows/Mac Screen Grabbers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tactical-approach-to-effortless-ipad-screen-records/"><u>[Updated] Tactical Approach to Effortless iPad Screen Records</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-code-the-story-of-virtual-reality/"><u>2024 Approved  Beyond Code  The Story of Virtual Reality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mac-techniques-for-capturing-your-minecraft-adventures/"><u>2024 Approved  Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ranking-the-best-offline-screen-grabbers/"><u>2024 Approved  Ranking the Best Offline Screen Grabbers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-5-cost-effective-pc-recording-applications/"><u>2024 Approved  Top 5 Cost-Effective PC Recording Applications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/accelerated-record-functionality-and-narrator-support/"><u>Accelerated Record Functionality & Narrator Support</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/breaking-down-barriers-combining-obs-with-zoom-for-2024/"><u>Breaking Down Barriers  Combining OBS with Zoom for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/fixing-obss-full-screen-freeze-up-for-2024/"><u>Fixing OBS's Full-Screen Freeze Up for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/hitching-a-ride-on-stream-success-obs-plus-zoom/"><u>Hitching a Ride on Stream Success  OBS + Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-apeaksofts-screen-tech-revolution-2023-review/"><u>In 2024, Apeaksoft's Screen Tech Revolution  2023 Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-save-video-in-virtual-meetings/"><u>In 2024, How to Save Video in Virtual Meetings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-comprehensible-pathway-to-erase-instagram-account/"><u>In 2024, The Comprehensible Pathway to Erase Instagram Account</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 15 Plus</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/initiating-conversations-with-google-meet-for-2024/"><u>Initiating Conversations with Google Meet for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-from-silence-to-symphony-adding-soundtracks-to-kinemaster/"><u>New In 2024, From Silence to Symphony Adding Soundtracks to KineMaster</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/peak-online-cam-dance-battles-for-2024/"><u>Peak Online Cam Dance Battles for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/premier-gaming-liquids-best-of-breed-lists-for-2024/"><u>Premier Gaming Liquids  Best of Breed Lists for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/real-time-audio-recording-techniques-for-web-broadcasts/"><u>Real-Time Audio Recording Techniques for Web Broadcasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-free-tools-for-online-streaming-recording-for-2024/"><u>Superior Free Tools for Online Streaming Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-sound-recorders-for-scholarly-discussions/"><u>Superior Sound Recorders for Scholarly Discussions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-adsense-potential-in-youtube-content-creation/"><u>Unlocking AdSense Potential in YouTube Content Creation</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-enhancing-your-recordings-additional-layers-of-voice-processing-in-audacity-using-plugins/"><u>Updated 2024 Approved Enhancing Your Recordings Additional Layers of Voice Processing in Audacity Using Plugins</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-create-your-masterpiece-easy-film-making-for-everyone-for-2024/"><u>Updated Create Your Masterpiece Easy Film Making for Everyone for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-05-19T20:09:25.668Z
-updated: 2024-05-20T20:09:25.668Z
+date: 2024-07-18T19:24:22.459Z
+updated: 2024-07-19T19:24:22.459Z
 tags: 
   - screen-recording
   - ai video
@@ -12,11 +12,14 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Live on Air: How to Broadcast on YouTube & Twitch Using OBS\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Live on Air: How to Broadcast on YouTube & Twitch Using OBS\""
 keywords: "\"Live Streaming Basics,YouTube Broadcasting Tips,OBS for Streamers,Twitch Hosting Guide,OBS Live Streaming Techniques,Real-Time Video Broadcasting,Channel Launch on YouTube\""
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## Live on Air: How to Broadcast on YouTube & Twitch Using OBS
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Introduction
 
 If you want to enhance your audience reach, consider multi-streaming to Twitch and your other preferred sites. Mainstreaming enables you to broadcast on Twitch and YouTube or stream on Twitch and Facebook, or all three! At the same time, with everyone spending more time indoors amid the global crisis, it appears we’re all seeking a diversion and many gamers are asking themselves how to broadcast on YouTube or Twitch. One of the easiest methods to broadcast on Twitch and YouTube Gaming at the same time is via OBS. Streamers may broadcast to more than 30 streaming platforms concurrently using an easy-to-understand user interface. The service is created in a manner that won’t place any demand on your PC hardware or the bandwidth you have available.
@@ -27,6 +30,9 @@ Well, it all boils down to choosing. But if you want to know the streaming netwo
 
 If you want to obtain the very greatest quality broadcast, you're searching for some fantastic software. In the case of Windows, one of the most common solutions is Open Broadcaster Software (OBS) (OBS). Many people are first drawn to OBS since it's free to use owing to being open source. Luckily, it's also a feature-rich piece of software that can handle practically anything you throw at it. If you're new to OBS or to streaming in general, it might be a bit frightening at first.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1\. Getting a Stream Key from Twitch
 
 Before you stream anything anyplace, you need to provide OBS with the credentials to broadcast on your channel. Exactly how you do this on the large number of services OBS supports may differ, but I'm covering Twitch for this instruction.
@@ -35,26 +41,50 @@ In all circumstances, you need to either produce a stream key in your account se
 
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2\. Installing and Setting OBS
 
 OBS Studio is available for all main operating systems such as Windows, Mac OS, and, Linux. You may get the utility by clicking here. Run and install the software to get started. When you launch the program for the first time, OBS Studio performs an Auto-Configuration Wizard. It provides you the choice of selecting between ‘Optimize for streaming’ and ‘Optimize for recording’. Click on the ‘Optimize for streaming’ if you wish to live broadcast your game. The wizard will next examine your system’s performance. It examines and helps adjust your system resolution, bitrate, encoder, and internet connection.
 
 ![installing and setting obs](https://images.wondershare.com/filmora/article-images/installing-and-setting-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3\. Configuring OBS Studio for Streaming to Twitch
 
 Now that you're set up to the stream, the first step is to select your resolution, frame rate, and bitrate. The greater each of them, the more bandwidth and horsepower you'll require from your PC. If you've got a high-speed internet connection and a strong PC, then you can probably stream at 1080p60 at a high bitrate. But you also need to balance this with offering a stream that's not going to buffer like wild for your viewers who could be on poorer connections. Remember, if you're not a partner on Twitch, you won't have transcoding, thus the experience might be awful for viewers with sluggish connections.
 
 Once you’re done setting up OBS, you can dig into the advanced capabilities such as OBS sceneries. These will allow you to dramatically boost your live stream production value. If you arrange your OBS scenes and sources appropriately, your broadcast may go from an ordinary-looking stream to one that appears slick and professional.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![configuring obs studio](https://images.wondershare.com/filmora/article-images/configuring-obs-studio.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4\. Adding Scene and Sources
 
 A scene may be simply added in OBS by clicking on the addition symbol indicated in the picture below. Once you have chosen this, you will simply be prompted to pick a name for the scene. All of your overlays, sources, and basic on-screen items will need to be introduced through a specified scene. Once you have created your scene and titled it, make sure it is chosen and proceed to the box on the right side of the picture below to click the plus symbol. This brings up the many sources you may pick from for your freshly constructed scenario. The good thing is, once you have inserted a source in one scene, you can simply use it again in another.
 
 ![adding scene and sources](https://images.wondershare.com/filmora/article-images/adding-scene-and-sources.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 5\. Adding a Twitch Chat
 
 Adding your twitch chat to your broadcasts may help make your viewers feel more included by enabling them to see their message live on the screen. You may add your Twitch chat box to your live broadcast in OBS by utilizing the browser source. The best practice when employing a chat box is to make sure to have your visuals, displays, and overlays set up to accommodate it. Get the widget URL from your favorite provider and copy it to your clipboard. This is what you will be adding to your OBS sources to add the chat to your overlay. If you’re using Twitch, this will be provided to you once you pick your basic settings for your chat style and layout. In the “Sources” section of OBS, go to the “+” in the bottom left corner, and pick, “Browser” to create a new browser source window.
@@ -71,6 +101,9 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ****Step 2:** You can’t participate in YouTube live broadcasting unless you authenticate the account using a connected cell phone. Head to the verification page, log in to your account and follow the on-screen steps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![streamkey](https://images.wondershare.com/filmora/article-images/streamkey.jpg)
 
 ****Step 3:** Once authenticated, it’s time to travel to YouTube Studio. Choose the Camera icon on the upper right-hand side of the main YouTube page and then select Go Live.
@@ -93,6 +126,9 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ****Step 4:** In the main window, click the Plus symbol beneath the Sources heading near the bottom. If you wish to broadcast game video, choose Game Capture displayed on the pop-up menu. You have a couple of different choices for collecting your film. You may capture any full-screen program, a single window, or a foreground window. You may also enable transparency, capture third-party overlays, and more. Click OK to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![game capture](https://images.wondershare.com/filmora/article-images/game-capture.jpg)
 
 ****Start Streaming**
@@ -130,3 +166,53 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-advanced-archiving-preserving-full-fbm-call-history/"><u>[New] 2024 Approved  Advanced Archiving  Preserving Full FBM Call History</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-maximize-impact-with-proficient-facebook-live-recording/"><u>[New] 2024 Approved  Maximize Impact with Proficient Facebook Live Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screenflow-mastery-on-macos-uncovered/"><u>[New] 2024 Approved  ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-soundsnatch-aural-replay-analysis/"><u>[New] 2024 Approved  SoundSnatch  Aural Replay Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-editing-techniques-that-maximize-obs-potential-for-2024/"><u>[New] Advanced Editing Techniques That Maximize OBS Potential for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-bandicam-scrutiny-a-detailed-evaluation-for-screen-capture-users-for-2024/"><u>[New] Bandicam Scrutiny  A Detailed Evaluation for Screen Capture Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-exploring-different-approaches-to-game-playback-for-2024/"><u>[New] Exploring Different Approaches to Game Playback for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right/"><u>[New] First Steps in UAV World? The Syma X5C Review Sets You Up Right</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-frame-it-right-mastering-instagram-video-edges-for-2024/"><u>[New] Frame It Right  Mastering Instagram Video Edges for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-27-ways-to-livestream-education-content-for-free/"><u>[New] In 2024, 27 Ways to Livestream Education Content for Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-50-top-tier-virtual-bgms-for-zoomgoogle/"><u>[New] In 2024, 50 Top-Tier Virtual BGMs for Zoom/Google</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expertly-curated-list-premium-ubuscreen-recorder-apps/"><u>[New] In 2024, Expertly Curated List  Premium UbuScreen Recorder Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>[New] In 2024, Internal Screen Recording  Huawei Mate 10/20 & P Series Devices (P20, P10)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-ranking-of-smartphone-vr-headsets/"><u>[New] In 2024, The Ultimate Ranking of Smartphone VR Headsets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-professional-tips-for-sims-game-capture-for-2024/"><u>[New] Professional Tips for Sims Game Capture for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-skyrocket-viewer-numbers-with-the-top-12-effective-tactics/"><u>[New] Skyrocket Viewer Numbers with the Top 12 Effective Tactics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-year-end-visualizations-mind-bending-youtube-figures-and-trends/"><u>[New] Year-End Visualizations  Mind Bending Youtube Figures and Trends</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crafting-new-tones-top-7-recording-changer-applications-reviewed/"><u>[Updated] 2024 Approved  Crafting New Tones  Top 7 Recording Changer Applications Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-professional-visual-enhancements-mastering-the-use-of-luts-in-ae/"><u>[Updated] 2024 Approved  Professional Visual Enhancements  Mastering the Use of LUTs in AE</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-the-dynamics-of-fb-video-speeds/"><u>[Updated] Exploring the Dynamics of FB Video Speeds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub-for-2024/"><u>[Updated] From Play to Pro  Setting up a PS4 Game Broadcast Hub for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersing-viewers-in-new-realities-the-vr-film-revolution/"><u>[Updated] Immersing Viewers in New Realities  The VR Film Revolution</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-6-innovative-mc-house-concepts-for-community-living/"><u>[Updated] In 2024, 6 Innovative MC House Concepts for Community Living</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-achieve-smooth-operations-in-virtual-collaboration/"><u>[Updated] In 2024, Achieve Smooth Operations in Virtual Collaboration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-high-definition-playtime-best-hdmi-21-gaming-displays-ps5-compatible/"><u>[Updated] In 2024, High Definition Playtime  Best HDMI 2.1 Gaming Displays [PS5 Compatible]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-noble-viewer-tech-for-games-for-2024/"><u>[Updated] Noble Viewer Tech for Games for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-fbx-capture-for-gamers/"><u>[Updated] Step-by-Step FBX Capture For Gamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-photo-browser-with-lightning-speed/"><u>[Updated] Top Photo Browser with Lightning Speed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-window-warriors-choice-topping-5-screen-recorders-on-windows/"><u>[Updated] Window Warriors' Choice  Topping 5 Screen Recorders on Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-approach-to-crafting-your-video-market-standouts/"><u>2024 Approved  A Step-by-Step Approach to Crafting Your Video' Market Standouts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-close-up-magic-avoiding-distance-blur-on-videoleap/"><u>2024 Approved  Close-Up Magic  Avoiding Distance Blur on Videoleap</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>2024 Approved  The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-constructing-mc-neighborhoods/"><u>2024 Approved  The Ultimate Guide to Constructing MC Neighborhoods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-cross-platform-movie-capture/"><u>2024 Approved  The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unveiling-captivating-content-the-ultimate-guide-to-tiktok-captions/"><u>2024 Approved  Unveiling Captivating Content  The Ultimate Guide to TikTok Captions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-video-perfection-top-5-free-apps-for-image-stabilization-on-android/"><u>2024 Approved Video Perfection Top 5 Free Apps for Image Stabilization on Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplifying-photos-through-acoustics-internet-based/"><u>Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/enhancing-audio-clarity-in-imovie-for-mac-essential-techniques-for-2024/"><u>Enhancing Audio Clarity in iMovie for Mac Essential Techniques for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-7-plus-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 7 Plus iCloud Bypass</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-expert-recommended-4k-video-converters-free-trial-and-paid-options/"><u>In 2024, Expert-Recommended 4K Video Converters (Free Trial & Paid Options)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-approach-to-mastering-the-steam-pro-controller-on-switch/"><u>In 2024, Step-by-Step Approach to Mastering the Steam Pro Controller on Switch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-the-full-potential-of-obs-on-mac/"><u>In 2024, Unlocking the Full Potential of OBS on Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-recording-tips-for-your-next-google-meet-video-call-for-2024/"><u>Quick Recording Tips for Your Next Google Meet Video Call for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-choice-of-no-cost-video-calls-plus-shared-screens-selection-for-2024/"><u>Top Choice of No-Cost Video Calls + Shared Screens Selection for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-practical-steps-for-switching-sounds-in-editable-media-formats/"><u>Updated Practical Steps for Switching Sounds in Editable Media Formats</u></a></li>
+</ul></div>

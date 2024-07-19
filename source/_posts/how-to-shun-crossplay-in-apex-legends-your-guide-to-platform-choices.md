@@ -1,7 +1,7 @@
 ---
 title: "\"How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices\""
-date: 2024-06-09T04:04:55.937Z
-updated: 2024-06-10T04:04:55.937Z
+date: 2024-07-18T22:59:16.678Z
+updated: 2024-07-19T22:59:16.678Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -65,6 +68,9 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -81,6 +87,9 @@ The best thing about Apex Legends is that it has multiplatform support. You can 
 
 **Microsoft Xbox One S and X**
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-one.jpg)You can play Apex Legends on Xbox One S, but you may need to compromise a little bit and play on a low resolution for better fps. Although the game will run just fine, you may need to make some adjustments to your graphics settings. You can play this game on 720p on Xbox One S, so make sure to sit a little closer to your screen to see everything.
 
 If you want to get Apex's best experience on Xbox consoles, you should play it on Xbox One X. If you switch from Xbox one S to Xbox one X, you will see a significant difference in the game performance. On the X version, you can run the game on 1080p. It offers overall better performance in terms of gameplay as compared to other Xbox variants.
@@ -101,6 +110,9 @@ Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is alr
 
 **PC**
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -134,8 +146,14 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -152,3 +170,48 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-advanced-archiving-preserving-full-fbm-call-history/"><u>[New] 2024 Approved  Advanced Archiving  Preserving Full FBM Call History</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-editing-techniques-that-maximize-obs-potential-for-2024/"><u>[New] Advanced Editing Techniques That Maximize OBS Potential for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-bandicam-scrutiny-a-detailed-evaluation-for-screen-capture-users-for-2024/"><u>[New] Bandicam Scrutiny  A Detailed Evaluation for Screen Capture Users for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capturing-footage-from-above-drone-filming-tips/"><u>[New] Capturing Footage From Above  Drone Filming Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expanding-creative-horizons-in-obs-studio-using-luts/"><u>[New] Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-exploring-different-approaches-to-game-playback-for-2024/"><u>[New] Exploring Different Approaches to Game Playback for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-27-ways-to-livestream-education-content-for-free/"><u>[New] In 2024, 27 Ways to Livestream Education Content for Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-50-top-tier-virtual-bgms-for-zoomgoogle/"><u>[New] In 2024, 50 Top-Tier Virtual BGMs for Zoom/Google</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expertly-curated-list-premium-ubuscreen-recorder-apps/"><u>[New] In 2024, Expertly Curated List  Premium UbuScreen Recorder Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-integral-rulebook-ensuring-harmonious-video-sharing/"><u>[New] Integral Rulebook  Ensuring Harmonious Video Sharing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-iphone-screen-recording-made-simple/"><u>[New] Iphone Screen Recording Made Simple</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crafting-new-tones-top-7-recording-changer-applications-reviewed/"><u>[Updated] 2024 Approved  Crafting New Tones  Top 7 Recording Changer Applications Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub-for-2024/"><u>[Updated] From Play to Pro  Setting up a PS4 Game Broadcast Hub for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-6-innovative-mc-house-concepts-for-community-living/"><u>[Updated] In 2024, 6 Innovative MC House Concepts for Community Living</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-achieve-smooth-operations-in-virtual-collaboration/"><u>[Updated] In 2024, Achieve Smooth Operations in Virtual Collaboration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-moments-seamlessly-with-snap-and-meet/"><u>[Updated] In 2024, Capturing Moments Seamlessly with Snap and Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-high-definition-playtime-best-hdmi-21-gaming-displays-ps5-compatible/"><u>[Updated] In 2024, High Definition Playtime  Best HDMI 2.1 Gaming Displays [PS5 Compatible]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-fbx-capture-for-gamers/"><u>[Updated] Step-by-Step FBX Capture For Gamers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-window-warriors-choice-topping-5-screen-recorders-on-windows/"><u>[Updated] Window Warriors' Choice  Topping 5 Screen Recorders on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-premier-recorder-clean-and-clear-android-edition/"><u>2024 Approved  Premier Recorder  Clean and Clear Android Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>2024 Approved  The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-constructing-mc-neighborhoods/"><u>2024 Approved  The Ultimate Guide to Constructing MC Neighborhoods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-cross-platform-movie-capture/"><u>2024 Approved  The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>Assessing Max 360 & Hero 11  The Ultimate GoPro Video Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/breaking-news-on-twittersphere-top-10-hit-videos-today-for-2024/"><u>Breaking News on Twittersphere  Top 10 Hit Videos Today for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-and-constructive-icon-arrangement-ideas/"><u>Clear and Constructive Icon Arrangement Ideas</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/creating-video-testimonials/"><u>Creating Video Testimonials</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultivate-cognitive-growth-through-linguistics/"><u>Cultivate Cognitive Growth Through Linguistics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discord-vs-skype-which-one-should-you-choose-in-2024/"><u>Discord Vs. Skype  Which One Should You Choose, In 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-fitness-with-these-leading-yoga-vids-for-2024/"><u>Elevate Your Fitness with These Leading Yoga Vids for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-6s-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 6s iCloud Bypass</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/hit-the-trend-hard-with-these-must-try-tiktok-items-on-amazon/"><u>Hit the Trend Hard with These Must-Try TikTok Items on Amazon</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-gt-10-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix GT 10 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-obs-issue-resolved-camera-fix/"><u>In 2024, OBS Issue Resolved - Camera Fix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-approach-to-mastering-the-steam-pro-controller-on-switch/"><u>In 2024, Step-by-Step Approach to Mastering the Steam Pro Controller on Switch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instant-conferencing-zoom-in-the-eyes-of-gmail/"><u>Instant Conferencing  Zoom in the Eyes of Gmail</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-the-art-of-capturing-sims-4-essential-techniques-unveiled-for-2024/"><u>Mastering the Art of Capturing Sims 4 – Essential Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mastering-image-cropping-in-fcpx-advanced-techniques/"><u>New Mastering Image Cropping in FCPX Advanced Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-recording-tips-for-your-next-google-meet-video-call-for-2024/"><u>Quick Recording Tips for Your Next Google Meet Video Call for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-choice-of-no-cost-video-calls-plus-shared-screens-selection-for-2024/"><u>Top Choice of No-Cost Video Calls + Shared Screens Selection for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>Unlocking Video Potential  The Crème De La Crème Browser Recorders</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mac-video-maker-effortless-slideshow-creation-for-mac-users/"><u>Updated In 2024, Mac Video Maker Effortless Slideshow Creation for Mac Users</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Top-Rated Mobile Devices for Pocket-Sized Gaming\""
-date: 2024-05-18T04:05:59.994Z
-updated: 2024-05-19T04:05:59.994Z
+date: 2024-07-18T21:04:02.201Z
+updated: 2024-07-19T21:04:02.201Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Top-Rated Mobile Devices for Pocket-Sized Gaming\""
 excerpt: "\"This Article Describes [New] In 2024, Top-Rated Mobile Devices for Pocket-Sized Gaming\""
 keywords: "\"Pocket Gaming Rigs,Mini Portable Games,Budget Gadgets,High-Performance Phones,Mobile Game Masters,Top Handheld Titles,Compact Devices Games\""
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Top-Rated Mobile Devices for Pocket-Sized Gaming
@@ -23,6 +23,9 @@ We evaluated many choices, starting at $36, and tested the many types of keyboar
 
 Getting the proper gaming keyboard, like getting the proper gaming mouse, comes down to personal preference — from comfortability (wrist rest) about whether you would like RGB Lights, mechanical buttons, tactile feedback, configurable keys, separate media keys, or a slew of other features we can't begin to list. Also, check out our dictionary of keyboard terminology to help you narrow down your design choices.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.Corsair RGB K55 XT PRO
 
 ![corsair-rgb-k55-xt-pro](https://images.wondershare.com/filmora/article-images/corsair-rgb-k55-xt-pro.jpg)
@@ -43,6 +46,9 @@ Its typing quality is low
 
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.EVGA Z12
 
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
@@ -67,6 +73,9 @@ Gaming isn't as responsive.
 
 ### 3.G413 Logitech
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
 
 A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
@@ -85,6 +94,9 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
@@ -105,8 +117,14 @@ The keys are too touchy for typing.
 
 Keys can be noisy in a noisy setting.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### 5.Corsair K63
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
 
 Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
@@ -187,8 +205,14 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
 
 The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
@@ -247,6 +271,9 @@ Its typing quality is low
 
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.EVGA Z12
 
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
@@ -289,6 +316,9 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
@@ -311,6 +341,9 @@ Keys can be noisy in a noisy setting.
 
 ### 5.Corsair K63
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
 
 Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
@@ -351,6 +384,9 @@ The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
 ### 2.EVGA Z12
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
 
 Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
@@ -391,8 +427,14 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
 
 The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
@@ -411,8 +453,14 @@ The keys are too touchy for typing.
 
 Keys can be noisy in a noisy setting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Corsair K63
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
 
 Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
@@ -460,3 +508,47 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-breathe-life-into-stills-slow-video-on-iphone/"><u>[New] 2024 Approved  Breathe Life Into Stills  Slow Video on iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-enhancing-your-viewing-experience-recording-overwatch-games/"><u>[New] 2024 Approved  Enhancing Your Viewing Experience  Recording Overwatch Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-little-drivers-lively-gameplay/"><u>[New] 2024 Approved  Little Drivers' Lively Gameplay</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pioneering-non-udemy-virtual-classrooms-for-learning/"><u>[New] 2024 Approved  Pioneering Non-Udemy Virtual Classrooms for Learning</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-breaking-down-manycams-recording-capabilities-for-professionals-for-2024/"><u>[New] Breaking Down ManyCam's Recording Capabilities for Professionals for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-mac-cam-apps-a-look-past-bandicam-for-2024/"><u>[New] Cutting-Edge Mac Cam Apps  A Look Past Bandicam for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-android-tools-5-leading-ps2-emulator-apps/"><u>[New] In 2024, Essential Android Tools  5 Leading PS2 Emulator Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-refined-conference-aesthetics-the-process-to-blur-backgrounds-for-2024/"><u>[New] Refined Conference Aesthetics  The Process to Blur Backgrounds for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[New] The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-10-standout-applications-mastering-phone-and-computer-conferencing-for-2024/"><u>[Updated] 10 Standout Applications  Mastering Phone & Computer Conferencing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-browser-capture-tools-top-picks/"><u>[Updated] 2024 Approved  Best Browser Capture Tools  Top Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-techniques-screen-recording-in-google-meet/"><u>[Updated] 2024 Approved  Efficient Techniques  Screen Recording in Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-fade-in-and-fade-out-video-clips/"><u>[Updated] 2024 Approved  How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-and-save-your-workscreen-on-windows-8/"><u>[Updated] 2024 Approved  How to Record and Save Your Workscreen on Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fading-curtain-opens/"><u>[Updated] Fading Curtain Opens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-get-it-right-a-beginners-guide-to-iphone-screen-shots-for-2024/"><u>[Updated] Get It Right  A Beginner's Guide to iPhone Screen Shots for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-get-savvy-with-io-screener-a-primer/"><u>[Updated] Get Savvy with IO Screener  A Primer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-desktops-in-focus-free-capture-tutorials/"><u>[Updated] In 2024, Desktops in Focus - Free Capture Tutorials</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ranking-top-online-tutorial-providers-excluding-udemy/"><u>[Updated] In 2024, Ranking Top Online Tutorial Providers Excluding Udemy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features/"><u>[Updated] In 2024, Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-non-youtube-video-editing-discover-the-top-5-newcomers-for-2024/"><u>[Updated] Non-YouTube Video Editing  Discover the Top 5 Newcomers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pioneering-practices-leading-the-way-in-facecam-filming-for-2024/"><u>[Updated] Pioneering Practices  Leading the Way in Facecam Filming for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-record-to-remember-top-5-best-tools-for-virtual-meeting-capture-for-2024/"><u>[Updated] Record to Remember  Top 5 Best Tools for Virtual Meeting Capture for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-upside-of-asmr-a-closer-look-at-its-advantages/"><u>[Updated] The Upside of ASMR  A Closer Look At Its Advantages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skys-best-the-ultimate-hd-collection-websites/"><u>2024 Approved  Sky's Best - The Ultimate HD Collection Websites</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-sharing-your-screen-in-skype-work-sessions/"><u>2024 Approved  The Ultimate Guide to Sharing Your Screen in Skype Work Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-users-guide-for-navigating-durecorder-world/"><u>2024 Approved  The Ultimate User’s Guide for Navigating DuRecorder World</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-eight-video-recording-apps/"><u>2024 Approved  Top Eight Video Recording Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-youtube-livestreaming-screen-recorders-for-2024/"><u>Best YouTube Livestreaming Screen Recorders for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/decoding-pexels-tips-and-tricks-for-leveraging-stock-photos-for-2024/"><u>Decoding Pexels Tips and Tricks for Leveraging Stock Photos for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-x-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone X online without jailbreak</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y17s-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y17s to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>In 2024, Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-subtle-sounds-clear-vision-audio-cleanup-methods-reviewed/"><u>In 2024, Subtle Sounds, Clear Vision  Audio Cleanup Methods Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-screencapture-guide-for-laptop-techies/"><u>In 2024, The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-universal-approach-to-smartphone-mac-and-pc-video-filming/"><u>In 2024, Universal Approach to Smartphone, Mac, and PC Video Filming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/intuitive-video-collaboration-through-mstream-for-2024/"><u>Intuitive Video Collaboration Through MStream for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/sonicsorter-x-cutting-edge-tag-editing-for-pcmac-users-2024-version/"><u>SonicSorter X Cutting-Edge Tag Editing for PC/Mac Users (2024 Version)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2023s-favorite-retro-tempo-tunes-compilation/"><u>Updated 2023S Favorite Retro-Tempo Tunes Compilation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/warriors-epic-valhallas-endgame-for-2024/"><u>Warriors' Epic  Valhalla's Endgame for 2024</u></a></li>
+</ul></div>

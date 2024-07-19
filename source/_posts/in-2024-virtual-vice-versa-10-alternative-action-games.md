@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Virtual Vice-Versa  10 Alternative Action Games\""
-date: 2024-05-18T04:25:39.543Z
-updated: 2024-05-19T04:25:39.543Z
+date: 2024-07-18T22:31:52.496Z
+updated: 2024-07-19T22:31:52.496Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Virtual Vice-Versa: 10 Alternative Action Games\""
 excerpt: "\"This Article Describes In 2024, Virtual Vice-Versa: 10 Alternative Action Games\""
 keywords: "\"VirtAction Gaming,Alternate Gameplay,Virtual Reversi,VR Gaming Choices,EasyVice-Play,FlipGamer Games,AltAction RPGs\""
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Virtual Vice-Versa: 10 Alternative Action Games
@@ -21,6 +21,9 @@ Understandably, you may be looking for other games like GTA if you've enjoyed be
 
 ### 1.Red Dead Redemption 2
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![red-dead-redemption-2-poster](https://images.wondershare.com/filmora/article-images/red-dead-redemption-2-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -57,6 +60,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.Watch Dogs 2
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
@@ -75,6 +81,14 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 • The concept is very similar to GTA V but it is more of a tech genre game.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.Saints Row: The Third
 
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
@@ -95,6 +109,9 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Just Cause 4
 
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
@@ -133,6 +150,9 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 ### 7.Sleeping Dogs
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
@@ -189,6 +209,9 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -225,6 +248,9 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
@@ -245,6 +271,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.Watch Dogs 2
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
@@ -283,8 +312,14 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Just Cause 4
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -303,6 +338,9 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 ### 6.Yakuza 0
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
@@ -337,6 +375,9 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 8.The Saboteur
 
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
@@ -357,6 +398,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9.Mafia: Definitive Edition
 
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
@@ -377,6 +421,9 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -413,8 +460,23 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
@@ -435,6 +497,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 ### 3.Watch Dogs 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
@@ -471,8 +536,14 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Just Cause 4
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -489,6 +560,18 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6.Yakuza 0
 
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
@@ -525,6 +608,9 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8.The Saboteur
 
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
@@ -545,6 +631,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9.Mafia: Definitive Edition
 
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
@@ -565,6 +654,18 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -601,6 +702,9 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
@@ -623,6 +727,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 ### 3.Watch Dogs 2
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
@@ -641,6 +748,9 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 ### 4.Saints Row: The Third
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
@@ -679,6 +789,9 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 ### 6.Yakuza 0
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
@@ -695,6 +808,9 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 • The storyline and main characters are good.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 7.Sleeping Dogs
 
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
@@ -713,8 +829,14 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8.The Saboteur
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
@@ -733,6 +855,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9.Mafia: Definitive Edition
 
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
@@ -753,6 +878,9 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -800,3 +928,61 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-intuitive-guide-how-to-capture-on-vimeo/"><u>[New] 2024 Approved  Intuitive Guide  How to Capture on Vimeo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-quieting-mute-voices-on-obs-platforms/"><u>[New] 2024 Approved  Quieting Mute Voices on OBS Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-scaling-back-obs-video-bandwidth/"><u>[New] 2024 Approved  Scaling Back OBS Video Bandwidth</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[New] 2024 Approved  The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-best-10-tiktok-video-editors-to-make-tiktok-videos-onlinew-indowspc/"><u>[New] Best 10 TikTok Video Editors to Make TikTok Videos Online/W Indows/PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-free-chromebook-screen-recording-tools-ranked-for-2024/"><u>[New] FREE Chromebook Screen Recording Tools Ranked for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-guide-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[New] Guide to Add Motion Blur to Photos in Adobe Illustrator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-comprehensive-capture-and-review-with-az/"><u>[New] In 2024, Comprehensive Capture & Review with AZ</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-communication-master-skype-calls-recording/"><u>[New] In 2024, Elevate Your Communication  Master Skype Calls Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-melodic-monitor-gathering-tracks-for-evaluation/"><u>[New] In 2024, Melodic Monitor  Gathering Tracks for Evaluation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-recording-review-and-examination-for-2024/"><u>[New] Recording Review and Examination for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-removing-unwanted-audio-from-videos-essential-steps-for-2024/"><u>[New] Removing Unwanted Audio From Videos - Essential Steps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-state-of-the-art-gaming-capture-systems-not-just-fbx-files-for-2024/"><u>[New] State-of-the-Art Gaming Capture Systems, Not Just FBX Files for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-guide-to-screen-grabbers-for-2024/"><u>[New] Ultimate Guide to Screen Grabbers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-in-class-premium-screenshots-and-recorders/"><u>[Updated] 2024 Approved  Best in Class  Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-webcam-video-recording-for-mac-5-simplified-approaches/"><u>[Updated] 2024 Approved  Essential Webcam Video Recording for Mac  5 Simplified Approaches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-instantvidwin11-direct-straightforward-capture-tool/"><u>[Updated] 2024 Approved  InstantVidWin11  Direct, Straightforward Capture Tool</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-macbook-webcam-filming-made-simple/"><u>[Updated] 2024 Approved  MacBook Webcam Filming Made Simple</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-ios-emulators-reviving-classic-psp-game-experiences-2023-guide/"><u>[Updated] 2024 Approved  Top iOS Emulators Reviving Classic PSP Game Experiences - 2023 Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revive-missing-fb-watch-icon-solutions/"><u>[Updated] In 2024, Revive Missing FB Watch Icon - Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stardews-successors-top-10-farming-sim-picks/"><u>[Updated] In 2024, Stardew's Successors  Top 10 Farming Sim Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-straightforward-recording-for-windows-10/"><u>[Updated] In 2024, Straightforward Recording for Windows 10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-mac-screenshot-file-type-changes-for-2024/"><u>[Updated] Navigating Mac Screenshot File Type Changes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-proven-winners-the-top-5-tools-for-video-conference-recording-for-2024/"><u>[Updated] Proven Winners  The Top 5 Tools for Video Conference Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screen-recording-pros-bandicam-or-camtasia-in-2024/"><u>[Updated] Screen Recording Pros  Bandicam or Camtasia, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>[Updated] The Way of the Warrior  Game Lineup Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[Updated] Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-sea-snag-footage-top-5-picks/"><u>[Updated] Ultimate Sea Snag Footage - Top 5 Picks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-fb-videos-instant-mp4-format-conversion-for-2024/"><u>[Updated] Unlock FB Videos  Instant MP4 Format Conversion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-video-grabber-tool-decompiler/"><u>[Updated] Video Grabber Tool Decompiler</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-videopilot-hd-snapshot-guide/"><u>[Updated] VideoPilot HD Snapshot Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>2024 Approved  Prodigious Picture Editing  Speedy Steps for Windows Photo App Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-the-full-potential-of-your-videos-on-instagram-platform/"><u>2024 Approved  Unlock the Full Potential of Your Videos on Instagram Platform</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-lessons-top-10-educational-animation-software/"><u>Elevate Your Lessons Top 10 Educational Animation Software</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-liven-up-your-animate-website-on-scroll-for-2024/"><u>How to Liven Up Your Animate Website on Scroll for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-report-dji-inspire-1-reviewed/"><u>In 2024, Comprehensive Report  DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s24plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S24+ Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-x100-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo X100 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-yuva-3-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Yuva 3 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-note-50-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme Note 50 Lock Screen Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-lava-blaze-2-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava Blaze 2 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-14-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 14 Pro Before the Plan Expires</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-setup-windows-supported-ssd-drivers/"><u>Instantly Setup Windows-Supported SSD Drivers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-desktop-and-mobile-a-guide-to-setting-up-discord-calls/"><u>Mastering Desktop & Mobile  A Guide to Setting Up Discord Calls</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-from-sketch-to-screen-top-cartoon-video-maker-apps-for-android-and-ios/"><u>New 2024 Approved From Sketch to Screen Top Cartoon Video Maker Apps for Android and iOS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-engineers-choice-selecting-premium-websites-for-advanced-mp3-editing-techniques/"><u>New The Engineers Choice Selecting Premium Websites for Advanced MP3 Editing Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-crafting-engaging-haul-videos-for-2024/"><u>The Essential Guide to Crafting Engaging Haul Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-fullscreen-capturing-software-pcmac-edition-for-2024/"><u>Top Fullscreen Capturing Software, PC/Mac Edition for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-the-best-screen-capture-videographers-of-2023-for-2024/"><u>Unveiling the Best Screen Capture Videographers of 2023 for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-finding-rhythmic-vibrations-in-digital-sound-archives/"><u>Updated In 2024, Finding Rhythmic Vibrations in Digital Sound Archives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/win-10s-best-webcam-recording-software-guide-for-2024/"><u>Win 10'S Best Webcam Recording Software Guide for 2024</u></a></li>
+</ul></div>

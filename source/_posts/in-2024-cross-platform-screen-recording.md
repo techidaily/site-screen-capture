@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Cross-Platform Screen Recording\""
-date: 2024-06-25T06:48:35.909Z
-updated: 2024-06-26T06:48:35.909Z
+date: 2024-07-18T23:02:53.978Z
+updated: 2024-07-19T23:02:53.978Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
 # How to Record Multiple Monitors
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -29,8 +32,14 @@ Producing a software tutorial or a gameplay video with screen recording software
 
 If you would like to capture footage from multiple monitors, but you are not sure how, you've come to the right place, because in this article we are going to show you how to record two monitors at the same time using the OBS Studio and Camtasia screen recording software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -46,8 +55,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
@@ -93,6 +108,9 @@ In case that you want to record your secondary monitor, we recommend you to try 
 * Able to Record Computer Audio And Voice Over
 * Splendid Annotations, Cursor Effects and Editing Features
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -111,3 +129,38 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-10-leading-budget-friendly-quality-webcall-providers-for-2024/"><u>[New] 10 Leading Budget-Friendly, Quality Webcall Providers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-app-for-gamers-fraps-vs-obs-studio-review-for-2024/"><u>[New] Best App for Gamers  Fraps Vs. OBS Studio Review for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-breaking-down-the-hype-around-recordcast-for-2024/"><u>[New] Breaking Down the Hype Around RecordCast for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-bringing-people-together-in-real-time-using-whatsapp-desktop-for-laptops-for-2024/"><u>[New] Bringing People Together in Real Time Using WhatsApp Desktop for Laptops for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-maximizing-video-impact-on-tiktok-using-computertablet-for-2024/"><u>[New] Maximizing Video Impact on TikTok Using Computer/Tablet for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reimagining-design-post-acid-pro-landscape/"><u>[New] Reimagining Design  Post-ACID Pro Landscape</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-secure-your-conversations-on-the-go-with-top-10-mobile-chat-apps/"><u>[New] Secure Your Conversations on the Go with Top 10 Mobile Chat Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-emulators-pc-edition-ps1-games-for-2024/"><u>[Updated] Best Emulators  PC Edition - PS1 Games for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-bandicam-review-2023-everything-you-need-to-know/"><u>[Updated] In 2024, Bandicam Review 2023 – Everything You Need To Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions/"><u>[Updated] In 2024, Comprehensive Approach to Integrating Whiteboards in Zoom Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cross-media-iptv-synchronization/"><u>[Updated] In 2024, Cross-Media IPTV Synchronization</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simplified-guide-to-recording-pc-screens-for-hp-users-for-2024/"><u>[Updated] Simplified Guide to Recording PC Screens for HP Users for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-style-essentials-download-for-free/"><u>[Updated] YouTube Style Essentials - Download for FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-guide-to-launching-your-own-product-critique-network/"><u>2024 Approved  A Step-by-Step Guide to Launching Your Own Product Critique Network</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-streamlined-techniques-for-recording-gotomeetings/"><u>2024 Approved  Streamlined Techniques for Recording GoToMeetings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-upgrading-your-shoot-must-have-film-tech-for-creators/"><u>2024 Approved  Upgrading Your Shoot  Must-Have Film Tech for Creators</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-draw-skeleton-cartoon-a-step-by-step-guide/"><u>2024 Approved How to Draw Skeleton Cartoon – A Step by Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-huawei-p60-devices-by-drfone-android/"><u>How to Reset Gmail Password on Huawei P60 Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-narzo-n53-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Narzo N53 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-success-with-these-15-youtube-introduction-plans/"><u>In 2024, Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-15-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Without Passcode Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-sound-studio-everything-about-the-sound-recording-studio-mac/"><u>In 2024, Sound Studio - Everything About the Sound Recording Studio Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-media-workflow-a-complete-srt-to-other-file-format-handbook/"><u>In 2024, Streamline Your Media Workflow  A Complete SRT-to-Other File Format Handbook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-visual-storytelling-with-no-cost-green-screen-lessons-from-youtubes-best-experts/"><u>In 2024, Transform Your Visual Storytelling with No-Cost Green Screen Lessons From YouTube's Best Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-virtual-races-the-quintessential-list/"><u>In 2024, Ultimate Virtual Races  The Quintessential List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>In 2024, Uncovering Budget-Friendly Video Communication Apps  PC/MAC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-obs-video-potential-five-must-know-techniques/"><u>In 2024, Unlocking OBS Video Potential  Five Must-Know Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-zero-price-point-video-capturer-for-2024/"><u>Prime Zero-Price Point Video Capturer for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/reviewing-multiple-cameras-are-there-upgrades-for-2024/"><u>Reviewing Multiple Cameras  Are There Upgrades for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-toolkit-disabling-background-noise-during-gmeets-for-2024/"><u>The Ultimate Toolkit  Disabling Background Noise During GMeets for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-online-call-and-group-communication-hubs-for-2024/"><u>Ultimate Online Call & Group Communication Hubs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveil-the-potential-of-zoom-filters-for-excellence-for-2024/"><u>Unveil the Potential of Zoom Filters for Excellence for 2024</u></a></li>
+</ul></div>

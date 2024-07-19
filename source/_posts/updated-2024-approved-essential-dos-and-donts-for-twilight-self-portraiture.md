@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Essential Do's and Don'ts for Twilight Self-Portraiture\""
-date: 2024-06-09T04:04:37.883Z
-updated: 2024-06-10T04:04:37.883Z
+date: 2024-07-18T21:52:04.668Z
+updated: 2024-07-19T21:52:04.668Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,9 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Shooting with a topic
 
 One of the most difficult repercussions of **night mode portraits** is that everything in your sight takes on a strange appeal, which can easily make it challenging to understand the composition and picture subject. Well, to avoid such an issue, you need to make yourself familiarized with your topic or subject. So, you can arrive at the location before sunset and begin the setup procedure.
@@ -64,12 +67,21 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
@@ -82,6 +94,9 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
@@ -92,8 +107,14 @@ For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
@@ -102,6 +123,9 @@ As per the experts, the lower the aperture, the more light your camera will rece
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Are the Best Camera Settings for Night Photography?
 
 You should use your camera in manual mode. Besides, utilizing long camera shutter speeds, around 30 seconds to 60 seconds, will be good. Sometimes, using auto-white balance, you can get great results. The experts also suggest keeping the aperture around f/11 and going for a low ISO, between 100 to 200.
@@ -137,3 +161,38 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-screen-with-ezvid-video-maker/"><u>[New] How to Record Screen with Ezvid Video Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-platforms-creating-movies-from-photo-galleries/"><u>[New] Ideal Platforms  Creating Movies From Photo Galleries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-most-reliable-external-hdds-for-xbox-users/"><u>[New] Most Reliable External HDDs for Xbox Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-7-free-apps-to-record-screens-of-budget-pcs-for-2024/"><u>[New] Top 7 Free Apps to Record Screens of Budget PCs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-uncovering-stardews-depths-with-ginger-island-adventures-for-2024/"><u>[New] Uncovering Stardew's Depths with Ginger Island Adventures for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-youtubes-potential-with-smart-use-of-gaming-hashtags/"><u>[New] Unlock YouTube's Potential with Smart Use of Gaming Hashtags</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-free-android-calling-tools-ranked-by-cost/"><u>[Updated] 2024 Approved  Top Free Android Calling Tools Ranked by Cost</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unveiling-valheims-soil-secrets-premium-seed-guide/"><u>[Updated] 2024 Approved  Unveiling Valheim's Soil Secrets  Premium Seed Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-beyond-reality-expert-tips-for-documenting-vr-gaming-sessions/"><u>[Updated] Beyond Reality  Expert Tips for Documenting VR Gaming Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cam-repaired-obs-recovery-successful/"><u>[Updated] Cam Repaired  OBS Recovery Successful</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-realms-of-play-top-10-costless-online-roleplayers/"><u>[Updated] Realms of Play  Top 10 Costless Online Roleplayers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-video-presentation-in-adobe-captivate/"><u>[Updated] The Art of Video Presentation in Adobe Captivate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-audioarchive-compiler-download-playback-and-test/"><u>2024 Approved  AudioArchive Compiler  Download, Playback & Test</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/7-tips-to-make-your-tasty-cooking-videos-for-2024/"><u>7 Tips to Make Your Tasty Cooking Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-huawei-nova-y71-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Huawei Nova Y71</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/device-based-access-commence-google-meet-chat-for-2024/"><u>Device-Based Access  Commence Google Meet Chat for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-techniques-for-archiving-pc-based-television-programming-for-2024/"><u>Expert Techniques for Archiving PC-Based Television Programming for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-90-lite-phone-by-drfone-android/"><u>How to Reset a Locked Honor 90 Lite Phone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-alternatives-recording-sessions-without-obs/"><u>In 2024, Best Alternatives  Recording Sessions without OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-excellent-no-cost-live-camera-capturer/"><u>In 2024, Excellent No-Cost Live Camera Capturer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-permitted-practices-for-saving-youtube-videos/"><u>In 2024, Permitted Practices for Saving YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-simple-steps-keeping-a-record-of-google-voice-calls/"><u>In 2024, Simple Steps  Keeping a Record of Google Voice Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>In 2024, The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/inside-vidmas-tech-a-new-era-for-video-capture-for-2024/"><u>Inside Vidma’s Tech  A New Era for Video Capture for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mavericks-mp4-video-editor-simplify-your-editing-process/"><u>New Mavericks MP4 Video Editor Simplify Your Editing Process</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/peak-procurement-of-lecture-captures-for-2024/"><u>Peak Procurement of Lecture Captures for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sectionalviewpoint-investigation/"><u>SectionalViewpoint Investigation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-list-choosing-the-right-recorder-for-google-meet/"><u>Ultimate List  Choosing the Right Recorder for Google Meet</u></a></li>
+</ul></div>

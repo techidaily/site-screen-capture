@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capture Webpage's Entirety on Screen\""
-date: 2024-05-18T04:07:47.396Z
-updated: 2024-05-19T04:07:47.396Z
+date: 2024-07-18T21:12:23.452Z
+updated: 2024-07-19T21:12:23.452Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Capture Webpage's Entirety on Screen\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Capture Webpage's Entirety on Screen\""
 keywords: "Web Page Full Capture,Screen Full Web Save,Total Web Content Grab,Web Page Screenshot,Entire Site Image Save,Web Display Recapture,Whole Website Screen Shot"
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## Capture Webpage's Entirety on Screen
@@ -35,6 +35,9 @@ On the other hand, The Internet contains such a vast amount of information, that
 * [Method 4: Using Online Tools for Full Page Screenshots](#part4)
 * [Method 5: Using Screen Capturing Software for Full Page Screenshots](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -52,6 +55,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
@@ -74,6 +80,266 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 #### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
+
+This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
+
+#### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
+The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
+
+#### 3\. [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en)
+
+Free and Pro versions of the extension are available for Opera, Mozilla Firefox, Internet Explorer, and Google Chrome browsers. Even though the free version of FireShot provides all the tools you'll need to take a full page screenshot, the Pro version gives you access to better photo editing and file sharing tools.
+
+#### 4\. [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
+
+This feature-rich extension for Google Chrome browser allows you to choose whether you just want to capture a selected area, an entire page or the desktop. In addition, you can effortlessly annotate the images and share them with a single click.
+
+All of the above-mentioned browser extensions offer a quick way to take a screenshot of an entire page. Here's how you can capture a full page with Nimbus Screenshot extension:
+
+Install the extension in your browser and then click on its icon in the Extension bar, that is usually located in the upper right corner of the browser. A drop-down menu will appear on the screen and you should select the **Entire Page** feature. The screenshot you took will be opened in the Nimbus' photo editor, where you can add annotations, text or crop the picture. Click on **Done** when ready to save the image, and then proceed to save the screenshot as a PDF file on your computer or store it online.
+
+[Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 4: Using Online Tools for Full Page Screenshots
+
+If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
+
+The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
+
+## Method 5: Using Screen Capturing Software for Full Page Screenshots
+
+Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
+
+Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
+
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
+
+The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
+
+Afterward, you should click on one of the yellow arrows to select the direction in which you'd like to scroll and Snagit will do the rest for you. The final result will be a single image you can later edit, share via Email or on social networks. This software also enables you to create a scrolling capture preset, so you can take screenshots of web pages and documents within seconds.
+
+**Conclusion**
+
+Regardless of the method you use to create a full page screenshot, one thing is certain, the process will be simple and quick. However, choosing the tool that lets you select the file format, share or edit the screenshots is a much better option since you can control the process more precisely.
+
+Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Producing business presentations, written analyses, or spreadsheets, is an inseparable part of everyday professional life. But, as you most probably know, most of these documents are large in size and somewhat difficult to share. Instead of wasting time waiting for a file to upload, you can simply take a screenshot and create a file that is easy to share within seconds.
+
+On the other hand, The Internet contains such a vast amount of information, that it is sometimes easier to just capture an entire screen than it is to share a link. Luckily, you don't have to be a skilled photo editor who knows how to merge several screenshots of a scroll page of any kind, into a single image, because there are many easier ways to accomplish this task. Let's have a look at different methods of capturing screenshots of a full page.
+
+* [Method 1: Full Page Screenshot without Hotkeys](#part1)
+* [Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots](#part2)
+* [Method 3: Capturing Screenshots With Browser Extensions](#part3)
+* [Method 4: Using Online Tools for Full Page Screenshots](#part4)
+* [Method 5: Using Screen Capturing Software for Full Page Screenshots](#part5)
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
+
+Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
+
+Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
+
+## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
+
+If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
+
+To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
+
+## Method 3: Capturing Screenshots With Browser Extensions
+
+Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
+
+#### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
+
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
+
+This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
+
+#### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
+The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
+
+#### 3\. [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en)
+
+Free and Pro versions of the extension are available for Opera, Mozilla Firefox, Internet Explorer, and Google Chrome browsers. Even though the free version of FireShot provides all the tools you'll need to take a full page screenshot, the Pro version gives you access to better photo editing and file sharing tools.
+
+#### 4\. [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
+
+This feature-rich extension for Google Chrome browser allows you to choose whether you just want to capture a selected area, an entire page or the desktop. In addition, you can effortlessly annotate the images and share them with a single click.
+
+All of the above-mentioned browser extensions offer a quick way to take a screenshot of an entire page. Here's how you can capture a full page with Nimbus Screenshot extension:
+
+Install the extension in your browser and then click on its icon in the Extension bar, that is usually located in the upper right corner of the browser. A drop-down menu will appear on the screen and you should select the **Entire Page** feature. The screenshot you took will be opened in the Nimbus' photo editor, where you can add annotations, text or crop the picture. Click on **Done** when ready to save the image, and then proceed to save the screenshot as a PDF file on your computer or store it online.
+
+[Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
+
+## Method 4: Using Online Tools for Full Page Screenshots
+
+If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
+
+The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
+
+## Method 5: Using Screen Capturing Software for Full Page Screenshots
+
+Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
+
+Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
+
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
+
+The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
+
+Afterward, you should click on one of the yellow arrows to select the direction in which you'd like to scroll and Snagit will do the rest for you. The final result will be a single image you can later edit, share via Email or on social networks. This software also enables you to create a scrolling capture preset, so you can take screenshots of web pages and documents within seconds.
+
+**Conclusion**
+
+Regardless of the method you use to create a full page screenshot, one thing is certain, the process will be simple and quick. However, choosing the tool that lets you select the file format, share or edit the screenshots is a much better option since you can control the process more precisely.
+
+Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Producing business presentations, written analyses, or spreadsheets, is an inseparable part of everyday professional life. But, as you most probably know, most of these documents are large in size and somewhat difficult to share. Instead of wasting time waiting for a file to upload, you can simply take a screenshot and create a file that is easy to share within seconds.
+
+On the other hand, The Internet contains such a vast amount of information, that it is sometimes easier to just capture an entire screen than it is to share a link. Luckily, you don't have to be a skilled photo editor who knows how to merge several screenshots of a scroll page of any kind, into a single image, because there are many easier ways to accomplish this task. Let's have a look at different methods of capturing screenshots of a full page.
+
+* [Method 1: Full Page Screenshot without Hotkeys](#part1)
+* [Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots](#part2)
+* [Method 3: Capturing Screenshots With Browser Extensions](#part3)
+* [Method 4: Using Online Tools for Full Page Screenshots](#part4)
+* [Method 5: Using Screen Capturing Software for Full Page Screenshots](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
+
+Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
+
+Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
+
+## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
+
+If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
+
+To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 3: Capturing Screenshots With Browser Extensions
+
+Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
+
+#### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -146,6 +412,9 @@ On the other hand, The Internet contains such a vast amount of information, that
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -163,10 +432,16 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
@@ -183,6 +458,9 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 #### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -213,230 +491,18 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
 
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
-
-The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
-
-Afterward, you should click on one of the yellow arrows to select the direction in which you'd like to scroll and Snagit will do the rest for you. The final result will be a single image you can later edit, share via Email or on social networks. This software also enables you to create a scrolling capture preset, so you can take screenshots of web pages and documents within seconds.
-
-**Conclusion**
-
-Regardless of the method you use to create a full page screenshot, one thing is certain, the process will be simple and quick. However, choosing the tool that lets you select the file format, share or edit the screenshots is a much better option since you can control the process more precisely.
-
-Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Producing business presentations, written analyses, or spreadsheets, is an inseparable part of everyday professional life. But, as you most probably know, most of these documents are large in size and somewhat difficult to share. Instead of wasting time waiting for a file to upload, you can simply take a screenshot and create a file that is easy to share within seconds.
-
-On the other hand, The Internet contains such a vast amount of information, that it is sometimes easier to just capture an entire screen than it is to share a link. Luckily, you don't have to be a skilled photo editor who knows how to merge several screenshots of a scroll page of any kind, into a single image, because there are many easier ways to accomplish this task. Let's have a look at different methods of capturing screenshots of a full page.
-
-* [Method 1: Full Page Screenshot without Hotkeys](#part1)
-* [Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots](#part2)
-* [Method 3: Capturing Screenshots With Browser Extensions](#part3)
-* [Method 4: Using Online Tools for Full Page Screenshots](#part4)
-* [Method 5: Using Screen Capturing Software for Full Page Screenshots](#part5)
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
-
-Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
-
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
-
-Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
-## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
-
-If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
-
-To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-## Method 3: Capturing Screenshots With Browser Extensions
-
-Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
-
-#### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
-
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
-
-This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
-
-#### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
-
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
-
-#### 3\. [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en)
-
-Free and Pro versions of the extension are available for Opera, Mozilla Firefox, Internet Explorer, and Google Chrome browsers. Even though the free version of FireShot provides all the tools you'll need to take a full page screenshot, the Pro version gives you access to better photo editing and file sharing tools.
-
-#### 4\. [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
-
-This feature-rich extension for Google Chrome browser allows you to choose whether you just want to capture a selected area, an entire page or the desktop. In addition, you can effortlessly annotate the images and share them with a single click.
-
-All of the above-mentioned browser extensions offer a quick way to take a screenshot of an entire page. Here's how you can capture a full page with Nimbus Screenshot extension:
-
-Install the extension in your browser and then click on its icon in the Extension bar, that is usually located in the upper right corner of the browser. A drop-down menu will appear on the screen and you should select the **Entire Page** feature. The screenshot you took will be opened in the Nimbus' photo editor, where you can add annotations, text or crop the picture. Click on **Done** when ready to save the image, and then proceed to save the screenshot as a PDF file on your computer or store it online.
-
-[Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
-
-## Method 4: Using Online Tools for Full Page Screenshots
-
-If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
-
-The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
-
-## Method 5: Using Screen Capturing Software for Full Page Screenshots
-
-Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
-
-Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
-
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
-
-The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
-
-Afterward, you should click on one of the yellow arrows to select the direction in which you'd like to scroll and Snagit will do the rest for you. The final result will be a single image you can later edit, share via Email or on social networks. This software also enables you to create a scrolling capture preset, so you can take screenshots of web pages and documents within seconds.
-
-**Conclusion**
-
-Regardless of the method you use to create a full page screenshot, one thing is certain, the process will be simple and quick. However, choosing the tool that lets you select the file format, share or edit the screenshots is a much better option since you can control the process more precisely.
-
-Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Producing business presentations, written analyses, or spreadsheets, is an inseparable part of everyday professional life. But, as you most probably know, most of these documents are large in size and somewhat difficult to share. Instead of wasting time waiting for a file to upload, you can simply take a screenshot and create a file that is easy to share within seconds.
-
-On the other hand, The Internet contains such a vast amount of information, that it is sometimes easier to just capture an entire screen than it is to share a link. Luckily, you don't have to be a skilled photo editor who knows how to merge several screenshots of a scroll page of any kind, into a single image, because there are many easier ways to accomplish this task. Let's have a look at different methods of capturing screenshots of a full page.
-
-* [Method 1: Full Page Screenshot without Hotkeys](#part1)
-* [Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots](#part2)
-* [Method 3: Capturing Screenshots With Browser Extensions](#part3)
-* [Method 4: Using Online Tools for Full Page Screenshots](#part4)
-* [Method 5: Using Screen Capturing Software for Full Page Screenshots](#part5)
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
-
-Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
-
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
-
-Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
-## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
-
-If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
-
-To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-## Method 3: Capturing Screenshots With Browser Extensions
-
-Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
-
-#### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
-
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
-
-This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
-
-#### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
-
-![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
-
-#### 3\. [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en)
-
-Free and Pro versions of the extension are available for Opera, Mozilla Firefox, Internet Explorer, and Google Chrome browsers. Even though the free version of FireShot provides all the tools you'll need to take a full page screenshot, the Pro version gives you access to better photo editing and file sharing tools.
-
-#### 4\. [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
-
-This feature-rich extension for Google Chrome browser allows you to choose whether you just want to capture a selected area, an entire page or the desktop. In addition, you can effortlessly annotate the images and share them with a single click.
-
-All of the above-mentioned browser extensions offer a quick way to take a screenshot of an entire page. Here's how you can capture a full page with Nimbus Screenshot extension:
-
-Install the extension in your browser and then click on its icon in the Extension bar, that is usually located in the upper right corner of the browser. A drop-down menu will appear on the screen and you should select the **Entire Page** feature. The screenshot you took will be opened in the Nimbus' photo editor, where you can add annotations, text or crop the picture. Click on **Done** when ready to save the image, and then proceed to save the screenshot as a PDF file on your computer or store it online.
-
-[Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
-
-## Method 4: Using Online Tools for Full Page Screenshots
-
-If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
-
-The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
-
-## Method 5: Using Screen Capturing Software for Full Page Screenshots
-
-Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
-
-Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
-
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -482,3 +548,46 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-9-best-video-calling-applications-safety-and-simplicity-focus/"><u>[New] 9 Best Video Calling Applications  Safety & Simplicity Focus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivating-connection-not-compulsion-in-subscriptions-for-2024/"><u>[New] Cultivating Connection, Not Compulsion in Subscriptions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-digital-memory-keeping-for-your-ps3-experiences-for-2024/"><u>[New] Digital Memory Keeping for Your PS3 Experiences for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-advanced-practices-for-capturing-iptv-visuals/"><u>[New] In 2024, Advanced Practices for Capturing IPTV Visuals</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-agrarian-aesthetics-stardew-clones-and-cousins/"><u>[New] In 2024, Agrarian Aesthetics  Stardew Clones and Cousins</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-design-mastery-building-an-mc-village-home/"><u>[New] In 2024, Design Mastery  Building an MC Village Home</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-apps-15-video-capturers-for-modern-windows/"><u>[New] In 2024, Essential Apps  #15 Video Capturers for Modern Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-powerful-payload-the-elite-airborne-workhorses/"><u>[New] Powerful Payload  The Elite Airborne Workhorses</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/roductivity-in-duality-employment-and-video-creation/"><u>[New] Productivity in Duality  Employment & Video Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-incorporating-photo-capabilities-in-meet/"><u>[Updated] 2024 Approved  A Comprehensive Guide to Incorporating Photo Capabilities in Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-in-action-a-screen-recorders-journey/"><u>[Updated] 2024 Approved  Capturing in Action  A Screen Recorder's Journey</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cutting-edge-tech-for-screen-capture-an-itop-review/"><u>[Updated] 2024 Approved  Cutting-Edge Tech for Screen Capture  An ITop Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-explore-the-most-reliable-photo-background-alternation-apps/"><u>[Updated] Explore the Most Reliable Photo-Background Alternation Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-brain-benders-await-at-the-best-room-sanctuaries/"><u>[Updated] In 2024, Brain Benders Await at the Best Room Sanctuaries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-listeners-lens-sound-study/"><u>[Updated] Listener's Lens  Sound Study</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-installation-of-professional-vrecorder/"><u>[Updated] Step-by-Step Installation of Professional VRecorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swiftly-fix-red-eyes-in-iphone-photography-at-no-cost/"><u>[Updated] Swiftly Fix Red Eyes in iPhone Photography at No Cost</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-video-vanguard-vs-studio-giants/"><u>[Updated] Video Vanguard VS Studio Giants</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-mac-visual-snapshot-list-limit-156-chars/"><u>2024 Approved  Best Mac Visual Snapshot List (Limit  156 Chars)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-discover-the-creme-de-la-creme-of-mac-snipers/"><u>2024 Approved  Discover the Crème De La Crème of Mac Snipers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-selection-of-streaming-services-explored/"><u>2024 Approved  Prime Selection of Streaming Services Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-pick-skype-recorders-of-the-year/"><u>2024 Approved  The Ultimate Pick  Skype Recorders of the Year</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-zoom-mastery-a-comprehensive-strategy/"><u>2024 Approved  Zoom Mastery  A Comprehensive Strategy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/choosing-the-best-portable-microphones-for-macos-users-for-2024/"><u>Choosing the Best Portable Microphones for MacOS Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discover-the-best-10-audio-capturing-software-on-spotify-for-2024/"><u>Discover the Best 10 Audio Capturing Software on Spotify for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/easeus-recexperts-review-for-2024/"><u>EaseUS RecExperts Review for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oneplus-nord-n30-se-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock OnePlus Nord N30 SE Pattern Lock Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-curated-list-of-premium-podcast-enhancement-tools/"><u>In 2024, A Curated List of Premium Podcast Enhancement Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>In 2024, OBS Temporal Control  Initiating Countdown Features Seamlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-best-of-the-best-androids-top-8-group-chatters/"><u>In 2024, The Best of the Best  Android's Top 8 Group Chatters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11/"><u>In 2024, The Ultimate Guide to Screenshot & Record Mastery on Mi 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-filmora-its-10-most-attractive-features/"><u>In 2024, Unveiling Filmora  Its 10 Most Attractive Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-20-free-open-source-pubg-galleries-for-2024/"><u>Leading 20 Free, Open Source PUBG Galleries for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maximizing-twitter-budget-efficiency-in-ad-spends-for-2024/"><u>Maximizing Twitter Budget Efficiency in Ad Spends for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-powerful-set-of-male-to-female-voice-change-technologies-enhancing-eloquence-with-higher-pitches/"><u>New In 2024, Powerful Set of Male to Female Voice Change Technologies Enhancing Eloquence with Higher Pitches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/secure-snapshot-maker-no-commercialities/"><u>Secure Snapshot Maker - No Commercialities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-check-comparing-bandicams-performance-to-competitors/"><u>The Ultimate Check  Comparing Bandicam's Performance to Competitors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/bes-beauty-titans-whos-leading/"><u>YouTube's Beauty Titans  Who's Leading ?</u></a></li>
+</ul></div>

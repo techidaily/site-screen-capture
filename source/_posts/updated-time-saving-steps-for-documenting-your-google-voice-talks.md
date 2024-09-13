@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Time-Saving Steps for Documenting Your Google Voice Talks\""
-date: 2024-07-18T22:22:50.857Z
-updated: 2024-07-19T22:22:50.857Z
+date: 2024-09-11T16:09:54.353Z
+updated: 2024-09-13T16:00:51.158Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,19 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 Google Voice is steadily replacing the traditional call app that comes preinstalled on every smartphone. Google Voice lets you make calls, send text messages and voicemails. The most interesting feature is that it provides a virtual phone number so that the user can hide his original phone number for privacy concerns. But Google voice call recording feature makes the app stands out.
 
 Most smartphone users crave for a call recording feature in their voice calling app but the preinstalled calling app does not provide the feature. That is where Google Voice app outshines others. Besides, you can make calls from your phone as well as computer as it syncs across all devices. In this article, we will illustrate how to record Google Voice calls in simple steps.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Should You Use Google Voice?
 
@@ -41,9 +54,6 @@ You need to install Google Voice app and create a Google Voice account. Select a
 
 Step 1: Tap on three-line icon on the top-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![step1](https://images.wondershare.com/filmora/article-images/step1.jpg)
 
 Step 2: Select Settings option from the drop-down menu.
@@ -52,10 +62,14 @@ Step 2: Select Settings option from the drop-down menu.
 
 Step 3: Go to Calls section and turn on “Incoming Calls Options”.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
 
@@ -79,106 +93,32 @@ Step 1: Download and install Wondershare Filmora on your computer. It is availab
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: From Recording window, set the video recording screen dimensions. Set the speaker and external microphone perfectly.
 
 ![set](https://images.wondershare.com/filmora/article-images/set.jpg)
 
 Step 3: Click on Record button to start recording.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on record button](https://images.wondershare.com/filmora/article-images/click-on-record-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Click on Stop button to stop recording when the call ends.
 
 Step 5: You can export the recorded Google Voice call with video in order to save on your computer.
 
-![export](https://images.wondershare.com/filmora/article-images/export.jpg)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Conclusion
-
-We have illustrated to turn on the recording option on Google Voice and how to record Google voice calls easily on your smartphone. You can follow the same steps to record Google Voice calls from your computer. If you want to record Google Voice calls without the other person knowing, you can use Wondershare Filmora on your computer.
-
-How To Record Google Voice Call On Smartphone?
-
-You need to install Google Voice app and create a Google Voice account. Select a virtual Google Voice virtual number. After creating and logging into the account, you have to enable Google Voice recorder settings so that you can record calls from Google Voice app. Here are the steps to activate Google Voice record call and start recording.
-
-Step 1: Tap on three-line icon on the top-left corner.
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![step1](https://images.wondershare.com/filmora/article-images/step1.jpg)
-
-Step 2: Select Settings option from the drop-down menu.
-
-![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
-
-Step 3: Go to Calls section and turn on “Incoming Calls Options”.
-
-![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
-
-Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
-
-Step 5: To stop Google Voice call recording, press 4 again. The recording will stop and it will be saved. The other person will get an alert that the call recording has stopped.
-
-Step 6: You can access the recording from Voicemail tab. Otherwise, you can go to the last call from Google Voice call log and tap on Voicemail option. You can play the recording and listen to it instantly.
-
-If you are using a Google Pixel smartphone, you can Google Voice Recorder app which is available exclusively for Pixel users.
-
-![step4](https://images.wondershare.com/filmora/article-images/step4.jpg)
-
-All these steps are equally applicable on Android as well as iOS version of Google Voice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How To Record Google Voice Call On Computer?
-
-Google Voice is available for smartphones as well as computers through its web portal. You get all the features in its web version as the app version. The steps on how to record Google Voice calls on a computer are exactly the same as in the app. However, the fact that Google Voice sends alerts to the other person when you start or end recording is annoying for many.
-
-This is especially undesirable when you want to record a stalker disturbing you through repeated calls, and you can have evidence to produce to officials to take steps. If the stalker gets to know that you are recording, he will cut the call. That is why you need a better alternative to Google Voice recorder. When you are using Google voice through our computer, you can use Wondershare Filmora to record both audio and video which will show the caller number, call duration, and other data. Here are the steps to record your Google Voice call on your computer through Filmora.
-
-Step 1: Download and install Wondershare Filmora on your computer. It is available for both Windows and Mac. Launch the application and click on PC Screen option.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: From Recording window, set the video recording screen dimensions. Set the speaker and external microphone perfectly.
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![set](https://images.wondershare.com/filmora/article-images/set.jpg)
-
-Step 3: Click on Record button to start recording.
-
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![click on record button](https://images.wondershare.com/filmora/article-images/click-on-record-button.jpg)
-
-Step 4: Click on Stop button to stop recording when the call ends.
-
-Step 5: You can export the recorded Google Voice call with video in order to save on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -199,18 +139,35 @@ You need to install Google Voice app and create a Google Voice account. Select a
 
 Step 1: Tap on three-line icon on the top-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![step1](https://images.wondershare.com/filmora/article-images/step1.jpg)
 
 Step 2: Select Settings option from the drop-down menu.
 
 ![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Go to Calls section and turn on “Incoming Calls Options”.
 
 ![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
 
@@ -236,10 +193,14 @@ Step 1: Download and install Wondershare Filmora on your computer. It is availab
 
 Step 2: From Recording window, set the video recording screen dimensions. Set the speaker and external microphone perfectly.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set](https://images.wondershare.com/filmora/article-images/set.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording.
 
@@ -260,8 +221,12 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We have illustrated to turn on the recording option on Google Voice and how to record Google voice calls easily on your smartphone. You can follow the same steps to record Google Voice calls from your computer. If you want to record Google Voice calls without the other person knowing, you can use Wondershare Filmora on your computer.
@@ -276,17 +241,25 @@ Step 1: Tap on three-line icon on the top-left corner.
 
 Step 2: Select Settings option from the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Go to Calls section and turn on “Incoming Calls Options”.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
 
@@ -296,9 +269,6 @@ Step 6: You can access the recording from Voicemail tab. Otherwise, you can go t
 
 If you are using a Google Pixel smartphone, you can Google Voice Recorder app which is available exclusively for Pixel users.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![step4](https://images.wondershare.com/filmora/article-images/step4.jpg)
 
 All these steps are equally applicable on Android as well as iOS version of Google Voice.
@@ -317,11 +287,21 @@ Step 2: From Recording window, set the video recording screen dimensions. Set th
 
 ![set](https://images.wondershare.com/filmora/article-images/set.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button to start recording.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on record button](https://images.wondershare.com/filmora/article-images/click-on-record-button.jpg)
 
 Step 4: Click on Stop button to stop recording when the call ends.
@@ -337,6 +317,144 @@ For Win 7 or later (64-bit)
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
+
+## Conclusion
+
+We have illustrated to turn on the recording option on Google Voice and how to record Google voice calls easily on your smartphone. You can follow the same steps to record Google Voice calls from your computer. If you want to record Google Voice calls without the other person knowing, you can use Wondershare Filmora on your computer.
+
+How To Record Google Voice Call On Smartphone?
+
+You need to install Google Voice app and create a Google Voice account. Select a virtual Google Voice virtual number. After creating and logging into the account, you have to enable Google Voice recorder settings so that you can record calls from Google Voice app. Here are the steps to activate Google Voice record call and start recording.
+
+Step 1: Tap on three-line icon on the top-left corner.
+
+![step1](https://images.wondershare.com/filmora/article-images/step1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 2: Select Settings option from the drop-down menu.
+
+![step2](https://images.wondershare.com/filmora/article-images/step2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: Go to Calls section and turn on “Incoming Calls Options”.
+
+![step3](https://images.wondershare.com/filmora/article-images/step3.jpg)
+
+Step 4: On Google Voice app, make a call and bring up the keypad. Press 4 and the recording will start. Please note that the other person will get an alert that the call is on recording mode.
+
+Step 5: To stop Google Voice call recording, press 4 again. The recording will stop and it will be saved. The other person will get an alert that the call recording has stopped.
+
+Step 6: You can access the recording from Voicemail tab. Otherwise, you can go to the last call from Google Voice call log and tap on Voicemail option. You can play the recording and listen to it instantly.
+
+If you are using a Google Pixel smartphone, you can Google Voice Recorder app which is available exclusively for Pixel users.
+
+![step4](https://images.wondershare.com/filmora/article-images/step4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+All these steps are equally applicable on Android as well as iOS version of Google Voice.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How To Record Google Voice Call On Computer?
+
+Google Voice is available for smartphones as well as computers through its web portal. You get all the features in its web version as the app version. The steps on how to record Google Voice calls on a computer are exactly the same as in the app. However, the fact that Google Voice sends alerts to the other person when you start or end recording is annoying for many.
+
+This is especially undesirable when you want to record a stalker disturbing you through repeated calls, and you can have evidence to produce to officials to take steps. If the stalker gets to know that you are recording, he will cut the call. That is why you need a better alternative to Google Voice recorder. When you are using Google voice through our computer, you can use Wondershare Filmora to record both audio and video which will show the caller number, call duration, and other data. Here are the steps to record your Google Voice call on your computer through Filmora.
+
+Step 1: Download and install Wondershare Filmora on your computer. It is available for both Windows and Mac. Launch the application and click on PC Screen option.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 2: From Recording window, set the video recording screen dimensions. Set the speaker and external microphone perfectly.
+
+![set](https://images.wondershare.com/filmora/article-images/set.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: Click on Record button to start recording.
+
+![click on record button](https://images.wondershare.com/filmora/article-images/click-on-record-button.jpg)
+
+Step 4: Click on Stop button to stop recording when the call ends.
+
+Step 5: You can export the recorded Google Voice call with video in order to save on your computer.
+
+![export](https://images.wondershare.com/filmora/article-images/export.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -364,8 +482,22 @@ We have illustrated to turn on the recording option on Google Voice and how to r
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[New] 2024 Approved FIFA Highlights & Trends Charting on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-prime-selection-of-simple-effective-gamers-edit-tools/"><u>[New] 2024 Approved Prime Selection of Simple, Effective Gamers' Edit Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-troubleshooting-a-non-operational-obs-video-capture/"><u>[New] In 2024, Troubleshooting a Non-Operational OBS Video Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-video-capture-with-a-focus-on-vsdc/"><u>[New] Mastering Video Capture with a Focus on VSDC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-staying-up-to-date-saving-mov-videos-with-the-six-smartest-strategies-in-win-11/"><u>[Updated] 2024 Approved Staying Up-to-Date Saving .MOV Videos with the Six Smartest Strategies in Win 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-browser-capture-tools-top-5-screen-recorder-selections/"><u>[Updated] Best Browser Capture Tools Top 5 Screen Recorder Selections</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-five-mac-friendly-strategies-for-documenting-minecraft-games/"><u>[Updated] In 2024, Five Mac-Friendly Strategies for Documenting Minecraft Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pocket-safari-androids-selection-of-best-simulators/"><u>[Updated] In 2024, Pocket Safari Android's Selection of Best Simulators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-determining-the-price-of-a-music-video-setup/"><u>2024 Approved Determining the Price of a Music Video Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-brother-mfc-l2690dw-printing-up-and-running-with-new-driver-downloads/"><u>Get Your Brother MFC-L2690DW Printing Up and Running with New Driver Downloads</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-gionee-f3-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-v30-lite-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo V30 Lite 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-a-comprehensive-guide-to-effortless-recording-of-your-favored-youtube-lives-on-any-gear/"><u>In 2024, A Comprehensive Guide to Effortless Recording of Your Favored YouTube Lives on Any Gear</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-online-gag-artist/"><u>In 2024, Online Gag Artist</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-top-6-gpt-car-configuration-challenges-and-solutions/"><u>Mastering the Top 6 GPT Car Configuration Challenges and Solutions</u></a></li>
+</ul></div>
 

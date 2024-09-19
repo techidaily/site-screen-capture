@@ -1,7 +1,7 @@
 ---
 title: Stop Dirt 5 From Crashing on Your Computer - Effective Fixes and Tweaks
-date: 2024-09-09T16:11:43.808Z
-updated: 2024-09-13T16:20:41.247Z
+date: 2024-09-11T21:15:18.317Z
+updated: 2024-09-18T19:54:13.466Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Games crashes are not something uncommon. And you might encounter the same issue
 6. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
 7. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Before getting started
 
  Halo 3 could be crashing because you’re running it beyond your computer’s abilities. So make sure your computer meets the requirements for the game.
@@ -51,13 +44,6 @@ _Halo 3 Minimum System Requirements_
 
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
@@ -65,39 +51,12 @@ _Halo 3 Minimum System Requirements_
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Privacy** .  
   
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
@@ -113,13 +72,6 @@ _Halo 3 Minimum System Requirements_
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/choose-which-apps-can-run-in-the-background-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
@@ -167,6 +119,19 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Perform a clean boot
 
  Your game might suddenly close without giving you any error message. If you’re experiencing this kind of issue even after updating the graphics drivers, then we suggest you try performing Clean Boot. It can be a great way to troubleshoot the Halo 3 crashing issues.
@@ -179,13 +144,6 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
@@ -196,10 +154,10 @@ To do so:
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
@@ -210,13 +168,20 @@ To do so:
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and it’ll be in a clean boot environment.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
@@ -229,23 +194,16 @@ To do so:
   
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
@@ -255,13 +213,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Install the latest game patch
 
  When a new game is released, there are still many bugs in it. And those bugs might cause the game crash issues. So developers keep updating the games to fix the bugs and improve the gaming performance.  
@@ -269,19 +220,6 @@ To do so:
  So if there is a patch available, download and install it, then run the game again to check if the problem is solved. If it isn’t, or there is no new patch available, then move on to Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Verify the integrity of game files
 
@@ -327,21 +265,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comparing-sharex-with-industry-leaders/"><u>[New] 2024 Approved Comparing ShareX with Industry Leaders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-iconic-image-improvements-iosandroids-funniest-apps/"><u>[New] 2024 Approved Iconic Image Improvements IOS/Android's Funniest Apps</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-must-try-tiktok-video-ideas-drawing-from-anime-worlds/"><u>[New] 2024 Approved Must-Try TikTok Video Ideas Drawing From Anime Worlds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-list-of-top-10-affordable-video-chat-platforms-for-companies-and-institutions-for-2024/"><u>[New] Innovative List of Top 10 Affordable Video Chat Platforms for Companies & Institutions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-minecraft-ultimate-recording-techniques/"><u>[New] Mastering Minecraft Ultimate Recording Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-optimal-techniques-for-recording-your-youtube-events/"><u>[New] Optimal Techniques for Recording Your YouTube Events</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-perfect-your-instagram-vids-with-ease/"><u>[New] Perfect Your Instagram Vids with Ease</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-visualvault-review-highlighting-the-best-recording-tools/"><u>[New] VisualVault Review Highlighting the Best Recording Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-masterful-picks-top-6-mac-compatible-capture-tools/"><u>[Updated] 2024 Approved Masterful Picks Top 6 Mac-Compatible Capture Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-evaluation-of-the-newest-slomo-video-software/"><u>[Updated] In-Depth Evaluation of the Newest SloMo Video Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-8-best-screen-recorders-without-lag/"><u>[Updated] Top 8 Best Screen Recorders without Lag</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-new-era-in-adventure-recording-the-ultra-30-review-for-2024/"><u>A New Era in Adventure Recording The Ultra 30 Review for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/analyzing-screen-capture-tech-for-professionals-for-2024/"><u>Analyzing Screen Capture Tech for Professionals for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-ready-for-android-16-insiders-guide-to-pricing-availability-and-features-free-trial/"><u>Get Ready for Android 16: Insider's Guide to Pricing, Availability & Features - Free Trial!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-your-mov-files-smoothly-with-stellar-technology/"><u>Revive Your MOV Files Smoothly with Stellar Technology</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/smooth-sailing-in-transforming-ppt-slides-into-videos-for-2024/"><u>Smooth Sailing in Transforming PPT Slides Into Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-superior-hashtags-for-your-youtube-content/"><u>[New] 2024 Approved Finding Superior Hashtags for Your YouTube Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mellow-playtime-10-top-rated-stress-erasers/"><u>[New] 2024 Approved Mellow Playtime 10 Top-Rated Stress Erasers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>[New] High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/"><u>[New] In 2024, From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-initiate-flip-reverse-video-display-on-vlc-software-for-2024/"><u>[New] Initiate Flip Reverse Video Display on VLC Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-thrills-that-dont-involve-los-angeles-lives-for-2024/"><u>[New] Thrills That Don't Involve Los Angeles Lives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>[New] Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-frontline-contenders-top-7-action-fps-games/"><u>[Updated] 2024 Approved Frontline Contenders Top 7 Action FPS Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-discovering-the-1-songs-of-facebook-video-insights/"><u>2024 Approved Discovering the #1 Songs of Facebook Video Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elite-recording-software-to-handle-ultra-hd-screenshots/"><u>Elite Recording Software to Handle Ultra HD Screenshots</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-blue-screen-of-death-bsod-error-in-windows-11/"><u>How to Fix a Blue Screen of Death (BSOD) Error in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-lenovo-thinkphone-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Lenovo ThinkPhone Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovation-unleashed-experience-our-6-best-signature-removers-for-2024/"><u>Innovation Unleashed – Experience Our 6 Best Signature Removers for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quantifying-the-fortune-of-mr-beast/"><u>Quantifying the Fortune of Mr. Beast</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Crafting Immersive Video Experiences Using Captivate"
-date: 2024-09-11T19:56:18.592Z
-updated: 2024-09-18T17:28:33.437Z
+date: 2024-09-19T19:22:18.007Z
+updated: 2024-09-23T17:57:44.053Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
 #### Step 2 - Select the application and designate the area of the screen you'd like to record
@@ -66,6 +73,13 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -73,6 +87,13 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
@@ -92,6 +113,13 @@ Adobe Captivate is much more than just a simple screen recording tool, and if yo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -107,28 +135,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimize-remote-work-with-smart-zoom-scheduling/"><u>[New] In 2024, Optimize Remote Work with Smart Zoom Scheduling</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-precision-at-your-fingertips-a-guide-to-screen-recording-on-apple-devices/"><u>[New] In 2024, Precision at Your Fingertips A Guide to Screen Recording on Apple Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-junior-road-rules-and-racer-revelry/"><u>[New] Junior Road Rules & Racer Revelry</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quantifying-the-fortune-of-mr-beast/"><u>[New] Quantifying the Fortune of Mr. Beast</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamlined-steps-for-saving-webcam-dialogues-for-2024/"><u>[New] Streamlined Steps for Saving Webcam Dialogues for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-10-must-have-tech-gadgets-for-seamless-video-meetings-for-2024/"><u>[Updated] 10 Must-Have Tech Gadgets for Seamless Video Meetings for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harmonizing-posts-with-instagram-music/"><u>[Updated] 2024 Approved Harmonizing Posts with Instagram Music</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-step-by-step-guide-to-initiating-a-tiktok-stream-from-desktop/"><u>[Updated] Step-by-Step Guide to Initiating a TikTok Stream From Desktop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-12-interactive-pc-adventures-to-boost-your-clicking/"><u>[Updated] Top 12 Interactive PC Adventures to Boost Your Clicking</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/9-best-online-mic-recorders-2023-for-2024/"><u>9 Best Online Mic Recorders 2023 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/leading-ai-applications-for-clearer-photos-techniques-to-erase-unwanted-noise-and-texture-from-your-pictures/"><u>Leading AI Applications for Clearer Photos: Techniques to Erase Unwanted Noise and Texture From Your Pictures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-world-examples-the-impact-of-gpt-today/"><u>Real-World Examples: The Impact of GPT Today</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-11-tools-for-enthusiasts-to-rip-and-save-videos-for-2024/"><u>Top 11 Tools for Enthusiasts to Rip and Save Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-trending-stock-images-and-behind-the-scenes-stories/"><u>Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10-for-2024/"><u>Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-farm-like-royalty-unveiling-the-best-7-stardew-upgrades/"><u>[New] 2024 Approved Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-vibrant-discourse-evaluation-ver-8/"><u>[New] Vibrant Discourse Evaluation - Ver. 8</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games-for-2024/"><u>[Updated] 5 Breakthrough Ways to Preserve Precise Moments in VR Games for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-instagram-live-broadcasting-made-simple-via-obs-for-2024/"><u>[Updated] The Art of Instagram Live Broadcasting Made Simple via OBS for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-emerald-error-in-nba-2k21-effective-fixes-explored/"><u>Beat the Emerald Error in NBA 2K21: Effective Fixes Explored</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-oculus-drivers-for-windows-users-download-now-for-optimal-vr-experience/"><u>Compatible Oculus Drivers for Windows Users: Download Now for Optimal VR Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Motorola Edge+ (2023)?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-impressive-capabilities-of-the-xbox-series-x-in-ultra-hd/"><u>In-Depth Analysis: The Impressive Capabilities of the Xbox Series X in Ultra HD</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/simultaneous-scheduling-on-iphoneandroid-with-zoom-desktop-timeline/"><u>Simultaneous Scheduling on iPhone/Android with Zoom Desktop Timeline</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco C50? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

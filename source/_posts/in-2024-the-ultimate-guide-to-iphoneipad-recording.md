@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to iPhone/iPad Recording"
-date: 2024-09-12T17:34:11.656Z
-updated: 2024-09-18T17:56:28.586Z
+date: 2024-09-22T18:43:52.860Z
+updated: 2024-09-23T17:25:49.502Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
 People need to download and install a third-party iPhone/iPad screen recorder after jailbreaking the device and going through a complicated installation process. iOS is always risky to jailbreak your device as if you don’t do it carefully your device will get broken. It means your device will stop functioning and you will need to go to Apple care for getting it fixed. Jailbreaking also voids your warranty. So rather than going through these risks, people preferred using QuickTime to record their Phone/iPad’s screen.
@@ -73,11 +80,37 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Launch QuickTime on your Mac available in the application folder.
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
@@ -86,6 +119,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 6\. Click on the red record button when you want to start recording.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
@@ -116,22 +156,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-unleashing-your-gaming-potential-with-win10-recordings/"><u>[Updated] Unleashing Your Gaming Potential with Win10 Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-blending-past-memories-with-instagrams-vivid-filters/"><u>2024 Approved Blending Past Memories with Instagram's Vivid Filters</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-expand-your-reach-effective-youtube-campaigns/"><u>2024 Approved Expand Your Reach Effective YouTube Campaigns</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10/"><u>2024 Approved Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixed-how-to-resolve-your-star-wars-squadrons-game-crashes-ultimate-guide/"><u>Fixed! How to Resolve Your Star Wars: Squadrons Game Crashes | Ultimate Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-find-x7-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Find X7 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-itel-p55-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Itel P55 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/lightweight-pc-video-grabber-w10-compatible/"><u>Lightweight PC Video Grabber, W10 Compatible</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-path-to-flawless-streams-a-guide-to-recording-on-steam-for-2024/"><u>The Path to Flawless Streams A Guide to Recording on Steam for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-novice-to-pro-a-comprehensive-guide-to-using-audacity-on-a-mac/"><u>[New] 2024 Approved From Novice to Pro A Comprehensive Guide to Using Audacity on a Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-tips-for-efficiently-logging-google-online-gatherings/"><u>[New] In 2024, Expert Tips for Efficiently Logging GooGle Online Gatherings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-radiance-routines-pro-tips-for-video-illumination/"><u>[New] Radiance Routines Pro Tips for Video Illumination</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-undercover-echo-enthusiasts-6-hidden-voice-capture-apps/"><u>[New] Undercover Echo Enthusiasts 6 Hidden Voice Capture Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-roblox-gaming-save-techniques-on-macs/"><u>[Updated] 2024 Approved Efficient Roblox Gaming Save Techniques on Macs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-asmr-creators-to-follow/"><u>[Updated] 2024 Approved Essential ASMR Creators to Follow</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android/"><u>[Updated] In 2024, Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-innovative-approaches-to-documenting-facetime-talks/"><u>[Updated] In 2024, Innovative Approaches to Documenting FaceTime Talks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-studio-for-ps4-step-by-step-screen-capture/"><u>[Updated] Obs Studio for PS4 Step-by-Step Screen Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-webcam-integration-for-flawless-gameplay-logs-for-2024/"><u>[Updated] Webcam Integration for Flawless Gameplay Logs for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-best-text-animation-presets/"><u>2024 Approved Best Text Animation Presets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ghostly-glimpses-innovation-highlights/"><u>Ghostly Glimpses Innovation Highlights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions/"><u>New In 2024, Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speak-up-how-you-can-start-a-conversation-with-chatgpt-today/"><u>Speak Up! How You Can Start a Conversation with ChatGPT Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-building-your-own-pc-based-webinars-with-top-software-tools/"><u>Step-by-Step Guide: Building Your Own PC-Based Webinars with Top Software Tools</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

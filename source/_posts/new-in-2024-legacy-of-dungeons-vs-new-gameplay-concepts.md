@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2024-09-14T19:07:14.122Z
-updated: 2024-09-19T03:19:22.917Z
+date: 2024-09-16T19:53:51.111Z
+updated: 2024-09-23T16:29:46.207Z
 tags: 
   - screen-recording
   - ai video
@@ -51,11 +51,32 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -81,6 +102,13 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -99,13 +127,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Roguelite Games
@@ -118,18 +139,18 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -142,13 +163,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -165,13 +179,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>[Updated] 2024 Approved Get Superior Visuals From YouTube - Downloading Thumbnails Free</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-navigating-steam-with-switch-pro/"><u>[Updated] 2024 Approved The Ultimate Guide to Navigating Steam with Switch Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-fundamental-furnishings-in-mc-the-basics-of-homesteading-for-2024/"><u>[Updated] Fundamental Furnishings in MC The Basics of Homesteading for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-social-media-insta-to-tiksync/"><u>[Updated] Mastering Social Media Insta-To-TikSync</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>[Updated] The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-motorola-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Motorola</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-8-android-multi-user-video-chat-tools/"><u>In 2024, Top 8 Android Multi-User Video Chat Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-portable-pc-playground-the-steam-deck/"><u>The Ultimate Portable PC Playground - The Steam Deck</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-depth-guide-to-game-capturing-roblox-and-mac-integration/"><u>[New] 2024 Approved In-Depth Guide to Game Capturing Roblox & Mac Integration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-virtual-broadcast-battleground-obs-versus-shadowgl/"><u>[New] 2024 Approved Virtual Broadcast Battleground OBS Versus ShadowGL</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ideas-for-soundless-video-preservation-for-2024/"><u>[New] Ideas for Soundless Video Preservation for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premier-tools-to-record-your-pc-screenshots/"><u>[New] In 2024, Premier Tools to Record Your PC Screenshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-minimizing-live-stream-delays-fixing-obs-studio-drops-for-2024/"><u>[Updated] Minimizing Live Stream Delays - Fixing OBS Studio Drops for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-your-step-by-step-guide-to-successful-lol-streaming/"><u>[Updated] Your Step-by-Step Guide to Successful LOL Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-action-cams-reduce-jitter-for-smooth-videos/"><u>2024 Approved Best Action Cams Reduce Jitter for Smooth Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-action-screen-recorder-review/"><u>2024 Approved Best Action Screen Recorder Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>2024 Approved Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-iphone-tricks-turn-your-images-upside-down-sideways/"><u>In 2024, IPhone Tricks Turn Your Images Upside-Down, Sideways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-browsing-efficiency-on-windows/"><u>Streamlining Browsing Efficiency on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamlining-epson-communication-a-step-by-step-approach/"><u>Streamlining Epson Communication: A Step-by-Step Approach</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-nest-audios-charm-an-essential-addition-to-music-lovers-smart-home-collections/"><u>Unveiling Nest Audio's Charm: An Essential Addition to Music Lovers’ Smart Home Collections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-mix-fold-3-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi Mix Fold 3? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

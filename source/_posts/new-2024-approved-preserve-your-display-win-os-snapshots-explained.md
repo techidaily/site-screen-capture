@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Preserve Your Display  Win OS Snapshots Explained\""
-date: 2024-09-14T23:47:54.038Z
-updated: 2024-09-18T23:33:22.255Z
+date: 2024-09-16T18:05:02.410Z
+updated: 2024-09-23T20:13:27.389Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
@@ -82,21 +89,35 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
@@ -112,6 +133,13 @@ However, this option is only available on the Windows 10 version of the app, and
 You can launch the app from the Start menu or by typing its name in the Search Charm. When the Snipping Tool window appears on the screen you can click on the New drop-down menu and choose from, Free Form, Rectangular, Window and Full-Screen snip options. Simply click on the option that best meets your demands.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
@@ -132,13 +160,6 @@ The Share Charm on Windows 8.1 enables you to share links, music, videos, photos
 Hold the Window + C keys or use the mouse to access the Charms Bar and then click on the Share option. The feature lets you share files through email, and you can also use it to take screenshots within the apps you downloaded from the Windows Store. For the purpose of this article, we chose to show you how you can take screenshots from the Video app.
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
@@ -179,10 +200,10 @@ Leave a comment and let us know what is your favorite method of taking screensho
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -200,14 +221,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-virtual-escapades-you-cant-afford-to-miss/"><u>[New] 2024 Approved Virtual Escapades You Can't Afford to Miss</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dive-into-dynamic-youtube-discussions/"><u>[Updated] 2024 Approved Dive Into Dynamic YouTube Discussions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-gunners-gratitude-discovering-our-top-7-shooter-games/"><u>[Updated] Gunner's Gratitude Discovering Our Top 7 Shooter Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1716070240758-updated-in-2024-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[Updated] In 2024, Exploring Screen Capture with Apowersoft, No Cost Involved!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-picpartition-testimonials/"><u>[Updated] In 2024, PicPartition Testimonials</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-most-engaging-history-youtube-creators-for-students/"><u>[Updated] In 2024, The Most Engaging History YouTube Creators for Students</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>In 2024, Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y36i-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y36i Location | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-phantom-v-flip-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno Phantom V Flip FRP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-smartest-screens-top-11-general-knowledge-channels/"><u>[New] 2024 Approved Smartest Screens Top 11 General Knowledge Channels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-allocate-more-ram-to-minecraft/"><u>[New] In 2024, How to Allocate More Ram to Minecraft</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-the-complexities-of-obs-a-beginners-guide/"><u>[New] Navigating the Complexities of OBS A Beginner’s Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-seamless-sound-recording-experience-with-audacity-mac-edition-for-2024/"><u>[New] Seamless Sound Recording Experience with Audacity, Mac Edition for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-storage-galore-selecting-top-ps5-hddsssds-for-2024/"><u>[New] Storage Galore Selecting Top PS5 HDDs/SSDs for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/tiff-jpeg-movavi/"><u>無條件免費移動 TIFF 為 JPEG - 使用 Movavi 轉換工具</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-wow-lag-and-crash-glitches-with-these-painless-remedies/"><u>Banish WOW Lag and Crash Glitches with These Painless Remedies!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-microsoft-bluetooth-driver-downloads-update-support-for-windows-versions-101187/"><u>Compatible Microsoft Bluetooth Driver Downloads: Update Support for Windows Versions 10/11/8/7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-must-play-imessage-games-you-cant-miss/"><u>Top 7 Must-Play iMessage Games You Can't Miss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-ios-keyboard-solutions-for-iphone-and-ipad/"><u>Troubleshooting Your iOS Keyboard – Solutions for iPhone & iPad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-potential-with-onlyoffice-docspace-enhanced-by-chatgpt-for-superior-results/"><u>Unleash Your Potential with ONLYOFFICE DocSpace Enhanced by ChatGPT for Superior Results</u></a></li>
 </ul></div>
 

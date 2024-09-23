@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How To Record Your Screen On Windows 8\""
-date: 2024-09-14T23:40:32.739Z
-updated: 2024-09-19T01:35:13.930Z
+date: 2024-09-17T19:23:32.852Z
+updated: 2024-09-23T19:37:08.144Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,19 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Record Screen with Steps Recorder on Windows 8
 
 If you don't want to download any software, the build-in Step Recorder is a tool that you can use. However, the recorded outcome is the exact steps, not video, so if you want to have video, just skip this part, and go to next part on Windows 8.
@@ -74,6 +87,13 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Steps to download and use it to record computer screen:
 
  **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
@@ -83,19 +103,6 @@ Steps to download and use it to record computer screen:
  **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
 
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Use Free Recording Software
 
@@ -111,6 +118,13 @@ Here's the stpes:
 
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
@@ -122,16 +136,10 @@ These are just a few extensions and software that can be used to record computer
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -149,18 +157,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-xbox-screen-recording-success/"><u>[New] Comprehensive Guide to Xbox Screen Recording Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-obs-guide-to-skype-call-recording/"><u>[New] In 2024, The Complete OBS Guide to Skype Call Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screensnapper-prox-the-premier-pc-screen-recorder-by-apowersoft/"><u>[Updated] 2024 Approved ScreenSnapper ProX The Premier PC Screen Recorder by Apowersoft</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>[Updated] No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-on-air-innovations-code-or-circuitry-prevails/"><u>[Updated] On-Air Innovations Code or Circuitry Prevails?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creepy-crawly-crisis-pc-overrun-by-fire-ants-eating-thermal-paste-gamers-nightmare-revealed-in-vivid-pictures/"><u>Creepy-Crawly Crisis: PC Overrun by Fire Ants Eating Thermal Paste, Gamer's Nightmare Revealed in Vivid Pictures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-is-itops-performance-worth-your-investment/"><u>In 2024, Is ITop's Performance Worth Your Investment?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-thin-line-of-vr-content-availability/"><u>In 2024, Navigating the Thin Line of VR Content Availability</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/industry-standards-in-digital-media-capture-for-2024/"><u>Industry Standards in Digital Media Capture for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamp-your-music-library-a-comprehensive-guide-to-clear-likes-in-spotify/"><u>Revamp Your Music Library: A Comprehensive Guide to Clear Likes in Spotify</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionizing-art-into-nfts-top-7-tools-explored-for-2024/"><u>Revolutionizing Art Into NFTs - Top 7 Tools Explored for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-setup-how-to-get-newest-canon-drivers-on-your-windows-computer/"><u>Seamless Setup: How to Get Newest Canon Drivers on Your Windows Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722880361311-ultimate-guide-speeding-up-your-computer-in-just-7-steps/"><u>Ultimate Guide: Speeding up Your Computer in Just 7 Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-profile-clips-for-impact/"><u>[New] In 2024, Enhancing Profile Clips for Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-transcription-services-for-video-content/"><u>[New] Top Transcription Services for Video Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proving-your-phones-ability-ios-11-camera-enhancements/"><u>[Updated] Proving Your Phone's Ability IOS 11 Camera Enhancements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-android-without-a-wire-heres-your-free-games-list/"><u>2024 Approved Android Without A Wire? Here's Your Free Games List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-dynamic-backdrop-customization-in-teammate-windows-prepost-calls/"><u>2024 Approved Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-harvesting-happiness-the-ultimate-list-of-7-14-mods/"><u>2024 Approved Harvesting Happiness The Ultimate List of #7-14 Mods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-facebook-call-recording-a-step-by-step-guide/"><u>2024 Approved Mastering Facebook Call Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-real-time-photography-on-google-meet/"><u>2024 Approved Mastering the Art of Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/efficient-video-storing-in-google-chat-for-2024/"><u>Efficient Video Storing in Google Chat for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-oculus-device-up-to-date-with-free-driver-downloads-windows-111087/"><u>Get Your Oculus Device Up-to-Date with Free Driver Downloads (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-effortless-realtek-device-drivers-installation-for-windows-operating-system/"><u>Guide: Effortless RealTek Device Drivers Installation for Windows Operating System</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-change-your-phones-ringtone-picking-from-viral-tiktok-sounds-for-2024/"><u>How To Change Your Phone's Ringtone Picking From Viral TikTok Sounds for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nokia-c12-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nokia C12 Pro online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-12-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 12 Phone without Google Account?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>In 2024, Conquering Live Broadcast A Comprehensive Guide for YouTube & Twitch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-experts-guide-to-best-terria-mods/"><u>In 2024, Expert's Guide to Best Terria Mods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-concept-to-capture-the-journey-with-bandicam-screen-recorder/"><u>In 2024, From Concept to Capture The Journey with Bandicam Screen Recorder</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-c67-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme C67 5G</u></a></li>
 </ul></div>
 

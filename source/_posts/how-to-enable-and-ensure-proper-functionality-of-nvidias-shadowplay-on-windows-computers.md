@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Ensure Proper Functionality of Nvidia's Shadowplay on Windows Computers
-date: 2024-09-14T02:39:03.333Z
-updated: 2024-09-18T17:04:37.732Z
+date: 2024-09-18T17:15:30.231Z
+updated: 2024-09-23T20:18:19.492Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 5. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  Corrupted game files may cause SnowRunner to crash. If you’re not sure if the game crashing issue is triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -39,6 +46,14 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 1. Launch **Steam** and go to your **LIBRARY** . **Right-click** on **SnowRunner** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
@@ -72,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  Launch SnowRunner and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The developer of SnowRunner releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -104,19 +126,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  To prevent SnowRunner from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Perform a clean boot
 
  The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can **find out the problematic program that crashes the game** . Once you locate the program, just uninstall it, and then the this issue will be solved. Here’s how to do it:
@@ -126,23 +135,30 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
-4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -150,14 +166,14 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run SnowRunner to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -191,14 +207,18 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-the-foremost-android-alternatives-for-playstation-2-emulation/"><u>[New] 2024 Approved Unveiling The Foremost Android Alternatives for PlayStation 2 Emulation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-strategic-giants-identifying-the-prime-7-total-war-battles/"><u>[Updated] 2024 Approved Strategic Giants Identifying the Prime 7 Total War Battles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-balancing-acts-in-youtube-music-mixes-for-2024/"><u>[Updated] Balancing Acts in YouTube Music Mixes for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-tips-for-webinar-preservation-without-hurdles-windows-macos/"><u>[Updated] Top Tips for Webinar Preservation without Hurdles (Windows, macOS)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-anticipated-tesla-cellphone-expected-price-release-date-and-specs-coverage/"><u>All You Need to Know About the Anticipated Tesla Cellphone - Expected Price, Release Date, and Specs Coverage!</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-v29-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-to-sub-how-to-convert-srt-to-sub-with-3-actionable-ways/"><u>SRT to SUB How to Convert SRT to SUB with 3 Actionable Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unveiling-the-leading-8-open-source-business-meeting-solutions-for-2024/"><u>Unveiling the Leading 8 Open-Source Business Meeting Solutions for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/utting-edge-science-education-through-yt-channels/"><u>[New] Cutting Edge Science Education Through YT Channels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-superior-routes-converting-pinners-videos-into-music-files/"><u>[New] In 2024, Superior Routes Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-8-sites-to-get-free-green-screen-backgrounds-and-footage-for-2024/"><u>[New] Top 8 Sites to Get Free Green Screen Backgrounds and Footage for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-screens-seamlessly-with-ezvid-video-maker/"><u>2024 Approved Capturing Screens Seamlessly with Ezvid Video Maker</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-the-nuances-of-ppt-voiceover-performance/"><u>2024 Approved Navigating the Nuances of PPT Voiceover Performance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/apowersoft-screen-recordings-critical-insights-and-alternatives/"><u>Apowersoft Screen Recordings - Critical Insights and Alternatives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/efficient-movie-file-management-in-windows-11-six-approaches-for-2024/"><u>Efficient Movie File Management in Windows 11 Six Approaches for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-11-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 11 online without SIM Card?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mp4-player-guide-top-selections/"><u>MP4 Player Guide Top Selections</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fortnite-crashes-due-to-excessive-video-ram-usage/"><u>Resolved: Fortnite Crashes Due to Excessive Video RAM Usage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-fixing-palworlds-search-malfunction/"><u>Troubleshooting Tips for Fixing Palworld's Search Malfunction</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wake-up-your-computer-from-afar-activating-wake-on-lan-in-modern-windows-11-environments/"><u>Wake Up Your Computer From Afar: Activating Wake-on-LAN in Modern Windows 11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-persistent-restart-cycles-in-windows-1110-effective-fixes-revealed/"><u>Winning Against Persistent Restart Cycles in Windows 11/10 - Effective Fixes Revealed</u></a></li>
 </ul></div>
 

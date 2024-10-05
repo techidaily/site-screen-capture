@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Tips for Perfect Control  How to Use Your Switch Pro on Steam\""
-date: 2024-09-27T05:10:42.229Z
-updated: 2024-09-29T08:03:36.272Z
+date: 2024-09-30T22:08:19.927Z
+updated: 2024-10-04T17:46:43.169Z
 tags: 
   - screen-recording
   - ai video
@@ -66,9 +66,23 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -76,10 +90,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
@@ -87,13 +101,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -107,27 +114,7 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -145,6 +132,19 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -160,19 +160,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>[New] In 2024, Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-subc-from-srt-efficient-actionable-paths/"><u>[Updated] Crafting SUBC From SRT Efficient, Actionable Paths</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-become-a-pro-at-sims-4-video-sessions/"><u>2024 Approved Become a Pro at Sims 4 Video Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/clearsightcapture-straightforward-desktop-to-video-conversion-for-2024/"><u>ClearSightCapture Straightforward Desktop to Video Conversion for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/evaluating-the-autonomous-ergochair-curve-fairly-functional-office-chair-needs-more-cushioning/"><u>Evaluating the Autonomous ErgoChair Curve: Fairly Functional Office Chair Needs More Cushioning</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/grand-adventures-reimagined-post-gta-v-lineup/"><u>Grand Adventures Reimagined - Post-GTA V Lineup</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-13-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 13 Pro and iPad?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-p55plus-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel P55+</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-p40plus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel P40+ Through Google Earth?</u></a></li>
-<li><a href="https://solve-news.techidaily.com/qtmp4/"><u>QTファイルからMP4へ: スムーズな変換方法と詳細ガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/taming-the-cpu-hogging-beast-in-windows-tips-for-managing-the-module-installer-process/"><u>Taming the CPU Hogging Beast in Windows: Tips for Managing the Module Installer Process</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y200e-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y200e 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-screen-grabber-software-in-the-windows-10-arena-for-2024/"><u>Top Screen Grabber Software in the Windows 10 Arena for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxdvd-softwares-reimbursement-policy-digiarty-guide/"><u>WinXDVD Softwares Reimbursement Policy - Digiarty Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-navigating-digital-dimensions-metaverse-and-multiverse/"><u>[New] 2024 Approved Navigating Digital Dimensions Metaverse and Multiverse</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crime-consortium-top-titles-echoing-gta-v/"><u>[Updated] 2024 Approved Crime Consortium Top Titles Echoing GTA V</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[Updated] Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-seamlessly-record-your-screen-while-watching-netflix/"><u>[Updated] In 2024, Seamlessly Record Your Screen While Watching Netflix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>[Updated] In 2024, The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banished-bug-mh-worlds-graphics-scare-over/"><u>Banished Bug: MH World's Graphics Scare Over</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>In 2024, A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-note-12-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elevate-your-online-sound-experience-with-these-5-steps/"><u>In 2024, Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/is-aurora-hdr-a-step-forward-in-quality-viewing-in-2024/"><u>Is Aurora HDR a Step Forward in Quality Viewing, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-finding-iphone-user-locations-safely-and-legally/"><u>Step-by-Step Tutorial: Finding iPhone User Locations Safely and Legally</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-stop-motion-apps-for-mobile-for-2024/"><u>Updated The Ultimate Guide to Stop Motion Apps for Mobile for 2024</u></a></li>
 </ul></div>
 

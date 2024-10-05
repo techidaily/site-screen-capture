@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Your Ultimate Guide to Mac Audio Capture via Audacity"
-date: 2024-09-23T16:22:15.615Z
-updated: 2024-09-29T12:29:17.209Z
+date: 2024-09-28T20:49:08.870Z
+updated: 2024-10-04T20:20:34.217Z
 tags: 
   - screen-recording
   - ai video
@@ -43,13 +43,6 @@ Step 4: Follow the on-screen instructions to complete the installation process.
 
 Step 5: Go to Applications and launch Audacity. In case it does not open from Applications, you can go to the location where Audacity is installed and open directly from there.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to record audio with Audacity on Mac?
 
 We have already stated that operating Audacity on Mac is slightly complicated. Audacity is designed to record audio from external sources through microphone. Here are the steps on how to use Audacity on Mac to record audio with a microphone.
@@ -67,13 +60,6 @@ Step 3: Go to Tracks menu option and go to Add New. Here, you have to select eit
 Step 4: Now, you are ready to start recording your audio through microphone using Audacity. Click on Record button at the top bar. The recording will start immediately and you will see audiograph of your audio which shows that your voice is getting recorded.
 
 ![ready to start](https://images.wondershare.com/filmora/article-images/ready-to-start.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: When you are done, click on Stop button at the top bar.
 
@@ -106,10 +92,10 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -156,13 +142,6 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
 ## Conclusion
@@ -188,16 +167,10 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -207,17 +180,31 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -241,6 +228,13 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
@@ -251,14 +245,14 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
-Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
 ## Conclusion
 
@@ -288,22 +282,22 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streamlabs-vs-top-embedding-platforms/"><u>[New] 2024 Approved Streamlabs Vs. Top Embedding Platforms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-fastest-path-to-amazing-iphone-time-lapses/"><u>[New] 2024 Approved The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-10-screen-free-android-apps-for-leisurely-gaming/"><u>[New] 2024 Approved Top 10 Screen-Free Android Apps for Leisurely Gaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-securing-high-quality-sound-from-anywhere/"><u>[Updated] 2024 Approved Securing High-Quality Sound From Anywhere</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-visual-flow-mastery-with-simple-transitions-for-2024/"><u>[Updated] Visual Flow Mastery with Simple Transitions for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-nanograbby-evaluation-of-tiny-screen-captures/"><u>2024 Approved NanoGrabby Evaluation of Tiny Screen Captures</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-deep-sleep-with-asmr-strategies/"><u>2024 Approved Unlocking Deep Sleep with ASMR Strategies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725289172353-ai/"><u>黒白映画をAIがカラーに変えるための秘訣：専門家が選ぶ最適な自動色付けソフトウェア</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-artificial-intelligence-prompt-design-programs-top-5-picks/"><u>Best Artificial Intelligence Prompt Design Programs: Top 5 Picks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/creative-constructs-top-6-minimalist-mini-mansions-for-2024/"><u>Creative Constructs Top 6 Minimalist Mini-Mansions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-composing-cinematic-stories-on-an-iphone-learn-three-no-cost-methods-to-add-tunes/"><u>In 2024, Composing Cinematic Stories on an iPhone – Learn Three No-Cost Methods to Add Tunes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-level-up-your-screen-shots-the-experts-approach-to-ps4-capture/"><u>In 2024, Level Up Your Screen Shots The Expert's Approach to PS4 Capture</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-visual-fluidity-techniques-for-optimizing-frame-rate-fps-in-the-thrilling-world-of-tainted-grail-the-conquest-challenge/"><u>Mastering Visual Fluidity: Techniques for Optimizing Frame Rate (FPS) in the Thrilling World of Tainted Grail: The Conquest Challenge</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplifying-nintendo-switch-password-management/"><u>Simplifying Nintendo Switch Password Management</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/skyrocketing-performance-boosting-ram-in-minecraft-for-2024/"><u>Skyrocketing Performance Boosting RAM in Minecraft for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-screen-sharing-in-google-meet-mobiledesktop/"><u>[New] 2024 Approved Navigating Screen Sharing in Google Meet Mobile/Desktop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premier-game-recorder-picks-excluding-the-mainstream-one/"><u>[New] Premier Game Recorder Picks Excluding the Mainstream One</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pinnacle-mac-gif-sorter/"><u>[Updated] 2024 Approved Pinnacle Mac GIF Sorter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[Updated] 2024 Approved Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-media-mastery-how-to-make-a-post-take-off-on-fb/"><u>[Updated] 2024 Approved Social Media Mastery How to Make a Post Take Off on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-online-meeting-transcriptions/"><u>[Updated] In 2024, Online Meeting Transcriptions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-uniting-windows-and-mac-users-with-skype-groups-for-2024/"><u>[Updated] Uniting Windows & Mac Users with Skype Groups for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-when-not-to-use-your-primary-credit-card-top-7-situations-explained/"><u>1. When Not to Use Your Primary Credit Card: Top 7 Situations Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-yuva-2-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Yuva 2 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-utilize-keyboard-shortcuts-for-window-control/"><u>Efficient Management: Utilize Keyboard Shortcuts for Window Control</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-tips-for-automated-google-meet-timings/"><u>Expert Tips for Automated Google Meet Timings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-itel-p55-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Itel P55 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-tecno-spark-20-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Spark 20 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-google-pixel-7a-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Google Pixel 7a Phone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-investing-in-the-right-keyboard-for-low-cost-maximum-output/"><u>In 2024, Investing in the Right Keyboard for Low Cost, Maximum Output</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-p55plus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel P55+</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/steps-for-efficiently-storing-whatsapp-audio-transcripts-for-2024/"><u>Steps for Efficiently Storing WhatsApp Audio Transcripts for 2024</u></a></li>
 </ul></div>
 

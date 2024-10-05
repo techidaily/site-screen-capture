@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10)\""
-date: 2024-09-23T14:44:52.693Z
-updated: 2024-09-28T19:20:06.594Z
+date: 2024-09-30T16:50:30.011Z
+updated: 2024-10-04T22:58:25.671Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,6 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2. Pressing Buttons to Record Huawei Screen
 
 Besides enabling the screen recording feature from the shortcut menu, you can also use buttons to capture your screen on Huawei smartphone quickly. Just hold the Volume Up and Power buttons that are located on the right side of your device to activate the screen recording feature.
@@ -84,10 +77,10 @@ Before using the double knuckles to record the screen activities, you need to en
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
@@ -95,15 +88,22 @@ If you want to record the screen video, just knock the screen with two knuckles 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -112,10 +112,10 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,24 +133,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-broadcast-battle-analyzing-obs-vs-twitchs-pros/"><u>[New] 2024 Approved Broadcast Battle Analyzing OBS Vs. Twitch's Pros</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhance-yt-experience-the-most-outstanding-reaction-ideas/"><u>[New] 2024 Approved Enhance YT Experience The Most Outstanding Reaction Ideas</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-divergence-in-dungeons-classic-and-hybrid-games/"><u>[New] Divergence in Dungeons Classic and Hybrid Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-budget-gaming-setup-find-the-best-keyboards-for-less/"><u>[New] In 2024, Budget Gaming Setup Find the Best Keyboards for Less</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-symphony-space-recordings-downloads-for-study/"><u>[New] In 2024, Symphony Space Recordings, Downloads for Study</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-journey-through-nature-top-12-android-simulators-for-2024/"><u>[New] Journey Through Nature Top 12 Android Simulators for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pro-gameplay-documentation-on-fbx-format/"><u>[New] Pro Gameplay Documentation on FBX Format</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-television-shows-on-pc-free-software-insights/"><u>[Updated] 2024 Approved How to Record Television Shows on PC Free Software Insights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-instant-mp3-conversion-of-fb-video-content/"><u>[Updated] 2024 Approved Instant MP3 Conversion of FB Video Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[Updated] 2024 Approved Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-videography-on-tiktok-2-ways-for-2024/"><u>[Updated] Elevate Your Videography on TikTok (2 Ways) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-ultimate-chill-with-the-id-cooling-fx360-pro-top-reviews/"><u>Affordable Ultimate Chill with the ID-Cooling FX360 Pro – Top Reviews</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/audiopiece-recorder-guide-installation-and-test-for-2024/"><u>AudioPiece Recorder Guide Installation & Test for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-full-page-capture-on-device/"><u>In 2024, Full Page Capture on Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-start-here-how-to-expedite-videos-in-snapchat-for-new-users/"><u>In 2024, Start Here How to Expedite Videos in Snapchat for New Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-synchronized-device-tutorial-for-efficient-movie-logging/"><u>In 2024, Synchronized Device Tutorial for Efficient Movie Logging</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-a23-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy A23 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplify-your-life-with-these-7-must-have-family-calendar-applications/"><u>Simplify Your Life with These 7 Must-Have Family Calendar Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hits-at-hyperspeed-the-fast-track-to-100-million-views-on-youtube-in-24-for-2024/"><u>[New] Hits at Hyperspeed The Fast Track to 100 Million Views on YouTube in '24 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-win-11-strategies-to-successfully-save-mov-files/"><u>[New] In 2024, Win 11 Strategies to Successfully Save .mov Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-digital-vhs-image-modification-techniques/"><u>[New] Mastering Digital VHS Image Modification Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/"><u>[New] The Evolution of Video Capturing Insights Into the Latest Apeaksoft Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue-for-2024/"><u>[New] The Zen of Zoom Talk Top Strategies for Smooth Virtual Dialogue for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-webcamsavvy-essentialrecordinghacks-for-2024/"><u>[New] WebCamSavvy EssentialRecordingHacks for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-quick-tips-for-capturing-online-video-conversations/"><u>[Updated] 2024 Approved Quick Tips for Capturing Online Video Conversations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-an-impartial-appraisal-the-power-of-recordcast/"><u>[Updated] An Impartial Appraisal The Power of RecordCast</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-optimize-your-steam-experience-with-a-switch-pro-controller/"><u>[Updated] In 2024, How to Optimize Your Steam Experience with a Switch Pro Controller</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-simplifying-android-screen-recordings-a-user-friendly-method/"><u>[Updated] Simplifying Android Screen Recordings A User-Friendly Method</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme C51 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-cod-black-ops-cold-war-error-code-80070057-effectively/"><u>How to Resolve the 'Cod: Black Ops Cold War' Error Code 80070057 Effectively</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tiny-snippets-deciphered-important-facts-for-2024/"><u>Tiny Snippets Deciphered Important Facts for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlock-device-agnostic-techniques-for-professional-filming-for-2024/"><u>Unlock Device-Agnostic Techniques for Professional Filming for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-of-the-samsung-cf591-in-modern-gaming-scenarios/"><u>Unveiling the Performance of the Samsung CF591 in Modern Gaming Scenarios</u></a></li>
 </ul></div>
 

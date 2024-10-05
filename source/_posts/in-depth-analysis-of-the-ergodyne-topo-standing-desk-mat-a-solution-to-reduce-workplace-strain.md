@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Ergodyne Topo Standing Desk Mat: A Solution to Reduce Workplace Strain"
-date: 2024-09-22T10:38:23.263Z
-updated: 2024-09-29T08:24:14.037Z
+date: 2024-10-03T20:57:08.167Z
+updated: 2024-10-04T18:32:54.222Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of the Ergodyne Topo Standing Desk Mat: A Solution to Reduce Workplace Strain"
@@ -37,16 +37,16 @@ Lifewire / Zach Sweat
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
 
@@ -101,20 +101,19 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Comfort: Hefty, but darn comfy**
@@ -153,14 +152,20 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance/Durability: Enhanced performance and durability**
 
@@ -184,19 +189,6 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -207,7 +199,21 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
@@ -255,16 +261,24 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-key-strategies-in-building-successful-youtube-shorts-templates/"><u>[New] 2024 Approved Key Strategies in Building Successful YouTube Shorts Templates</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-10-royale-arenas-of-thrill/"><u>[New] 2024 Approved Top 10 Royale Arenas of Thrill</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-exclusive-review-top-10-gratis-gaming-screen-recorder-apps/"><u>[New] Exclusive Review Top 10 Gratis Gaming Screen Recorder Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-android-gb-advance-emulator-list/"><u>[New] In 2024, Essential Android GB Advance Emulator List</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-video-capture-a-deep-dive-into-showmores-tech-for-2024/"><u>[Updated] Mastering Video Capture A Deep Dive Into ShowMore's Tech for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-12-proplus-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 12 Pro+ 5G Phone?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-navigating-the-world-of-youtube-live-visual-representations/"><u>In 2024, Navigating the World of YouTube Live Visual Representations</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-economics-of-earning-via-youtube/"><u>In 2024, The Economics of Earning via YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/real-time-broadcast-logging-made-simple/"><u>Real-Time Broadcast Logging Made Simple</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/remote-server-connectivity-problems-heres-how-to-restore-access/"><u>Remote Server Connectivity Problems? Here's How to Restore Access!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-miniscreen-capture-scrutiny-and-replacements/"><u>[New] 2024 Approved MiniScreen Capture Scrutiny and Replacements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-tips-for-high-quality-discord-recordings/"><u>[New] In 2024, Essential Tips for High-Quality Discord Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unfollow-trail-on-the-social-giant-instagram/"><u>[New] In 2024, Unfollow Trail on the Social Giant Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pixel-perfect-memes-with-kinemaster/"><u>[New] Pixel Perfect Memes with KineMaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-portable-gear-for-travel-cinematography/"><u>[New] Portable Gear for Travel Cinematography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-speedy-solutions-snapshots-of-slideshows-for-2024/"><u>[New] Speedy Solutions Snapshots of Slideshows for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-overcoming-unnatural-motion-blur-in-uav-videos/"><u>[Updated] 2024 Approved Overcoming Unnatural Motion Blur in UAV Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tailored-screen-recording-guide-for-your-lenovo-device/"><u>[Updated] 2024 Approved Tailored Screen Recording Guide for Your Lenovo Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capture-masters-expertly-reviewing-recorders/"><u>[Updated] Capture Masters Expertly Reviewing Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-flawless-frame-capturer-kit/"><u>[Updated] Flawless Frame Capturer Kit</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-hitpaw-screen-recorder-review-and-alternative/"><u>[Updated] HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tips-for-using-google-meets-built-in-photo-functionality/"><u>[Updated] In 2024, Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-screen-brilliance-for-android/"><u>2024 Approved Elevate Screen Brilliance for Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-game-streaming-tool-analysis-choose-obs-or-shadowplay/"><u>2024 Approved Game Streaming Tool Analysis Choose OBS or ShadowPlay?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unparalleled-20-anime-series-themes/"><u>2024 Approved Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-disappearing-cpu-co-processor-drivers-in-windows-11-fixes-and-tips/"><u>Dealing with Disappearing CPU Co-Processor Drivers in Windows 11 – Fixes and Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-proficiently-use-a-switch-pro-controller-on-steam/"><u>How to Proficiently Use a Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-recording-simplified-review-insights/"><u>Screen Recording Simplified Review Insights</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/why-participate-a-step-by-step-tutorial-on-joining-microsofts-exclusive-windows-testing-program-featured-by-zdnet/"><u>Why Participate? A Step-by-Step Tutorial on Joining Microsoft's Exclusive Windows Testing Program, Featured by ZDNet</u></a></li>
 </ul></div>
 

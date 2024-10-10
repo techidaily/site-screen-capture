@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-10-02T16:25:21.564Z
-updated: 2024-10-04T21:26:03.552Z
+date: 2024-10-04T17:58:35.850Z
+updated: 2024-10-10T00:11:00.896Z
 tags: 
   - screen-recording
   - ai video
@@ -51,19 +51,6 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
@@ -77,10 +64,10 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Clear Distinction
@@ -100,19 +87,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 **You might also like:** [Top 10 Roguelike or Roguelite Games](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Roguelike Games
 
@@ -134,6 +108,13 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -145,16 +126,10 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -162,19 +137,6 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -186,7 +148,27 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -203,14 +185,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-leveraging-content-for-maximum-impact-growing-view-count-on-tiktok-for-2024/"><u>[New] Leveraging Content for Maximum Impact Growing View Count on TikTok for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-lumapro-the-budget-friendly-lightroom-pairings/"><u>[New] LumaPro The Budget-Friendly Lightroom Pairings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-straightforward-video-recorders-for-win10-for-2024/"><u>[New] Straightforward Video Recorders for Win10 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-crystalgrabber-deluxe-winos/"><u>[Updated] In 2024, CrystalGrabber Deluxe - WinOS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>[Updated] Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-top-5-mma-games-for-virtual-fight-enthusiasts/"><u>2024 Approved Top 5 MMA Games for Virtual Fight Enthusiasts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v27e-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V27e</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unshackle-your-gaming-experience-with-diverse-capture-tools/"><u>In 2024, Unshackle Your Gaming Experience with Diverse Capture Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-audio-techniques-in-audacity-for-professionals/"><u>[New] Expert Audio Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-high-speed-snapshot-and-voice-commentary-assistant-device/"><u>[New] High-Speed Snapshot & Voice Commentary Assistant Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-delving-deep-youtubes-revenue-system-from-publisher-to-you/"><u>[New] In 2024, Delving Deep YouTube's Revenue System From Publisher to You</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>[New] In 2024, Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-10-standout-applications-mastering-phone-and-computer-conferencing-for-2024/"><u>[Updated] 10 Standout Applications Mastering Phone & Computer Conferencing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>[Updated] Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-experience-the-ps3-gaming-prowess-on-modern-pcs/"><u>[Updated] Experience the PS3 Gaming Prowess on Modern PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-upgrading-laptop-and-mobile-conferencing-with-background-changes/"><u>2024 Approved Upgrading Laptop & Mobile Conferencing With Background Changes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577334805-how-to-say-i-love-you-in-hungarian/"><u>How to Say I Love You in Hungarian</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oneplus-nord-ce-3-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing OnePlus Nord CE 3 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-review-of-razers-high-res-cam/"><u>In-Depth Review of Razer's High-Res Cam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/odins-vengeance-the-ragnarok-trilogy/"><u>Odin's Vengeance The Ragnarok Trilogy</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209954364-solving-your-logitech-keyboard-malfunction-in-minutes/"><u>Solving Your Logitech Keyboard Malfunction in Minutes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streamlining-the-process-of-ppt-recording/"><u>Streamlining the Process of PPT Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveil-converse-with-chatgpt-instantly/"><u>Unveil: Converse With ChatGPT Instantly</u></a></li>
 </ul></div>
 

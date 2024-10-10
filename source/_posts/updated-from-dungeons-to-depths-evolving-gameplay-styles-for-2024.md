@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2024-10-03T18:03:54.633Z
-updated: 2024-10-04T19:10:37.492Z
+date: 2024-10-06T16:58:13.918Z
+updated: 2024-10-09T16:34:00.047Z
 tags: 
   - screen-recording
   - ai video
@@ -51,18 +51,18 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -89,10 +89,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -113,27 +113,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -146,10 +126,10 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -168,7 +148,21 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -185,20 +179,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-free-chromebook-screen-recording-tools-ranked-for-2024/"><u>[New] FREE Chromebook Screen Recording Tools Ranked for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamline-sound-capture-using-audacity-efficiently-on-a-mac-for-2024/"><u>[New] Streamline Sound Capture Using Audacity Efficiently on a Mac for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-sandbox-titles-everyone-should-own/"><u>[Updated] 2024 Approved Essential Sandbox Titles Everyone Should Own</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-thriving-in-the-economy-of-youtube-shorts-the-ultimate-guide/"><u>[Updated] In 2024, Thriving in the Economy of YouTube Shorts – The Ultimate Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-most-effective-methods-for-your-hp-laptop-recordings-for-2024/"><u>[Updated] Unveiling the Most Effective Methods for Your HP Laptop Recordings for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-easily-capturing-iphone-screens-on-the-go/"><u>2024 Approved Easily Capturing iPhone Screens on the Go</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/concealing-confidentiality-blurring-identity-in-recordings-for-2024/"><u>Concealing Confidentiality Blurring Identity in Recordings for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-sound-on-netflix-when-youre-only-hearing-silence/"><u>How to Enable Sound on Netflix When You're Only Hearing Silence</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nokia-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nokia?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-comparing-splitcams-features-with-industry-leaders/"><u>In 2024, Comparing SplitCam's Features with Industry Leaders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-tips-for-adding-visual-impact-in-google-meet/"><u>In 2024, Essential Tips for Adding Visual Impact in Google Meet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-console-gaming-with-asus-vg2nh-a-top-tier-display-choice/"><u>Mastering Console Gaming with Asus VG2nH - A Top-Tier Display Choice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-nvidia-geforce-950-graphics-card-code-43-issue-in-windows-10/"><u>Resolving the GTX Nvidia GeForce 950 Graphics Card Code 43 Issue in Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-functionality-solutions-for-your-locked-iphoneipad/"><u>Restoring Functionality: Solutions for Your Locked iPhone/iPad</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[New] Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-practices-for-archiving-youtube-livestream-content/"><u>[New] In 2024, Best Practices for Archiving Youtube Livestream Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-fives-best-quick-reliable-time-lapse-tools/"><u>[New] In 2024, Five's Best Quick, Reliable Time-Lapse Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-proven-winners-the-top-5-tools-for-video-conference-recording/"><u>[New] In 2024, Proven Winners The Top 5 Tools for Video Conference Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-what-are-your-rights-exploring-legalities-of-video-sharing-on-fb-for-2024/"><u>[New] What Are Your Rights? Exploring Legalities of Video Sharing on FB for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-visuals-in-remote-collaborations-with-google-meet-for-2024/"><u>[Updated] Enhancing Visuals in Remote Collaborations with Google Meet for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-activate-grid-in-google-meet-for-full-participant-display/"><u>[Updated] In 2024, Activate Grid in Google Meet for Full-Participant Display</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069025282-updated-in-2024-discover-the-best-open-worlds-today/"><u>[Updated] In 2024, Discover the Best Open Worlds Today!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-gameplay-stream-xbox-seamlessly-to-facebook/"><u>[Updated] In 2024, Elevate Your Gameplay Stream Xbox Seamlessly to Facebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-mac-screenshot-file-type-changes-for-2024/"><u>[Updated] Navigating Mac Screenshot File Type Changes for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-path-to-profitable-partnership-with-your-audience/"><u>2024 Approved The Path to Profitable Partnership with Your Audience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nubia-red-magic-9-proplus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nubia Red Magic 9 Pro+ to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-data-management-3-smart-ways-to-integrate-chatgpt-into-excel-workflows/"><u>Elevate Your Data Management: 3 Smart Ways to Integrate ChatGPT Into Excel Workflows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-invalid-onedrive-tags-steps-for-windows-users/"><u>Fixing Invalid OneDrive Tags: Steps for Windows Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-thumbnails-with-neon-edges-for-2024/"><u>Mastering YouTube Thumbnails with Neon Edges for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/voice-translation-english-to-bangla-online-and-offline-apps-for-2024/"><u>Voice Translation English to Bangla Online and Offline Apps for 2024</u></a></li>
 </ul></div>
 

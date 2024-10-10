@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Take Full-Page Screen Images\""
-date: 2024-10-02T22:06:00.945Z
-updated: 2024-10-04T18:02:42.163Z
+date: 2024-10-05T03:53:10.018Z
+updated: 2024-10-10T01:08:01.304Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
@@ -68,32 +68,26 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -131,6 +125,13 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -151,13 +152,6 @@ Leave a comment below and let us know which method of capturing full page screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -173,18 +167,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-savvy-techies-strategy-for-saving-snapshots/"><u>[New] 2024 Approved The Savvy Techie's Strategy for Saving Snapshots</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-360-degree-edits-in-adobe-premiere-pro/"><u>[New] In 2024, Mastering 360-Degree Edits in Adobe Premiere Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-vote-players-best-political-game-reviews-for-2024/"><u>[New] Ultimate Vote-Players Best Political Game Reviews for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-broadcast-vlogs-on-twitter-using-mobile-devices/"><u>[Updated] 2024 Approved How to Broadcast Vlogs on Twitter Using Mobile Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-maximizing-call-recording-20plus-techniques-for-windowsmac-users-for-2024/"><u>[Updated] Maximizing Call Recording 20+ Techniques for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-mg2900-find-and-install-the-latest-drivers-for-perfect-printing-performance/"><u>Canon MG2900 - Find & Install the Latest Drivers for Perfect Printing Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/detailed-guide-to-pc-capturing-of-consoles-games/"><u>Detailed Guide to PC Capturing of Consoles Games</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-design-and-send-video-invites-with-these-top-ios-and-android-apps/"><u>In 2024, Design and Send Video Invites with These Top iOS and Android Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-views-on-tiktok-unboxing-content/"><u>In 2024, Maximizing Views on TikTok Unboxing Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screenshot-and-recording-masterclass-ios-devices-2023-for-2024/"><u>Screenshot & Recording Masterclass IOS Devices 2023 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/secure-and-ethical-methods-for-capturing-chat-calls/"><u>Secure and Ethical Methods for Capturing Chat Calls</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-complexities-of-artificial-intelligence-a-laymans-guide/"><u>Unraveling the Complexities of Artificial Intelligence: A Layman's Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-the-efficiency-of-modern-tunefab-recorders/"><u>[New] In 2024, Exploring the Efficiency of Modern Tunefab Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-inside-stardust-a-comprehensive-guide-to-mastery-in-stardew-and-its-intriguing-ginger-isle/"><u>[New] In 2024, Inside Stardust A Comprehensive Guide to Mastery in Stardew and Its Intriguing Ginger Isle</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-a-streamers-checklist-for-flawless-twitch-live-recordings-for-2024/"><u>[Updated] A Streamer's Checklist for Flawless Twitch Live Recordings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>[Updated] In 2024, From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-incredible-virtual-room-encounters/"><u>[Updated] Incredible Virtual Room Encounters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-perfect-pair-merging-your-youtube-video-library-for-2024/"><u>[Updated] Perfect Pair Merging Your YouTube Video Library for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guide-to-secretive-instagram-viewing/"><u>[Updated] The Ultimate Guide to Secretive Instagram Viewing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-memorable-moments-quick-and-clean-xbox-screenshots/"><u>2024 Approved Memorable Moments, Quick & Clean Xbox Screenshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/excellence-in-hd-recording-leading-screen-recorder-options-for-2024/"><u>Excellence in HD Recording Leading Screen Recorder Options for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smartphone-lighting-kits-for-improved-footage/"><u>In 2024, Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/loom-labyrinthine-exploring-the-art-of-recordings-for-2024/"><u>Loom Labyrinthine Exploring the Art of Recordings for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-iphone-x-identity-verification-restoring-biometric-lock-for-2024/"><u>Mastering iPhone X Identity Verification Restoring Biometric Lock for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/plex-media-player-centralized-home-entertainment-for-2024/"><u>Plex Media Player Centralized Home Entertainment for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
 

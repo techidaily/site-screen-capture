@@ -1,7 +1,7 @@
 ---
 title: Stop Dirt 5 From Crashing on Your Computer - Effective Fixes and Tweaks
-date: 2024-09-28T23:45:56.132Z
-updated: 2024-10-04T17:10:14.026Z
+date: 2024-10-06T21:48:06.680Z
+updated: 2024-10-10T06:12:35.815Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ Games crashes are not something uncommon. And you might encounter the same issue
 5. [Run Halo 3 as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
 7. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Before getting started
 
@@ -65,28 +58,28 @@ _Halo 3 Minimum System Requirements_
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You can stop all the apps from running in the background with just one click by switching**Let apps run in the background** to**Off** . But before you do this, make sure you’ve saved the files you’re currently editing.  
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  OR  
   
@@ -113,6 +106,13 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your video card drivers
 
  A range of gaming problems such as crashing and freezing is caused by a wrong, faulty, or outdated graphics driver. Halo 3 is no exception. To enjoy smooth gameplay, you should always keep your graphics driver up to date.
@@ -129,24 +129,31 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and launch Halo3 to check if the issue is fixed. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -173,16 +180,16 @@ To do so:
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Restart your computer and it’ll be in a clean boot environment.
 
@@ -208,6 +215,13 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Install the latest game patch
 
  When a new game is released, there are still many bugs in it. And those bugs might cause the game crash issues. So developers keep updating the games to fix the bugs and improve the gaming performance.  
@@ -215,13 +229,6 @@ To do so:
  So if there is a patch available, download and install it, then run the game again to check if the problem is solved. If it isn’t, or there is no new patch available, then move on to Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Verify the integrity of game files
 
@@ -234,23 +241,16 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
@@ -283,15 +283,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-no-fuss-strategies-recording-your-google-voice-calls/"><u>[New] 2024 Approved No-Fuss Strategies Recording Your Google Voice Calls</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-all-you-need-to-know-about-mobizens-screen-capture/"><u>[Updated] 2024 Approved All You Need to Know About Mobizen's Screen Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-video-capture-tools-for-windows-10-users-for-2024/"><u>[Updated] Essential Video Capture Tools for Windows 10 Users for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-goovision-chromium-captures-on-screen/"><u>[Updated] In 2024, GooVision Chromium Captures On-Screen</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aprendizaje-diario-nombres-y-significados-de-los-dias-de-la-semana-en-espanol/"><u>Aprendizaje Diario: Nombres Y Significados De Los Días De La Semana en Español</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-s17e-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo S17e</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-play-40c-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor Play 40C to New Phone | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oppo-a56s-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A56s 5G Easily?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/removing-your-facebook-live-video-tech-steps-for-2024/"><u>Removing Your Facebook Live Video Tech Steps for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-insider-tips-for-documenting-your-favorite-games-on-ps4/"><u>[Updated] 2024 Approved Insider Tips for Documenting Your Favorite Games on PS4</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>[Updated] 2024 Approved Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unleash-your-creative-vision-with-youtubes-filmmaking-courses/"><u>[Updated] 2024 Approved Unleash Your Creative Vision with YouTube's Filmmaking Courses</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capturing-every-detail-tactics-for-streamlined-meet-recordings/"><u>[Updated] In 2024, Capturing Every Detail Tactics for Streamlined Meet Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-from-novice-to-expert-a-comprehensive-guide-to-macscreencasting/"><u>[Updated] In 2024, From Novice to Expert A Comprehensive Guide to MacScreencasting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-rendering-revival-radeon-reboot/"><u>2024 Approved Rendering Revival Radeon Reboot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-savor-playtime-the-essential-guide-to-high-quality-offline-ios-games/"><u>2024 Approved Savor Playtime – The Essential Guide to High-Quality Offline iOS Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-streamlining-screens-for-large-scale-youtubers/"><u>2024 Approved Streamlining Screens for Large-Scale YouTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-master-plugins-for-final-cut-pro/"><u>2024 Approved Top 10 Master Plugins for Final Cut Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c55-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C55 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-sharing-audio-with-youtube/"><u>In 2024, The Ultimate Guide to Sharing Audio with YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpt-the-top-10-essential-phrases-for-cryptocurrency-success/"><u>Leverage ChatGPT: The Top 10 Essential Phrases for Cryptocurrency Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-recording-techniques-for-firaxis-age-of-empires-ii/"><u>Quick Recording Techniques for Firaxis' Age of Empires II</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-a1-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo A1 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/video-recording-made-easy-on-macbooks-camera-for-2024/"><u>Video Recording Made Easy on MacBook's Camera for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 HD? | Dr.fone</u></a></li>
 </ul></div>
 

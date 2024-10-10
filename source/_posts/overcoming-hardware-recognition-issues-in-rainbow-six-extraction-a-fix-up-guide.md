@@ -1,7 +1,7 @@
 ---
 title: Overcoming Hardware Recognition Issues in Rainbow Six Extraction – A Fix-Up Guide
-date: 2024-09-29T19:19:52.394Z
-updated: 2024-10-04T22:49:07.615Z
+date: 2024-10-05T03:04:27.441Z
+updated: 2024-10-10T07:00:09.026Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## System requirements
 
 | **Minimum**          | **Recommended**                                                                                                |                                                                                                                |
@@ -68,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Update your graphics driver
@@ -89,6 +75,13 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -96,6 +89,13 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -107,28 +107,8 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -162,19 +142,33 @@ If this doesn’t solve your problem, try the next fix.
 2. Paste**sysdm.cpl** in the box, then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
 **To manually allocate paging file size** :
 
@@ -226,10 +220,10 @@ If this doesn’t solve your problem, try the last fix.
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
@@ -237,6 +231,13 @@ If this doesn’t solve your problem, try the last fix.
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
@@ -264,33 +265,27 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Known issues on Sonic studio virtual mixer driver
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -315,22 +310,20 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-browsing-like-a-pro-5-top-choices-for-screen-capture-software/"><u>[New] Browsing Like a Pro 5 Top Choices for Screen Capture Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-comprehensive-capture-and-review-with-az/"><u>[New] In 2024, Comprehensive Capture & Review with AZ</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-in-depth-analysis-freelens-webcam-recorder-app/"><u>[New] In 2024, In-Depth Analysis Freelens Webcam Recorder App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streaming-to-the-next-level-the-top-5-game-cameras-reviewed-for-2024/"><u>[New] Streaming to the Next Level The Top 5 Game Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-guide-to-documenting-online-sport-spectacles-for-2024/"><u>[Updated] Advanced Guide to Documenting Online Sport Spectacles for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-detailed-breakdown-of-camstudio-screencapture-pro/"><u>[Updated] Detailed Breakdown of CamStudio ScreenCapture Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-harmonizing-zoom-audio-elevate-your-listening-experience/"><u>[Updated] Harmonizing Zoom Audio Elevate Your Listening Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-fuss-trick-for-clownfish-tone-change-in-windows-domain/"><u>[Updated] No-Fuss Trick for Clownfish Tone Change in Windows Domain</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-savers-review-cutting-edge-video-gadgets/"><u>[Updated] Screen Savers Review Cutting-Edge Video Gadgets</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-sharex-critical-thoughts-and-alternatives/"><u>2024 Approved Navigating ShareX Critical Thoughts & Alternatives</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-premier-backdrop-recommendations/"><u>2024 Approved Premier Backdrop Recommendations</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/flame-the-fire-enhancing-your-snapstreak-game-for-2024/"><u>Flame the Fire Enhancing Your Snapstreak Game for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lava-yuva-3-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Yuva 3 Pattern Lock Screen</u></a></li>
-<li><a href="https://article-posts.techidaily.com/iphones-prime-camera-utilities/"><u>IPhone's Prime Camera Utilities</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 13 to Android | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/navigate-through-the-5-best-mac-sniping-apps-easily/"><u>Navigate Through The 5 Best Mac Sniping Apps Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatbot-challenge-snapchat-vs-bing-skype-edition/"><u>The Chatbot Challenge: Snapchat Vs. Bing Skype Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-legal-implications-and-tips-when-archiving-whatsapp-call-recordings/"><u>[New] 2024 Approved Legal Implications & Tips When Archiving WhatsApp Call Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-precision-and-perfection-a-guide-to-youtube-studio-video-edits/"><u>[New] 2024 Approved Precision and Perfection A Guide to YouTube Studio Video Edits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-delving-into-t-series-revenue-generation-on-video-platforms/"><u>[New] In 2024, Delving Into T-Series' Revenue Generation on Video Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-checklist-for-logitech-webcam-setup-for-2024/"><u>[New] The Ultimate Checklist for Logitech Webcam Setup for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-eliminating-frame-discrepancies-in-obs-recordings/"><u>[Updated] In 2024, Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-simplified-steps-for-photo-motion-blur-in-photoshop/"><u>[Updated] Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-3-techniques-for-capturing-sports-spectacles/"><u>2024 Approved Top 3 Techniques for Capturing Sports Spectacles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-become-an-instagram-broadcast-pro-learning-through-obs/"><u>In 2024, Become an Instagram Broadcast Pro Learning Through OBS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>In 2024, Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-voice-guided-powerpoint-handbook/"><u>In 2024, The Ultimate Voice-Guided PowerPoint Handbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-with-our-curated-list-of-quick-online-gaming/"><u>Unwind with Our Curated List of Quick Online Gaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/weaving-tech-guide-mastering-screen-recording-on-loom/"><u>Weaving Tech Guide Mastering Screen Recording on Loom</u></a></li>
 </ul></div>
 

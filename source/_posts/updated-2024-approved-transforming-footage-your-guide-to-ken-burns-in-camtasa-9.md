@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Transforming Footage  Your Guide to Ken Burns in Camtasa 9\""
-date: 2024-08-29T09:36:57.580Z
-updated: 2024-08-30T09:36:57.580Z
+date: 2024-10-02T21:00:18.906Z
+updated: 2024-10-10T00:07:59.613Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,19 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +99,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +118,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ideal-acquisitions-starting-off-with-profitable-youtube-channel-buys/"><u>[New] 2024 Approved Ideal Acquisitions Starting Off with Profitable YouTube Channel Buys</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-learn-to-capture-on-ipad-like-a-pro-effortlessly/"><u>[New] In 2024, Learn To Capture on iPad Like a Pro - Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-tools-for-video-recording-focus-on-apeaksofts-advantages/"><u>[New] In 2024, The Best Tools for Video Recording – Focus on Apeaksoft's Advantages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-superior-top-ten-nintendo-switch-combat-games-max-156-for-2024/"><u>[New] Superior Top Ten Nintendo Switch Combat Games (Max 156) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-strategies-for-soundless-video/"><u>[Updated] 2024 Approved Advanced Strategies for Soundless Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-5-best-snipping-tools-for-mac/"><u>[Updated] In 2024, 5 Best Snipping Tools for Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-facebooks-memory-lane-with-ease/"><u>[Updated] Navigating Facebook's Memory Lane with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-restoring-functionality-in-obs-capture-device/"><u>[Updated] Restoring Functionality in OBS Capture Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-v29-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo V29 to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-6-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 6 without Password?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-leading-6-low-cost-superior-4k-tv-projectors/"><u>In 2024, Leading 6 Low-Cost, Superior 4K TV Projectors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-livestream-leap-backwards-twenty-efficient-ways-for-twitch-enthusiasts/"><u>In 2024, Livestream Leap Backwards Twenty Efficient Ways for Twitch Enthusiasts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-stay-within-the-law-pre-upload-video-copyright-checks-on-tiktok/"><u>In 2024, Stay Within the Law Pre-Upload Video Copyright Checks on TikTok</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlock-instagrams-hidden-features-voice-modification/"><u>Unlock Instagram's Hidden Features Voice Modification</u></a></li>
+</ul></div>
+

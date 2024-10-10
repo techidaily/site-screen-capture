@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
-date: 2024-09-30T22:41:01.225Z
-updated: 2024-10-04T19:14:42.295Z
+date: 2024-10-08T00:45:40.431Z
+updated: 2024-10-10T02:04:31.032Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
@@ -37,15 +37,28 @@ Lifewire / Bill Thomas
 
 3.4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
@@ -84,13 +97,6 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
@@ -116,10 +122,16 @@ Lifewire / Bill Thomas
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Network Performance: Great when wired, but wireless speeds lag
@@ -132,20 +144,14 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software: No frills
 
@@ -163,6 +169,13 @@ Lifewire / Bill Thomas
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -171,19 +184,6 @@ Lifewire / Bill Thomas
 
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -225,24 +225,24 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-cloaking-details-in-visual-data-storage-for-2024/"><u>[New] Cloaking Details in Visual Data Storage for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-10-standout-educational-websites-for-self-paced-learning/"><u>[Updated] 10 Standout Educational Websites for Self-Paced Learning</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cinematic-perfection-mastering-the-top-5-techniques/"><u>[Updated] Cinematic Perfection Mastering the Top 5 Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-qualitysnap-video-reporter-checkup/"><u>[Updated] In 2024, QualitySnap Video Reporter Checkup</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unlocking-enigmas-ranked-puzzle-experiences-explored-for-2024/"><u>[Updated] Unlocking Enigmas Ranked Puzzle Experiences Explored for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screenrec-made-simple-for-laptop-users/"><u>2024 Approved ScreenRec Made Simple for Laptop Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-insiders-guide-to-excellent-ppt-video-creation/"><u>2024 Approved The Insider's Guide to Excellent PPT Video Creation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-zoom-mastering-virtual-meeting-planning/"><u>2024 Approved Zoom Mastering Virtual Meeting Planning</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y56-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y56 5G without App | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mov-3gpp-movavi/"><u>無成本移動到 MOV 類型的 3GPP 改編 - Movavi 轉換軟件</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/best-martial-arts-videogames-comparison-mastery-edition-for-2024/"><u>Best Martial Arts Videogames Comparison Mastery Edition for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/get-access-to-explicit-media-on-dare-dorm-safe-and-fast-download-options/"><u>Get Access to Explicit Media on Dare Dorm – Safe and Fast Download Options</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfecting-your-screen-recording-during-games/"><u>In 2024, Perfecting Your Screen Recording During Games</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-tecno-spark-20-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Tecno Spark 20 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximizing-value-with-zte-blade-a3y-an-incisive-review-for-budget-smartphone-enthusiasts/"><u>Maximizing Value with ZTE Blade A3Y: An Incisive Review for Budget Smartphone Enthusiasts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-youtube-cards-and-tags/"><u>Navigating YouTube Cards and Tags</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ps5-elite-gaming-screens-top-5-hdmi-21-ultra-high-res-monitors-for-2024/"><u>PS5 Elite Gaming Screens Top 5 HDMI 2.1 Ultra High-Res Monitors for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Redmi Note 12 4G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/uncovering-budget-friendly-video-conferencing-tools-for-all-systems-for-2024/"><u>Uncovering Budget-Friendly Video Conferencing Tools for All Systems for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-name-change-in-google-meet-laptopmobile/"><u>[New] 2024 Approved Navigating Name Change in Google Meet (Laptop/Mobile)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-enhance-your-experience-with-mi-11-screen-capture-guide-for-2024/"><u>[New] Enhance Your Experience with Mi 11 Screen Capture Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-webcam-safety-the-best-cam-cover-picks-for-2024/"><u>[New] Webcam Safety The Best Cam Cover Picks for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-master-your-mix-essential-audio-devices-for-podcast-success/"><u>[Updated] In 2024, Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-premium-picks-for-pros-top-10-webcams-in-win-11/"><u>2024 Approved Premium Picks for Pros Top 10 Webcams in Win 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-moments-a-compreenasive-recorder-roundup/"><u>2024 Approved Screen Moments A Compreenasive Recorder Roundup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-10-free-recorders-enhancing-virtual-meetings/"><u>2024 Approved Top 10 Free Recorders Enhancing Virtual Meetings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-techniques-for-smooth-screen-casting/"><u>Expert Techniques for Smooth Screen Casting</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/free-online-converter-easily-change-swf-files-into-avi-format-with-movavi/"><u>Free Online Converter - Easily Change SWF Files Into AVI Format with Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/getting-into-film-editing-made-easy/"><u>Getting Into Film Editing Made Easy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-facile-pour-la-conversion-de-videos-vob-en-mp4-gratuites-et-claires-sur-macintosh/"><u>Guide Facile Pour La Conversion De Vidéos VOB en MP4 Gratuites Et Claires Sur Macintosh</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-harness-the-power-of-live-videos-for-greater-engagement-on-facebook/"><u>How to Harness the Power of Live Videos for Greater Engagement on Facebook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/leveraging-ai-for-dynamic-gaming-video-coverage-for-2024/"><u>Leveraging AI for Dynamic Gaming Video Coverage for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-tips-to-produce-quality-thumbnails-fast/"><u>Quick Tips to Produce Quality Thumbnails Fast</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-video-card-problem-in-the-sims-4-a-comprehensive-guide/"><u>Resolving the 'Video Card Problem' In The Sims 4: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-new-frontier-in-recording-captureking-review/"><u>The New Frontier in Recording 'CaptureKing' Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-offline-transcription-programs-for-speech-for-2024/"><u>Top Offline Transcription Programs for Speech for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/win-10s-best-webcam-recording-software-guide-for-2024/"><u>Win 10'S Best Webcam Recording Software Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Online Workshop Replay"
-date: 2024-08-24T10:47:00.288Z
-updated: 2024-08-25T10:47:00.288Z
+date: 2024-10-08T19:48:46.568Z
+updated: 2024-10-16T08:45:28.033Z
 tags: 
   - screen-recording
   - ai video
@@ -66,6 +66,13 @@ Select the Quick Capture option in the software's welcome screen and proceed to 
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
@@ -73,6 +80,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -93,8 +107,12 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -104,15 +122,17 @@ Making sure that all the settings are adjusted properly and that the amount of b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +140,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-audio-capturing-in-android-without-rooting-guide/"><u>[Updated] 2024 Approved Audio Capturing in Android - Without Rooting [Guide]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-5-browser-screen-recorders-2023/"><u>[Updated] In 2024, Top 5 Browser Screen Recorders 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-a-complete-walkthrough-of-vlc-capture-settings/"><u>2024 Approved A Complete Walkthrough of VLC Capture Settings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-innovative-methods-to-record-windows-8-display/"><u>2024 Approved Innovative Methods to Record Windows 8 Display</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-scheduling-mastery-implementing-a-countdown-clock/"><u>2024 Approved Obs Scheduling Mastery Implementing a Countdown Clock</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-right-approach-for-accurate-google-speech-to-text/"><u>2024 Approved The Right Approach for Accurate Google Speech-to-Text</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860065692-2024-approved-top-tickles-for-young-game-fans/"><u>2024 Approved Top Tickles for Young Game Fans!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/50-greatest-virtual-scenes-for-online-meetings/"><u>50 Greatest Virtual Scenes for Online Meetings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-lol-fun-top-3-gameplay-recording-tips/"><u>Capture LOL Fun Top 3 Gameplay Recording Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/critique-on-luminances-approach-to-hdr-creation/"><u>Critique on Luminance’s Approach to HDR Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-googles-gemini-the-projects-core-objectives-and-workings/"><u>Delving Into Google's Gemini: The Project’s Core Objectives and Workings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/epic-gaming-recorded-an-analysis-for-2024/"><u>Epic Gaming Recorded An Analysis for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/from-casual-to-expert-your-path-with-obs-gaming-capture-for-2024/"><u>From Casual to Expert Your Path with OBS Gaming Capture for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-x5-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco X5 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/s-fix-completed-no-more-anxiety/"><u>Shorts Fix Completed – No More Anxiety</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nsiders-tips-where-to-buy-a-profitable-youtubes/"><u>The Insider's Tips Where to Buy a Profitable Youtubes</u></a></li>
+</ul></div>
+

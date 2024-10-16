@@ -1,7 +1,7 @@
 ---
 title: "\"Side-by-Side Display Logging\""
-date: 2024-08-24T10:47:57.408Z
-updated: 2024-08-25T10:47:57.408Z
+date: 2024-10-09T01:57:54.169Z
+updated: 2024-10-16T03:40:17.600Z
 tags: 
   - screen-recording
   - ai video
@@ -55,8 +55,12 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -74,8 +78,12 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -102,20 +110,26 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +137,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-masterful-thumbnails-in-a-flash-professional-valorant-creations/"><u>[New] In 2024, Masterful Thumbnails in a Flash Professional Valorant Creations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860775147-updated-live-video-logging-on-mac-free/"><u>[Updated] Live Video Logging on Mac, Free!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-cutting-edge-e-learning-sites-that-dont-fit-udemy/"><u>2024 Approved Cutting-Edge E-Learning Sites That Don't Fit Udemy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-securing-every-play-moment-advanced-obs-techniques/"><u>2024 Approved Securing Every Play Moment Advanced OBS Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-vidma-scratch-assessing-the-screen-capture-tool/"><u>2024 Approved Vidma Scratch Assessing the Screen Capture Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024s-superior-camera-gear-roundup/"><u>2024'S Superior Camera Gear Roundup</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-ios-data-retrieval-application-protect-important-information-on-your-smartphone/"><u>Efficient iOS Data Retrieval Application: Protect Important Information on Your Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevating-android-borrowing-key-iphone-elements-for-an-improved-interface/"><u>Elevating Android: Borrowing Key iPhone Elements for an Improved Interface</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-facile-comment-sauvegarder-lecran-de-votre-ordinateur-appareil-mac-et-smartphone-avec-movavi/"><u>Guide Facile: Comment Sauvegarder L'Écran De Votre Ordinateur, Appareil Mac Et Smartphone Avec Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-analyzing-authenticity-point-in-visual-identity-sharing-platforms/"><u>In 2024, Analyzing Authenticity’ Point in Visual Identity Sharing Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-dynamic-virtual-spaces-google-meets-backdrop-customization/"><u>In 2024, Dynamic Virtual Spaces Google Meet's Backdrop Customization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-nintendo-switch-prime-capture-experience/"><u>In 2024, Nintendo Switch Prime Capture Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-download-edit-and-share-the-complete-online-video-guide-for-2024/"><u>New Download, Edit, and Share The Complete Online Video Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-enigma-of-twitch-conversations-for-novice-spectators/"><u>Unraveling the Enigma of Twitch Conversations for Novice Spectators</u></a></li>
+</ul></div>
+

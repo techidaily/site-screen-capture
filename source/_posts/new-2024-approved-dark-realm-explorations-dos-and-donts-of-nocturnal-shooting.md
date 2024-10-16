@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dark Realm Explorations  Do's & Don'ts of Nocturnal Shooting\""
-date: 2024-10-06T06:51:33.993Z
-updated: 2024-10-10T05:30:56.723Z
+date: 2024-10-11T01:57:59.026Z
+updated: 2024-10-16T02:19:18.925Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,13 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Shooting with a topic
 
 One of the most difficult repercussions of **night mode portraits** is that everything in your sight takes on a strange appeal, which can easily make it challenging to understand the composition and picture subject. Well, to avoid such an issue, you need to make yourself familiarized with your topic or subject. So, you can arrive at the location before sunset and begin the setup procedure.
@@ -39,20 +46,27 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Shooting with a Stabilizer
 
@@ -66,13 +80,6 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 * Allow your subject to move into the focus distance.
 
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
@@ -97,10 +104,10 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
@@ -109,40 +116,33 @@ Speaking about white balance, it is a setting to make sure the colors in the pho
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Should You Need to Avoid in Portrait Photography?
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What Are the Best Camera Settings for Night Photography?
 
@@ -178,18 +178,18 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-editing-excellence-incorporating-timestamps-and-labels/"><u>[New] Editing Excellence Incorporating Timestamps and Labels</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-record-gameplay-on-xbox-one/"><u>[New] How to Record Gameplay on Xbox One</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-step-by-step-editing-and-uploading-360-videos-on-youtube/"><u>[New] In 2024, Step-by-Step Editing & Uploading 360 Videos on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[New] In 2024, The Ultimate Cut for Quality Offline iPad Gaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-android-tools-for-video-recording/"><u>[Updated] 2024 Approved Essential Android Tools for Video Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-tips-for-recording-fb-messenger-calls/"><u>[Updated] 2024 Approved Essential Tips for Recording FB Messenger Calls</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-sharex-overview-top-picks-and-substitutes/"><u>[Updated] In 2024, ShareX Overview Top Picks & Substitutes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-foundation-of-motion-visualization/"><u>2024 Approved Understanding the Foundation of Motion Visualization</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-your-hp-device-setup-download-the-official-network-drivers-for-windows-versions-1078/"><u>Complete Your HP Device Setup: Download the Official Network Drivers for Windows Versions 10/7/8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-htc-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove HTC Fingerprint Lock</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/perfecting-gameplay-capture-on-the-newest-windows-11/"><u>Perfecting Gameplay Capture on the Newest Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-8-android-platforms-revolutionizing-large-calls/"><u>Top 8 Android Platforms Revolutionizing Large Calls</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-connection-why-might-twitch-appear-unreachable/"><u>Troubleshooting Your Connection: Why Might Twitch Appear Unreachable?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essential-steps-for-embedding-social-network-live-videos/"><u>[New] 2024 Approved Essential Steps for Embedding Social Network Live Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers/"><u>[New] In 2024, The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-perfect-plays-in-a-minute-tiktok-templates-for-stellar-videos/"><u>[New] Perfect Plays in a Minute TikTok Templates for Stellar Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premier-portable-gba-players-on-android-for-2024/"><u>[New] Premier Portable GBA Players on Android for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-understanding-the-importance-of-professional-images-as-thumbnails/"><u>[New] Understanding the Importance of Professional Images as Thumbnails</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-correcting-mute-issue-during-obs-recording-for-2024/"><u>[Updated] Correcting Mute Issue During OBS Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-guide-recording-google-meets-securely/"><u>[Updated] Essential Guide Recording Google Meets Securely</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-help-you-survive-when-lost-in-nature/"><u>Can AI Help You Survive When Lost in Nature?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/definitive-guide-to-the-top-10-stable-action-recordings/"><u>Definitive Guide to the Top 10 Stable Action Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-digital-screens-for-up-close-focus-for-2024/"><u>Enhancing Digital Screens for Up-Close Focus for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-smooth-processes-for-recording-online-meetings-with-gotomeeting/"><u>In 2024, Smooth Processes for Recording Online Meetings with GoToMeeting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726226602530-mp4-wmv-movavi/"><u>MP4과 WMV 가장 나은 변환 기술 선보이기: Movavi 소개</u></a></li>
 </ul></div>
 

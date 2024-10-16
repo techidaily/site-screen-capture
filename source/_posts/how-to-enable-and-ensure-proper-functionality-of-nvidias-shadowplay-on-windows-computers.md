@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Ensure Proper Functionality of Nvidia's Shadowplay on Windows Computers
-date: 2024-10-09T05:34:57.059Z
-updated: 2024-10-10T05:05:43.982Z
+date: 2024-10-14T13:54:56.406Z
+updated: 2024-10-16T01:39:56.724Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 5. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify integrity of game files
 
  Corrupted game files may cause SnowRunner to crash. If you’re not sure if the game crashing issue is triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -47,20 +40,27 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. click on the **three dots** under the **SnowRunner** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -80,14 +80,27 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -102,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch SnowRunner again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Enable VSync
 
@@ -134,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  To prevent SnowRunner from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Perform a clean boot
 
  The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can **find out the problematic program that crashes the game** . Once you locate the program, just uninstall it, and then the this issue will be solved. Here’s how to do it:
@@ -149,21 +148,40 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -202,14 +220,19 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-strategies-for-quiet-capturing/"><u>[Updated] 2024 Approved Advanced Strategies for Quiet Capturing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fix-facebook-story-not-uploading-problem/"><u>[Updated] 2024 Approved Fix Facebook Story Not Uploading Problem</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-social-media-enhancing-your-facebook-page-position/"><u>[Updated] In 2024, Mastering Social Media Enhancing Your Facebook Page Position</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-recorders-handbook-for-film-lovers/"><u>[Updated] In 2024, The Ultimate Recorder's Handbook for Film Lovers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-budget-computer-mastering-obs-configurations/"><u>2024 Approved Budget Computer - Mastering OBS Configurations</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/delving-into-recmeisters-capabilities-for-quality-video-capture-for-2024/"><u>Delving Into Recmeister’s Capabilities for Quality Video Capture for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-zte-blade-a73-5g-by-fonelab-android-recover-data/"><u>Recover lost data from ZTE Blade A73 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-and-assessing-the-condition-of-your-electric-vehicles-power-pack/"><u>Understanding and Assessing the Condition of Your Electric Vehicle's Power Pack</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unleashing-potential-best-macos-recording-apps-analysis/"><u>Unleashing Potential Best macOS Recording Apps Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-collagecraft-stitching-videos-for-instagram-on-iosandroid/"><u>[New] 2024 Approved CollageCraft Stitching Videos for Instagram on iOS/Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-key-top-10-modifications-for-terraria/"><u>[New] 2024 Approved Key Top 10 Modifications for Terraria</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-gadgets-for-capturing-zoom-sessions/"><u>[New] In 2024, Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-clear-winner-in-screen-recording-software/"><u>[New] In 2024, The Clear Winner in Screen Recording Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/napshot-verbalizer-for-2024/"><u>[New] Snapshot Verbalizer for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exclusive-choices-to-replace-traditional-fbx-recorder-games/"><u>[Updated] Exclusive Choices to Replace Traditional FBX Recorder Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficient-editing-for-creators-top-10-online-trimmers/"><u>[Updated] In 2024, Efficient Editing for Creators - Top 10 Online Trimmers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-setting-up-your-first-xbox-record-session-for-2024/"><u>[Updated] Step-by-Step Setting Up Your First Xbox Record Session for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-macs-live-performance-with-mixer/"><u>Enhancing Mac's Live Performance with Mixer</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/find-and-revive-your-forgotten-iphone-notes-using-leading-data-rescue-software/"><u>Find and Revive Your Forgotten iPhone Notes Using Leading Data Rescue Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>In 2024, Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-google-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Google</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-ai-journey-apps-that-save-and-spread-your-chatgpt-dialogues/"><u>Share Your AI Journey: Apps That Save & Spread Your ChatGPT Dialogues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-solutions-to-get-your-oculus-rift-s-microphone-working-again/"><u>Speedy Solutions to Get Your Oculus Rift S Microphone Working Again</u></a></li>
 </ul></div>
 

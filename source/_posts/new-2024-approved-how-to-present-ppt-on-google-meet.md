@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Present PPT on Google Meet?\""
-date: 2024-08-24T10:48:16.988Z
-updated: 2024-08-25T10:48:16.988Z
+date: 2024-10-10T03:07:25.993Z
+updated: 2024-10-16T07:04:42.926Z
 tags: 
   - screen-recording
   - ai video
@@ -79,6 +79,13 @@ So to answer your question on **how to present slide in Google Meet**,
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Open Google Meet on your browser and go on to the meeting link page. Here you have two options, one - you can join the session directly and then start presenting the screen, or two - share the screen and then join the session.
 
 If you decide to go with the latter option, then click the “Present” option. Since I’m using the Chrome browser, I will choose the slides tab to share. If you would like to share any audio, make sure to tick the share tab audio button as well!
@@ -88,8 +95,12 @@ If you decide to go with the latter option, then click the “Present” option.
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Present PowerPoint or Slides in Google Meet On iPhone and iPad?
 
 Wondering **how to present ppt in Google Meet in iPhone**? Well, don’t worry because even with a mobile or tablet you can access all the Google Meet features, even screen share!
@@ -119,18 +130,20 @@ Step 3) Upon joining the meeting, click the “More” option and tap the “Pre
 ![Share slides on Google Meet on Android ](https://images.wondershare.com/filmora/article-images/present-screen-on-google-meet-android.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 4) After that, allow presenting and go to your PowerPoint / Google Slides to share them with participants, easy right?! Remember, participants can pause your screen presentation and start presenting their screen in between, as well.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Stop Presenting PPT on Google Meet?
 
 All good things must come to an end, just like wrapping up a productive PowerPoint work session on Google Meet. When a presenter is done sharing their PowerPoint slides they must stop sharing their screen as well. One easy way to do that is to leave the Google Meet session, however, that might not be so polite.
@@ -139,21 +152,28 @@ Instead, there is another way, upon finishing the discussion on the PowerPoint s
 
 ![stop PPT sharing on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-sharing-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If that option is not visible to the presenter, they can return to their Google Meet session, and click the stop sharing button as shown in the image below.
 
 ![stop  Google Meet present](https://images.wondershare.com/filmora/article-images/stop-google-meet-present.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
 
 ![stop  PPT present on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-present-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQ about Presenting PowerPoint on Google Meet
 
 1. **Can others see you while you are presenting a PPT?**
@@ -174,16 +194,11 @@ Presenting a ppt on Google Meet is not all that difficult, if you know what to d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -191,3 +206,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-audio-prime-9-mic-recording-solutions/"><u>[New] 2024 Approved Mastering Audio Prime 9 Mic Recording Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/10-top-ranked-no-cost-image-format-switchers-jpg-to-gif-for-2024/"><u>10 Top-Ranked No-Cost Image Format Switchers (JPG to GIF) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/15-pioneering-youtube-tutorials-for-flawless-product-reviews-for-2024/"><u>15 Pioneering YouTube Tutorials for Flawless Product Reviews for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-aesir-clash-in-the-shadow-of-ragnarok/"><u>2024 Approved Aesir Clash In the Shadow of Ragnarok</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-effortless-video-capturing-on-win11-os/"><u>2024 Approved Effortless Video Capturing on Win11 OS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-integrate-voice-over-into-powerpoint-shows-easily/"><u>2024 Approved Integrate Voice-Over Into PowerPoint Shows Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-elite-compilation-9-online-mic-recorders-ranked/"><u>2024 Approved The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-10plus-best-online-screen-capture-platforms/"><u>2024 Approved Top 10+ Best Online Screen Capture Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/breaking-down-itunes-video-recording-basics-for-2024/"><u>Breaking Down iTunes Video Recording Basics for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-securely-backing-up-your-android-device-pre-bootloader-unlock/"><u>Complete Guide to Securely Backing Up Your Android Device Pre-Bootloader Unlock</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/effortless-recording-on-mac-unveiling-the-secrets/"><u>Effortless Recording on Mac Unveiling the Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-empty-directory-error-code-0x80070091-in-win11/"><u>Eliminating Empty Directory Error Code 0X80070091 in Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-shun-crossplay-in-apex-legends-your-guide-to-platform-choices/"><u>How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures/"><u>In 2024, Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures</u></a></li>
+<li><a href="https://solve-info.techidaily.com/ontheffingen-ongewenst-toegeweke-ruimte-op-usb-lijst-3-gestelde-strategieen/"><u>Ontheffingen Ongewenst Toegeweke Ruimte Op USB-Lijst: 3 Gestelde Strategieën</u></a></li>
+<li><a href="https://games-able.techidaily.com/quietude-steam-stays-off-at-startup/"><u>Quietude: Steam Stays Off at Startup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-the-battle-against-call-of-duty-wwiis-black-screen-glitches-in-windows-step-by-step-guide/"><u>Winning the Battle Against Call of Duty: WWII's Black Screen Glitches in Windows - Step-by-Step Guide</u></a></li>
+</ul></div>
+

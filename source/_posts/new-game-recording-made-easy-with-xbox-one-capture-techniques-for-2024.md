@@ -1,7 +1,7 @@
 ---
 title: "[New] Game Recording Made Easy with Xbox One Capture Techniques for 2024"
-date: 2024-10-05T01:26:20.557Z
-updated: 2024-10-10T00:24:47.343Z
+date: 2024-10-13T05:17:38.283Z
+updated: 2024-10-16T14:19:36.491Z
 tags: 
   - screen-recording
   - ai video
@@ -52,18 +52,18 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
@@ -72,28 +72,28 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
 
@@ -120,10 +120,10 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -141,20 +141,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-etiquette-ceasing-connections/"><u>[New] In 2024, Instagram Etiquette Ceasing Connections</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unlocking-zoom-potentials-a-complete-guide-to-excellent-audio-recordings/"><u>[Updated] 2024 Approved Unlocking Zoom Potentials A Complete Guide to Excellent Audio Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-windows-and-mac-recording-tactics-finding-your-perfect-match-freepaid/"><u>[Updated] 2024 Approved Windows & Mac Recording Tactics - Finding Your Perfect Match (Free/Paid)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-guide-to-the-best-8-no-cost-videoconferencing-platforms-for-2024/"><u>[Updated] Essential Guide to the Best 8 No-Cost Videoconferencing Platforms for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-explore-the-cheapest-deals-on-top-tier-gopros/"><u>[Updated] Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-finest-videophone-tools-free-edition-listed-here/"><u>[Updated] In 2024, The Finest Videophone Tools Free Edition Listed Here</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-elevating-your-podcast-remote-recording-done-right/"><u>2024 Approved Elevating Your Podcast Remote Recording Done Right</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-strategies-to-combat-freezing-in-high-quality-mode/"><u>2024 Approved Strategies to Combat Freezing in High Quality Mode</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-cold-war-unstucking-and-fixing-compiling-shaders-problems/"><u>Call of Duty Black Ops Cold War: Unstucking and Fixing 'Compiling Shaders' Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-monster-hunter-worlds-startup-blackout-issue/"><u>Comprehensive Solution for Monster Hunter: World's Startup Blackout Issue</u></a></li>
-<li><a href="https://fox-info.techidaily.com/essential-guide-the-finest-free-windows-screen-capture-tools-1-5-for-2024/"><u>Essential Guide The Finest Free Windows Screen Capture Tools #1-5 for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-note-30-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Note 30 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-sony-xperia-5-v-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Sony Xperia 5 V Location | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-ways-to-craft-unique-dandd-characters-by-leveraging-chatgpt-and-dall-e-technologies/"><u>Innovative Ways to Craft Unique D&D Characters by Leveraging ChatGPT and DALL-E Technologies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-gen-chatbots-paving-the-way-forward/"><u>Next-Gen Chatbots: Paving the Way Forward</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-3-tactics-to-grab-twitter-gifs-on-pc/"><u>[New] In 2024, 3 Tactics to Grab Twitter GIFs on PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-simplified-methods-for-recording-successful-online-classes-and-meets-for-2024/"><u>[New] Simplified Methods for Recording Successful Online Classes & Meets for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pixelated-palaces-starter-designs-for-new-minecrafters/"><u>[Updated] 2024 Approved Pixelated Palaces Starter Designs for New Minecrafters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-relaxation-no-license-sounds/"><u>[Updated] In 2024, Easy Relaxation No-License Sounds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-overcoming-fixed-color-voids-in-recording-software/"><u>[Updated] In 2024, Overcoming Fixed Color Voids in Recording Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-video-editing-with-device-filters/"><u>[Updated] Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>In 2024, Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nba-2k21-for-pc-stability-tips-how-to-prevent-the-game-from-crashing/"><u>NBA 2K21 for PC Stability Tips - How to Prevent the Game From Crashing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/perfecting-your-xbox-one-gaming-archive-for-2024/"><u>Perfecting Your Xbox One Gaming Archive for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-the-world-of-precise-editing-tiktok-number-modification/"><u>Step Into the World of Precise Editing TikTok Number Modification</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sweet-snack-snapshot-review-deep-insight-for-2024/"><u>Sweet Snack Snapshot Review Deep Insight for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-future-of-wireless-connectivity-asus-zenwifi-xt8-ax6600-rigorously-tested-and-reviewed/"><u>The Future of Wireless Connectivity: ASUS ZenWiFi XT8 (AX6600) Rigorously Tested and Reviewed</u></a></li>
 </ul></div>
 

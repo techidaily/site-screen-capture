@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Tips for Perfect Control  How to Use Your Switch Pro on Steam\""
-date: 2024-09-30T22:08:19.927Z
-updated: 2024-10-04T17:46:43.169Z
+date: 2024-10-17T08:54:06.448Z
+updated: 2024-10-22T05:32:38.116Z
 tags: 
   - screen-recording
   - ai video
@@ -66,23 +66,9 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -90,10 +76,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
@@ -114,7 +106,21 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -126,24 +132,18 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -160,18 +160,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-navigating-digital-dimensions-metaverse-and-multiverse/"><u>[New] 2024 Approved Navigating Digital Dimensions Metaverse and Multiverse</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crime-consortium-top-titles-echoing-gta-v/"><u>[Updated] 2024 Approved Crime Consortium Top Titles Echoing GTA V</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[Updated] Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-seamlessly-record-your-screen-while-watching-netflix/"><u>[Updated] In 2024, Seamlessly Record Your Screen While Watching Netflix</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>[Updated] In 2024, The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banished-bug-mh-worlds-graphics-scare-over/"><u>Banished Bug: MH World's Graphics Scare Over</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>In 2024, A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-note-12-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-elevate-your-online-sound-experience-with-these-5-steps/"><u>In 2024, Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/is-aurora-hdr-a-step-forward-in-quality-viewing-in-2024/"><u>Is Aurora HDR a Step Forward in Quality Viewing, In 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-finding-iphone-user-locations-safely-and-legally/"><u>Step-by-Step Tutorial: Finding iPhone User Locations Safely and Legally</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-stop-motion-apps-for-mobile-for-2024/"><u>Updated The Ultimate Guide to Stop Motion Apps for Mobile for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-crafting-captivating-stories-15-best-snapchat-techniques-for-2024/"><u>[New] Crafting Captivating Stories 15 Best Snapchat Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-exploring-mac-best-sniping-tools-ranked/"><u>[New] Exploring Mac Best Sniping Tools Ranked</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-revise-and-reshape-using-the-eraser-tool-in-photoshop-guide-for-2024/"><u>[New] Revise & Reshape Using the Eraser Tool in Photoshop Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-swiftswirl-momentmirror-recording-for-2024/"><u>[New] SwiftSwirl MomentMirror Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-transform-your-webcam-footage-edit-and-export-tips/"><u>[Updated] In 2024, Transform Your WebCam Footage Edit & Export Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[Updated] Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-filmmakers-digital-backdrop-changer/"><u>2024 Approved Premier Filmmaker's Digital Backdrop Changer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-15-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-malpractice-how-to-safely-grow-a-million-fanbase-for-2024/"><u>Avoiding Malpractice How to Safely Grow a Million Fanbase for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratis-emulador-de-disco-ssd-pci-para-sistemas-operativos-windows-11-8-y-7/"><u>Gratis Emulador De Disco SSD PCI Para Sistemas Operativos Windows: 11, 8 Y 7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-compreranciales-en-fb-tecnicas-para-la-registro-de-llamadas-y-conversaciones/"><u>In 2024, Compreranciales en FB Técnicas Para La Registro De Llamadas Y Conversaciones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pixels-musical-ensemble-unveiled-online/"><u>Pixel's Musical Ensemble Unveiled Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728492360262-windows-1011ssd/"><u>スムーズな移行：Windows 10/11で大容量SSDへクローンするための専門的アプローチ</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Precision Play  Mastering Steam's Switch Controllers\""
-date: 2024-10-10T04:50:21.306Z
-updated: 2024-10-16T00:00:55.183Z
+date: 2024-10-17T05:03:26.019Z
+updated: 2024-10-22T04:11:36.801Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -70,38 +77,19 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-* Once Steam is set up, you can begin using it.
-
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+* Once Steam is set up, you can begin using it.
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -119,13 +107,26 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -144,13 +145,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -166,22 +160,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>[New] 2024 Approved Zooming Into Clarity A Blueprint for Crisp Screenshots</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-a-guide-to-crafting-impactful-handp-ads-on-facebook-for-2024/"><u>[New] A Guide to Crafting Impactful H&P Ads on Facebook for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-crafting-a-cinematic-look-ken-burns-in-camtasa/"><u>[New] Crafting a Cinematic Look Ken Burns in Camtasa</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/xpertly-slice-your-videos-macs-finest-mp4-applications-for-2024/"><u>[New] Expertly Slice Your Videos Mac's Finest MP4 Applications for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gimp-ultimate-editing-course-review/"><u>[New] GIMP Ultimate Editing Course Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-screen-streaming-showdown-go-obs-vs-shadowtoolkit/"><u>[New] In 2024, Screen Streaming Showdown Go OBS! Vs ShadowToolkit</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-screen-recording-on-macos-ahead-with-bandicam-or-camtasia-for-2024/"><u>[New] Screen Recording on MacOS Ahead with Bandicam or Camtasia for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamlabs-or-obs-picking-the-best-software-for-your-channel-for-2024/"><u>[New] Streamlabs or OBS Picking the Best Software for Your Channel for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-in-depth-look-at-razers-hd-webcam-experience/"><u>[Updated] In 2024, In-Depth Look at Razer's HD Webcam Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS in Lost Mode</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-11-secrets-of-windows-11/"><u>Discover 11 Secrets of Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/melodic-matrix-mac-sound-recording/"><u>Melodic Matrix Mac Sound Recording</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-user-guide-to-mastering-the-latest-windows-10/"><u>Pro User Guide to Mastering the Latest WINDOWS 10</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-engagement-techniques-for-zooms-camera-shots-for-2024/"><u>Quick Engagement Techniques for Zoom’s Camera Shots for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unleash-your-adventure-essential-tactics-for-saving-your-vr-gaming-experience/"><u>Unleash Your Adventure Essential Tactics for Saving Your VR Gaming Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/virtual-warriors-journey-7-intense-fps-games/"><u>Virtual Warriors’ Journey - 7 Intense FPS Games</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-contortions-a-complete-guide-to-picture-edits/"><u>Visual Contortions A Complete Guide to Picture Edits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtubes-premier-guide-to-top-notch-gear/"><u>[New] 2024 Approved YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-obs-dominion-vs-streamlabs-kingdom/"><u>[New] OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>[New] Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-screen-logger-az-audits-and-diversions/"><u>[New] Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-comprehensive-3d-lut-development-course/"><u>[Updated] 2024 Approved Comprehensive 3D LUT Development Course</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-on-demand-broadcasts-a-guide-to-efficient-recording/"><u>[Updated] 2024 Approved On-Demand Broadcasts A Guide to Efficient Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-screencast-lifeline-crucial-knowledge-for-success/"><u>[Updated] 2024 Approved The Screencast Lifeline Crucial Knowledge for Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-first-home-frontier-top-6-beginner-friendly-mc-abodes-for-2024/"><u>[Updated] First Home Frontier Top 6 Beginner-Friendly MC Abodes for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-inside-the-magic-of-io-screen-capture-technology/"><u>[Updated] In 2024, Inside the Magic of IO Screen Capture Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfecting-the-art-of-whatsapp-call-logging/"><u>[Updated] In 2024, Perfecting the Art of WhatsApp Call Logging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/webmmovavi/"><u>高度なWEBMファイル圧縮手法「MOVAVI」を学ぶ：データ容量を最小化し、パフォーマンス向上のヒント</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-stuck-keys-on-your-windows-keyboard-expert-tips-and-tricks/"><u>Fixing Stuck Keys on Your Window's Keyboard - Expert Tips & Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-a38-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo A38</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-impeccablecapture-studio-suite-windows-10-edition/"><u>In 2024, ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-twist-techniques-for-tailoring-your-photos-on-the-fly/"><u>Insta-Twist Techniques for Tailoring Your Photos on the Fly</u></a></li>
 </ul></div>
 

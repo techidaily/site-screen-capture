@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capturing Skype Chats  An OBS Guide\""
-date: 2024-09-28T16:02:04.524Z
-updated: 2024-10-04T21:08:40.430Z
+date: 2024-10-17T22:06:19.804Z
+updated: 2024-10-21T19:43:02.663Z
 tags: 
   - screen-recording
   - ai video
@@ -59,14 +59,14 @@ So you can just resize it similarly as you did yours earlier and pressing the lo
 
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: OBS Alternative to Record Skype
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Filmora
 
@@ -95,13 +95,6 @@ For macOS 10.12 or later
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * After the configuration, you can click on the big red button to start the recording.
 
 ## FAQs Regarding Skype Recording
@@ -145,16 +138,22 @@ For macOS 10.12 or later
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
@@ -163,10 +162,10 @@ For macOS 10.12 or later
 * After the configuration, you can click on the big red button to start the recording.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
@@ -210,16 +209,16 @@ For macOS 10.12 or later
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
@@ -227,6 +226,13 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -268,16 +274,16 @@ For macOS 10.12 or later
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
@@ -340,19 +346,22 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-spotifys-1-charting-tunes/"><u>[New] 2024 Approved Spotify's #1 Charting Tunes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-tips-for-operating-ez-grabber/"><u>[New] Essential Tips for Operating EZ Grabber</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-gold-glory-in-gameplay-5-prime-maps-for-riches/"><u>[Updated] In 2024, Gold Glory in Gameplay 5 Prime Maps for Riches</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-present-ppt-on-google-meet/"><u>[Updated] In 2024, How to Present PPT on Google Meet?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-your-console-innovative-approaches-to-xbox-captures/"><u>[Updated] In 2024, Mastering Your Console Innovative Approaches to Xbox Captures</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation/"><u>[Updated] In 2024, Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-instantaneous-timestamping-for-your-youtube-urls/"><u>[Updated] Instantaneous Timestamping for Your YouTube URLs</u></a></li>
-<li><a href="https://discover-community.techidaily.com/convert-music-files-for-free-with-movavi-online-mp3-m4a/"><u>Convert Music Files for Free with Movavi Online (MP3, M4A)</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/effortless-audio-transformation-convert-your-wav-files-to-high-quality-flac-for-free/"><u>Effortless Audio Transformation - Convert Your WAV Files to High-Quality FLAC for Free!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-gathering-groups-video-content-easily/"><u>In 2024, Gathering Groups' Video Content Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-xiaomi-14-ultra-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Xiaomi 14 Ultra Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premium-pcmac-screen-capture-application-for-2024/"><u>Premium PC/Mac Screen Capture Application for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-choosing-the-best-video-grabber-for-windows-10-for-2024/"><u>Ultimate Guide Choosing the Best Video Grabber for Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-affordable-video-capture-tools-for-budget-computers/"><u>[New] Best Affordable Video Capture Tools for Budget Computers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-tips-for-capturing-and-storing-facebook-messages/"><u>[New] In 2024, Expert Tips for Capturing and Storing Facebook Messages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-by-step-guide-to-optimal-screen-casting-via-meet/"><u>[New] In 2024, Step-by-Step Guide to Optimal Screen Casting via Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>[New] In 2024, The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfecting-the-art-of-whatsapp-call-logging/"><u>[New] Perfecting the Art of WhatsApp Call Logging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/old-brands-new-identity-a-step-by-step-guide-for-managing-connections-and-unfollowers/"><u>[Old Brand's New Identity]: A Step-by-Step Guide for Managing Connections and Unfollowers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enjoy-whole-audio-on-twitch-addressing-muted-segments-now/"><u>[Updated] Enjoy Whole Audio on Twitch Addressing Muted Segments Now</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-video-production-a-guide-to-vimeos-capabilities-for-2024/"><u>[Updated] Optimizing Video Production A Guide to Vimeo's Capabilities for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-methods-for-saving-videos-on-youtube/"><u>[Updated] Quick Methods for Saving Videos on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-speech-styling-made-simple-tips-for-enriching-your-vocal-presence-affordably/"><u>[Updated] Speech Styling Made Simple Tips for Enriching Your Vocal Presence Affordably</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-pcs-performance-solving-windows-11-sluggishness/"><u>Boost Your PC's Performance: Solving Windows 11 Sluggishness</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-successfully-install-and-use-android-applications-on-your-windows-10-pc/"><u>Guide: Successfully Install and Use Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic 5 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-nubia-z50s-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nubia Z50S Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-the-art-of-fbx-less-game-capture-techniques/"><u>Mastering the Art of FBX-Less Game Capture Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tech-tips-efficient-gameplay-archiving-in-roblox-on-macos/"><u>Tech Tips Efficient Gameplay Archiving in Roblox on MacOS</u></a></li>
 </ul></div>
 

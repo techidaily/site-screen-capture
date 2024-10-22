@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
-date: 2024-10-08T00:45:40.431Z
-updated: 2024-10-10T02:04:31.032Z
+date: 2024-10-19T23:59:06.742Z
+updated: 2024-10-21T16:08:36.667Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
@@ -38,28 +38,15 @@ Lifewire / Bill Thomas
 3.4
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
 
@@ -101,6 +88,13 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
 
 ## Setup: Nice and simple
@@ -113,6 +107,13 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -122,16 +123,10 @@ Lifewire / Bill Thomas
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Network Performance: Great when wired, but wireless speeds lag
@@ -144,14 +139,14 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
- Lifewire / Bill Thomas
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Bill Thomas
 
 ## Software: No frills
 
@@ -168,13 +163,6 @@ Lifewire / Bill Thomas
  The Netgear C3700 retails for $109.99, but you should be able to find it for less (as of the time of this writing, it’s on sale for about $95). At this price, the modem has a head start on paying for itself.
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
@@ -225,24 +213,24 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-name-change-in-google-meet-laptopmobile/"><u>[New] 2024 Approved Navigating Name Change in Google Meet (Laptop/Mobile)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-enhance-your-experience-with-mi-11-screen-capture-guide-for-2024/"><u>[New] Enhance Your Experience with Mi 11 Screen Capture Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-webcam-safety-the-best-cam-cover-picks-for-2024/"><u>[New] Webcam Safety The Best Cam Cover Picks for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-master-your-mix-essential-audio-devices-for-podcast-success/"><u>[Updated] In 2024, Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-premium-picks-for-pros-top-10-webcams-in-win-11/"><u>2024 Approved Premium Picks for Pros Top 10 Webcams in Win 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-moments-a-compreenasive-recorder-roundup/"><u>2024 Approved Screen Moments A Compreenasive Recorder Roundup</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-top-10-free-recorders-enhancing-virtual-meetings/"><u>2024 Approved Top 10 Free Recorders Enhancing Virtual Meetings</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-techniques-for-smooth-screen-casting/"><u>Expert Techniques for Smooth Screen Casting</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/free-online-converter-easily-change-swf-files-into-avi-format-with-movavi/"><u>Free Online Converter - Easily Change SWF Files Into AVI Format with Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/getting-into-film-editing-made-easy/"><u>Getting Into Film Editing Made Easy</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-facile-pour-la-conversion-de-videos-vob-en-mp4-gratuites-et-claires-sur-macintosh/"><u>Guide Facile Pour La Conversion De Vidéos VOB en MP4 Gratuites Et Claires Sur Macintosh</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-harness-the-power-of-live-videos-for-greater-engagement-on-facebook/"><u>How to Harness the Power of Live Videos for Greater Engagement on Facebook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/leveraging-ai-for-dynamic-gaming-video-coverage-for-2024/"><u>Leveraging AI for Dynamic Gaming Video Coverage for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/quick-tips-to-produce-quality-thumbnails-fast/"><u>Quick Tips to Produce Quality Thumbnails Fast</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-the-video-card-problem-in-the-sims-4-a-comprehensive-guide/"><u>Resolving the 'Video Card Problem' In The Sims 4: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-new-frontier-in-recording-captureking-review/"><u>The New Frontier in Recording 'CaptureKing' Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-offline-transcription-programs-for-speech-for-2024/"><u>Top Offline Transcription Programs for Speech for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/win-10s-best-webcam-recording-software-guide-for-2024/"><u>Win 10'S Best Webcam Recording Software Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pro-streamers-list-5-innovative-webcams-for-gamers/"><u>[New] 2024 Approved Pro Streamer's List 5 Innovative Webcams for Gamers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-boosting-video-engagement-using-zooms-snap-feature/"><u>[New] Boosting Video Engagement Using Zoom's Snap Feature</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-dissecting-screen-capture-tools-an-in-depth-look-at-apeaksoft-for-2024/"><u>[New] Dissecting Screen Capture Tools An In-Depth Look at Apeaksoft for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premier-windows-video-chat-apps-7-1/"><u>[New] In 2024, Premier Windows Video Chat Apps #7-#1</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>[New] Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-advanced-techniques-for-preserving-lol-skirmishes/"><u>[Updated] Advanced Techniques for Preserving LOL Skirmishes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-closure-of-a-linkedin-account-the-how-to-guide/"><u>[Updated] Swift Closure of a LinkedIn Account The How-To Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-essential-tips-acquiring-unparalleled-photos-for-free/"><u>2024 Approved Essential Tips Acquiring Unparalleled Photos for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>2024 Approved Play Every Game at Home NBA Streaming Made Simple (Top 15)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-visual-perfection-in-videos-implementing-black-bar-and-box-on-fb/"><u>2024 Approved Visual Perfection in Videos Implementing Black Bar & Box on FB</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/canva-creative-editor-exploration/"><u>Canva Creative Editor Exploration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-sync-your-airpods-to-the-latest-hp-laptop-for-ultimate-sound-experience/"><u>Effortlessly Sync Your AirPods to the Latest HP Laptop for Ultimate Sound Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-configuration-clock-integration-for-streaming-software-for-2024/"><u>Expert Configuration Clock Integration for Streaming Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/facetime-call-screen-recording-the-beginners-guide/"><u>FaceTime Call Screen Recording The Beginner's Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-6s-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 6s</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-g24-power-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola G24 Power without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-chaos-to-clarity-combining-obs-with-zoom/"><u>In 2024, From Chaos to Clarity Combining OBS with Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-wincams-capturing-life-at-your-fingertips/"><u>In 2024, WinCams Capturing Life at Your Fingertips</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-tutorial-how-to-move-all-your-songs-from-computer-to-iphones-using-a-simple-usb-connection/"><u>Step-by-Step Tutorial: How to Move All Your Songs From Computer to iPhones Using a Simple USB Connection</u></a></li>
 </ul></div>
 

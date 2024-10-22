@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-08-24T10:42:11.501Z
-updated: 2024-08-25T10:42:11.501Z
+date: 2024-10-17T19:00:04.586Z
+updated: 2024-10-22T01:06:26.546Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,6 +69,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -73,8 +87,12 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -88,15 +106,17 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,3 +124,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unleash-creativity-with-these-5-windows-11-record-methods/"><u>[New] 2024 Approved Unleash Creativity with These 5 Windows 11 Record Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-visualsnap-win11-instant-desktop-capture-and-save/"><u>[New] 2024 Approved VisualSnap Win11 Instant Desktop Capture & Save</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-covert-call-keepers-selective-voice-trapping-on-devices-androidios/"><u>[New] Covert Call Keepers Selective Voice Trapping on Devices (Android/iOS)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-guide-to-youtube-earning-power-by-2024/"><u>[New] Sourav Joshi’s Guide to YouTube Earning Power by 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-increase-attendance-and-engagement-with-strategic-zoom-recordings/"><u>[Updated] 2024 Approved Increase Attendance and Engagement with Strategic Zoom Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-smoothly-record-time-lapse-on-your-ipad-for-2024/"><u>[Updated] Smoothly Record Time-Lapse on Your iPad for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerate-your-journey-top-tactics-for-learning-languages-online/"><u>Accelerate Your Journey: Top Tactics for Learning Languages Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/access-the-newest-compatible-gigabyte-network-drivers-download-now/"><u>Access the Newest Compatible Gigabyte Network Drivers – Download Now!</u></a></li>
+<li><a href="https://win-web.techidaily.com/avoid-the-rush-on-black-friday-with-top-rated-discount-cards-save-time-and-money/"><u>Avoid the Rush on Black Friday with Top-Rated Discount Cards - Save Time & Money!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effective-group-meetings-googles-top-solutions-4-for-2024/"><u>Effective Group Meetings Google's Top Solutions (#4) for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-at-toms-hardware-hub/"><u>Unveiling the Latest in Computing at Tom's Hardware Hub</u></a></li>
+</ul></div>
+

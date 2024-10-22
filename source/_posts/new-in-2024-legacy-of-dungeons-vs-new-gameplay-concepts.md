@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2024-10-11T10:24:50.269Z
-updated: 2024-10-15T18:31:54.760Z
+date: 2024-10-18T20:26:42.928Z
+updated: 2024-10-22T02:43:53.637Z
 tags: 
   - screen-recording
   - ai video
@@ -52,17 +52,17 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -70,6 +70,13 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -113,14 +120,14 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -131,19 +138,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -162,16 +156,16 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -191,22 +185,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-experience-unlimited-recording-review-of-free-screen-tools-for-cameras/"><u>[New] 2024 Approved Experience Unlimited Recording – Review of Free Screen Tools for Cameras</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>[New] 2024 Approved Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>[New] 2024 Approved Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-advanced-tips-for-zooms-video-filters/"><u>[New] Advanced Tips for Zoom's Video Filters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-circuit-conquerors-ranking-your-top-5-speed-driven-games/"><u>[New] Circuit Conquerors Ranking Your Top 5 Speed-Driven Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-collective-wisdom-on-easeus-products/"><u>[New] In 2024, Collective Wisdom on EaseUS Products</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-watchers-workshop-advanced-guide-to-live-tv-broadcasting-via-windows-pc/"><u>[Updated] The Watcher's Workshop Advanced Guide to Live TV Broadcasting via Windows PC</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-adding-eye-catching-text-to-vids-without-costs/"><u>2024 Approved Adding Eye-Catching Text to Vids Without Costs</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-chaos-no-more-restoring-ps4-devices-touchpad/"><u>Controller Chaos No More: Restoring PS4 Device's Touchpad</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-platform-play-connecting-ps4-to-pc-and-mac/"><u>Cross Platform Play: Connecting PS4 to PC & Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>Galactic Glitter Top 10 Accessories for SJ4000 Stargazers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-full-screen-recording-features-in-mi-11/"><u>In 2024, Unlocking Full-Screen Recording Features in Mi 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/optimal-performance-assured-the-apc-gaming-backup-unit-breakdown-and-review/"><u>Optimal Performance Assured: The APC Gaming Backup Unit Breakdown and Review</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-pathway-restrictions-in-windows/"><u>Overcoming Device Pathway Restrictions in Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915218571-social-media-unveiled-from-tweets-and-snaps-instagram-to-videos-and-likes/"><u>Social Media Unveiled: From Tweets and Snaps (Instagram) to Videos and Likes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unveiling-canvas-power-10-pro-editor-techniques-for-2024/"><u>Unveiling Canva's Power 10 Pro Editor Techniques for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unhindered-routine-changing-video-direction-with-vlc/"><u>[New] In 2024, Unhindered Routine Changing Video Direction with VLC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-warrior-spirits-rising-comparable-game-suggestions-for-2024/"><u>[New] Warrior Spirits Rising Comparable Game Suggestions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-methods-for-capturing-system-sounds-on-pcs/"><u>[Updated] 2024 Approved Advanced Methods for Capturing System Sounds on PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-digital-leaders-the-top-10-online-video-recorder-apps/"><u>[Updated] 2024 Approved Digital Leaders The Top 10 Online Video Recorder Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-get-your-pcs-sound-recorded-download-x-recorder/"><u>[Updated] 2024 Approved Get Your PC's Sound Recorded – Download X-Recorder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-4k-gimbal-picks-top-ten-mirrorless-companions/"><u>[Updated] 4K Gimbal Picks Top Ten Mirrorless Companions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-foremost-low-impact-screen-recorders-explored/"><u>[Updated] Foremost Low-Impact Screen Recorders Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-the-best-10-spotify-recorders/"><u>[Updated] In 2024, The Ultimate Guide to the Best 10 Spotify Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-screen-recorders-journey-a-deep-dive-into-the-best-tools/"><u>[Updated] The Screen Recorder's Journey A Deep Dive Into the Best Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-edge-40-neo-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Edge 40 Neo to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-10-non-game-console-screen-capture-tools/"><u>In 2024, Best 10 Non-Game Console Screen Capture Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-successful-data-transfer-on-windows-os/"><u>Unlocking Successful Data Transfer on Windows OS</u></a></li>
 </ul></div>
 

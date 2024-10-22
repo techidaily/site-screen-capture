@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up ChatGPT Plugin Integrations"
-date: 2024-08-24T10:41:45.750Z
-updated: 2024-08-25T10:41:45.750Z
+date: 2024-10-14T22:26:15.856Z
+updated: 2024-10-21T21:27:43.377Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can opt out of ChatGPT's use of your chat data for training, ensuring your conversations remain private.
@@ -32,8 +39,18 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is ChatGPT's Chat History and Training Feature?
 
  When you sign up for a ChatGPT account (be it the free or premium version), ChatGPT saves your chat history and uses your chat data for future training by default.
@@ -47,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -58,46 +79,26 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
  ChatGPT lets you turn the feature back on by clicking the**Enable chat history** option that appears over your history list, but this will re-enable both your chat history and the chat data collection for training.
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Data Collection You Can't Opt Out From
 
  Though you can disable ChatGPT's history and training feature, certain kinds of data collection you cannot avoid. Namely, OpenAI keeps all your conversations for 30 days to review them for anything harmful or inappropriate. In the aforementioned FAQ, OpenAI writes:
@@ -108,14 +109,11 @@ Key features:
 
  OpenAI also keeps note of your email address, name, and payment details if you're signed up for the ChatGPT Plus subscription (which is charged monthly). However, to truly delete all of your ChatGPT data, you'll need to[completely delete your ChatGPT account](http://www.makeuseof.com/how-to-delete-your-chatgpt-account/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +122,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-professional-screen-recorders-for-the-web/"><u>[New] 2024 Approved Professional Screen Recorders for the Web</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-guide-to-mac-screen-taking-techniques/"><u>[New] 2024 Approved Quick Guide to MAC Screen Taking Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-inspirational-hiring-vids-1-10-for-2024/"><u>[New] Discover Inspirational Hiring Vids #1-10 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-a-compreranble-collection-of-game-logging-apps-transcending-fbx-limitations/"><u>[Updated] 2024 Approved A Compreranble Collection of Game Logging Apps Transcending FBX Limitations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[Updated] 2024 Approved Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elevating-your-video-game-choosing-a-gimbal-for-drones/"><u>[Updated] 2024 Approved Elevating Your Video Game Choosing a Gimbal for Drones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-comparing-splitcams-features-with-industry-leaders-for-2024/"><u>[Updated] Comparing SplitCam's Features with Industry Leaders for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-ipad-audio-recorder-software-list-3/"><u>[Updated] Leading iPad Audio Recorder Software List #3</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premier-mobile-gaming-best-android-gb-simulators/"><u>[Updated] Premier Mobile Gaming Best Android GB Simulators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-skip-past-fb-video-ads-effectively/"><u>[Updated] Skip Past FB Video Ads Effectively</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-editor/"><u>Aiseesoft Video Editor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-magic-vs-2-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Magic Vs 2 Phone Screen?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-threads-through-time-master-looms-screen-capture/"><u>In 2024, Threads Through Time Master Loom's Screen Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-youtube-mastery-made-simple-the-top-20-must-know-strategies/"><u>In 2024, YouTube Mastery Made Simple The Top 20 Must-Know Strategies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-ease-inease-out-techniques-in-camtasa-9-for-2024/"><u>Mastering Ease In/Ease Out Techniques in Camtasa 9 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-roi-through-cutting-edge-cookiebot-solutions/"><u>Maximizing ROI Through Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/securing-brand-deals-with-youtube-personalities/"><u>Securing Brand Deals with YouTube Personalities</u></a></li>
+</ul></div>
 

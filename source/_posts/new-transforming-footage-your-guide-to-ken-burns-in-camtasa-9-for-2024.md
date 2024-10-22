@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transforming Footage  Your Guide to Ken Burns in Camtasa 9 for 2024\""
-date: 2024-08-24T10:41:44.412Z
-updated: 2024-08-25T10:41:44.412Z
+date: 2024-10-15T21:15:27.380Z
+updated: 2024-10-21T22:50:19.145Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-steps-how-to-record-on-vimeo/"><u>[New] 2024 Approved Easy Steps How to Record on Vimeo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastery-of-geometric-design-in-minecraft-creating-circle-and-sphere-art/"><u>[New] 2024 Approved Mastery of Geometric Design in Minecraft Creating Circle & Sphere Art</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-streamline-tiktok-to-mp4-conversion-process/"><u>[Updated] 2024 Approved Streamline TikTok to MP4 Conversion Process</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-speech-analysis-and-conversion-its-free/"><u>[Updated] In 2024, Speech Analysis and Conversion - It's Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-straightforward-approach-turn-video-upside-down-with-vlc-for-2024/"><u>[Updated] Straightforward Approach Turn Video Upside Down with VLC for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-windows-10-capture-apps-ultimate-guide-for-2024/"><u>[Updated] Top Windows 10 Capture Apps Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-the-best-video-player-apps-for-idevices-top-10/"><u>2024 Approved Unveiling the Best Video Player Apps for iDevices (Top 10)</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-battlenet-game-updates-in-windows/"><u>Accelerating Battle.net Game Updates in Windows</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-exploring-ai-face-generators/"><u>In 2024, Exploring AI Face Generators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>In 2024, Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/g-youtube-intros-interesting-without-costing-a-dime-for-2024/"><u>Making YouTube Intros Interesting Without Costing a Dime for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-fun-playthroughs-the-ultimate-guide-to-pokemon-shining-pearl/"><u>Mastering Fun Playthroughs: The Ultimate Guide to Pokémon Shining Pearl</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-video-stream-mp3-to-youtube-in-3-easy-steps-for-2024/"><u>MP3 to Video Stream MP3 to YouTube in 3 Easy Steps for 2024</u></a></li>
+</ul></div>
+

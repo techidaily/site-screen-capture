@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Webinar Playback Recordings"
-date: 2024-10-09T22:46:01.008Z
-updated: 2024-10-16T12:57:17.752Z
+date: 2024-10-20T05:56:51.105Z
+updated: 2024-10-21T21:51:42.981Z
 tags: 
   - screen-recording
   - ai video
@@ -48,15 +48,22 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Producing your first webinar doesn't require you to be a video-making wizard since Filmora Scrn makes this process simple. Let's have a look at the steps you'll need to take in order to record a webinar.
@@ -69,23 +76,9 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -94,6 +87,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -122,16 +122,10 @@ Making sure that all the settings are adjusted properly and that the amount of b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -149,15 +143,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-fun-with-junior-drivers/"><u>[New] 2024 Approved Navigating Fun with Junior Drivers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-depth-look-at-xvideo-hub-a-full-studio-guide/"><u>[New] In-Depth Look at XVideo Hub A Full Studio Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-which-is-better-for-streamers-obs-studio-or-fraps/"><u>[New] Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-building-blocks-for-movie-making-youtubes-framework-and-more/"><u>[Updated] Building Blocks for Movie Making YouTube's Framework & More</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elite-yoga-routines-youtubes-leading-fitness-sites/"><u>[Updated] In 2024, Elite Yoga Routines YouTube's Leading Fitness Sites</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-panasonic-hx-a1-wearable-camera-explored/"><u>[Updated] Panasonic HX-A1 Wearable Camera Explored</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ace-set-of-rotational-recording-devices/"><u>Ace Set of Rotational Recording Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capture-the-scene-right-basic-cinematography-for-new-directors/"><u>In 2024, Capture the Scene Right Basic Cinematography for New Directors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unleashing-creativity-mastering-camera-snaps-on-zoom/"><u>In 2024, Unleashing Creativity Mastering Camera Snaps on Zoom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unlock-instagram-broadcast-potential-through-obs-tutorials/"><u>In 2024, Unlock Instagram Broadcast Potential Through OBS Tutorials</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-fine-tuning-minecrafts-ram-for-better-gaming-results/"><u>[New] 2024 Approved Fine-Tuning Minecraft's RAM for Better Gaming Results</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>[New] 2024 Approved Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ace-your-content-game-on-instagram-with-these-6-powerful-apps-for-2024/"><u>[New] Ace Your Content Game on Instagram with These 6 Powerful Apps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-learn-to-screen-capture-flawlessly-on-mac-using-just-keys/"><u>[New] In 2024, Learn to Screen Capture Flawlessly on Mac Using Just Keys</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-triumph-through-battle-the-supreme-selection-of-top-7-total-wars/"><u>2024 Approved Triumph Through Battle The Supreme Selection of Top 7 Total Wars</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-virtual-makeup-mavens-top-youtube-creators/"><u>2024 Approved Virtual Makeup Mavens Top YouTube Creators</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaboration-ensures-continued-life-for-linux-414-long-term-support-version-zdnet-tech-news/"><u>Collaboration Ensures Continued Life for Linux 4.14 Long-Term Support Version | ZDNET Tech News</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-video-quality-with-accurate-camera-adjustments-for-2024/"><u>Enhancing Video Quality with Accurate Camera Adjustments for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/harness-the-power-of-hashtags-with-these-4-essential-twitter-chat-utilities/"><u>Harness the Power of Hashtags with These 4 Essential Twitter Chat Utilities</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-progressive-volume-cut-down-in-fl/"><u>In 2024, Progressive Volume Cut-Down in FL</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-facebook-live-shopping-a-comprehensive-guide/"><u>New In 2024, Facebook Live Shopping A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-ai-conversation-getting-chatgpt-on-board-for-vehicle-enhancements/"><u>Utilizing AI Conversation: Getting ChatGPT on Board for Vehicle Enhancements</u></a></li>
 </ul></div>
 

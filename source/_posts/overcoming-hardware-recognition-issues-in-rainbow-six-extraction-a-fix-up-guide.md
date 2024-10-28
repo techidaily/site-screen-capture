@@ -1,7 +1,7 @@
 ---
 title: Overcoming Hardware Recognition Issues in Rainbow Six Extraction – A Fix-Up Guide
-date: 2024-10-19T06:13:15.373Z
-updated: 2024-10-22T01:19:02.145Z
+date: 2024-10-21T20:16:21.512Z
+updated: 2024-10-27T17:09:39.191Z
 tags:
   - win11
   - win10
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -82,21 +82,15 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -134,23 +128,17 @@ If this doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -185,6 +173,13 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
@@ -199,20 +194,27 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t solve your problem, try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -225,13 +227,6 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
@@ -263,13 +258,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
@@ -277,16 +265,29 @@ If this doesn’t solve your problem, try the last fix.
 5. Disable the problem program and reboot your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Known issues on Sonic studio virtual mixer driver
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -311,24 +312,19 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>[New] 2024 Approved Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-guardians-of-the-screen-the-best-webcam-cover-options/"><u>[Updated] 2024 Approved Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-analyzing-magix-photo-management-system/"><u>[Updated] Analyzing MAGIX Photo Management System</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-itunes-archives-in-3-easy-steps/"><u>[Updated] In 2024, Mastering iTunes Archives in 3 Easy Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-minecraft-homestead-essentials-6-10/"><u>[Updated] In 2024, Minecraft Homestead Essentials #6-10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-peak-interactive-webcam-fun-fests/"><u>[Updated] In 2024, Peak Interactive Webcam Fun Fests</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-kinemasters-blueprint-for-smooth-video-flow-and-continuity-for-2024/"><u>[Updated] Kinemaster's Blueprint for Smooth Video Flow and Continuity for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-the-art-of-screen-recording-an-in-depth-look-at-zd-software-tools/"><u>[Updated] Mastering the Art of Screen Recording An In-Depth Look at ZD Software Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-navigating-tiktok-to-twitter/"><u>[Updated] Navigating TikTok to Twitter</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-secrets-unveiled-top-five-mac-techniques-for-capturing-gameplay-for-2024/"><u>[Updated] Secrets Unveiled Top Five Mac Techniques for Capturing Gameplay for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-video-capturing-warriors-choosing-between-obs-and-fraps/"><u>2024 Approved Video Capturing Warriors Choosing Between OBS and Fraps</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/deconstructing-the-microsoft-surface-go-a-comprehensive-look-at-its-price-point-and-ambiguous-persona/"><u>Deconstructing the Microsoft Surface Go - A Comprehensive Look at Its Price-Point and Ambiguous Persona</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-conversion-tool-convert-pcx-images-to-jpeg-with-movavi/"><u>Free Online Conversion Tool - Convert PCX Images to JPEG with Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v27-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V27 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instasnap-optimize-images-and-videos-on-ig/"><u>In 2024, InstaSnap Optimize Images & Videos on IG</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leveraging-obs-establishing-an-efficient-countdown-clock/"><u>Leveraging OBS Establishing an Efficient Countdown Clock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-ui-tweaks-adjusting-the-taskbar-color-in-windows-nvme-11/"><u>Mastering UI Tweaks: Adjusting the Taskbar Color in Windows Nvme 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-complete-guide-to-computer-components-by-toms-hardware-expertise/"><u>The Complete Guide to Computer Components by Tom's Hardware Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723808136522-the-complete-guide-to-speeding-up-your-windows-update-time-discover-why-it-takes-so-long/"><u>The Complete Guide to Speeding Up Your Windows Update Time - Discover Why It Takes So Long!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-dreamlands-choice-ultimate-10-affordable-rpg-games/"><u>[New] 2024 Approved Dreamland's Choice Ultimate 10 Affordable RPG Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-enhancing-gaming-experience-tools-beyond-microsofts-recorder/"><u>[New] Enhancing Gaming Experience Tools Beyond Microsoft's Recorder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-quick-start-mastering-ez-grabbers-downloading-and-usage/"><u>[New] In 2024, Quick Start Mastering EZ Grabber's Downloading & Usage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-record-your-games-effortlessly-without-relying-on-microsoft/"><u>[New] Record Your Games Effortlessly, Without Relying on Microsoft</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-top-xbox-hdds-your-ultimate-list/"><u>[Updated] 2024 Approved Best Top Xbox HDDs Your Ultimate List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-leading-hd-video-capture-technology/"><u>2024 Approved Leading HD Video Capture Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-in-your-hands-lgs-vr-gaming-masterpiece/"><u>2024 Approved The Future in Your Hands LG's VR Gaming Masterpiece</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-6s-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 6s Plus/iPad/iPod</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-svchostexes-network-usage-a-guide-to-fixing-netsvcs-overload-issues/"><u>Managing Svchost.exe's Network Usage: A Guide to Fixing NETsvcs Overload Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-srt-to-txt-translation-the-fastest-guide/"><u>Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-streaming-experience-quick-tips-to-fix-netflix-audio-glitches/"><u>Reviving Your Streaming Experience: Quick Tips to Fix Netflix Audio Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/sketching-savvy-transforming-windows-desktops/"><u>Sketching Savvy: Transforming Windows Desktops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-updating-your-intel-rst-driver-with-ease/"><u>Step-by-Step Tutorial on Updating Your Intel RST Driver with Ease</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-complete-guide-to-the-singing-machine-sml3singing-machine-review-plug-and-play-perfection/"><u>The Complete Guide to the Singing Machine SML3^[Singing Machine] Review - Plug and Play Perfection!</u></a></li>
 </ul></div>
 

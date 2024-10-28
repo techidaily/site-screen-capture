@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Google's Board Tools for Smooth Online Engagement on All Platforms"
-date: 2024-08-24T10:35:58.695Z
-updated: 2024-08-25T10:35:58.695Z
+date: 2024-10-22T00:03:35.251Z
+updated: 2024-10-27T21:35:08.717Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -66,8 +73,19 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
 Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
@@ -86,9 +104,6 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -108,11 +123,12 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
 Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
@@ -133,25 +149,17 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Conclusion**
 
 Google Meet allows its users to enjoy the vast collection of built-in tools. **Google Meet whiteboarding** is another helpful feature that makes brainstorming and visual illustration easy and efficient. The maximum utility of this feature is when you use it on your desktop or laptop. This gives all attendees whiteboard editing access. However, for mobile phone users, editing access is only for using an external whiteboard app. This article covered all dimensions, including setting up, using, and sharing whiteboards on Google Meet. So, no matter which device you are using, take advantage of the whiteboard feature to make your virtual meetings more interactive and interesting.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,3 +167,22 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-avoiding-lost-frames-during-video-capture-in-obs-for-2024/"><u>[New] Avoiding Lost Frames During Video Capture in OBS for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-document-gameplay-secrets-in-galaxy-androids-for-2024/"><u>[New] Document Gameplay Secrets in Galaxy Androids for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-and-efficient-ipad-screen-recording-techniques-unveiled-for-2024/"><u>[New] Quick & Efficient iPad Screen Recording Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-rogue-realms-decades-best-representation/"><u>[Updated] 2024 Approved Rogue Realms Decade’s Best Representation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-supreme-vs-streamlabs-empire-for-2024/"><u>[Updated] OBS Supreme vs Streamlabs Empire for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>2024 Approved Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-pc-moments-with-apowersoft/"><u>2024 Approved The Ultimate Guide to Capturing PC Moments with Apowersoft</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-three-safe-methods-for-directly-downloading-youtubes-audios-as-mp3/"><u>2024 Approved Three Safe Methods for Directly Downloading YouTube's Audios as MP3</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-the-modern-workspace-into-a-powerhouse-of-productivity/"><u>2024 Approved Transforming the Modern Workspace Into a Powerhouse of Productivity</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 12 Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/curating-the-best-mac-snipping-software-compilation-for-2024/"><u>Curating the Best Mac Snipping Software Compilation for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inspiring-action-through-impactful-market-research-communication-for-2024/"><u>Inspiring Action Through Impactful Market Research Communication for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/is-your-investment-in-netflix-worthwhile/"><u>Is Your Investment in Netflix Worthwhile?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-face-blurring-tools-for-photos-and-videos-a-beginners-guide-for-2024/"><u>Updated Top 10 Face Blurring Tools for Photos and Videos A Beginners Guide for 2024</u></a></li>
+</ul></div>
+

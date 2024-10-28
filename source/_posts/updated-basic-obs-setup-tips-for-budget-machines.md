@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Basic OBS Setup Tips for Budget Machines"
-date: 2024-08-24T10:35:24.666Z
-updated: 2024-08-25T10:35:24.666Z
+date: 2024-10-25T00:53:56.872Z
+updated: 2024-10-27T16:29:02.310Z
 tags: 
   - screen-recording
   - ai video
@@ -25,15 +25,19 @@ Therefore, after vast research on the internet, our team came up with an optimal
 
 Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Go to Settings
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
@@ -44,9 +48,6 @@ Output tab, which is the resolution of the video that the people will watch. For
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Step 3: Output Settings
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
@@ -54,8 +55,12 @@ Once you are done with the general video settings now it's time you should come 
 ![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
 
 **Encoder:**
@@ -94,13 +99,24 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 
 **Sample Rate and Channels:**
@@ -132,8 +148,12 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2: Streaming Settings
 
 **Service:**
@@ -145,17 +165,18 @@ Here you have to choose the platform on which you are going to stream your video
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
@@ -214,4 +235,24 @@ There may be a lot of other software which serve the same purpose but the best o
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-8-free-video-calling-applications-recommended-for-businesses/"><u>[New] 2024 Approved Top 8 Free Video Calling Applications Recommended for Businesses</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated/"><u>[New] 2024 Approved Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>[New] In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-tips-for-integrating-markers-in-videography/"><u>[Updated] 2024 Approved Advanced Tips for Integrating Markers in Videography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-immortalize-your-playthrough-xbox-one-screen-capture-tips/"><u>[Updated] Immortalize Your Playthrough Xbox One Screen Capture Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-urgent-top-ten-todays-rapid-video-views/"><u>[Updated] In 2024, Urgent Top Ten Today's Rapid Video Views</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-the-soundscape-downloading-and-instaling-vrecorder/"><u>[Updated] Navigating the Soundscape Downloading and Instaling VRecorder</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-tailored-to-your-taste-the-bestdiscords-hot-10-themes/"><u>[Updated] Tailored to Your Taste The BestDiscord's Hot 10 Themes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-renewed-evaluation-sonys-s3700-video-tech-in-2-point-five-six/"><u>2024 Approved Renewed Evaluation Sony's S3700 Video Tech in 2 Point-Five Six</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-compilation-of-phone-apps-altering-sound/"><u>2024 Approved The Ultimate Compilation of Phone Apps Altering Sound</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-the-onetastic-add-in-enhancing-your-microsoft-onenote-experience/"><u>Comprehensive Analysis: The Onetastic Add-In Enhancing Your Microsoft OneNote Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/effortless-methods-for-capturing-google-voice-conversations/"><u>Effortless Methods for Capturing Google Voice Conversations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y36i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y36i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-the-mechanics-of-voice-over-production-in-videos/"><u>Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/strengthening-forests-empowering-communities-abbyy-and-nffs-ambitious-goal-of-20000-trees-at-chippewa/"><u>Strengthening Forests, Empowering Communities: ABBYY and NFF's Ambitious Goal of 20,000 Trees at Chippewa</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-definitive-2023-bandicam-handbook-for-gamers/"><u>The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-optimizing-performance-and-fixing-crashes-in-avatar-on-pc/"><u>Troubleshooting Tips: Optimizing Performance and Fixing Crashes in 'Avatar on PC'</u></a></li>
+</ul></div>
 

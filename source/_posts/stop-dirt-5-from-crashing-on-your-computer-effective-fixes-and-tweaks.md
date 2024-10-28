@@ -1,7 +1,7 @@
 ---
 title: Stop Dirt 5 From Crashing on Your Computer - Effective Fixes and Tweaks
-date: 2024-10-17T06:34:20.026Z
-updated: 2024-10-22T00:29:04.220Z
+date: 2024-10-27T02:21:29.616Z
+updated: 2024-10-27T17:30:55.281Z
 tags:
   - win11
   - win10
@@ -51,26 +51,12 @@ _Halo 3 Minimum System Requirements_
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
  2) Click**Privacy** .  
   
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
@@ -82,16 +68,10 @@ _Halo 3 Minimum System Requirements_
   
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  OR  
@@ -101,9 +81,23 @@ _Halo 3 Minimum System Requirements_
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/choose-which-apps-can-run-in-the-background-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -135,6 +129,19 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -164,13 +171,6 @@ To do so:
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
@@ -179,25 +179,24 @@ To do so:
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Restart your computer and it’ll be in a clean boot environment.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
 
@@ -207,13 +206,6 @@ To do so:
   
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
@@ -228,6 +220,13 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Install the latest game patch
 
  When a new game is released, there are still many bugs in it. And those bugs might cause the game crash issues. So developers keep updating the games to fix the bugs and improve the gaming performance.  
@@ -235,13 +234,6 @@ To do so:
  So if there is a patch available, download and install it, then run the game again to check if the problem is solved. If it isn’t, or there is no new patch available, then move on to Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Verify the integrity of game files
 
@@ -259,10 +251,25 @@ To do so:
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
  If the issues haven’t been resolved after you tried all the methods, you can consider uninstalling and reinstalling the game.
@@ -289,19 +296,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[New] In 2024, Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-10-top-picks-for-no-cost-zoom-and-screenshare-for-2024/"><u>[Updated] 10 Top Picks for No-Cost Zoom & Screenshare for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boost-viewership-mastering-vimeo-distribution/"><u>[Updated] In 2024, Boost Viewership Mastering Vimeo Distribution</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-secure-and-share-your-live-sounds-5-proven-online-approaches/"><u>[Updated] In 2024, Secure & Share Your Live Sounds - 5 Proven Online Approaches</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-2024-elite-camcorders-best-buy-guide/"><u>[Updated] The 2024 Elite Camcorders - Best Buy Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-top-10-viral-tiktoks-uncovered-for-2024/"><u>[Updated] Twitter's Top 10 Viral TikToks Uncovered for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-streamline-your-gameplay-professional-ps4-recording-tips/"><u>2024 Approved Streamline Your Gameplay Professional PS4 Recording Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-compilation-of-leading-9-mobile-meeting-services-ios-android/"><u>2024 Approved Ultimate Compilation of Leading 9 Mobile Meeting Services (iOS, Android)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-apple-watch-series-8-high-performance-on-a-modest-spending-plan/"><u>Affordable Apple Watch Series 8: High Performance on a Modest Spending Plan</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-beam-your-ideas-master-screencast-with-ezvide-video-maker/"><u>In 2024, Beam Your Ideas Master Screencast with EZvide Video Maker</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-audio-mp3-conversion-from-skype-no-price/"><u>In 2024, Unlocking Audio Mp3 Conversion From Skype, No Price</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ize-your-income-through-strategic-use-of-youtube-shorts-for-2024/"><u>Maximize Your Income Through Strategic Use of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-animating-photos-top-8-tools-and-software/"><u>New 2024 Approved The Ultimate Guide to Animating Photos Top 8 Tools and Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-role-of-gaming-in-e-commerce-for-2024/"><u>The Role of Gaming in E-Commerce for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-10-superior-video-conferencing-software-titles/"><u>[New] 10 Superior Video Conferencing Software Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-childhood-cruisers-crafted-games/"><u>[New] 2024 Approved Childhood Cruisers, Crafted Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-10-rapidly-expanding-youtube-hubs-for-motivation/"><u>[New] 2024 Approved Top 10 Rapidly Expanding YouTube Hubs for Motivation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exclusive-insights-elevating-your-mobizen-screencast-game/"><u>[New] In 2024, Exclusive Insights Elevating Your Mobizen Screencast Game</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/"><u>[New] Navigating Virtual Boards with Ease A Guide to Using Google Meet on Diverse Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfect-game-capture-in-minecraft/"><u>[New] Perfect Game Capture in Minecraft</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-thumbnail-design-for-engagement-a-youtube-resizing-guide/"><u>[Updated] In 2024, Thumbnail Design for Engagement A YouTube Resizing Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-the-soundscape-downloading-and-instaling-vrecorder-for-2024/"><u>[Updated] Navigating the Soundscape Downloading and Instaling VRecorder for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-netflix-archive-the-complete-guide-to-screencapturing-your-views-for-2024/"><u>[Updated] Netflix Archive The Complete Guide to ScreenCapturing Your Views for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/assault-on-user-privacy-online/"><u>Assault on User Privacy Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ideal-defender-top-iphone-se-case-picks-of-2022-to-shield-your-phone-techadvisor/"><u>Discover the Ideal Defender: Top iPhone SE Case Picks of 2022 to Shield Your Phone | TechAdvisor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-chatgpts-memory-glitches-for-persistent-conversations/"><u>Fixing ChatGPT's Memory Glitches for Persistent Conversations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-jotting-down-just-a-minute-movie/"><u>In 2024, Jotting Down Just a Minute Movie</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-api/"><u>In 2024, What Is AI API?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplifying-your-visual-composition-remove-the-background-for-2024/"><u>Simplifying Your Visual Composition Remove the Background for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/tutorial-lancar-mengembalikan-file-ke-lestari-di-google-drive-dropbox/"><u>Tutorial Lancar Mengembalikan File Ke Lestari Di Google Drive / Dropbox</u></a></li>
 </ul></div>
 

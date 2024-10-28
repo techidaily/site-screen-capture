@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Tips for Perfect Control  How to Use Your Switch Pro on Steam\""
-date: 2024-10-17T08:54:06.448Z
-updated: 2024-10-22T05:32:38.116Z
+date: 2024-10-22T19:21:26.197Z
+updated: 2024-10-27T20:41:18.395Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -75,20 +82,20 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -107,19 +114,19 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -131,13 +138,6 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -160,19 +160,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-crafting-captivating-stories-15-best-snapchat-techniques-for-2024/"><u>[New] Crafting Captivating Stories 15 Best Snapchat Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-exploring-mac-best-sniping-tools-ranked/"><u>[New] Exploring Mac Best Sniping Tools Ranked</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-revise-and-reshape-using-the-eraser-tool-in-photoshop-guide-for-2024/"><u>[New] Revise & Reshape Using the Eraser Tool in Photoshop Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-swiftswirl-momentmirror-recording-for-2024/"><u>[New] SwiftSwirl MomentMirror Recording for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-transform-your-webcam-footage-edit-and-export-tips/"><u>[Updated] In 2024, Transform Your WebCam Footage Edit & Export Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[Updated] Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-filmmakers-digital-backdrop-changer/"><u>2024 Approved Premier Filmmaker's Digital Backdrop Changer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-15-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-malpractice-how-to-safely-grow-a-million-fanbase-for-2024/"><u>Avoiding Malpractice How to Safely Grow a Million Fanbase for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/gratis-emulador-de-disco-ssd-pci-para-sistemas-operativos-windows-11-8-y-7/"><u>Gratis Emulador De Disco SSD PCI Para Sistemas Operativos Windows: 11, 8 Y 7</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-compreranciales-en-fb-tecnicas-para-la-registro-de-llamadas-y-conversaciones/"><u>In 2024, Compreranciales en FB Técnicas Para La Registro De Llamadas Y Conversaciones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pixels-musical-ensemble-unveiled-online/"><u>Pixel's Musical Ensemble Unveiled Online</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728492360262-windows-1011ssd/"><u>スムーズな移行：Windows 10/11で大容量SSDへクローンするための専門的アプローチ</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-5-techniques-for-capturing-win10-games/"><u>[New] 2024 Approved 5 Techniques for Capturing Win10 Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-recording-wonders-lightweight-win-11-edition/"><u>[New] 2024 Approved Recording Wonders Lightweight Win 11 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>[New] 2024 Approved The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-proven-methods-for-high-quality-webinars-for-2024/"><u>[New] Proven Methods for High-Quality Webinars for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlocking-your-creative-potential-without-spending/"><u>[Updated] 2024 Approved Unlocking Your Creative Potential Without Spending</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-are-feedbacks-on-items-monetized-in-videos/"><u>[Updated] Are Feedbacks on Items Monetized in Videos?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work-for-2024/"><u>[Updated] The Ultimate Selection of Inexpensive Web Explorers for Remote Work for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ideal-ios-platform-for-psp-emulation-our-top-5-list-of-2023/"><u>2024 Approved Ideal iOS Platform for PSP Emulation - Our Top 5 List of 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-tokenization-with-these-7-nft-creation-apps/"><u>2024 Approved Master the Art of Tokenization with These 7 NFT Creation Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v30-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V30 Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/halt-real-time-audiovideo-capturing-on-apples-platform/"><u>Halt Real-Time Audio/Video Capturing on Apple's Platform</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-instant-classics-days-highest-youtube-rankings/"><u>In 2024, Instant Classics Day’s Highest YouTube Rankings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/retro-to-future-radeon-rebooted-for-2024/"><u>Retro to Future Radeon Rebooted for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updating-your-chromecast-screen-a-step-by-step-guide/"><u>Updating Your Chromecast Screen: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

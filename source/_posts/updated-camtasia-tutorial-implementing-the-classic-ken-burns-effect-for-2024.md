@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Camtasia Tutorial  Implementing the Classic Ken Burns Effect for 2024\""
-date: 2024-08-16T23:50:00.300Z
-updated: 2024-08-17T23:50:00.300Z
+date: 2024-10-24T21:42:07.797Z
+updated: 2024-10-28T00:35:32.176Z
 tags: 
   - screen-recording
   - ai video
@@ -48,8 +48,18 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -57,8 +67,12 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -84,8 +98,12 @@ Once you are fully satisfied with the Ken Burns effect on your video, you can sa
 Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -94,11 +112,31 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-chromebook-and-hp-beginners-guide-to-webcam-recordings/"><u>[New] 2024 Approved Chromebook & HP Beginner’s Guide to Webcam Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-segmentscreen-examination/"><u>[New] 2024 Approved SegmentScreen Examination</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expertly-selected-8-recording-software/"><u>[New] In 2024, Expertly Selected 8 Recording Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-vrecorder-your-quick-route-to-high-quality-sound-system/"><u>[New] VRecorder Your Quick Route to High-Quality Sound System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-mac-image-compiler/"><u>[Updated] In 2024, Advanced Mac Image Compiler</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/15-best-tools-to-capture-classroom-learning-moments/"><u>15 Best Tools to Capture Classroom Learning Moments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>2024 Approved 10 Best Zero-Cost Videochats Collaboration at Your Desk</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-flexicapture-integration-tool-for-pegasystems-enterprise-solutions/"><u>ABBYY FlexiCapture Integration Tool for Pegasystems' Enterprise Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/devoilant-les-secrets-des-systemes-dintelligence-de-traitement-perspectives-innovantes-avec-abbyy/"><u>Dévoilant Les Secrets Des Systèmes D'Intelligence De Traitement: Perspectives Innovantes Avec ABBYY</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/future-of-storage-cutting-edge-cost-effective-solutions/"><u>Future of Storage Cutting-Edge, Cost-Effective Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quieting-unwanted-sounds-obs-audio-issue-fixed/"><u>In 2024, Quieting Unwanted Sounds OBS Audio Issue Fixed</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-skyrockets-for-your-virtual-gathering-on-fb/"><u>Master the Art: Skyrockets for Your Virtual Gathering on FB</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016191088-no-more-quiet-battles-wows-sound-problem-solved/"><u>No More Quiet Battles: WoW's Sound Problem Solved!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-definitive-steps-to-record-your-favorite-hulu-episodes/"><u>The Definitive Steps to Record Your Favorite Hulu Episodes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-magic-5-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Magic 5 Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-update-impact-on-linux-subsystem/"><u>Windows 11 Update: Impact on Linux Subsystem</u></a></li>
+</ul></div>
+

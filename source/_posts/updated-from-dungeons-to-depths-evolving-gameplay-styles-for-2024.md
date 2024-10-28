@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2024-10-18T16:43:57.529Z
-updated: 2024-10-21T20:09:36.441Z
+date: 2024-10-23T18:10:13.318Z
+updated: 2024-10-27T17:59:36.396Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
@@ -64,10 +71,10 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Clear Distinction
@@ -87,6 +94,13 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 **You might also like:** [Top 10 Roguelike or Roguelite Games](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Roguelike Games
 
@@ -109,10 +123,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -125,31 +139,11 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -157,16 +151,16 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -185,21 +179,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-real-time-recording-battle-obs-studio-against-fraps/"><u>[New] 2024 Approved Real-Time Recording Battle OBS Studio Against Fraps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhance-engagement-select-best-fonts-for-your-thumbnails-for-2024/"><u>[New] Enhance Engagement Select Best Fonts for Your Thumbnails for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-transition-magic-4-simplified-fading-methods/"><u>[New] In 2024, Transition Magic 4 Simplified Fading Methods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-transform-screen-shots-to-videos-mastery-in-aiseesofts-screencast-tools-for-2024/"><u>[New] Transform Screen Shots to Videos Mastery in Aiseesoft's Screencast Tools for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-seo-mastery-balancing-titles-and-tags/"><u>[New] YouTube SEO Mastery Balancing Titles and Tags</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-enable-grid-view-on-google-meet-to-see-every-participant-for-2024/"><u>[Updated] How to Enable Grid View on Google Meet to See Every Participant for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-the-best-video-capture-tools-for-windows-users/"><u>[Updated] In 2024, Discover the Best Video Capture Tools for Windows Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-10-must-have-screen-capture-tools-for-online-instructors/"><u>2024 Approved 10 Must-Have Screen Capture Tools for Online Instructors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-discover-the-best-video-capture-tools-for-windows-users/"><u>2024 Approved Discover the Best Video Capture Tools for Windows Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/become-a-social-media-sensation-top-9-tips-for-instagram-stardom/"><u>Become a Social Media Sensation Top 9 Tips for Instagram Stardom</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/i-metodi-piu-efficienti-per-comprimere-i-file-dei-video-in-formato-mov-ottimizzandone-le-dimensioni/"><u>I Metodi Più Efficienti per Comprimere I File Dei Video in Formato MOV, Ottimizzandone Le Dimensioni</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-insiders-tips-on-conveniently-setting-up-google-meet/"><u>In 2024, The Insider's Tips on Conveniently Setting Up Google Meet</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/live-streaming-with-manycam-top-notch-video-editing-and-simulated-webcams/"><u>Live Streaming with ManyCam: Top-Notch Video Editing and Simulated Webcams</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-delete-files-at-the-click-setting-up-a-trash-bin-for-permanent-deletion-in-windows-pcs-11/"><u>Securely Delete Files at the Click: Setting up a Trash Bin for Permanent Deletion in Windows PCs (11)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unifying-streams-simultaneous-capture-of-camplusscreen-for-2024/"><u>Unifying Streams Simultaneous Capture of Cam+Screen for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/year-in-review-twitters-most-popular-videos/"><u>Year in Review Twitter's Most Popular Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-sparkle-with-style-triple-highlight-techniques-for-insta/"><u>[New] 2024 Approved Sparkle with Style Triple Highlight Techniques for Insta</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-tricks-for-ios-screenshots-just-got-updated-for-2024/"><u>[New] Advanced Tricks for iOS Screenshots - Just Got Updated for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-transforming-photos-with-easy-online-cropping-steps/"><u>[New] In 2024, Transforming Photos with Easy Online Cropping Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-enlightened-techniques-to-preserve-your-iptv-streams/"><u>[Updated] 2024 Approved Enlightened Techniques to Preserve Your IPTV Streams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-a-timelapse-video-on-ipad/"><u>[Updated] 2024 Approved How to Record a Timelapse Video on iPad</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-everlasting-visual-capture-services-for-2024/"><u>[Updated] Everlasting Visual Capture Services for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-advice-on-screen-recorders-for-zoom-meetings-for-2024/"><u>[Updated] Expert Advice on Screen Recorders for Zoom Meetings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boosting-popularity-on-instagram-mastery-of-the-top-25-tags/"><u>Boosting Popularity on Instagram Mastery of the Top 25 Tags</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/free-screen-recording-software-windows-and-mac-for-2024/"><u>Free Screen Recording Software [Windows & Mac] for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/minimca-homes-the-ultimate-guide-for-entry-level-builders/"><u>MiniMCA Homes The Ultimate Guide for Entry-Level Builders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-no-power-issues-on-desktops-and-notebooks-with-ease/"><u>Solving No-Power Issues on Desktops and Notebooks with Ease</u></a></li>
+<li><a href="https://solve-info.techidaily.com/transferring-images-from-your-iphone-16-to-computer-the-best-easy-steps/"><u>Transferring Images From Your iPhone 16 to Computer: The Best, Easy Steps</u></a></li>
 </ul></div>
 

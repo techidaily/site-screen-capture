@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-10-21T01:13:51.923Z
-updated: 2024-10-21T22:37:35.747Z
+date: 2024-10-23T19:24:08.403Z
+updated: 2024-10-28T01:28:37.232Z
 tags: 
   - screen-recording
   - ai video
@@ -51,38 +51,17 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -120,7 +99,27 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -145,10 +144,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
@@ -156,13 +155,20 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -179,24 +185,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-detailed-review-of-obss-video-capturing-tools-for-2024/"><u>[New] Detailed Review of OBS's Video Capturing Tools for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-comparing-sharex-with-industry-leaders/"><u>[New] In 2024, Comparing ShareX with Industry Leaders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-professional-screenshot-and-recorder-win10-edition/"><u>[Updated] 2024 Approved Professional Screenshot & Recorder, Win10 Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-10-free-android-calls-compared-rankings/"><u>[Updated] 2024 Approved Top 10 Free Android Calls Compared Rankings</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-craft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>[Updated] Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-dissecting-screen-capture-tools-an-in-depth-look-at-apeaksoft/"><u>[Updated] Dissecting Screen Capture Tools An In-Depth Look at Apeaksoft</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-framemaster-top-screen-recorder-reviews-of-the-year-for-2024/"><u>[Updated] FrameMaster Top Screen Recorder Reviews of the Year for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mac-professionals-recommendations-the-best-of-screenflow-for-2024/"><u>[Updated] Mac Professionals Recommendations – The Best of ScreenFlow for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-ipad-360-video-creation-for-facebook/"><u>[Updated] The Ultimate iPad 360 Video Creation for Facebook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-timing-your-podcast-release-effectively/"><u>[Updated] Timing Your Podcast Release Effectively</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-innovative-methods-for-straightforward-ios-screenshots/"><u>2024 Approved Innovative Methods for Straightforward IOS Screenshots</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-code-unveiling-6-transformative-uses-for-chatgpts-ai/"><u>Beyond Code: Unveiling 6 Transformative Uses for ChatGPT's AI</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elevate-your-content-with-advanced-vsco-techniques-for-2024/"><u>Elevate Your Content with Advanced VSCO Techniques for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-mini-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 mini</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963963389-install-official-iphone-support-software-on-your-windows-11-pc-now/"><u>Install Official iPhone Support Software on Your Windows 11 PC Now</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/optimal-gameplayers-for-your-androids-gb-games/"><u>Optimal GamePlayers for Your Android's GB Games</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-v30-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme V30 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-raw-footage-to-excellence-the-webcam-edition/"><u>[New] 2024 Approved From Raw Footage to Excellence The Webcam Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ballot-battlegrounds-prime-election-strategy-games/"><u>[New] Ballot Battlegrounds Prime Election Strategy Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio-in-2024/"><u>[New] Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>[New] In 2024, The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streaming-showdown-obs-and-shadowtoolkit-for-2024/"><u>[New] Streaming Showdown OBS & ShadowToolkit for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>[Updated] Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ideal-starting-point-uncomplicated-gaming-edits-tools-for-2024/"><u>[Updated] The Ideal Starting Point Uncomplicated Gaming Edits Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aperture-advocates-the-top-10-camera-optics-guide/"><u>Aperture Advocates The Top 10 Camera Optics Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-cookiebot-powers-advanced-online-customer-profiling/"><u>How Cookiebot Powers Advanced Online Customer Profiling</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-compatibility-enhancements-for-arduino-on-the-windows-platform/"><u>Latest Compatibility Enhancements for Arduino on the Windows Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reports-tiktoks-monumental-1n5b-strategy-to-conquer-the-e-commerce-sector-in-indonesia/"><u>ZDNet Reports: TikTok's Monumental $1.n5B Strategy to Conquer the E-Commerce Sector in Indonesia</u></a></li>
 </ul></div>
 

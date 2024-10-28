@@ -1,7 +1,7 @@
 ---
 title: "[New] The Cryptographer's Guide to Masked Recordings for 2024"
-date: 2024-08-24T10:36:46.118Z
-updated: 2024-08-25T10:36:46.118Z
+date: 2024-10-21T01:53:13.385Z
+updated: 2024-10-27T18:03:52.635Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,13 @@ The Annotations tab lets you add captions, overlays, speech bubbles, and, most i
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
 The original frame is shown below, and I want to blur and hide these two sensitive pictures (in red mark).
@@ -86,11 +93,22 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -100,8 +118,12 @@ Hiding the identity of the people in your videos and concealing private informat
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -116,23 +138,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -145,16 +150,11 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,3 +162,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zooms-best-audio-fixes-clear-sounds-and-hearing-improvement/"><u>[New] 2024 Approved Zoom's Best Audio Fixes Clear Sounds & Hearing Improvement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-summit-creation-pro-x-evaluation-for-2024/"><u>[New] Summit Creation Pro X Evaluation for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-bring-your-world-to-life-delving-into-hp-envy-27s-features/"><u>[Updated] 2024 Approved Bring Your World to Life Delving Into HP Envy 27'S Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-monitoring-and-snapping-digital-displays/"><u>[Updated] 2024 Approved Innovative Approaches to Monitoring and Snapping Digital Displays</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-list-of-kung-fu-video-games-for-2024/"><u>[Updated] The Ultimate List of Kung Fu Video Games for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-master-management-with-our-12-best-tycoon-games-ever-crafted/"><u>2024 Approved Master Management with Our #12 Best Tycoon Games Ever Crafted</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/global-elite-top-12-tools-with-no-time-limit-for-2024/"><u>Global Elite Top 12 Tools With No Time Limit for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/immortalizing-moments-live-photo-to-dynamic-video-for-2024/"><u>Immortalizing Moments Live Photo to Dynamic Video for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a38-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A38 Phones with/without a PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screen-snag-reviewed-in-depth-analysis/"><u>Screen Snag Reviewed In-Depth Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/targeted-therapies-are-designed-to-attack-specific-genetic-mutations-within-the-tumor-cells/"><u>Targeted Therapies Are Designed to Attack Specific Genetic Mutations Within the Tumor Cells</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-issues-with-avatar-frontiers-of-pandora-failed-startup/"><u>Troubleshooting Tips: Resolving Issues with 'Avatar: Frontiers of Pandora' Failed Startup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-langchain-llm-a-comprehensive-guide-for-beginners/"><u>Unveiling LangChain LLM: A Comprehensive Guide for Beginners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/virtual-adventure-awaits-with-these-top-12-pc-clickers/"><u>Virtual Adventure Awaits with These Top 12 PC Clickers</u></a></li>
+</ul></div>
+

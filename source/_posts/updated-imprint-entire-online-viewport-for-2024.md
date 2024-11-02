@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Imprint Entire Online Viewport for 2024"
-date: 2024-08-16T23:43:47.611Z
-updated: 2024-08-17T23:43:47.611Z
+date: 2024-10-31T17:02:35.520Z
+updated: 2024-11-02T18:02:02.994Z
 tags: 
   - screen-recording
   - ai video
@@ -54,17 +54,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
@@ -82,14 +76,24 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
@@ -108,18 +112,12 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -127,12 +125,18 @@ Stand-alone software products that enable its users to take screenshots of entir
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -147,13 +151,18 @@ Leave a comment below and let us know which method of capturing full page screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -161,3 +170,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/spect-ratios-unveiled-a-complete-youtube-manual/"><u>[New] Aspect Ratios Unveiled A Complete YOUTUBE Manual</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-through-samsungs-digital-picture-editing-app/"><u>[New] Navigating Through Samsung's Digital Picture Editing App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-obsudios-ultimate-guide-to-video-recording-with-obs-for-2024/"><u>[New] Obsudio's Ultimate Guide to Video Recording with OBS for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-on-camera-charisma-a-guide-to-personal-video-content/"><u>[New] On-Camera Charisma A Guide to Personal Video Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-recording-is-30fps-or-60fps-superior-for-videos/"><u>[New] Optimal Recording Is 30Fps or 60Fps Superior for Videos?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-optimizing-engagement-how-to-block-on-insta/"><u>[Updated] 2024 Approved Optimizing Engagement How to Block on Insta</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-comprehensive-guide-to-incorporating-photo-capabilities-in-meet/"><u>[Updated] In 2024, A Comprehensive Guide to Incorporating Photo Capabilities in Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-efficient-techniques-to-record-and-store-facebook-calls/"><u>[Updated] In 2024, Efficient Techniques to Record and Store Facebook Calls</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfecting-distance-remote-podcast-capture-techniques/"><u>[Updated] Perfecting Distance Remote Podcast Capture Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-solutions-for-enabling-audio-in-obs-broadcasts/"><u>[Updated] Solutions for Enabling Audio in OBS Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android/"><u>[Updated] The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-perfect-screen-recording-toolkit-systematic-how-to-manual-for-2024/"><u>[Updated] The Perfect Screen Recording Toolkit Systematic How-To Manual for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-asmrs-benefits-a-health-perspective/"><u>[Updated] Unveiling ASMR’s Benefits A Health Perspective</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/device-based-access-commence-google-meet-chat-for-2024/"><u>Device-Based Access Commence Google Meet Chat for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 Phone without Google Account?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-photo-fusion-mastery-windows-users-guide/"><u>In 2024, Photo Fusion Mastery Windows Users Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-zoom-dates-into-iosandroid-and-desktop-plans/"><u>In 2024, Streamlining Zoom Dates Into iOS/Android and Desktop Plans</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-truecaller-a-detailed-review-of-the-popular-call-identification-and-contacts-management-app/"><u>Inside TrueCaller: A Detailed Review of the Popular Call Identification and Contacts Management App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-pc-idle-gaming-selections/"><u>Prime PC Idle Gaming Selections</u></a></li>
+</ul></div>
+

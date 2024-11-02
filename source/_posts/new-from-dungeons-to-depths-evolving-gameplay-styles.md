@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-10-23T19:24:08.403Z
-updated: 2024-10-28T01:28:37.232Z
+date: 2024-10-30T16:26:35.033Z
+updated: 2024-11-02T20:14:47.763Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ In order to best understand these two game genres, we must first analyze the ori
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -100,25 +107,25 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -144,30 +151,29 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -185,17 +191,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-raw-footage-to-excellence-the-webcam-edition/"><u>[New] 2024 Approved From Raw Footage to Excellence The Webcam Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ballot-battlegrounds-prime-election-strategy-games/"><u>[New] Ballot Battlegrounds Prime Election Strategy Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio-in-2024/"><u>[New] Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>[New] In 2024, The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streaming-showdown-obs-and-shadowtoolkit-for-2024/"><u>[New] Streaming Showdown OBS & ShadowToolkit for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>[Updated] Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ideal-starting-point-uncomplicated-gaming-edits-tools-for-2024/"><u>[Updated] The Ideal Starting Point Uncomplicated Gaming Edits Tools for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aperture-advocates-the-top-10-camera-optics-guide/"><u>Aperture Advocates The Top 10 Camera Optics Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-cookiebot-powers-advanced-online-customer-profiling/"><u>How Cookiebot Powers Advanced Online Customer Profiling</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatibility-enhancements-for-arduino-on-the-windows-platform/"><u>Latest Compatibility Enhancements for Arduino on the Windows Platform</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-reports-tiktoks-monumental-1n5b-strategy-to-conquer-the-e-commerce-sector-in-indonesia/"><u>ZDNet Reports: TikTok's Monumental $1.n5B Strategy to Conquer the E-Commerce Sector in Indonesia</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-revealing-artistic-strategies-in-fb-video-marketing/"><u>[New] 2024 Approved Revealing Artistic Strategies in FB Video Marketing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-concurrent-capture-masterclass-webcam-and-desktop/"><u>[New] In 2024, Concurrent Capture Masterclass Webcam & Desktop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-superior-camcorders-a-windows-users-companion/"><u>[New] In 2024, Superior Camcorders A Windows User's Companion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-low-cost-screen-recording-options-for-chromebook/"><u>[New] Optimal Low-Cost Screen Recording Options for Chromebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-art-of-extended-frame-videos-on-iphone/"><u>[Updated] 2024 Approved The Art of Extended Frame Videos on iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture-for-2024/"><u>[Updated] Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-moments-best-the-leading-youtube-video-tracks/"><u>[Updated] In 2024, Moment's Best The Leading Youtube Video Tracks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-dramatic-hdr-portraits-explained/"><u>[Updated] The Art of Dramatic HDR Portraits Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-fbm-transcripts-how-to-get-and-use-complete-records/"><u>2024 Approved FBM Transcripts How to Get and Use Complete Records</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-keeping-your-contacts-secret-in-the-android-world/"><u>Guide: Keeping Your Contacts Secret in the Android World</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>In 2024, Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/iphoneandroid-screen-capture-for-google-meet-participants/"><u>IPhone/Android Screen Capture for Google Meet Participants</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keeping-your-art-safe-from-generative-ai-intrusion-with-effective-nightshade-tactics/"><u>Keeping Your Art Safe From Generative AI Intrusion with Effective Nightshade Tactics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/secrets-to-successfully-archive-facebook-messenger-chat-for-2024/"><u>Secrets to Successfully Archive Facebook Messenger Chat for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210971167-9781804192047-tarot-for-love-relationships/"><u>Tarot for Love & Relationships | Free Book</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/zoom-mastering-virtual-meeting-planning-for-2024/"><u>Zoom Mastering Virtual Meeting Planning for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Elevate Your Team's Productivity with Slack + Filmora Harmony"
-date: 2024-10-20T22:18:55.872Z
-updated: 2024-10-27T17:51:17.040Z
+date: 2024-10-26T19:38:32.698Z
+updated: 2024-11-02T16:09:30.292Z
 tags: 
   - screen-recording
   - ai video
@@ -76,15 +76,28 @@ Here is how you can record Slack meeting.
 ![Add Slack Apps](https://images.wondershare.com/filmora/article-images/add-slack-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2.Now, in the search bar, type and search **Zoom**. Click on the **Add** This will take you to the Slack App Directory.
 
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3.Tap on **Add** **to** **Slack**.
 
@@ -93,6 +106,13 @@ Here is how you can record Slack meeting.
 4.**Allow**Zoom to access your data and enable the app.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
@@ -106,28 +126,15 @@ Here is how you can record Slack meeting.
 
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Slack Video Call Settings
@@ -139,13 +146,6 @@ You can either have a one-on-one video call in a DM chat or have a Slack meeting
 The settings tab in the video call enables you to create a name for the video call. There are also audio and video settings that can be changed to enhance the video call experience.
 
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
@@ -160,10 +160,10 @@ With this powerful tool and our guide at hand, you can transform your work life 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -181,20 +181,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-demystifying-complexities-a-guide-to-understanding-slug-lines/"><u>[New] 2024 Approved Demystifying Complexities A Guide to Understanding Slug Lines</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-how-does-vidma-stack-up-as-a-screen-recorder-for-2024/"><u>[New] How Does Vidma Stack Up as a Screen Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>[New] In 2024, Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-invisible-spectator-of-fb-tales/"><u>[Updated] In 2024, Invisible Spectator of FB Tales</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-speed-capturing-screens-with-sound/"><u>[Updated] In 2024, Speed Capturing Screens With Sound</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-perfect-skype-recordings-mastering-the-art-of-obs-for-2024/"><u>[Updated] Perfect Skype Recordings Mastering the Art of OBS for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streamlining-communication-scheduling-monthly-meets/"><u>[Updated] Streamlining Communication Scheduling Monthly Meets</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-take-control-of-your-webinars-a-guide-to-zoom-screensharing-for-2024/"><u>[Updated] Take Control of Your Webinars A Guide to Zoom Screensharing for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-skyrocketing-views-tactics-for-a-100kplus-youtube-hit/"><u>2024 Approved Skyrocketing Views Tactics for a 100K+ YouTube Hit</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-practices-for-controlling-music-speed-on-spotify-for-2024/"><u>Best Practices for Controlling Music Speed on Spotify for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dive-into-literature-easily-with-our-selection-of-5-cutting-edge-ai-book-discovery-services/"><u>Dive Into Literature Easily with Our Selection of 5 Cutting-Edge AI Book Discovery Services</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-beyond-fbx-cutting-edge-apps-for-video-game-archiving/"><u>In 2024, Beyond FBX Cutting-Edge Apps for Video Game Archiving</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/master-management-with-our-12-best-tycoon-games-ever-crafted-for-2024/"><u>Master Management with Our #12 Best Tycoon Games Ever Crafted for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-problem-how-to-get-football-manager-202-launching-correctly/"><u>Solving the Problem: How to Get Football Manager 202# Launching Correctly</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-on-mac-with-mkvtoolnix-for-2024/"><u>Updated Effortless Video Editing on Mac with MKVtoolnix for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-the-making-of-spectacular-slideshows-for-your-social-circle/"><u>[New] 2024 Approved Master the Making of Spectacular Slideshows for Your Social Circle</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-beginners-guide-to-producing-and-polishing-haul-videos/"><u>[New] A Beginner's Guide to Producing & Polishing Haul Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utting-edge-icons-and-logos-from-6-innovative-websites-for-2024/"><u>[New] Cutting-Edge Icons and Logos From 6 Innovative Websites for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-analysis-top-5-high-end-recording-apps/"><u>[New] In 2024, Expert Analysis Top 5 High-End Recording Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-experts-handbook-for-srt-file-conversions-for-2024/"><u>[New] The Expert's Handbook for SRT File Conversions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-great-video-editing-tools-debate-bandicam-vs-camtasia/"><u>[New] The Great Video Editing Tools Debate Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-maximizing-video-memories-3-itunes-saving-methods/"><u>[Updated] In 2024, Maximizing Video Memories 3 iTunes Saving Methods</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-speed-photography-crafting-time-lapses-on-samsung-phones-for-2024/"><u>[Updated] Speed Photography Crafting Time-Lapses on Samsung Phones for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>2024 Approved Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-comparing-apowersoft-and-more-a-screen-capture-deep-dive/"><u>In 2024, Comparing Apowersoft & More A Screen Capture Deep Dive</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-screen-and-webcam-recording-made-easy-top-10-windows-10-software/"><u>New In 2024, Screen and Webcam Recording Made Easy Top 10 Windows 10 Software</u></a></li>
 </ul></div>
 

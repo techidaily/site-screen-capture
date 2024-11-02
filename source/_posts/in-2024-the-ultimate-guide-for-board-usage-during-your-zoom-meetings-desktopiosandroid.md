@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide for Board Usage During Your Zoom Meetings (Desktop/iOS/Android)"
-date: 2024-08-16T23:46:42.198Z
-updated: 2024-08-17T23:46:42.198Z
+date: 2024-10-31T17:44:19.735Z
+updated: 2024-11-02T17:10:23.738Z
 tags: 
   - screen-recording
   - ai video
@@ -73,8 +73,12 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -86,8 +90,12 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  After installing Zoom on your Android, and signing in to your account, start a new meeting, tap anywhere on the screen, tap **Share**  from the bottom, and tap **Share Whiteboard** .
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
@@ -101,9 +109,12 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
  Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
@@ -121,17 +132,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -139,9 +145,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -158,9 +161,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -168,11 +168,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-techniques-recording-in-adobe-presenter/"><u>[New] Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-into-professionalism-aiseesofts-screen-recording-made-accessible/"><u>[New] In 2024, Step Into Professionalism Aiseesoft's Screen Recording Made Accessible</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-a-thorough-insight-into-obs-recording-technology/"><u>[Updated] 2024 Approved A Thorough Insight Into OBS Recording Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-contentment-top-streaming-techniques/"><u>[Updated] Capturing Contentment Top Streaming Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-pay-all-gain-the-fcp-freedom-guide/"><u>[Updated] No Pay, All Gain The FCP Freedom Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-time-trackers-in-action-using-obs-for-timed-events-for-2024/"><u>[Updated] Time Trackers in Action Using OBS for Timed Events for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-seamless-whatsapp-backups-und-recovery-mit-aomei-fonebackup-einfache-losung/"><u>1. Seamless WhatsApp Backups Und Recovery Mit AOMEI FoneBackup – Einfache Lösung</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-technical-treasure-trove-mastering-the-art-of-capturing-roblox-adventures-on-apple-devices/"><u>2024 Approved Technical Treasure Trove Mastering the Art of Capturing Roblox Adventures on Apple Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/5-ways-to-record-roblox-gameplay-on-mac/"><u>5 Ways to Record Roblox Gameplay on Mac</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-data-workflow-chatgpts-6-essential-uses/"><u>Enhancing Data Workflow: ChatGPT's 6 Essential Uses</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-zoom-livestream-a-playbook-for-youtube-enthusiasts/"><u>In 2024, Streamlining Your Zoom Livestream A Playbook for YouTube Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-tips-to-upgrade-your-rl-recording-equipment/"><u>In 2024, Ultimate Tips to Upgrade Your RL Recording Equipment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-x50iplus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor X50i+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

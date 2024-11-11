@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2024-10-29T19:13:40.030Z
-updated: 2024-11-02T20:56:47.424Z
+date: 2024-11-08T05:45:23.998Z
+updated: 2024-11-10T23:26:42.723Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -65,10 +65,10 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
@@ -95,6 +95,13 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -115,19 +122,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -144,19 +138,6 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -168,13 +149,26 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -191,22 +185,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas/"><u>[New] 2024 Approved From Fumbling Clips to Viral Videos YouTube Edits Made Easy with Sony Vegas</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-the-financial-seas-of-youtube-success-carryminati/"><u>[New] 2024 Approved Navigating the Financial Seas of YouTube Success (CarryMinati)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-dissecting-splitcams-stand-in-video-technology-for-2024/"><u>[New] Dissecting SplitCam's Stand in Video Technology for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-the-art-of-recording-macs-roblox-sessions/"><u>[New] Mastering the Art of Recording Mac's Roblox Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-pros-guide-from-playback-to-perfected-overwatch-recordings/"><u>[New] The Pro's Guide From Playback to Perfected Overwatch Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-captivates-potential-for-video-creation-for-2024/"><u>[New] Unlocking Captivate's Potential for Video Creation for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dive-into-youtube-tv-tips-and-tricks-for-optimal-viewing/"><u>[Updated] 2024 Approved Dive Into YouTube TV Tips & Tricks for Optimal Viewing</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-top-6-best-free-online-audio-editor-to-use-100-free/"><u>2024 Approved Top 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/explorations-reward-6-innovative-minecraft-residences-for-2024/"><u>Exploration's Reward 6 Innovative Minecraft Residences for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/green-thumbs-united-top-10-farm-titles-for-friendly-playtime-for-2024/"><u>Green Thumbs United Top 10 Farm Titles for Friendly Playtime for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-fortnite-from-crashing-on-pc-complete-guide/"><u>How To Stop Fortnite From Crashing On PC - Complete Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-lava-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Lava Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-shun-crossplay-in-apex-legends-your-guide-to-platform-choices/"><u>In 2024, How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/navigating-through-best-liquid-physics-experiences/"><u>Navigating Through Best Liquid Physics Experiences</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/superior-drones-at-your-fingertips/"><u>Superior Drones at Your Fingertips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/tunetinker-tweaking-the-audio-map-for-2024/"><u>TuneTinker Tweaking the Audio Map for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] 2024 Approved Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-compilation-top-11-streaming-gear-insights/"><u>[New] 2024 Approved Ultimate Compilation Top 11 Streaming Gear Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-commanding-voice-scrutiny-refined-version-8/"><u>[New] In 2024, Commanding Voice Scrutiny Refined Version 8</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-easy-webcam-video-capture-using-vlc/"><u>[New] In 2024, Easy Webcam Video Capture Using VLC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-success-starts-here-discovering-top-tracking-and-analysis-apps/"><u>[New] Instagram Success Starts Here Discovering Top Tracking and Analysis Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-smooth-transition-wonders-in-4-minutes-or-less/"><u>[New] Smooth Transition Wonders in 4 Minutes or Less</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-windows-pc-broadcasting-prodigy-mastering-the-art-of-live-tv-recording-for-2024/"><u>[New] Windows PC Broadcasting Prodigy Mastering the Art of Live TV Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-operational-obs-cam-after-fix/"><u>[Updated] 2024 Approved Operational OBS Cam After Fix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-console-chronos-review/"><u>[Updated] Console Chronos Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cutting-edge-green-tools-shaping-film/"><u>[Updated] In 2024, Cutting Edge Green Tools Shaping Film</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-prime-zero-cost-switch-mimicry-apps-for-2024/"><u>[Updated] Prime Zero-Cost Switch Mimicry Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rapid-viewer-for-10-windows-photos/"><u>[Updated] Rapid Viewer for 10 Windows Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zipping-up-subtitles-from-zip-to-srt-file-transformation-for-2024/"><u>[Updated] Zipping Up Subtitles From ZIP to SRT File Transformation for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/getting-started-on-youtube-broadcasts-using-obs/"><u>Getting Started on YouTube Broadcasts Using OBS</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1x-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1x 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-design-review-and-rankings-of-top-17-graphic-software-choices/"><u>Mastering Design: Review & Rankings of Top 17 Graphic Software Choices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-remedies-for-when-your-laptops-usb-mouse-wont-work-restore-functionality-today/"><u>Top Remedies for When Your Laptop's USB Mouse Won't Work – Restore Functionality Today</u></a></li>
 </ul></div>
 

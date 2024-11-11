@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Chromebook Shutter Mastery in Four Steps Only\""
-date: 2024-08-16T23:42:52.893Z
-updated: 2024-08-17T23:42:52.893Z
+date: 2024-11-04T07:21:18.969Z
+updated: 2024-11-11T07:23:26.694Z
 tags: 
   - screen-recording
   - ai video
@@ -46,40 +46,49 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
 Using your Chromebook in tablet mode? If so, then there’s also a handy way to make use of the screenshot feature whilst on the go. Similar to the function offered on most Smart Phone Devices, simply press both the **Power and Volume Down Side Button** to capture a screenshot. Unfortunately, this feature is only useful if you’re looking to capture your entire screen; you’ll need to utilize the keyboard or stylus if you’re planning to crop out a specific section.
 
 **Note:** No matter whether you’re utilizing the Chromebook in either landscape or portrait mode, the Volume Rockers still remain in the same orientation, so it’s worth noting which button relates to “Volume Down”.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
 It can often be quite time consuming to capture screenshots, edit, and save them, but there are a number of user-friendly and in-depth third-party applications and extensions on the market to help make the process a little easier. Each allowing you to capture screenshots in a stress-free manner without users even having to leave their browser, here are our Top Picks:
@@ -100,15 +109,19 @@ Available for both Chrome, Windows, and even Mac devices, this more in-depth ext
 
 Offering the ability for users to capture scrolling screenshots, Webpage Screenshot is a highly desired extension. Allowing users to store an entire page worth of information thanks to its all-page capture abilities, this application was the original application for Google Chrome. With basic annotation editing, capture cropping, and optional interval inputting, this easy-to-use and straight forward extension is perfect for those looking to capture larger sections of text with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where Do I Find by Screenshots After They’re Captured?
 
 If you’re wondering where your newly captured screenshots are disappearing to once obtained, then you need look no further than the **Downloads Section** of your **Files App.** Automatically saved, by default, in a format similar to “**Screenshot 2012-08-03 at 5.18.34AM.png**” your recently saved PNG file can be easily renamed as you like.
 
 Using a Guest Account? If so, then always make sure you copy across all your important screenshots to either an SD Card or Google Drive Account before you sign out. It’s important to note that the “Downloads” Section on a Guest Account is emptied each and every time a guest logs out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## How Do I Edit My Screenshots on Chromebook?
 
 Once you’ve captured your screenshot and it’s been automatically saved to your downloads, there are a number of simple yet effective features built-in to help you edit your image with ease. To access your saved file, simply click on the **Launcher** (bottom left hand corner), select the **Files App Folder**, then select your recently saved screenshot within the **Downloaded Files** section.
@@ -120,9 +133,6 @@ Once you open up your captured screenshot, you should notice there are a number 
 In summary, there are plenty of ways to successfully capture a screenshot whilst using your Chromebook. No matter whether you prefer to use the keyboard, built-in stylus, volume rocker when in tablet mode, or the large array of purpose build extensions and applications available from the Web Store, there’s a method for each and every desire. A quick and easy way to help you capture key information, personalized messages, or even for handy file transferal, the ability to screenshot on a Chromebook has made editing files that little bit easier.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -130,11 +140,27 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-accessing-and-saving-fb-stories-made-simple-5-top-tactics-mobiledesktop/"><u>[New] Accessing & Saving FB Stories Made Simple 5 Top Tactics (Mobile/Desktop)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-filmmakers-must-visit-list-free-visual-effect-and-editing-websites-reviewed/"><u>[New] In 2024, A Filmmaker's Must-Visit List Free Visual Effect & Editing Websites Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-periscope-broadcasting-101/"><u>[New] Step-by-Step Periscope Broadcasting 101</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-subtext-converting-srt-to-sub/"><u>[New] Unlocking Subtext Converting SRT to SUB</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simple-steps-to-document-online-meetings-on-os-xwindows/"><u>[Updated] 2024 Approved Simple Steps to Document Online Meetings on OS X/Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-drone-shopping-wisdom-essential-insights-for-purchasers/"><u>[Updated] Drone Shopping Wisdom Essential Insights for Purchasers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-learn-to-record-mac-display-like-a-pro/"><u>[Updated] In 2024, Learn to Record MAC Display Like a Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-save-webcam-videos-using-vlc-software/"><u>In 2024, Save Webcam Videos Using VLC Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pros-picks-best-10-terraria-mods-for-2024/"><u>Pro's Picks Best 10 Terraria Mods for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professional-techniques-for-home-based-podcast-capture-for-2024/"><u>Professional Techniques for Home-Based Podcast Capture for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps4-controller-color-signals-explained-recognizing-blue-white-red-or-orange-blinks/"><u>PS4 Controller Color Signals Explained: Recognizing Blue, White, Red, or Orange Blinks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-in-depth-guide-to-screen-capturing-in-online-meetings/"><u>The In-Depth Guide to Screen Capturing in Online Meetings</u></a></li>
+</ul></div>
+

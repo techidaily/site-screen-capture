@@ -1,7 +1,7 @@
 ---
 title: "\"Windows/Mac  Recording Skype Chats & Calls for 2024\""
-date: 2024-11-01T18:21:16.061Z
-updated: 2024-11-02T18:06:34.442Z
+date: 2024-11-08T18:32:25.272Z
+updated: 2024-11-10T20:02:46.766Z
 tags: 
   - screen-recording
   - ai video
@@ -57,44 +57,51 @@ Skype for Business allows you to record skype meetings on Windows PCs directly f
 
 ![start recording option](https://images.wondershare.com/filmora/article-images/start-recording-option3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Once you start the recording you can see the recording controls at the bottom of the meeting to pause, resume, or stop the recording.
 
 ![recording control](https://images.wondershare.com/filmora/article-images/recording-control4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * You can check who is recording the Skype meeting by pointing to the red recording button on the top right corner of the Skype meeting. When one or any of the participants is recording the Skype for Business meeting all the other participants will see this indicator.
 
 ![red indicator](https://images.wondershare.com/filmora/article-images/red-indicator5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * After recording your family meeting or office presentation you want to save the recorded video, go to the same menu “More options” and press the “Stop Recording”.
 
 ![stop recording](https://images.wondershare.com/filmora/article-images/stop-recording6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * All the recordings will be stopped, and you’ll be notified.
 
 ![see participant](https://images.wondershare.com/filmora/article-images/see-participant7.jpg)
 
-* Skype for Business saves the recording automatically in an MP4 format that is compatible with Windows Media Player. The recording takes some time to process the meanwhile you can exit the meeting. Skype will show a notification when the recorded file is ready for viewing or sharing.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+* Skype for Business saves the recording automatically in an MP4 format that is compatible with Windows Media Player. The recording takes some time to process the meanwhile you can exit the meeting. Skype will show a notification when the recorded file is ready for viewing or sharing.
 
 ## Part 3: How to Record Skype Meeting on Mac
 
@@ -118,6 +125,13 @@ Let’s see how to record skype meeting on Mac using Wondershare Filmora:
 
 ![find record pc](https://images.wondershare.com/filmora/article-images/find-record-pc10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now head over to the skype meeting you want to record.
 * You will be prompted with Wondershare Filmora Scrn recorder options i.e. in case you want Full-Screen recording, audio, and microphone options. Once you press the record (red) button filmora will start the countdown to recording the screen.
 
@@ -128,10 +142,10 @@ Let’s see how to record skype meeting on Mac using Wondershare Filmora:
 ![stop skype meeting](https://images.wondershare.com/filmora/article-images/stop-skype-meeting12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Press the Stop button to finish recording the skype meeting. You’ll be taken back to the filmora editor window where you can tweak around with the recorded meeting.
@@ -139,39 +153,19 @@ Let’s see how to record skype meeting on Mac using Wondershare Filmora:
 ![find recorded skype](https://images.wondershare.com/filmora/article-images/find-recorded-skype13.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * You can locate the recorded file by right-clicking the recorded file in the media library and selecting the “Reveal in Explorer” option.
 
 ![reveal in folder](https://images.wondershare.com/filmora/article-images/reveal-in-folder14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can drag and drop the recorded file to the timeline if you want to edit it. Filmora can easily cut, trim, rotate, layer multiple video effects, and much more. That’s up to you how deep you want to dig into the features of this amazing video editing toolkit.
 
 ![add effects skype](https://images.wondershare.com/filmora/article-images/add-effects-skype15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Manage Your Recordings
 
@@ -191,18 +185,18 @@ Now that you have access to Skype for Business Recording Manager, you can view a
 
 To prepare it for sharing with other participants, click on the “Publish” button. It will open a “Save and Publish” window where you can name the recording file, specify the location to save, and under the options chose what parts of the meeting to include i.e. video, audio, panorama video, messaging, and presented content. When everything is ready press the “OK” button to save the recorded meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Skype for Business allows the presenters to **record skype meeting** with all the details like video, audio, PowerPoint slides, etc. The in-app recording feature records every members’ video and audio at the same time. For the limitations of call recording on Mac, Wondershare Filmora can also be a good choice for you. It offers unparalleled features with an intuitive design, and you can record unlimited Skype calls and that with no limitation on Windows or Mac computer systems.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -219,19 +213,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-saving-scenes-seamlessly-the-power-of-vimeo-record/"><u>[New] In 2024, Saving Scenes Seamlessly The Power of Vimeo Record</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-time-lapse-tips-for-iphoneipad-users/"><u>[New] In 2024, Time-Lapse Tips for iPhone/iPad Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-photoquarter-analysis/"><u>[New] PhotoQuarter Analysis</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry-for-2024/"><u>[New] The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-exclusive-list-of-premium-3d-blu-ray-players-reviewed-for-2024/"><u>[Updated] Exclusive List of Premium 3D Blu-Ray Players Reviewed for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-screenscapes-saved-high-quality-online-tv-recordings/"><u>[Updated] In 2024, Screenscapes Saved High-Quality Online TV Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>[Updated] The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>2024 Approved Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-prime-7-free-screen-recorders-for-old-computers/"><u>2024 Approved Prime 7 Free Screen Recorders for Old Computers</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/digiarty-winxdvd-end-user-license-agreement/"><u>Digiarty WinXDVD End User License Agreement - 完整版解析</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-our-choice-of-top-6-offline-language-converters/"><u>Discover Our Choice of Top 6 Offline Language Converters</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-facebook-set-to-sever-ties-with-giphy-soon/"><u>Is Facebook Set to Sever Ties with Giphy Soon?</u></a></li>
-<li><a href="https://win-web.techidaily.com/outlook-2010and/"><u>Outlook 2010のメールアカウントを安全にエクスポート&バックアップする詳細ガイド</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stop-equating-siri-with-chatgpt-discover-what-sets-them-apart/"><u>Stop Equating Siri with ChatGPT! Discover What Sets Them Apart</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715940854558-updated-2024-approved-how-to-use-markers-in-video-recording-and-editing/"><u>[Updated] 2024 Approved How to Use Markers in Video Recording and Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools/"><u>2024 Approved Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-quickcapture-hd-software/"><u>2024 Approved QuickCapture HD Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-tickles-for-young-game-fans/"><u>2024 Approved Top Tickles for Young Game Fans</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discover-the-best-4k-capture-software-for-live-recording-for-2024/"><u>Discover the Best 4K Capture Software for Live Recording for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-workflow-with-auto-gpt-the-ultimate-guide-to-8-key-methods/"><u>Elevate Your Workflow with Auto-GPT: The Ultimate Guide to 8 Key Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/harvest-haven-top-10-sims-like-stardew-valley/"><u>Harvest Haven Top 10 Sims Like Stardew Valley</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-seamlessly-capture-igtv-5-windows-and-mac-downloading-tips-for-2024/"><u>How to Seamlessly Capture IGTV 5 Windows & Mac Downloading Tips for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-aesir-rebellion-skies-of-valhalla/"><u>In 2024, Aesir Rebellion Skies of Valhalla</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-analyzing-splitcams-place-among-best-recorders/"><u>In 2024, Analyzing SplitCam's Place Among Best Recorders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-clicks-big-grins-the-kinemaster-way/"><u>In 2024, Quick Clicks, Big Grins The KineMaster Way</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reconnect-your-ipad-to-wi-fi-expert-advice-for-a-successful-connection/"><u>Reconnect Your iPad to Wi-Fi: Expert Advice for a Successful Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-integration-setting-up-and-streamline-data-management/"><u>Seamless Integration, Setting up, and Streamline Data Management.</u></a></li>
 </ul></div>
 

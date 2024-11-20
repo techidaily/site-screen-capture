@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Getting Started with Adobe Presenter Video Recordings"
-date: 2024-08-16T23:38:09.053Z
-updated: 2024-08-17T23:38:09.053Z
+date: 2024-11-13T23:35:51.853Z
+updated: 2024-11-19T22:42:38.467Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,9 @@ For macOS 10.12 or later
 In this article, we are going to take you through each step of the process of recording a video presentation in Microsoft PowerPoint using Adobe Presenter.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Video Presentations Using Adobe Presenter
 
 In order to start capturing video presentations with Adobe Presenter, you must first [download](https://www.adobe.com/products/presenter.html) it from the Adobe's website. Keep in mind that this software allows you to capture footage from just one screen, and that recording presentations from multiple screens is not yet on the list of features Adobe Presenter provides.
@@ -62,21 +61,13 @@ In order to start capturing video presentations with Adobe Presenter, you must f
 After you've installed the Adobe Presenter on your computer, you should launch the Microsoft PowerPoint. The Adobe Presenter menu should be visible on the PowerPoint's ribbon. Clicking on it will enable you to gain access to the tools that will enable you to adjust the settings for the video recording you're about to make.
 
 ![ Adobe Presenter Recorder ](https://images.wondershare.com/filmora/article-images/adobe-presenter-interface.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 The slides of your presentation should be displayed in full-screen mode, and after you make sure that they are, you should proceed to click on the Record button in the Adobe Presenter ribbon.
 
 ![ Adobe Presenter Recorder ](https://images.wondershare.com/filmora/article-images/adobe-presenter-record.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2.Choose the type of video
@@ -84,8 +75,9 @@ The slides of your presentation should be displayed in full-screen mode, and aft
 Clicking on the Record button will launch the Adobe Presenter Express and you will be asked to choose between Webcam, Screen and Both options. Which option you'll choose depends on what type of video you want to create. The Webcam option records only the footage from the computer's webcam, while the Screen option captures the on-screen activities. The Both option enables you to combine Webcam and Screen recordings in a single video.
 
 ![ Adobe Presenter Recorder ](https://images.wondershare.com/filmora/article-images/adobe-presenter-record-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 All projects you were working on recently, will be displayed in the Recent Projects menu, that is located directly below the video recording options. Clicking on the four-square icon in the Recent Projects menu enables you to import existing projects into the Adobe Presenter.
@@ -93,9 +85,6 @@ All projects you were working on recently, will be displayed in the Recent Proje
 #### Step 3.Adjust the video recording settings
 
 ![ Adobe Presenter Recorder ](https://images.wondershare.com/filmora/article-images/adobe-presenter-choose-microphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In the New Project window, you'll be able to easily select the camera and microphone by clicking on their icons at the bottom of the screen. If you would like to add narration to your video presentation you should use an external microphone to ensure that the audio quality meets the highest standards.
 
@@ -114,8 +103,9 @@ One of Adobe Presenter's greatest advantages is the fact that it allows you to c
 The Adobe Presenter is fast, powerful and so easy to use that literally anyone can learn how to make video presentations in a short period of time. We'd love to hear all about your favorite software for creation of video presentations, so feel free to share your opinions in the comments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -124,11 +114,26 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-small-businesss-safest-video-conferencing-top-picks/"><u>[New] 2024 Approved Small Business's Safest Video Conferencing Top Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-frames-from-apples-display-max-length-156/"><u>[New] In 2024, Essential Frames From Apple's Display (Max Length 156)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-transform-your-video-chats-using-zooms-filters-for-2024/"><u>[New] Transform Your Video Chats Using Zoom's Filters for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-which-livestreaming-tool-wins-obs-or-bandicam/"><u>[New] Which Livestreaming Tool Wins OBS or Bandicam?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-comprehensive-tutorial-for-youtube-customization-tools/"><u>[Updated] A Comprehensive Tutorial for YouTube Customization Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-basic-tactics-to-archive-webcam-chats-for-2024/"><u>[Updated] Basic Tactics to Archive Webcam Chats for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-easy-conversion-of-youtube-videos-from-twitter-into-gifs-for-2024/"><u>[Updated] Easy Conversion of YouTube Videos From Twitter Into GIFs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-twist-and-tell-the-art-of-angling-your-videos-for-instagram-audiences/"><u>[Updated] In 2024, Twist & Tell The Art of Angling Your Videos for Instagram Audiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-storage-solutions-ps5s-top-10-external-units-for-2024/"><u>[Updated] Storage Solutions PS5's Top 10 External Units for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cess-most-surprising-innovation-discover-how-this-high-tech-stylus-transforms-digital-notes-into-handwriting/"><u>CES's Most Surprising Innovation: Discover How This High-Tech Stylus Transforms Digital Notes Into Handwriting!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-access-is-forbidden-problem-on-your-site-403-error/"><u>Troubleshooting the 'Access Is Forbidden' Problem on Your Site (403 Error)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/video-bite-by-celeb-on-vimeo/"><u>Video Bite by Celeb on Vimeo</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Alter Default Location for Mac Captured Images for 2024"
-date: 2024-08-16T23:32:51.623Z
-updated: 2024-08-17T23:32:51.623Z
+date: 2024-11-14T23:59:06.420Z
+updated: 2024-11-20T03:58:06.532Z
 tags: 
   - screen-recording
   - ai video
@@ -49,15 +49,17 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -67,8 +69,9 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -82,8 +85,9 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -95,9 +99,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -105,11 +106,28 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unmatched-6-safe-online-collaboration-software-rankings/"><u>[New] 2024 Approved Unmatched 6 Safe Online Collaboration Software Rankings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-perfecting-your-recording-setup-pc-and-macs-best-software/"><u>[New] In 2024, Perfecting Your Recording Setup PC and Mac's Best Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-professional-monitor-recording-by-zdsoft/"><u>[New] Unveiling Professional Monitor Recording by ZDSoft</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-successfully-integrate-high-definition-videos-on-youtube-platform/"><u>[Updated] 2024 Approved How To Successfully Integrate High-Definition Videos on Youtube Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>[Updated] Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-dungeons-to-depths-evolving-gameplay-styles-for-2024/"><u>[Updated] From Dungeons to Depths Evolving Gameplay Styles for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-complete-handbook-for-telegram-web-newbies/"><u>[Updated] The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-cross-platform-movie-capture-for-2024/"><u>[Updated] The Ultimate Guide to Cross-Platform Movie Capture for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-your-travel-documentation-instant-free-passport-image-generation-tool/"><u>2024 Approved Secure Your Travel Documentation Instant FREE Passport Image Generation Tool</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210085752-9781000197181-a-multidisciplinary-approach-to-embodiment/"><u>A Multidisciplinary Approach to Embodiment | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-common-tv-troubleshooting-for-a-flawless-viewing-experience/"><u>Mastering Common TV Troubleshooting for a Flawless Viewing Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shortcuts-to-success-how-to-skip-edgenuity-online-lessons-gracefully/"><u>Shortcuts to Success How to Skip Edgenuity Online Lessons Gracefully</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-load-failures-for-a-smooth-football-manager-2er-2021-experience/"><u>Troubleshooting Load Failures for a Smooth Football Manager 2Er 2021 Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-get-new-canon-pixma-mg2522-drivers-for-optimal-performance/"><u>Update or Get New Canon PIXMA MG2522 Drivers for Optimal Performance</u></a></li>
+</ul></div>
+

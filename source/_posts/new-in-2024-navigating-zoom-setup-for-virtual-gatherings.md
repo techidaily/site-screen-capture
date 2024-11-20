@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Navigating Zoom Setup for Virtual Gatherings"
-date: 2024-08-16T23:35:40.913Z
-updated: 2024-08-17T23:35:40.913Z
+date: 2024-11-18T05:54:59.547Z
+updated: 2024-11-19T22:05:25.775Z
 tags: 
   - screen-recording
   - ai video
@@ -59,28 +59,23 @@ Double-click the **Zoom** shortcut icon on the desktop, click **Sign In**, and u
 
 ![Zoom Meeting Sign in](https://images.wondershare.com/filmora/article-images/sign-in-zoom-client.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Set Up New Meeting
 
 Click **New Meeting** on the main interface, wait while the app connects to the server, and optionally click **Join with Computer Audio** to use voice and audio during the conference.
 
 ![Zoom Meeting Join ](https://images.wondershare.com/filmora/article-images/zoom-meeting-join.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
 Next, click **Invite** from the bottom of the screen, go to the **Email** tab from the top of the next box that comes up, click your email service provider (**Gmail** for this example), enter the email addresses of the desired participants in the To field on the email draft box, and click **Send**.
 
 ![Zoom Meeting Invite People to join ](https://images.wondershare.com/filmora/article-images/zoom-meeting-invite-people-to-join.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Alternatively, you can use the **Contacts** tab to invite the participants who are already added in your contact list, or use the **Copy URL** or **Copy Invitation** buttons at the bottom to send the invitation manually.
 
 As the target participants receive the mail, they can use the URL and the meeting ID and password to join the Zoom conference. During the process, they can either download the app using the link that the browser displays, or click **join from your browser** that appears when you click, **click here**, and follow along using your web browser without installing the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Tips for Better Zoom Meeting Setup
 
@@ -93,8 +88,9 @@ Following are a few tips that would help you improve the quality of the conferen
 Enabled by default, the mirror effect lets you flip the video display that the webcam/camera of your device captures during the conference. You can enable or disable the feature by clicking the **Settings** icon from the top-right corner of the Zoom window (when not in a conference), selecting **Video** from the left pane, and checking or unchecking the **Mirror my video** box from the right respectively.
 
 ![Zoom Meeting Mirror Effects](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-mirror-my-video.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Want to flip or mirror your video footage after recording? Try Filmora to [Flip Video](https://tools.techidaily.com/wondershare/filmora/download/) Quickly and Easily.
@@ -124,15 +120,9 @@ You can keep all the mischievous or ignorant participants from sharing their scr
 #### 5\. Mute Participants
 
 ![Mute People in Zoom Meeting](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-mute-people.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
 You can prevent all the participants from turning your sophisticated and professional ambiance into a fish market by muting all the of them in one go. To do this, click **Manage Participants** from the bottom of the camera screen during an ongoing meeting, and click **Mute All** from the bottom-left corner of the **Participants** pane that appears in the right. Alternatively, you can click the **Mute** button present next to each participant’s name in the **Participants** pane to mute them individually.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Schedule and Set Up a Zoom Meeting for the Future \[Desktop Client\]
 
 As a host you can even schedule a conference with Zoom. You can learn how to set up a Zoom meeting for the future by following the instructions given below:
@@ -141,9 +131,6 @@ As a host you can even schedule a conference with Zoom. You can learn how to set
 
 Launch Zoom (a Windows 10 computer is used here), and click **Schedule** from the left section of the interface to open the **Schedule meeting** box.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Schedule a Meeting
 
 Use the **Start** drop-down calendar to select a future date you want to schedule a meeting on, use the adjacent box to choose your preferred time of the meeting, play with other self-explanatory options to configure the meeting preferences as needed, and click **Schedule** from the bottom to schedule a meeting.
@@ -155,13 +142,11 @@ Use the **Start** drop-down calendar to select a future date you want to schedul
 Click **Meetings** from the top of the Zoom’s interface, ensure that the scheduled meeting is selected in the left pane, and click the **Copy Invitation** button from the right to copy the invitation URL and the meeting ID and password to the clipboard. Next, open your favorite web browser, sign in to your email account, compose an email for all the participants you want to invite, paste the copied content in the message box, and send the invitation to the recipients.
 
 ![Zoom Meeting Upcoming meeting](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-upcoming-meeting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to Set Up Zoom Meetings on Google Calendar
 
 In order to set up a Zoom meeting, you don’t always have to launch the program, and you can get the job done right from Google Calendar itself. However, you must have a Zoom ID, and you must also be signed in to it in order to create an event that leads to a conference.
@@ -176,35 +161,32 @@ Start your favorite web browser, go to <https://gsuite.google.com/marketplace/ap
 
 ![Get Zoom for GSuite](https://images.wondershare.com/filmora/article-images/get-zoom-for-gsuite.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Launch Google Calendar and Sign In to Zoom Account
 
 Open a new tab on your browser, sign in to your Google account (Gmail is used here for demonstration), click the **Google apps** icon from the top-right corner, click **Calendar** from the available programs, click the **Zoom** icon from the right most pane and sign in to your Zoom account.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Create Event and Set Up Zoom Meeting
 
 ![Set up Zoom in Google Calendar](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-in-google-calendar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Select your preferred date in the calendar at the left, from the main window, click your preferred time slot of the day you want to host a conference, click **More options** from the bottom of the event creation box that comes up, select **Zoom Meeting** from the **Add conferencing** drop-down list, enter a name of the event in the **Add title** field at the top, and click **Save**.
 
 ![Set up Zoom in Google Calendar](https://images.wondershare.com/filmora/article-images/set-schedule-zoom-meeting-google-calendar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** You may need to click **Try again** for a couple of times to successfully schedule a meeting if you see the **Failed to create conference** message for some reason.
 
 ![Set up Zoom in Google Calendar - Send Email](https://images.wondershare.com/filmora/article-images/zoom-meeting-google-calendar-send-email.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To invite participants to join the meeting, get back to **Google Calendar**, click the event you just created, click **Joining instructions**, from the tab that opens up next, copy the entire text message, get back to the **Google Calendar** tab, click the **Mail** icon from the top of the event box, paste the invitation details in the message space, and click **Send** from the bottom-right corner to send the mail to the recipients you want to invite to the meeting.
@@ -220,17 +202,19 @@ Launch your favorite web browser, click [**here**](https://appsource.microsoft.c
 ![Get Zoom Meeting for Outlook](https://images.wondershare.com/filmora/article-images/get-zoom-meeting-for-outlook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Get to Event’s Calendar Box
 
 Go to your Microsoft Outlook account using your web browser, click the **Calendar** icon from the bottom, on the main window, click the block representing the date you want to schedule a Zoom meeting, and click **More options** from the bottom-right corner of the box that pops up to go to the **Calendar** box.
 
 ![Set up Zoom in Google Calendar](https://images.wondershare.com/filmora/article-images/set-schedule-zoom-meeting-google-calendar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Schedule a Zoom Meeting
 
 Click the **More** icon (with three dots aligned horizontally) from the top, go to **Zoom**, and click **Add a Zoom Meeting**. Notice how the message box automatically populates with all the information related to the invitation including the URL, meeting ID, and the joining password.
@@ -253,11 +237,26 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-reducing-obs-streaming-bitrate/"><u>[New] 2024 Approved Reducing OBS Streaming Bitrate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-effective-strategies-to-plan-zoom-sessions-for-2024/"><u>[New] Effective Strategies to Plan Zoom Sessions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-google-meet-on-phone-for-2024/"><u>[New] How to Record Google Meet on Phone for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-perfect-your-game-with-these-top-7-stardew-valley-modifications/"><u>[New] In 2024, Perfect Your Game with These Top 7 Stardew Valley Modifications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-pinnacle-vision-studio-review-yearly-update/"><u>[Updated] 2024 Approved Pinnacle Vision Studio Review Yearly Update</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-win11-easy-capture-and-save-tool/"><u>[Updated] In 2024, Win11 Easy Capture & Save Tool</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-secret-handbook-to-instagrams-exclusive-club-elevating-your-profile-with-six-tips/"><u>[Updated] The Secret Handbook to Instagram's Exclusive Club Elevating Your Profile with Six Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-12-pro-4g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi Note 12 Pro 4G to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-earths-premier-online-income-tycoon/"><u>In 2024, Earth’s Premier Online Income Tycoon</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-gaming-the-impact-of-dxvk-on-windows-pcs/"><u>Navigating Through Gaming: The Impact of DXVK on Windows PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-poco-c51-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Poco C51 FRP</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ree-apps-for-youtube-gallery-downloading/"><u>Top FREE Apps for YouTube Gallery Downloading</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Screen Savvy  Secure Your Captures - Chromebook's Top 4 Techniques\""
-date: 2024-08-16T23:33:59.246Z
-updated: 2024-08-17T23:33:59.246Z
+date: 2024-11-16T05:55:02.387Z
+updated: 2024-11-20T02:25:27.025Z
 tags: 
   - screen-recording
   - ai video
@@ -46,40 +46,39 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
 Using your Chromebook in tablet mode? If so, then there’s also a handy way to make use of the screenshot feature whilst on the go. Similar to the function offered on most Smart Phone Devices, simply press both the **Power and Volume Down Side Button** to capture a screenshot. Unfortunately, this feature is only useful if you’re looking to capture your entire screen; you’ll need to utilize the keyboard or stylus if you’re planning to crop out a specific section.
 
 **Note:** No matter whether you’re utilizing the Chromebook in either landscape or portrait mode, the Volume Rockers still remain in the same orientation, so it’s worth noting which button relates to “Volume Down”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
@@ -102,22 +101,15 @@ Available for both Chrome, Windows, and even Mac devices, this more in-depth ext
 Offering the ability for users to capture scrolling screenshots, Webpage Screenshot is a highly desired extension. Allowing users to store an entire page worth of information thanks to its all-page capture abilities, this application was the original application for Google Chrome. With basic annotation editing, capture cropping, and optional interval inputting, this easy-to-use and straight forward extension is perfect for those looking to capture larger sections of text with ease.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Do I Find by Screenshots After They’re Captured?
 
 If you’re wondering where your newly captured screenshots are disappearing to once obtained, then you need look no further than the **Downloads Section** of your **Files App.** Automatically saved, by default, in a format similar to “**Screenshot 2012-08-03 at 5.18.34AM.png**” your recently saved PNG file can be easily renamed as you like.
 
 Using a Guest Account? If so, then always make sure you copy across all your important screenshots to either an SD Card or Google Drive Account before you sign out. It’s important to note that the “Downloads” Section on a Guest Account is emptied each and every time a guest logs out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How Do I Edit My Screenshots on Chromebook?
 
 Once you’ve captured your screenshot and it’s been automatically saved to your downloads, there are a number of simple yet effective features built-in to help you edit your image with ease. To access your saved file, simply click on the **Launcher** (bottom left hand corner), select the **Files App Folder**, then select your recently saved screenshot within the **Downloaded Files** section.
@@ -136,11 +128,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-breakneck-video-progress-on-facebook-must-have-extension-solutions-for-2024/"><u>[New] Breakneck Video Progress on Facebook - Must-Have Extension Solutions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capture-kings-warzone/"><u>[New] Capture Kings Warzone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-conquest-celebrating-the-most-stellar-7-total-wars-for-2024/"><u>[New] The Ultimate Conquest Celebrating the Most Stellar 7 Total Wars for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-echo-chambers-tech-updates/"><u>[Updated] 2024 Approved Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-3-ways-to-record-ps4-gameplay-for-2024/"><u>[Updated] 3 Ways to Record PS4 Gameplay for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-agricultural-adventures-with-allies-top-10-farmers-titles-for-2024/"><u>[Updated] Agricultural Adventures with Allies Top 10 Farmer's Titles for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-bandicam-in-depth-review-for-the-modern-user/"><u>[Updated] Bandicam In Depth Review for the Modern User</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-speech-clarity-on-skype/"><u>[Updated] Enhancing Speech Clarity on Skype</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-12-best-idle-games-you-can-find-on-pc/"><u>[Updated] Top 12 Best Idle Games You Can Find on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-customizing-youtube-viewing-policies-for-your-content/"><u>2024 Approved Customizing YouTube Viewing Policies for Your Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-selective-guide-to-exceptional-twitch-download-apps/"><u>A Selective Guide to Exceptional Twitch Download Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-video-grabbers-for-windows-10-pc-for-2024/"><u>Best Video Grabbers for Windows 10 PC for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-minecraft-gameplay-eradicate-stuttering-with-this-comprehensive-guide/"><u>Boost Your Minecraft Gameplay: Eradicate Stuttering With This Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-the-art-of-effective-web-browsing-navigating-search-pages-with-ease/"><u>Discover the Art of Effective Web Browsing: Navigating Search Pages with Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-note-30-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Note 30 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic-5-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic 5</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-itel-s23-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Itel S23 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-shorts-profits-and-content-creator-payments/"><u>In 2024, YouTube Shorts Profits & Content Creator Payments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/window-communication-apps-5-1-top-8-list/"><u>Window Communication Apps #5-#1 Top 8 List</u></a></li>
+</ul></div>
+

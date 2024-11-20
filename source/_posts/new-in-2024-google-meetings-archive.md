@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Google Meetings Archive"
-date: 2024-08-10T01:09:33.415Z
-updated: 2024-08-11T01:09:33.415Z
+date: 2024-11-17T04:58:10.590Z
+updated: 2024-11-20T11:32:11.996Z
 tags: 
   - screen-recording
   - ai video
@@ -29,15 +29,8 @@ A career is a journey on which we are continually learning and developing new sk
 
 **Recording webinar with Filmora Scrn enables professionals from all walks of life to share the knowledge and experience they have with people around the globe. If you are thinking about starting your own webinar, you've come to the right place because in this article we are going to take you, step by step, through the process of recording a webinar with Wondershare Filmora Scrn.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -56,13 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Webinars
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Producing your first webinar doesn't require you to be a video-making wizard since Filmora Scrn makes this process simple. Let's have a look at the steps you'll need to take in order to record a webinar.
@@ -73,16 +64,10 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 #### 2. Setting up the screen recording session
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
@@ -92,6 +77,10 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -112,8 +101,9 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -122,13 +112,15 @@ Making sure that all the settings are adjusted properly and that the amount of b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +128,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-evaluating-every-aspect-of-du-recorder-design-and-function/"><u>[New] 2024 Approved Evaluating Every Aspect of Du Recorder Design & Function</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-webcam-and-screen-capture-unison-techniques/"><u>[New] 2024 Approved Mastering Webcam & Screen Capture Unison Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unleash-window-history-an-in-depth-look-at-springs-tech/"><u>[New] 2024 Approved Unleash Window History An In-Depth Look at Spring's Tech</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-best-practice-mp4-director-to-fb-for-2024/"><u>[New] Best Practice MP4 Director to FB for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-exploring-advanced-iphone-techniques-in-hdr-photography-for-2024/"><u>[New] Exploring Advanced iPhone Techniques in HDR Photography for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>[Updated] Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-transform-ppt-deck-into-video-stream/"><u>[Updated] In 2024, Transform PPT Deck Into Video Stream</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/11-best-practices-for-capturing-online-conferences-for-free-for-2024/"><u>11 Best Practices for Capturing Online Conferences for Free for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-zoom-meeting-organization-tips-for-professionals/"><u>2024 Approved Zoom Meeting Organization Tips for Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-the-best-in-gpodc-podcasts/"><u>Best of the Best in GPodC Podcasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-get-the-new-ipad-pro-for-a-whopping-700-off-labor-day-deal-exclusive-gadget-buzz/"><u>Huge Savings Alert: Get the New iPad Pro for a Whopping $700 Off - Labor Day Deal Exclusive | Gadget Buzz</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-conquer-youtube-with-creator-studio-a-comprehensive-guide/"><u>In 2024, Conquer YouTube with Creator Studio A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-techniques-for-photoshop-pros-a-step-by-step-guide/"><u>In 2024, HDR Techniques for Photoshop Pros A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-magic-behind-machine-learning-insights-unraveling-openais-shap-e-tool/"><u>The Magic Behind Machine Learning Insights: Unraveling OpenAI's Shap-E Tool</u></a></li>
+</ul></div>
+

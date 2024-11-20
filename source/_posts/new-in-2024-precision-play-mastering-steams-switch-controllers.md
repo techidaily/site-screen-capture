@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Precision Play  Mastering Steam's Switch Controllers\""
-date: 2024-11-13T02:41:59.401Z
-updated: 2024-11-19T23:12:06.107Z
+date: 2024-11-12T22:15:15.437Z
+updated: 2024-11-20T04:48:10.700Z
 tags: 
   - screen-recording
   - ai video
@@ -55,7 +55,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -66,12 +66,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
@@ -101,11 +105,11 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 ## **What To Do With Non-Steam Games?**
 
@@ -123,10 +127,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -142,20 +142,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-choosing-the-optimal-power-source-for-advanced-drones/"><u>[New] Choosing the Optimal Power Source for Advanced Drones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/levate-your-gaming-yt-presence-a-hashtag-focused-manual/"><u>[New] Elevate Your Gaming YT Presence A Hashtag-Focused Manual</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-exceptional-windows-calls-8-highest-rated-for-2024/"><u>[New] Exceptional Windows Calls 8 Highest Rated for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ideal-selections-the-best-9-mobile-video-meeting-solutions-reviewed/"><u>[Updated] 2024 Approved Ideal Selections The Best 9 Mobile Video Meeting Solutions Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-quest-for-superior-video-capture-tools/"><u>[Updated] In 2024, The Quest for Superior Video Capture Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-ultimate-compilation-top-11-streaming-gear-insights-for-2024/"><u>[Updated] Ultimate Compilation Top 11 Streaming Gear Insights for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/dissecting-the-efficacy-of-vidma-as-a-recorder/"><u>Dissecting the Efficacy of Vidma as a Recorder</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-new-realms-the-ultimate-guide-to-iphone-vr-gaming-for-2024/"><u>Explore New Realms The Ultimate Guide to IPhone VR Gaming for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-g310-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia G310 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-a18-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo A18</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-s17-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo S17 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/obs-vs-shadowplay-which-recording-tool-takes-the-prize-for-2024/"><u>OBS Vs ShadowPlay Which Recording Tool Takes the Prize for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-ceo-change-expected-effect-on-gpt/"><u>OpenAI's CEO Change – Expected Effect on GPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/share-and-enjoy-a-comprehensive-walkthrough-to-broadcast-your-ps5-games/"><u>Share and Enjoy: A Comprehensive Walkthrough to Broadcast Your PS5 Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-google-meet-conversation-blueprint-for-success/"><u>The Google Meet Conversation Blueprint for Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-and-share-saving-your-ppt-sessions/"><u>[New] 2024 Approved Capture and Share Saving Your PPT Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-first-steps-for-joining-online-video-chats-google-meet/"><u>[New] 2024 Approved First Steps for Joining Online Video Chats (Google Meet)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-valheim-flora/"><u>[New] Comprehensive Guide to Valheim Flora</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-change-voice-on-instagram-story-and-reels-in-2024/"><u>[New] How to Change Voice on Instagram Story and Reels, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-calming-virtual-worlds-on-pc/"><u>[New] In 2024, Top Calming Virtual Worlds on PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-innovative-imagery-boost-integrating-filters-into-pcmobile-videos-for-2024/"><u>[New] Innovative Imagery Boost Integrating Filters Into PC/Mobile Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-10-steps-to-perfect-youtube-reactions-a-trio-guide/"><u>[Updated] 10 Steps to Perfect YouTube Reactions – A Trio Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-avoiding-legal-issues-best-practices-for-zoom-records/"><u>[Updated] 2024 Approved Avoiding Legal Issues Best Practices for Zoom Records</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-analysis-highest-quality-video-snappers-for-2024/"><u>[Updated] Expert Analysis Highest Quality Video Snappers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-video-capture-bandicams-edge-over-camtasia/"><u>[Updated] In 2024, Mastering Video Capture Bandicam’s Edge Over Camtasia</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-analyzing-public-sentiment-for-vllo/"><u>2024 Approved Analyzing Public Sentiment for VLLO</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutting-edge-approaches-for-recording-and-sharing-sporting-games-for-2024/"><u>Cutting-Edge Approaches for Recording & Sharing Sporting Games for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-value-of-caixuns-75-inch-4k-android-tv-a-comprehensive-affordable-tech-review/"><u>Experience the Value of Caixun's 75 Inch 4K Android TV - A Comprehensive Affordable Tech Review!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862824795-experience-ultraportability-with-vaios-newly-launched-visionplus-14-monitor-just-072-pounds/"><u>Experience Ultraportability with Vaio's Newly Launched Vision+ 14 Monitor - Just 0.72 Pounds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-bandicam-review-2023-everything-you-need-to-know/"><u>In 2024, Bandicam Review 2023 – Everything You Need To Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-motorola-edge-40-neo-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Motorola Edge 40 Neo? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android/"><u>Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utionize-your-videos-first-impression-with-these-makers/"><u>Revolutionize Your Video's First Impression with These Makers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/saving-on-cloud-space-expenses-detailed-analysis-and-tips-for-2024/"><u>Saving on Cloud Space Expenses Detailed Analysis & Tips for 2024</u></a></li>
 </ul></div>
 

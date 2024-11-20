@@ -1,7 +1,7 @@
 ---
 title: "\"Screen Recording Face-Off  OBS Studio Vs Fraps Comparison\""
-date: 2024-08-10T01:08:55.546Z
-updated: 2024-08-11T01:08:55.546Z
+date: 2024-11-14T03:15:42.163Z
+updated: 2024-11-20T04:25:55.473Z
 tags: 
   - screen-recording
   - ai video
@@ -21,21 +21,10 @@ If you are looking for the best screen recording software, you can either for a 
 
 You have to check the features of each of these best screen recording software applications. You should go through OBS Studio vs Fraps to understand their similarities and differences. Depending on your requirements, you can select the perfect one based on your own judgement. We have also provided you with a better alternative for your consideration.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 1\. Key Features OBS Vs Fraps
 
 Before starting to use any software, you should be aware of its key features. You should make sure that the key features of the software meet your requirements specifically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## OBS Studio -
 
 Easy screen capture: OBS ensures high-quality video and screen capture. It is suitable for capturing gameplay, screen activities as well as video from webcam and external devices. There are many audio and video filters as well as effects available to make the video capturing process better.
@@ -48,9 +37,6 @@ Live Streaming: OBS supports live broadcasting of videos on various online platf
 
 Besides, the customizable hotkeys for different functions make the recording operating seamless.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fraps -
 
 Record Professional Videos: Fraps lets you record high-quality videos in 120 frames per second. You can even record 4K videos smoothly depending on your webcam or screen resolution. It will automatically optimize the bitrate so that there will be an improved quality video capture.
@@ -61,7 +47,15 @@ System Requirements – Fraps is compatible with the older version of Windows su
 
 Easy to use: Fraps comes with a clean and intuitive user interface. While recording, it shows you various useful parameters at one corner. You can customize various parameters for perfect recording.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How To Use OBS Studio and Fraps -
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OBS: Here are the steps on how to record video with OBS Studio
 
@@ -69,22 +63,10 @@ Step 1: Download and install OBS Studio on your computer.
 
 Step 2: Go to Scenes tab, click on “+” button to create a new scene. You can create multiple scenes and switch between them while recording.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![obs multiple scenes and switch](https://images.wondershare.com/filmora/article-images/obs-multiple-scenes-and-switch.jpg)
 
 Step 3: Go to Sources tab, click on “+” button and select Display Capture option to capture your screen. If you want to capture from gaming console or external video capture device, select accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![obs launch display capture](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
 
 Step 4: Go to Controls tab, click on Start Recording to start recording.
@@ -93,25 +75,31 @@ Step 4: Go to Controls tab, click on Start Recording to start recording.
 
 Step 5: When your recording is done, click on Stop Recording option under Controls tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fraps: Here are the steps on how to record video with Fraps
 
 Step 1: Download and install Fraps. You can go for the trial version and if satisfied, you can opt for the premium version.
 
 Step 2: Open the application and under General tab, check the required parameters.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![fraps general required parameters](https://images.wondershare.com/filmora/article-images/fraps-heneral-required-parameters.jpg)
 
 Step 3: Go to Movies tab and set the settings as required.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![fraps movies settings](https://images.wondershare.com/filmora/article-images/fraps-movies-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Open the screen that you want to record and press F9 to start recording with Fraps. To stop recording, press F9 key again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Comparison - Fraps vs OBS
 
@@ -131,6 +119,10 @@ Fraps offers great video quality even though there is a low frame rate and it do
 | Third-party Integrations    | Possible               | Not Possible            |
 | Price                       | Free                   | $37 (one-time purchase) |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. A Better Alternative
 
 If you find OBS Studio complicated to use and the features of Fraps do not meet your requirements, we recommend you to opt for Wondershare Filmora. In terms of features of screen and video capturing, Filmora is as good as OBS Studio. Additionally, there are video and audio editing tools available which will make your recorded video ready for publishing online. Here are the steps to record the screen with Filmora.
@@ -145,61 +137,6 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-## Conclusion
-
-To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Conclusion
-
-To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
@@ -210,9 +147,6 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
@@ -234,8 +168,53 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Conclusion
+
+To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
+
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+## Conclusion
+
+To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
+
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
 ## Conclusion
 
 To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
@@ -262,4 +241,22 @@ To sum it up for you, if you have a low configuration computer, you should opt f
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>[New] Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>[Updated] 2024 Approved Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-dive-into-screen-recording-expert-insights-on-top-obs-software/"><u>[Updated] Dive Into Screen Recording Expert Insights on Top OBS Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubes-economic-model-month-to-month-income/"><u>[Updated] In 2024, YouTube's Economic Model Month-to-Month Income?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-video-call-applications-for-conference-success-for-2024/"><u>[Updated] Leading Video Call Applications for Conference Success for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/4-proven-methods-for-screenshotting-and-recording-for-2024/"><u>4 Proven Methods for Screenshotting & Recording for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-y200e-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo Y200e 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-the-upcoming-apple-watch-series-10-track-blood-pressure-accurately-find-out-here/"><u>Can the Upcoming Apple Watch Series 10 Track Blood Pressure Accurately? Find Out Here...</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevating-your-fps-on-valheim-comprehensive-202ammo-the-latest-techniques-to-enhance-your-gaming-smoothness/"><u>Elevating Your FPS on Valheim - Comprehensive 202Ammo, the Latest Techniques to Enhance Your Gaming Smoothness.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/explore-the-best-ios-options-to-simulate-your-favorite-psp-classics/"><u>Explore the Best iOS Options to Simulate Your Favorite PSP Classics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a38-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A38 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/join-abbyy-professionals-explore-why-a-career-with-abbyy-is-beneficial/"><u>Join ABBYY Professionals! Explore Why a Career with ABBYY Is Beneficial</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/premium-portable-switch-game-clones/"><u>Premium Portable Switch Game Clones</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/vrouwtje-heeft-haar-externe-harde-schijf-verloren-gezuiverd-met-steun-en-oplossingen/"><u>Vrouwtje Heeft Haar Externe Harde Schijf Verloren... Gezuiverd Met Steun en Oplossingen!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-update-guide-enhanced-acer-support/"><u>Windows 11 Update Guide - Enhanced Acer Support</u></a></li>
+</ul></div>
 

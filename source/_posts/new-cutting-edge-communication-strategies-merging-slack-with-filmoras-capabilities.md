@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cutting-Edge Communication Strategies  Merging Slack with Filmora's Capabilities\""
-date: 2024-08-10T01:10:58.910Z
-updated: 2024-08-11T01:10:58.910Z
+date: 2024-11-13T20:01:50.255Z
+updated: 2024-11-20T02:05:17.179Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 # How to Schedule and Record a Meeting on Slack-Wondershare Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -34,9 +31,6 @@ Automating your Slack account to schedule a meeting will save your time and effo
 
 So, follow our lead on how to schedule a meeting in a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Slack Meeting Online](https://images.wondershare.com/filmora/article-images/slack-meeting-online.jpg)
 
 * [Part1: How to Schedule a Meeting on Slack](#part1)
@@ -51,16 +45,10 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 1.Open your Slack account and choose a workspace. In the chatbox, click on the **Shortcut** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Click Shortcut Icon](https://images.wondershare.com/filmora/article-images/click-shortcut-icon.jpg)
 
 2.Scroll down to find the option of **Create Event** (To schedule a meeting this way, you must first install the Outlook Calendar or Google Calendar)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Create Slack Event](https://images.wondershare.com/filmora/article-images/create-slack-event.jpg)
 
 3.Enter the details to schedule Slack meeting, including the date, duration, timing, etc. If you want to view the recommended Slack meeting timings, the guests must be connected to the Outlook calendar. Click on **Create**.
@@ -85,49 +73,42 @@ Here is how you can record Slack meeting.
 
 1.Click on the **Apps**tab on the left side menu. Click on **Add** **apps**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Add Slack Apps](https://images.wondershare.com/filmora/article-images/add-slack-apps.jpg)
 
 2.Now, in the search bar, type and search **Zoom**. Click on the **Add** This will take you to the Slack App Directory.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3.Tap on **Add** **to** **Slack**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
 
 4.**Allow**Zoom to access your data and enable the app.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
 
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7.Click on **Join** to start the meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
 
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
@@ -148,6 +129,10 @@ Moreover, if you wish to stay on mute and still engage with the speaker, just cl
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Slack is dedicated to making virtual communication and workflow seamless. This versatile app has now made it simpler to schedule a meeting in a few taps. Saving precious time, Slack meeting is shifting the norm. By using Slack, you can now schedule a meeting easily and circulate the meeting timings and inform all the team members. And if you want to save the meetings for later use, you can also record Slack meeting using an app like Zoom.
@@ -156,13 +141,15 @@ With this powerful tool and our guide at hand, you can transform your work life 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -170,3 +157,20 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-clean-cut-windows-10-screen-logger/"><u>[Updated] 2024 Approved Clean-Cut Windows 10 Screen Logger</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-curated-top-picks-top-6-mac-video-capture-tools/"><u>[Updated] Curated Top Picks Top 6 Mac Video Capture Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-tips-for-zooms-video-filters/"><u>[Updated] In 2024, Advanced Tips for Zoom's Video Filters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-key-points-to-consider-when-opting-for-a-youtube-tv-subscription/"><u>[Updated] In 2024, Key Points to Consider When Opting for a YouTube TV Subscription</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-raising-awareness-with-youtubes-cc-membership-tips-for-view-growth/"><u>[Updated] In 2024, Raising Awareness with YouTube's CC Membership Tips for View Growth</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-deciphering-the-advantages-of-modern-multicam-technology/"><u>2024 Approved Deciphering the Advantages of Modern Multicam Technology</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/intel-ssd-hddssd/"><u>专业界所推荐的安全型Intel SSD克隆工具 - HDD到SSD转换指南</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-evaluation-of-the-anker-nebula-capsule-3-your-ultimate-companion-for-dark-ambient-viewing/"><u>Expert Evaluation of the Anker Nebula Capsule 3 - Your Ultimate Companion for Dark Ambient Viewing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-crafting-time-lapses-with-your-ipad-easefully/"><u>In 2024, Crafting Time-Lapses with Your iPad Easefully</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfected-presence-the-art-of-blurring-conference-backdrops/"><u>In 2024, Perfected Presence The Art of Blurring Conference Backdrops</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/learn-the-art-of-pairing-captions-with-visuals-for-tiktoks/"><u>Learn the Art of Pairing Captions with Visuals for TikToks</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266229866-the-ultimate-guide-to-clean-up-your-apple-device-download-the-stellar-eraser-app-today/"><u>The Ultimate Guide to Clean Up Your Apple Device: Download the Stellar Eraser App Today</u></a></li>
+</ul></div>
+

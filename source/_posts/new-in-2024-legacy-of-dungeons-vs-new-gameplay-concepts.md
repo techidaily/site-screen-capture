@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2024-11-08T05:45:23.998Z
-updated: 2024-11-10T23:26:42.723Z
+date: 2024-11-17T06:52:52.774Z
+updated: 2024-11-20T11:24:53.102Z
 tags: 
   - screen-recording
   - ai video
@@ -45,31 +45,21 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -95,13 +85,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -120,6 +103,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Roguelite Games
@@ -131,6 +118,10 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -149,25 +140,13 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -185,24 +164,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] 2024 Approved Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-compilation-top-11-streaming-gear-insights/"><u>[New] 2024 Approved Ultimate Compilation Top 11 Streaming Gear Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-commanding-voice-scrutiny-refined-version-8/"><u>[New] In 2024, Commanding Voice Scrutiny Refined Version 8</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-easy-webcam-video-capture-using-vlc/"><u>[New] In 2024, Easy Webcam Video Capture Using VLC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-success-starts-here-discovering-top-tracking-and-analysis-apps/"><u>[New] Instagram Success Starts Here Discovering Top Tracking and Analysis Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-smooth-transition-wonders-in-4-minutes-or-less/"><u>[New] Smooth Transition Wonders in 4 Minutes or Less</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-windows-pc-broadcasting-prodigy-mastering-the-art-of-live-tv-recording-for-2024/"><u>[New] Windows PC Broadcasting Prodigy Mastering the Art of Live TV Recording for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-operational-obs-cam-after-fix/"><u>[Updated] 2024 Approved Operational OBS Cam After Fix</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-console-chronos-review/"><u>[Updated] Console Chronos Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cutting-edge-green-tools-shaping-film/"><u>[Updated] In 2024, Cutting Edge Green Tools Shaping Film</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-prime-zero-cost-switch-mimicry-apps-for-2024/"><u>[Updated] Prime Zero-Cost Switch Mimicry Apps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rapid-viewer-for-10-windows-photos/"><u>[Updated] Rapid Viewer for 10 Windows Photos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-zipping-up-subtitles-from-zip-to-srt-file-transformation-for-2024/"><u>[Updated] Zipping Up Subtitles From ZIP to SRT File Transformation for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/getting-started-on-youtube-broadcasts-using-obs/"><u>Getting Started on YouTube Broadcasts Using OBS</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1x-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1x 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-design-review-and-rankings-of-top-17-graphic-software-choices/"><u>Mastering Design: Review & Rankings of Top 17 Graphic Software Choices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro Max You Should Try Out</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-remedies-for-when-your-laptops-usb-mouse-wont-work-restore-functionality-today/"><u>Top Remedies for When Your Laptop's USB Mouse Won't Work – Restore Functionality Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-10-best-live-streaming-services-for-church-you-should-know-for-2024/"><u>[New] 10 Best Live Streaming Services for Church You Should Know for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-approaches-to-in-game-auditory-logging/"><u>[New] Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unmissable-virtual-realms-for-gamers/"><u>[New] In 2024, Unmissable Virtual Realms for Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-transition-turning-mac-videos-into-discs/"><u>[New] Seamless Transition Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-steer-clear-of-soundtracked-sessions-how-to-mute-participants-in-gomeet-for-2024/"><u>[New] Steer Clear of Soundtracked Sessions How to Mute Participants in GoMeet for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>[Updated] Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/countdown-configuration-guide-for-obs-enthusiasts/"><u>Countdown Configuration Guide for OBS Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-6-premier-nft-services-boosting-artist-imagination/"><u>Discover 6 Premier NFT Services Boosting Artist Imagination</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/identifying-10-leading-vr-devices-for-your-pc-for-2024/"><u>Identifying 10 Leading VR Devices for Your PC for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-taking-screen-photos-with-an-alcatel-one-touch-smartphone/"><u>Step-by-Step Instructions for Taking Screen Photos with an Alcatel One Touch Smartphone</u></a></li>
 </ul></div>
 

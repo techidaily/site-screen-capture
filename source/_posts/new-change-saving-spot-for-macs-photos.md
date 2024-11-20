@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos"
-date: 2024-08-10T01:12:55.479Z
-updated: 2024-08-11T01:12:55.479Z
+date: 2024-11-13T20:40:07.476Z
+updated: 2024-11-20T03:03:50.008Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 # How to Change the Destination Where Screenshots are Saved on your Mac
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,14 +29,8 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -61,10 +52,11 @@ For macOS 10.12 or later
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -72,10 +64,11 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -88,8 +81,9 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -102,13 +96,15 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,3 +112,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-obs-settings-for-low-end-pcs/"><u>[New] In 2024, Best OBS Settings for Low-End PCs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-ways-to-earn-on-snapchat-for-2024/"><u>[Updated] Innovative Ways to Earn on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pinnacle-ios-solutions-the-best-ps2-game-emulators-for-2024/"><u>[Updated] Pinnacle IOS Solutions The Best PS2 Game Emulators for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-dissecting-the-divide-full-sphere-vs-immersive-films/"><u>2024 Approved Dissecting the Divide Full Sphere Vs. Immersive Films</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>2024 Approved Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-our-quick-and-complete-obs-youtube-streaming-path-for-newbies/"><u>2024 Approved Our Quick & Complete OBS Youtube Streaming Path for Newbies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-grab-specialists-top-apps-for-windows-10-users/"><u>2024 Approved Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-adjust-video-size-effectively-without-sacrificing-clarity-top-10-techniques-no-watermarks/"><u>How to Adjust Video Size Effectively without Sacrificing Clarity - Top 10 Techniques [No Watermarks]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-a24-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy A24 Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-dark-side-of-digital-escapism/"><u>In 2024, The Dark Side of Digital Escapism</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-12-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 12 from iCloud</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-downloading-videos-from-blinkx-using-a-macwindows-pc/"><u>Step-by-Step Guide: Downloading Videos From Blinkx Using a Mac/Windows PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-art-of-captivating-viewers-instavideo-marketing-essentials/"><u>The Art of Captivating Viewers InstaVideo Marketing Essentials</u></a></li>
+</ul></div>
+

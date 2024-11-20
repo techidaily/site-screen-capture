@@ -1,7 +1,7 @@
 ---
 title: "Switching Mac Screenshot Types Easily"
-date: 2024-08-10T01:17:25.463Z
-updated: 2024-08-11T01:17:25.463Z
+date: 2024-11-16T07:57:55.324Z
+updated: 2024-11-20T00:45:33.108Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 # How to Change Screenshot File Formats on a Mac
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,14 +29,8 @@ Taking screenshots on a Mac computer is a straightforward process that requires 
 
 However, the process of changing the default screenshot file format on a Mac is needlessly complicated, but in this article, we will show you how you can accomplish this task in just a few simple steps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -57,11 +48,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
 
@@ -70,14 +69,16 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Screenshot Formats?
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -113,9 +114,6 @@ _defaults write com.apple.screencapture type PNG_
 
 You can switch back to capturing screenshots in PNG file format at any moment by simply following the steps we described for all other image file formats supported by the macOS. Leave a comment and let us know which file format you like to use the most as the default screenshot format on your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -124,11 +122,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-digital-symphony-recording-on-a-mac-for-2024/"><u>[New] Digital Symphony Recording on a Mac for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-by-step-process-of-capturing-fb-messages/"><u>[New] In 2024, Step-by-Step Process of Capturing FB Messages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-relaxation-reigns-top-pc-titles-for-2024/"><u>[New] Relaxation Reigns Top PC Titles for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-elite-10-in-mac-gif-recording-apps-for-2024/"><u>[New] The Elite 10 in Mac GIF Recording Apps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tinyflicker-log-capture-and-competing-tools-for-2024/"><u>[New] TinyFlicker Log Capture & Competing Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-adopting-innovations-mask-and-filter-methods-for-google-meet/"><u>[Updated] Adopting Innovations Mask & Filter Methods for Google Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-conquering-screen-display-challenges-with-google-meet/"><u>[Updated] Conquering Screen Display Challenges with Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716070155049-updated-in-2024-capture-every-detail-on-mac-free/"><u>[Updated] In 2024, Capture Every Detail on Mac - Free!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-innovative-adventures-unveiled-the-ultimate-top-10-game-showcase/"><u>[Updated] Innovative Adventures Unveiled The Ultimate Top-10 Game Showcase</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-animatedapp-full-guide-24-edition/"><u>2024 Approved AnimatedApp Full Guide '24 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tech-sleuths-guide-to-choosing-the-best-screen-recorder/"><u>2024 Approved Tech Sleuths’ Guide to Choosing the Best Screen Recorder</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-for-downloading-the-latest-microsoft-drivers-on-windows-1087-systems/"><u>Easy Steps for Downloading the Latest Microsoft Drivers on Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-enhanced-computing-discover-all-available-laptops-with-microsoft-copilot-and-snapdragon-elite-technology/"><u>Experience Enhanced Computing: Discover All Available Laptops with Microsoft Copilot and Snapdragon Elite Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-fact-to-fable-the-top-8-ai-shifts/"><u>From Fact to Fable: The Top 8 AI Shifts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-simple-para-transferir-archivos-cr2-sin-costo-utilizar-el-servicio-en-linea-de-movavi/"><u>Guía Simple Para Transferir Archivos CR2 Sin Costo: Utilizar El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-story-with-vscos-editing-power-tools/"><u>In 2024, Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-online-extension-cost-analysis-insight/"><u>Switch Online Extension Cost Analysis Insight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212125458-warframe-update-problems-heres-how-you-can-successfully-resolve-them/"><u>Warframe Update Problems? Here's How You Can Successfully Resolve Them</u></a></li>
+</ul></div>
+

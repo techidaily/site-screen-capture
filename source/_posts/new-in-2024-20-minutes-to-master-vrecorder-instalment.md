@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, 20 Minutes To Master VRecorder Instalment"
-date: 2024-11-16T23:28:49.205Z
-updated: 2024-11-20T01:19:03.269Z
+date: 2024-11-16T21:37:39.920Z
+updated: 2024-11-19T21:35:52.610Z
 tags: 
   - screen-recording
   - ai video
@@ -75,10 +75,6 @@ Edit videos with thousands of effects and tools
 
 ## Best Alternatives to VRecorder
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apowerrec for Android
 
 ApowerREC from Apowersoft for PC (though it is available for phones as well) is one of the best screen recording apps that lets you tweak audio, video, mouse, window size, and others offering a clearly laid out screen recording experience like no other.
@@ -88,7 +84,7 @@ ApowerREC from Apowersoft for PC (though it is available for phones as well) is 
 ApowerREC is a free screen recorder that you can use to record full HD screen or record camera along with screen simultaneously. Being free from ads and watermarks, this app allows you to record games, live streams, video chats, and other screen activities easily without rooting your phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ScreenCam
@@ -98,98 +94,15 @@ ScreenCam does not need any root access to record your screen and works on all p
 ![screencam](https://images.wondershare.com/filmora/article-images/screencam-android-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Choose from different resolutions, frames per second, and bitrate for the best choice of quality and size of the video, or make use of the app shortcut in android 7.1 nougat or in any custom launcher supporting app shortcuts. There are no ads or any price attached to it. ScreenCam is the best lightweight and functional screen recorder available on the market
-
-### Apowersoft Android Recorder
-
-Apowersoft Android Recorder has been highly appreciated for it allows for the display of the Android screen activity to the PC as well as capture it into a video or an image.
-
-With the help of Apowersoft Android Recorder, it will be much easier for users to save and share those important moments on Android portable devices. Every single step is easy to handle and all your needs can be satisfied without hassle.
-
-After you record your video, you can edit it. V Recorder lets you trim your video into clips and combine them, add music to the background, and adjust the volume. Once you're done, you can save the video to your smartphone or share it directly on any social network.
-
-V Recorder is a powerful app for recording videos of your smartphone's screen in excellent quality and without any time limits.
-
-**How to Download VRecorder And Install With MEmu**
-
-To install VRecorder on your windows PC, first of all, you need to have an Android app player or an android emulator. Bluestacks, Nox app player, ko player, etc. are examples of Android app players. The steps are;
-
-![v recorder for android](https://images.wondershare.com/filmora/article-images/v-recorder-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-* Download MEmu for installing VRecorder on your computer.
-* Download VRecorder from APKPure.
-* Open on VRecorder and click the APK button.
-* Click on the VRecorder file on your file once VRecorder directs you to it.
-* The VRecorder will now finish installing on your computer.
-
-**How to Download VRecorder And Install For Mac**
-
-Using VRecorder for PC isn't that tough for Mac users. All you need is to log in to the Apple store with your Apple account and then install VRecorder. You can also use Bluestacks or Nox app player for your Mac PC, and the steps are the same as Windows PC.
-
-* Click on the Continue To App button on our website. This will redirect you to Google Play.
-* Once the vRecorder is shown in the Google Play listing of your Android device, you can start its download and installation. Tap on the Install button located below the search bar and to the right of the app icon.
-* A pop-up window with the permissions required by vRecorder will be shown. Click on Accept to continue the process.
-* VRecorder will be downloaded onto your device, displaying progress. Once the download completes, the installation will start and you'll get a notification after the installation is finished.
-
-## Key Features of V Recorder
-
-* You can easily hide the recording window for the frameless video while recording or capturing the screen, change the aspect ratio to widescreen, vertical, or square.
-* Simple interface, easy to record games while playing, record video calls or live shows, capture screenshots, rec screen, and edit images.
-* This video capture provides high quality and customized settings, supports HD video, both portrait, and landscape video orientation. With this screen recorder, you can change the video settings at will to meet your needs and record clear video.
-* It only takes one touch to start recording on your phone with sound, one single tap to pause/resume at any time.
-* Record internal audio, this screen recorder supports recording internal sound.
-* Custom floating window: replace the default floating button with any feature you like.
-* Facecam Recorder: enable the camera to capture your reactions while recording.
-
-##### Filmora Screen Recorder and Editor
-
-Record computer screen and webcam
-
-Capture system and microphone audio
-
-Customize target recording area
-
-Edit videos with thousands of effects and tools
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-## Best Alternatives to VRecorder
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Apowerrec for Android
-
-ApowerREC from Apowersoft for PC (though it is available for phones as well) is one of the best screen recording apps that lets you tweak audio, video, mouse, window size, and others offering a clearly laid out screen recording experience like no other.
-
-![apowerrec](https://images.wondershare.com/filmora/article-images/apowerrec-android-recorder.jpg)
-
-ApowerREC is a free screen recorder that you can use to record full HD screen or record camera along with screen simultaneously. Being free from ads and watermarks, this app allows you to record games, live streams, video chats, and other screen activities easily without rooting your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### ScreenCam
-
-ScreenCam does not need any root access to record your screen and works on all phones with Android Lollipop 5.0 and above. You can also record audio along with the screen recording and get it beautifully combined with the recorded video.
-
-![screencam](https://images.wondershare.com/filmora/article-images/screencam-android-recorder.jpg)
-
-Choose from different resolutions, frames per second, and bitrate for the best choice of quality and size of the video, or make use of the app shortcut in android 7.1 nougat or in any custom launcher supporting app shortcuts. There are no ads or any price attached to it. ScreenCam is the best lightweight and functional screen recorder available on the market
-
 ### Apowersoft Android Recorder
 
 Apowersoft Android Recorder has been highly appreciated for it allows for the display of the Android screen activity to the PC as well as capture it into a video or an image.
@@ -259,10 +172,14 @@ ScreenCam does not need any root access to record your screen and works on all p
 
 ![screencam](https://images.wondershare.com/filmora/article-images/screencam-android-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose from different resolutions, frames per second, and bitrate for the best choice of quality and size of the video, or make use of the app shortcut in android 7.1 nougat or in any custom launcher supporting app shortcuts. There are no ads or any price attached to it. ScreenCam is the best lightweight and functional screen recorder available on the market
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apowersoft Android Recorder
@@ -295,6 +212,89 @@ Using VRecorder for PC isn't that tough for Mac users. All you need is to log in
 * Once the vRecorder is shown in the Google Play listing of your Android device, you can start its download and installation. Tap on the Install button located below the search bar and to the right of the app icon.
 * A pop-up window with the permissions required by vRecorder will be shown. Click on Accept to continue the process.
 * VRecorder will be downloaded onto your device, displaying progress. Once the download completes, the installation will start and you'll get a notification after the installation is finished.
+
+## Key Features of V Recorder
+
+* You can easily hide the recording window for the frameless video while recording or capturing the screen, change the aspect ratio to widescreen, vertical, or square.
+* Simple interface, easy to record games while playing, record video calls or live shows, capture screenshots, rec screen, and edit images.
+* This video capture provides high quality and customized settings, supports HD video, both portrait, and landscape video orientation. With this screen recorder, you can change the video settings at will to meet your needs and record clear video.
+* It only takes one touch to start recording on your phone with sound, one single tap to pause/resume at any time.
+* Record internal audio, this screen recorder supports recording internal sound.
+* Custom floating window: replace the default floating button with any feature you like.
+* Facecam Recorder: enable the camera to capture your reactions while recording.
+
+##### Filmora Screen Recorder and Editor
+
+Record computer screen and webcam
+
+Capture system and microphone audio
+
+Customize target recording area
+
+Edit videos with thousands of effects and tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Best Alternatives to VRecorder
+
+### Apowerrec for Android
+
+ApowerREC from Apowersoft for PC (though it is available for phones as well) is one of the best screen recording apps that lets you tweak audio, video, mouse, window size, and others offering a clearly laid out screen recording experience like no other.
+
+![apowerrec](https://images.wondershare.com/filmora/article-images/apowerrec-android-recorder.jpg)
+
+ApowerREC is a free screen recorder that you can use to record full HD screen or record camera along with screen simultaneously. Being free from ads and watermarks, this app allows you to record games, live streams, video chats, and other screen activities easily without rooting your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### ScreenCam
+
+ScreenCam does not need any root access to record your screen and works on all phones with Android Lollipop 5.0 and above. You can also record audio along with the screen recording and get it beautifully combined with the recorded video.
+
+![screencam](https://images.wondershare.com/filmora/article-images/screencam-android-recorder.jpg)
+
+Choose from different resolutions, frames per second, and bitrate for the best choice of quality and size of the video, or make use of the app shortcut in android 7.1 nougat or in any custom launcher supporting app shortcuts. There are no ads or any price attached to it. ScreenCam is the best lightweight and functional screen recorder available on the market
+
+### Apowersoft Android Recorder
+
+Apowersoft Android Recorder has been highly appreciated for it allows for the display of the Android screen activity to the PC as well as capture it into a video or an image.
+
+With the help of Apowersoft Android Recorder, it will be much easier for users to save and share those important moments on Android portable devices. Every single step is easy to handle and all your needs can be satisfied without hassle.
+
+After you record your video, you can edit it. V Recorder lets you trim your video into clips and combine them, add music to the background, and adjust the volume. Once you're done, you can save the video to your smartphone or share it directly on any social network.
+
+V Recorder is a powerful app for recording videos of your smartphone's screen in excellent quality and without any time limits.
+
+**How to Download VRecorder And Install With MEmu**
+
+To install VRecorder on your windows PC, first of all, you need to have an Android app player or an android emulator. Bluestacks, Nox app player, ko player, etc. are examples of Android app players. The steps are;
+
+![v recorder for android](https://images.wondershare.com/filmora/article-images/v-recorder-android.jpg)
+
+* Download MEmu for installing VRecorder on your computer.
+* Download VRecorder from APKPure.
+* Open on VRecorder and click the APK button.
+* Click on the VRecorder file on your file once VRecorder directs you to it.
+* The VRecorder will now finish installing on your computer.
+
+**How to Download VRecorder And Install For Mac**
+
+Using VRecorder for PC isn't that tough for Mac users. All you need is to log in to the Apple store with your Apple account and then install VRecorder. You can also use Bluestacks or Nox app player for your Mac PC, and the steps are the same as Windows PC.
+
+* Click on the Continue To App button on our website. This will redirect you to Google Play.
+* Once the vRecorder is shown in the Google Play listing of your Android device, you can start its download and installation. Tap on the Install button located below the search bar and to the right of the app icon.
+* A pop-up window with the permissions required by vRecorder will be shown. Click on Accept to continue the process.
+* VRecorder will be downloaded onto your device, displaying progress. Once the download completes, the installation will start and you'll get a notification after the installation is finished.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Key Features of V Recorder
 
@@ -370,19 +370,22 @@ V Recorder is a powerful app for recording videos of your smartphone's screen in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2023s-ultimate-guide-apeaksoft-screen-capture-tech-unveiled/"><u>[New] 2023'S Ultimate Guide Apeaksoft Screen Capture Tech Unveiled</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-gifify-your-tweet-a-costless-how-to-guide-for-2024/"><u>[Updated] Gifify Your Tweet A Costless How-To Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>[Updated] In 2024, Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-on-finding-and-crafting-spiritual-ringtones/"><u>[Updated] Step-by-Step on Finding and Crafting Spiritual Ringtones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-plotting-success-on-youtube-for-2024/"><u>[Updated] The Art of Plotting Success on YouTube for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-the-secrets-of-av1-codec-mastery-for-2024/"><u>[Updated] Unveiling the Secrets of AV1 Codec Mastery for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/4-top-recommended-free-mkv-combining-software-options/"><u>4 Top Recommended Free MKV Combining Software Options</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/deciphering-the-secrets-of-itunes-video-mastery-for-2024/"><u>Deciphering the Secrets of iTunes Video Mastery for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/digital-rehearsal-mastery-in-recording-streaming-audio-for-2024/"><u>Digital Rehearsal Mastery in Recording Streaming Audio for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-unlocking-stuck-battlenet-login/"><u>Expert Guide to Unlocking Stuck Battle.net Login</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-best-budget-screen-grabber-for-smartphones/"><u>In 2024, Best Budget Screen Grabber for Smartphones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pursuing-perfection-on-track-compiling-top-5-simulators/"><u>In 2024, Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-baldurs-gate-performance-avoid-frustrations-learn-6-fixes-for-seamless-gameplay/"><u>Mastering Baldur's Gate Performance: Avoid Frustrations - Learn 6 Fixes for Seamless Gameplay!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1715701155238-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-ethical-download-strategies-for-youtube-to-mp4-files/"><u>[New] 2024 Approved Ethical Download Strategies for YouTube to MP4 Files</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-instagrams-reels-and-stories-differences/"><u>[New] Decoding Instagram's Reels and Stories Differences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-energetic-speaker-review-iteration-viii-for-2024/"><u>[New] Energetic Speaker Review - Iteration VIII for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>[New] From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-remove-or-replace-the-background-in-logitech/"><u>[New] How to Remove or Replace the Background in Logitech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-ppt-a-comprehensive-voice-guidance-manual/"><u>[New] In 2024, Mastering PPT A Comprehensive Voice Guidance Manual</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-editsuite-evaluation-detailed-article/"><u>[Updated] In 2024, EditSuite Evaluation – Detailed Article</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-presentation-mastery-8-top-screen-record-comparisons/"><u>[Updated] Presentation Mastery 8 Top Screen Record Comparisons</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac-for-2024/"><u>[Updated] Pro-Level Playback Advanced Techniques for Capturing Minecraft Games on Mac for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-agriculture-adventures-the-ultimate-farmers-game-guide/"><u>2024 Approved Agriculture Adventures The Ultimate Farmer's Game Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-the-moment-professional-techniques-in-hdr-portraiture/"><u>In 2024, Capture the Moment Professional Techniques in HDR Portraiture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/maintaining-meetings-in-google-recorder/"><u>Maintaining Meetings in Google Recorder</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/pc/"><u>PC 動画の向き変更が簡単に!【縦横自由選択ソフト】</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/techniques-for-flawless-live-broadcasting-of-rl-games/"><u>Techniques for Flawless Live Broadcasting of RL Games</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-huawei-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Huawei .</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-file-lockdown-post-recovery-attempt/"><u>Video File Lockdown Post-Recovery Attempt</u></a></li>
 </ul></div>
 

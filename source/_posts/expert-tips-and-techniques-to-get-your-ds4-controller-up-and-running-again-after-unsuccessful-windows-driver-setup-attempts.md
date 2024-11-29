@@ -1,7 +1,7 @@
 ---
 title: Expert Tips and Techniques to Get Your DS4 Controller Up & Running Again After Unsuccessful Windows Driver Setup Attempts
-date: 2024-11-18T09:39:14.982Z
-updated: 2024-11-20T00:59:39.797Z
+date: 2024-11-22T20:45:39.426Z
+updated: 2024-11-29T00:00:27.845Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -37,20 +41,20 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/DLC-uncheck-install.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, you should be able to fix the game stuck at 57.4/64 GB issue. If this didn’t work for you, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Change Steam download server
 
@@ -60,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
   
 ![change the Steam download server location](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Region** section, choose another download region in the drop-down menu. According to the tests, Asian servers can substantially increase your download speed. It’s probably because there’s less traffic congestion.  
   
 ![change Steam download server](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location-donwnload-region.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the changes, resume your download to check if this boosts your download speed.
 
@@ -87,17 +91,9 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
   
 ![set Steam's priority to high](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) You’re directed to the**Details** tab and**steam.exe** will be highlighted. Right-click it and select**Set priority > High** .  
   
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, your game’s unpacking speed should be boosted.
 
@@ -126,6 +122,10 @@ Here’s how it works:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and try to resume your download to check if the download progress goes fast now.
@@ -144,18 +144,18 @@ Here’s how it works:
   
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
   
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Set a bandwidth limit
@@ -191,20 +191,24 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premier-imagery-unboxing-analysis/"><u>[New] 2024 Approved Premier Imagery Unboxing Analysis</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-pick-your-favorite-top-ios-apps-for-facebook-video-loading/"><u>[New] Pick Your Favorite Top iOS Apps for Facebook Video Loading</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premiere-guide-to-affordable-open-access-images/"><u>[New] Premiere Guide to Affordable, Open-Access Images</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-straightforward-video-recorders-for-win10-for-2024/"><u>[New] Straightforward Video Recorders for Win10 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quickcapture-vs-recordify-comparative-recorder-analysis-2023-for-2024/"><u>[Updated] 'QuickCapture' Vs 'Recordify' Comparative Recorder Analysis 2023 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally/"><u>[Updated] A Gamer's Treasure Chest Top 5 Ways to Record VR Games Professionally</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-resuscitating-dormant-connections-with-your-obs-cam/"><u>[Updated] Resuscitating Dormant Connections with Your OBS Cam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-get-fooled-the-truth-about-non-existent-windows-clients-for-chatgpt-they-might-harbor-viruses/"><u>Don't Get Fooled: The Truth About Non-Existent Windows Clients for ChatGPT - They Might Harbor Viruses</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/explora-las-caracteristicas-avanzadas-del-entorno-de-restauracion-de-windows-11/"><u>Explora Las Características Avanzadas Del Entorno De Restauración De Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-11x-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme 11X 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/lensbisection-inspection/"><u>LensBisection Inspection</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/obs-broadcasting-your-skype-voice-capture-methods-for-2024/"><u>OBS Broadcasting Your Skype Voice Capture Methods for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210964282-9781088208946-witchcraft-therapy/"><u>Witchcraft Therapy | Free Book</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfect-your-gaming-capture-console-gameplay-on-a-computer/"><u>[New] 2024 Approved Perfect Your Gaming Capture Console Gameplay on a Computer</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-engaging-enthusiasts-30plus-revolutionary-bio-strategies-for-maximum-popularity-on-filmoras-tiktok-platform/"><u>[New] Engaging Enthusiasts 30+ Revolutionary Bio Strategies for Maximum Popularity on Filmora's TikTok Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminating-insights-your-comprehensive-buying-guide-for-a-4k-display/"><u>[New] Illuminating Insights Your Comprehensive Buying Guide for a 4K Display</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-chart-a-course-to-success-youtube-studio-blueprint/"><u>[New] In 2024, Chart a Course to Success YouTube Studio Blueprint</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-from-play-to-pause-save-games-via-obs/"><u>[New] In 2024, From Play to Pause Save Games via OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-sorbet-surveillance-complete-guide-to-ice-cream-screen-capture/"><u>[New] In 2024, Sorbet Surveillance Complete Guide to Ice Cream Screen Capture</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-networked-narrative-recorder-for-2024/"><u>[New] Networked Narrative Recorder for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-vimeo-vs-youtube-differences-between-vimeo-and-youtube-for-2024/"><u>[New] Vimeo vs YouTube Differences Between Vimeo and YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-tips-for-designing-engaging-fb-video-covers/"><u>[Updated] 2024 Approved Essential Tips for Designing Engaging FB Video Covers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-conquering-capture-a-detailed-walkthrough-for-ps4-recordings/"><u>[Updated] Conquering Capture A Detailed Walkthrough for PS4 Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-master-classic-ps2-games-on-android-with-our-top-picks/"><u>[Updated] Master Classic PS2 Games on Android with Our Top Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-snips-on-mac-top-5-picks-unveiled/"><u>[Updated] Mastering Snips on Mac Top 5 Picks Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-vs-streamlabs/"><u>[Updated] OBS vs Streamlabs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-ringers-guide-shaping-iphone-sounds/"><u>2024 Approved The Ultimate Ringer's Guide Shaping iPhone Sounds</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-bugcodendis-driver-bug-a-complete-fix-manual/"><u>How to Overcome BUGCODE_NDIS Driver Bug: A Complete Fix Manual</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-gaming-collection-best-of-action-adventure-classics/"><u>In 2024, Essential Gaming Collection Best of Action-Adventure Classics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-your-sims-4-live-action/"><u>In 2024, Perfecting Your Sims 4 Live Action</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-screen-capture-apps-for-idevices/"><u>In 2024, Top Screen Capture Apps for iDevices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-11-18T11:33:29.545Z
-updated: 2024-11-19T18:57:17.365Z
+date: 2024-11-24T22:45:24.697Z
+updated: 2024-11-28T20:29:25.993Z
 tags: 
   - screen-recording
   - ai video
@@ -39,15 +39,15 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -55,15 +55,15 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -107,6 +107,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Roguelite Games
@@ -120,7 +124,7 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -136,7 +140,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
@@ -144,10 +148,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,24 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-dungeon-dominance-top-ten-rogue-classics-for-2024/"><u>[New] Dungeon Dominance Top Ten Rogue Classics for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-elevate-conference-calls-a-guide-to-10-cost-free-apps/"><u>[New] Elevate Conference Calls A Guide to 10 Cost-Free Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-curate-engaging-content-with-top-igtv-editor-tools/"><u>[New] In 2024, Curate Engaging Content with Top IGTV Editor Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-diy-techniques-transforming-smartphones-into-webcams/"><u>[Updated] DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-end-of-struggle-operational-obs-camera/"><u>[Updated] End of Struggle Operational OBS Camera</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-10-top-free-screen-recorder-mac/"><u>[Updated] In 2024, 10 Top Free Screen Recorder Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-of-breed-top-9-microphones-recorders-online/"><u>[Updated] In 2024, Best of Breed Top 9 Microphones Recorders Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-quick-access-to-quality-sound-with-easy-vrecorder-downloads/"><u>[Updated] In 2024, Quick Access to Quality Sound with Easy VRecorder Downloads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-revolutionary-tips-to-upgrade-your-webinar-recordings/"><u>[Updated] In 2024, Revolutionary Tips to Upgrade Your Webinar Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-pioneers-guide-to-documenting-private-whatsapp-discussions-for-2024/"><u>[Updated] The Pioneer's Guide to Documenting Private WhatsApp Discussions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-10-best-free-mmorpg-games-you-can-find/"><u>[Updated] Top 10 Best Free MMORPG Games You Can Find</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/desktops-in-focus-free-capture-tutorials-for-2024/"><u>Desktops in Focus - Free Capture Tutorials for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-the-silent-modem-conexant-smartaudio-hd-fixes-under-windows-11/"><u>How to Solve the Silent Modem: Conexant SmartAudio HD Fixes Under Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs-for-2024/"><u>Icebound Battles Spectacular Moments From '22'S Snowboard Cross Faceoffs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/seamlessly-mix-melodies-in-social-media-posts-for-2024/"><u>Seamlessly Mix Melodies in Social Media Posts for 2024</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2007-online-add-signature-to-word-2007-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2007 Online - Add Signature to Word 2007 for Free</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-fidelity-at-home-mastering-quality-recordings/"><u>Sound Fidelity at Home Mastering Quality Recordings</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-realme-c67-4g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme C67 4G FRP Bypass</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/bes-essential-view-total-to-secure-income/"><u>YouTube's Essential View Total to Secure Income</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-inside-screencasting-obs-tools-analyzed-for-optimal-broadcasts-for-2024/"><u>[New] Inside Screencasting OBS Tools Analyzed for Optimal Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mobile-mastery-using-phone-as-a-camera-for-recording/"><u>[New] Mobile Mastery Using Phone as a Camera for Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-prime-screen-recording-tools-for-no-ad-android/"><u>[Updated] 2024 Approved Prime Screen Recording Tools for No-Ad Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-boosting-gamers-skills-with-accurate-xbox-captures-for-2024/"><u>[Updated] Boosting Gamers' Skills with Accurate Xbox Captures for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cost-efficient-top-screen-recorder-apps-for-chromeos-for-2024/"><u>[Updated] Cost-Efficient Top Screen Recorder Apps for ChromeOS for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-the-magic-searching-for-photos-on-pexels/"><u>2024 Approved Unleashing the Magic Searching for Photos on Pexels</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-11-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 11 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-tecno-spark-20-proplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Spark 20 Pro+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210346028-9782226460554-les-cles-de-lesoterisme-chakras/"><u>Les Clés de l'ésotérisme - Chakras | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-chatgpt-shared-linking/"><u>Navigating the World of ChatGPT Shared Linking</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/siege-showdowns-top-10-royale-arena-fighters-for-2024/"><u>Siege Showdowns Top 10 Royale Arena Fighters for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-proplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 Pro+ on Windows?</u></a></li>
 </ul></div>
 

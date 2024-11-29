@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2024-11-17T06:52:52.774Z
-updated: 2024-11-20T11:24:53.102Z
+date: 2024-11-24T17:33:18.730Z
+updated: 2024-11-29T01:03:48.513Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -66,6 +66,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -104,10 +108,14 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -118,10 +126,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -139,14 +143,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,15 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-10-best-live-streaming-services-for-church-you-should-know-for-2024/"><u>[New] 10 Best Live Streaming Services for Church You Should Know for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-approaches-to-in-game-auditory-logging/"><u>[New] Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-unmissable-virtual-realms-for-gamers/"><u>[New] In 2024, Unmissable Virtual Realms for Gamers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-transition-turning-mac-videos-into-discs/"><u>[New] Seamless Transition Turning Mac Videos Into Discs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-steer-clear-of-soundtracked-sessions-how-to-mute-participants-in-gomeet-for-2024/"><u>[New] Steer Clear of Soundtracked Sessions How to Mute Participants in GoMeet for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>[Updated] Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/countdown-configuration-guide-for-obs-enthusiasts/"><u>Countdown Configuration Guide for OBS Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-6-premier-nft-services-boosting-artist-imagination/"><u>Discover 6 Premier NFT Services Boosting Artist Imagination</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/identifying-10-leading-vr-devices-for-your-pc-for-2024/"><u>Identifying 10 Leading VR Devices for Your PC for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-taking-screen-photos-with-an-alcatel-one-touch-smartphone/"><u>Step-by-Step Instructions for Taking Screen Photos with an Alcatel One Touch Smartphone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-record-films-seamlessly-across-tech-devices/"><u>[New] 2024 Approved How to Record Films Seamlessly Across Tech Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-copyright-laws-and-screencasting-of-online-video-platforms-youtube-for-2024/"><u>[New] Copyright Laws and Screencasting of Online Video Platforms (YouTube) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-youtube-stream-the-wirecast-way/"><u>[New] In 2024, Elevating Your YouTube Stream The WireCast Way</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-revolutionary-recorders-outside-the-native-windows-ecosystem-for-2024/"><u>[New] Revolutionary Recorders Outside the Native Windows Ecosystem for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-echoenthusiast-auditory-review-exploration/"><u>[Updated] 2024 Approved EchoEnthusiast Auditory Review Exploration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-motivational-speaker-appraisal-edition-8/"><u>[Updated] 2024 Approved Motivational Speaker Appraisal, Edition 8</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-focus-frameworks-key-tools-to-brighten-videos/"><u>[Updated] In 2024, Focus Frameworks Key Tools to Brighten Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-premier-producer-a-choreography-of-colors-and-tones/"><u>[Updated] In 2024, Premier Producer A Choreography of Colors & Tones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-must-visit-web-resources-for-text-aesthetics-and-functionality-for-2024/"><u>[Updated] Must-Visit Web Resources for Text Aesthetics & Functionality for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-livestreaming-seminars-at-no-expense-for-2024/"><u>[Updated] The Art of Livestreaming Seminars at No Expense for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-the-essence-of-sims-gaming/"><u>2024 Approved Capturing the Essence of Sims Gaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-google-pixel-fold-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Google Pixel Fold Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-blowout-save-big-with-this-deal-250-off-the-versatile-power-packed-dell-inspiron-16-inch-2-in-1-laptop/"><u>Black Friday Blowout! Save Big with This Deal: $250 Off the Versatile, Power-Packed Dell Inspiron 16-Inch 2-in-1 Laptop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/game-changing-tips-master-the-art-of-minecraft-capture-on-a-mac-for-2024/"><u>Game-Changing Tips Master the Art of Minecraft Capture on a Mac for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/gaming-memories-made-easy-with-fraps-for-2024/"><u>Gaming Memories Made Easy with Fraps for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-instant-grooves-lasting-stories-making-sense-of-music-shorts/"><u>In 2024, Instant Grooves, Lasting Stories Making Sense of Music Shorts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveil-the-power-of-vrecorder-installs-demystified-for-2024/"><u>Unveil the Power of VRecorder Installs Demystified for 2024</u></a></li>
 </ul></div>
 

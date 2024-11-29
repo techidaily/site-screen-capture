@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How To Record Your Screen On Windows 8\""
-date: 2024-11-12T17:27:46.077Z
-updated: 2024-11-20T06:09:44.175Z
+date: 2024-11-23T19:33:09.715Z
+updated: 2024-11-28T21:40:34.915Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,17 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
@@ -64,10 +72,6 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Use Free Chrome Extension
 
 [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
@@ -78,6 +82,10 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Steps to download and use it to record computer screen:
 
  **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
@@ -87,10 +95,6 @@ Steps to download and use it to record computer screen:
  **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
 
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Use Free Recording Software
 
@@ -106,12 +110,16 @@ Here's the stpes:
 
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -119,10 +127,6 @@ Here's the stpes:
 These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -139,24 +143,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-advanced-tricks-for-ios-screenshots-just-got-updated-for-2024/"><u>[New] Advanced Tricks for iOS Screenshots - Just Got Updated for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-a-blended-media-experience-with-tunes/"><u>[New] Crafting a Blended Media Experience with Tunes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-focused-freedom-advanced-mounting-solutions-for-phonescams/"><u>[New] In 2024, Focused Freedom Advanced Mounting Solutions for Phones/Cams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-enlightened-techniques-to-preserve-your-iptv-streams/"><u>[Updated] 2024 Approved Enlightened Techniques to Preserve Your IPTV Streams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-methods-blurring-the-line-between-work-and-distractions/"><u>[Updated] 2024 Approved Innovative Methods Blurring the Line Between Work and Distractions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-everlasting-visual-capture-services-for-2024/"><u>[Updated] Everlasting Visual Capture Services for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-advice-on-screen-recorders-for-zoom-meetings-for-2024/"><u>[Updated] Expert Advice on Screen Recorders for Zoom Meetings for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-countdown-best-zombie-games-ranked/"><u>[Updated] The Ultimate Countdown Best Zombie Games Ranked</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/biz-youtubes-top-10-for-quick-channel-setup-for-2024/"><u>Best Biz YouTubes Top 10 for Quick Channel Setup for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elite-ears-microphones-for-lectures/"><u>Elite Ears Microphones for Lectures</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-netgear-orbi-rbs50y-performance-in-outdoor-settings-is-it-the-ultimate-backyard-wi-fi-solution/"><u>Evaluating Netgear Orbi RBS50Y Performance in Outdoor Settings: Is It the Ultimate Backyard Wi-Fi Solution?</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-x50i-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/free-screen-recording-software-windows-and-mac-for-2024/"><u>Free Screen Recording Software [Windows & Mac] for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instaloops-unlocked-the-addictive-power-of-instagrams-boomers/"><u>InstaLoops Unlocked The Addictive Power of Instagram's Boomers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/fied-invisible-shortcut-on-youtube-for-2024/"><u>Rectified Invisible Shortcut on YouTube for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968636573-roccat-gaming-mouse-manager-free-download-now/"><u>Roccat Gaming Mouse Manager - Free Download Now</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-5-ios-apps-for-seamless-psp-gaming-experience-for-2024/"><u>Top 5 iOS Apps For Seamless PSP Gaming Experience for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-picks-for-clear-vision-and-safeguarded-peepers-against-blue-spectrum-emission/"><u>Top Picks for Clear Vision and Safeguarded Peepers Against Blue Spectrum Emission</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-graphics-gear-for-4k-media/"><u>Ultimate Graphics Gear for 4K Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-vanguards-choice-top-7-fps-wonders/"><u>[New] 2024 Approved Vanguard's Choice Top 7 FPS Wonders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology/"><u>[New] In 2024, Techniques for Enhancing Game Stream Videos with AI Portrait Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unleashing-the-power-of-screen-capture-with-hp-notebooks/"><u>[New] In 2024, Unleashing the Power of Screen Capture with HP Notebooks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-recommendations-high-quality-mac-video-grabber-tools-for-2024/"><u>[Updated] Expert Recommendations High-Quality Mac Video Grabber Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-teaching-essentials-choosing-screen-recording-software/"><u>2024 Approved Teaching Essentials Choosing Screen Recording Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722870442249-find-out-what-we-consider-the-most-fantastic-current-ipad-bargains/"><u>Find Out What We Consider the Most Fantastic Current iPad Bargains!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/gooview-chromes-in-os-screen-recorder-for-2024/"><u>GooView Chrome's In-OS Screen Recorder for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 11X 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>In 2024, Perfect Meeting Aesthetics How to Blur Video Backgrounds</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209719034-9781547573110-la-vida-en-annwn/"><u>La vida en Annwn | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebooks-multilingual-publishing-features/"><u>Navigating Facebook's Multilingual Publishing Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-recorder-rivalry-unveiling-the-strengths-of-bandicam-and-camtasia/"><u>Screen Recorder Rivalry Unveiling the Strengths of Bandicam & Camtasia</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208863446-thyroid-lymphoma-while-uncommon-can-be-more-prevalent-in-individuals-with-a-history-of-autoimmune-thyroiditis-like-hashimotos-disease/"><u>Thyroid Lymphoma, While Uncommon, Can Be More Prevalent in Individuals with a History of Autoimmune Thyroiditis Like Hashimoto's Disease.</u></a></li>
 </ul></div>
 

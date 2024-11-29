@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Comprehensive iDevice Screenplay Techniques\""
-date: 2024-08-10T01:06:58.390Z
-updated: 2024-08-11T01:06:58.390Z
+date: 2024-11-21T23:31:43.326Z
+updated: 2024-11-28T20:22:22.263Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 # How to Record iPhone/iPad’s Screen
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -47,30 +44,40 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
 2. After you are done recording, open the control center again and tap on the screen recorder button again. Alternatively, you can also tap on the red notification on the top of your screen and tap Stop at the prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone/iPad screen recorder](https://images.wondershare.com/filmora/ios%20stop.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. This will stop the screen recording and the recorded video will be saved in the Photos app.
 
 That's the steps of how to record your iPhone screen in iOS 11 and later versions. If you want to edit the recorded video with some video editing apps, do not miss [the top 10 best video editors for iPhone and iPad](https://tools.techidaily.com/wondershare/filmora/download/).
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
@@ -86,23 +93,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
@@ -111,9 +101,6 @@ Key features:
 
 6\. Click on the red record button when you want to start recording.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
@@ -129,8 +116,9 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -139,11 +127,28 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-social-blade-for-profound-youtube-stats-analysis/"><u>[New] 2024 Approved Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-depth-look-at-macs-top-screen-capture-apps/"><u>[New] 2024 Approved In-Depth Look at Mac's Top Screen Capture Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-terraria-modifications-guide-for-2024/"><u>[New] Advanced Terraria Modifications Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-complete-obs-toolkit-for-flawless-instagram-streams-for-2024/"><u>[New] The Complete OBS Toolkit for Flawless Instagram Streams for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-crafting-new-tones-top-7-recording-changer-applications-reviewed/"><u>[Updated] Crafting New Tones Top 7 Recording Changer Applications Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows/"><u>[Updated] In 2024, Ultimate Guide to Choosing Winning Screen Recording Software for Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-laptop-and-mobile-entry-into-google-meet/"><u>[Updated] Laptop & Mobile Entry Into Google Meet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mac-users-guide-the-5-most-acclaimed-sniping-apps/"><u>2024 Approved Mac Users' Guide The 5 Most Acclaimed Sniping Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-clutter-tracking-high-space-consuming-items-on-windows/"><u>Clearing Clutter: Tracking High-Space Consuming Items on Windows</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-guide-how-to-transfer-blu-ray-movies-onto-an-ipad-device/"><u>Effortless Guide: How to Transfer Blu-Ray Movies Onto an iPad Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youthful-youtuber-writers-handbook-creating-channels-clutching-cash/"><u>In 2024, Youthful Youtuber’ Writers’ Handbook Creating Channels, Clutching Cash</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-titans-face-off-rtx-4070-super-meets-4080/"><u>Nvidia's Titans Face-Off: RTX 4070 Super Meets 4080</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-on-how-to-forever-eliminate-your-yahoo-email-account/"><u>Ultimate Guide on How to Forever Eliminate Your Yahoo Email Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-instagram-how-it-works-and-why-people-love-it/"><u>Unveiling Instagram: How It Works and Why People Love It</u></a></li>
+</ul></div>
+

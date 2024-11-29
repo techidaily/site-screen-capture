@@ -1,7 +1,7 @@
 ---
 title: "[New] Elevate Your Team's Productivity with Slack + Filmora Harmony"
-date: 2024-11-16T06:25:02.358Z
-updated: 2024-11-20T10:13:17.983Z
+date: 2024-11-26T23:06:27.990Z
+updated: 2024-11-28T21:11:36.299Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Create Slack Event](https://images.wondershare.com/filmora/article-images/create-slack-event.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3.Enter the details to schedule Slack meeting, including the date, duration, timing, etc. If you want to view the recommended Slack meeting timings, the guests must be connected to the Outlook calendar. Click on **Create**.
 
 ![Schedule Slack Meeting](https://images.wondershare.com/filmora/article-images/schedule-slack-meeting.jpg)
@@ -62,6 +66,14 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 5.Choose a channel to share the Slack meeting or copy the link to paste in other workspaces.
 
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Record Slack Meetings
 
@@ -83,33 +95,29 @@ Here is how you can record Slack meeting.
 
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4.**Allow**Zoom to access your data and enable the app.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7.Click on **Join** to start the meeting.
 
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
@@ -125,13 +133,13 @@ The settings tab in the video call enables you to create a name for the video ca
 
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -142,7 +150,7 @@ With this powerful tool and our guide at hand, you can transform your work life 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -160,17 +168,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-junior-jams-and-junction-gaming-for-2024/"><u>[New] Junior Jams & Junction Gaming for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-a-look-inside-vidmas-screen-recording-mechanics-for-2024/"><u>[Updated] A Look Inside Vidma's Screen Recording Mechanics for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-virtual-vanguards-identifying-the-top-7-fps-powerhouses-for-2024/"><u>[Updated] Virtual Vanguards Identifying the Top 7 FPS Powerhouses for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-memory-to-moments-share-images-seamlessly-today/"><u>2024 Approved From Memory to Moments Share Images Seamlessly Today</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-art-of-effective-online-engagement-on-fb/"><u>2024 Approved The Art of Effective Online Engagement on FB</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/8-premier-no-lag-screen-capture-tools/"><u>8 Premier No-Lag Screen Capture Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/classic-names-luna-oliver-bella-max-chloe-leo/"><u>Classic Names: Luna, Oliver, Bella, Max, Chloe, Leo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-secrets-behind-how-ai-black-boxes-work-and-why-they-matter/"><u>Exploring the Secrets Behind How AI Black Boxes Work and Why They Matter</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-enhance-your-digital-footprint-upload-tiktoks-on-twitter/"><u>In 2024, Enhance Your Digital Footprint Upload TikToks on Twitter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-visual-testimonial-advantage/"><u>In 2024, The Visual Testimonial Advantage</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/simplifying-your-approach-to-spanish-verbal-usage/"><u>Simplifying Your Approach to Spanish Verbal Usage</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-constant-crashes-in-no-rest-for-the-wicked-on-your-computer/"><u>Troubleshooting Constant Crashes in 'No Rest for the Wicked' On Your Computer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-adding-timers-utilizing-obs-for-countdown-features/"><u>[New] 2024 Approved Adding Timers Utilizing OBS for Countdown Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-apowersoft-revisited-comparative-review-of-screen-recording-tech/"><u>[Updated] 2024 Approved Apowersoft Revisited Comparative Review of Screen Recording Tech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-steps-for-capturing-iphone-screens/"><u>[Updated] 2024 Approved Efficient Steps for Capturing iPhone Screens</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-understanding-transient-suppression-via-audacity/"><u>[Updated] 2024 Approved Understanding Transient Suppression via Audacity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-hashtags-to-challenges-insta-meets-tiktok-for-2024/"><u>[Updated] From Hashtags to Challenges Insta Meets TikTok for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-selection-7-best-mac-video-apps/"><u>[Updated] Ideal Selection 7 Best Mac Video Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-content-impact-with-insights-from-social-blade-on-youtube/"><u>[Updated] Maximize Your Content Impact with Insights From Social Blade on YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-30-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-tutorial-for-zoom-and-gmail-users/"><u>In 2024, Comprehensive Tutorial for Zoom and Gmail Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-facebook-viewership-with-obs-broadcasts/"><u>In 2024, Enhancing Facebook Viewership with OBS Broadcasts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-tandc-for-better-privacy-control/"><u>New T&C for Better Privacy Control</u></a></li>
 </ul></div>
 

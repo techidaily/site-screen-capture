@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Ergodyne Topo Standing Desk Mat: A Solution to Reduce Workplace Strain"
-date: 2024-10-19T01:57:25.162Z
-updated: 2024-10-22T01:37:21.792Z
+date: 2024-11-27T19:54:22.909Z
+updated: 2024-11-28T23:39:20.886Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of the Ergodyne Topo Standing Desk Mat: A Solution to Reduce Workplace Strain"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/425lsqo6i1_7Vzb3ebrBxtVPgfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
 
@@ -66,14 +70,11 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/t8wI_yN2s_uIQ1leo87MmOnXxb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-5-0c39ec4e89eb45b094471681efec0e7d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Dark, sturdy, and feature-packed**
 
@@ -100,6 +101,10 @@ Lifewire / Zach Sweat
  Inside the case, the material has also been swapped from grey to black to continue the darker theme of the Series 2\. You’ll also notice the foam pad is no longer here, as that’s where the dock sits. This dock can be removed or used inside the case and attaches with a strong magnet. The last two parts of the case are unchanged from Series 1, with a mesh cradle for accessories on the top and a foam organizer to hold all the swappable thumbsticks and paddles when not in use.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -140,20 +145,10 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance/Durability: Enhanced performance and durability**
 
@@ -177,6 +172,10 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -187,20 +186,10 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
@@ -249,20 +238,18 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-four-straightforward-methods-for-lenovo-screenshots/"><u>[New] 2024 Approved Four Straightforward Methods for Lenovo Screenshots</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-edge-quick-frame-gatherer-5/"><u>[New] 2024 Approved Leading Edge Quick Frame Gatherer #5</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-expert-tips-for-seamless-iphone-screen-recordings-for-2024/"><u>[New] Expert Tips for Seamless iPhone Screen Recordings for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-freecam-x-live-streaming-software-reviewed/"><u>[New] In 2024, FreeCam X Live Streaming Software Reviewed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>[New] In 2024, Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-directsnap-recorder-for-modern-oses-for-2024/"><u>[Updated] DirectSnap Recorder for Modern OSes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-plug-in-proweries-expert-analysis/"><u>[Updated] PLUG-IN PROWERIES Expert Analysis</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-guardians-of-the-screen-the-best-webcam-cover-options/"><u>2024 Approved Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722623955693-ankerner-2-in-1-unbeatable-price-point-for-high-speed-in-car-charging-solutions-read-on-to-find-out-more/"><u>Anker'ner 2-in-1: Unbeatable Price Point for High Speed In-Car Charging Solutions - Read on to Find Out More!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-on-integrating-disneyplus-entertainment-platform-into-your-chromecast-system/"><u>Comprehensive Guide on Integrating Disney+ Entertainment Platform Into Your Chromecast System</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-elevate-your-storytelling-microsoft-video-editor-for-windows-10-8-and-7-users/"><u>In 2024, Elevate Your Storytelling Microsoft Video Editor for Windows 10, 8, and 7 Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-obs-issue-resolved-camera-fix/"><u>In 2024, OBS Issue Resolved - Camera Fix</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-p55-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Itel P55 5G Device</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/simplifying-slides-with-vimeo-video-integration-tutorial-for-2024/"><u>Simplifying Slides with Vimeo Video Integration Tutorial for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-cutting-edge-tech-for-flawless-4k-recordings/"><u>[New] 2024 Approved Cutting-Edge Tech for Flawless 4K Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-netflix-recording-mac-edition-6-essential-steps/"><u>[New] 2024 Approved Mastering Netflix Recording Mac Edition - 6 Essential Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-minimca-manorettes-simple-and-sleek-homes-in-mc-world/"><u>[New] In 2024, MiniMCA Manorettes Simple & Sleek Homes in MC World</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-take-control-of-your-webinars-a-guide-to-zoom-screensharing/"><u>[Updated] 2024 Approved Take Control of Your Webinars A Guide to Zoom Screensharing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-perfect-your-pitch-with-android-the-ultimate-list-of-voice-alteration-apps/"><u>2024 Approved Perfect Your Pitch with Android The Ultimate List of Voice Alteration Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-best-of-the-best-crafting-a-top-5-racing-game-selection/"><u>2024 Approved The Best of the Best Crafting a Top 5 Racing Game Selection</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/accelerate-your-business-launch-with-expert-strategies-from-yl-software/"><u>Accelerate Your Business Launch with Expert Strategies From YL Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/conveniently-connect-friends-across-os-platforms-using-skype-chats-for-2024/"><u>Conveniently Connect Friends Across OS Platforms Using Skype Chats for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-of-the-samsung-galaxy-watch-active-optimizing-personal-fitness-goals-with-ease/"><u>Expert Review of the Samsung Galaxy Watch Active: Optimizing Personal Fitness Goals with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-asus-motherboard-drivers-on-your-windows-pc-comprehensive-download-and-install-instructions/"><u>Get the Latest ASUS Motherboard Drivers on Your Windows PC – Comprehensive Download & Install Instructions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-instant-transcription-absolutely-complimentary/"><u>In 2024, Instant Transcription, Absolutely Complimentary</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978258490-quick-access-to-behringer-audio-drivers-download-without-delays/"><u>Quick Access to Behringer Audio Drivers: Download Without Delays</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-saving-solutions-a-critical-look-at-capturers-for-2024/"><u>Screen Saving Solutions A Critical Look at Capturers for 2024</u></a></li>
 </ul></div>
 

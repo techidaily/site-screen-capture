@@ -1,7 +1,7 @@
 ---
 title: Overcoming Hardware Recognition Issues in Rainbow Six Extraction – A Fix-Up Guide
-date: 2024-11-06T07:23:35.680Z
-updated: 2024-11-11T04:54:02.831Z
+date: 2024-11-24T22:36:24.104Z
+updated: 2024-11-28T17:38:54.840Z
 tags:
   - win11
   - win10
@@ -61,14 +61,11 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -85,17 +82,14 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -107,15 +101,12 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -135,6 +126,10 @@ If this doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -166,19 +161,16 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
 _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 3. If you don’t know how much RAM you have, press the**Windows key** and**R** to invoke the Run box. Then type in**msinfo32** and click**OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
@@ -196,6 +188,10 @@ If your game still crashes, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
@@ -217,26 +213,12 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -248,6 +230,10 @@ If this doesn’t solve your problem, try the last fix.
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
@@ -263,14 +249,15 @@ If this doesn’t solve your problem, try the last fix.
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Known issues on Sonic studio virtual mixer driver
 
@@ -278,10 +265,7 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -307,21 +291,16 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-dividing-devices-top-cam-rating-review/"><u>[New] 2024 Approved Dividing Devices Top Cam Rating Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-reimagine-your-farm-in-stardew-valley-with-these-7-mods/"><u>[New] 2024 Approved Reimagine Your Farm in Stardew Valley with These 7 Mods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-5-outstanding-racing-simulations-for-gamers-for-2024/"><u>[New] 5 Outstanding Racing Simulations for Gamers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-advanced-editing-with-magix-vpx-features-on-steroids/"><u>[New] In 2024, Advanced Editing with Magix VPX Features on Steroids</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-improve-productivity-learn-to-record-macs-screen-using-shortcut-keys/"><u>[New] In 2024, Improve Productivity Learn to Record Mac's Screen Using Shortcut Keys</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-strategies-for-leveraging-the-question-sticker-on-instagram/"><u>[New] In 2024, The Ultimate Strategies for Leveraging the Question Sticker on Instagram</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-conquer-gopro-time-lapse-video-creation-like-a-pro-for-2024/"><u>[Updated] Conquer GoPro Time Lapse Video Creation Like a Pro for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-getting-started-with-adobe-presenter-video-recordings/"><u>[Updated] Getting Started with Adobe Presenter Video Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfect-play-5-outstanding-gba-console-emulators-on-desktop-pcs/"><u>[Updated] In 2024, Perfect Play 5 Outstanding GBA Console Emulators on Desktop PCs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-taking-control-advanced-techniques-for-gaming-capture-on-windows-11/"><u>[Updated] Taking Control Advanced Techniques for Gaming Capture on Windows 11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-music-law-guide-for-instagram-users-for-2024/"><u>[Updated] The Music Law Guide for Instagram Users for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unlocking-the-power-of-voice-transcription-in-whatsapp-recording/"><u>[Updated] Unlocking the Power of Voice Transcription in WhatsApp Recording</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-k11x-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo K11x Location Settings | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-obstacles-in-implementing-digital-twin-technology-a-guide-to-the-top-7-hurdles-for-enterprises/"><u>Overcoming Obstacles in Implementing Digital Twin Technology: A Guide to the Top 7 Hurdles for Enterprises</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/speedy-strategies-storing-slideshow-scripts-for-2024/"><u>Speedy Strategies Storing Slideshow Scripts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-parrots-advanced-ar-drone-assessment-report/"><u>[New] 2024 Approved Parrot's Advanced AR Drone - Assessment Report</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-21-innovative-solutions-for-free-recording-of-online-meetings-for-2024/"><u>[New] 21 Innovative Solutions for Free Recording of Online Meetings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastery-in-conflict-the-leading-7-total-war-tactics/"><u>[New] In 2024, Mastery in Conflict The Leading 7 Total War Tactics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-efficient-video-editing-with-timestamps-and-on-screen-text/"><u>[Updated] In 2024, Efficient Video Editing with Timestamps & On-Screen Text</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ultimate-guide-testing-mycam-recording-capabilities/"><u>2024 Approved Ultimate Guide Testing MyCam Recording Capabilities</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-launching-lens-captured-content-examination-and-replacements/"><u>In 2024, Launching Lens Captured Content Examination and Replacements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-essential-audacity-manual-for-mac-audio-capture/"><u>In 2024, The Essential Audacity Manual for Mac Audio Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-game-gathering-best-7-shooter-experiences/"><u>In 2024, Ultimate Game Gathering Best 7 Shooter Experiences</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-free-and-paid-3d-video-makers/"><u>New Unleash Your Creativity Best Free and Paid 3D Video Makers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/periscope-pro-the-in-depth-usage-guidebook/"><u>Periscope Pro The In-Depth Usage Guidebook</u></a></li>
 </ul></div>
 

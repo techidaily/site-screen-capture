@@ -1,7 +1,7 @@
 ---
 title: Solve Your HDMI Sound Problems When Linking Up Your Computer, Display, and Television
-date: 2024-08-10T01:01:25.089Z
-updated: 2024-08-11T01:01:25.089Z
+date: 2024-11-26T01:00:16.056Z
+updated: 2024-11-28T18:48:58.287Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/f755ebc6fd74e541b86783b8f288eb9ebe73ceda2
 
 ## Revive the Sound on Windows 11: Audio Problems, Solved
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-featured.jpg)
 
  Is Windows 11 the future? So far it’s still hard to tell. But right now, many users are already having**audio problems** on the latest Windows. If you’re also having no sound issues on Windows 11, don’t worry. In this tutorial, we’ll show you how to fix that easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,6 +52,11 @@ If the output device works as expected, simply continue to the next step.
 1. On the taskbar, click the search icon and type**troubleshooting** . Select**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-1.jpg)
 2. Select**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
@@ -64,26 +70,19 @@ If the output device works as expected, simply continue to the next step.
 Here’s how:
 
 1. On your keyboard, press**Win+I** (the Windows key and the i key) to open Windows Settings. Click**Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-1.jpg)
 2. Under**Output** , make sure to select your desired output device. Then click the device to view its property.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
 If the issue lingers on, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  There’re multiple reports suggesting that the no sound issue is caused by an**outdated or incompatible audio driver** . Some drivers might not work properly if you upgrade from Windows 10\. For Windows 11 to function properly, you need to make sure you have the latest correct audio driver.
@@ -95,10 +94,11 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -106,9 +106,6 @@ If the issue lingers on, check out the next fix below.
 
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Check for the latest system updates
 
  Windows 11 is new and is under active development. So it’s possible the cure to your problem lies in the latest patch. To get it, you can scan for updates manually and Windows will install them automatically.
@@ -116,14 +113,21 @@ If the issue lingers on, check out the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Scan and pair Windows
 
  In the worst case, you’re dealing with a system issue. It could mean that some critical files are**corrupted or missing** from your system, and it could also mean that some settings are**misconfigured** . Either way, if you don’t want a clean reinstall, you can**run a scan** and find out what went wrong.
@@ -132,9 +136,6 @@ If the issue lingers on, check out the next fix below.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -142,9 +143,9 @@ If the issue lingers on, check out the next fix below.
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reset Windows
 
  If the sound issues only appear after upgrading from Windows 10, you might need to do a**clean reinstall** —we always recommend a clean reinstall instead of direct upgrade so as to avoid strange issues.
@@ -158,9 +159,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Under**Recovery options** , click**Reset PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
@@ -178,8 +181,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +188,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-convert-your-webcam-to-vlc-clip/"><u>[New] 2024 Approved Convert Your Webcam to VLC Clip</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-seamless-obs-zoom-connection-step-by-step/"><u>[New] 2024 Approved Seamless OBS-Zoom Connection Step-by-Step</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ultimate-5-ps1-emulation-tools-for-modern-pcs/"><u>[New] 2024 Approved Ultimate 5 PS1 Emulation Tools for Modern PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-virtual-background-for-google-meet-video-call-for-2024/"><u>[New] Best Virtual Background for Google Meet Video Call for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effortlessly-create-a-cross-platform-conversation-space-on-skype-a-detailed-manual-for-users-of-all-os-platforms/"><u>[New] Effortlessly Create a Cross-Platform Conversation Space on Skype A Detailed Manual for Users of All OS Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-27-ways-to-livestream-education-content-for-free/"><u>[New] In 2024, 27 Ways to Livestream Education Content for Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-persistent-screen-recording-device/"><u>[New] In 2024, Persistent Screen Recording Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-photo-fusion-at-home-and-online-synergy-guide/"><u>[New] In 2024, Photo Fusion at Home & Online Synergy Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-alternate-shots-to-elevate-film-quality/"><u>[New] Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>[Updated] 2024 Approved Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-phone-apps-that-change-your-speech/"><u>[Updated] 2024 Approved The Ultimate Guide to Phone Apps That Change Your Speech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-harmony-haven-gather-download-and-dissect-audio/"><u>2024 Approved Harmony Haven Gather, Download & Dissect Audio</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-guide-to-erasing-your-history-on-facebook-watch/"><u>A Guide to Erasing Your History on Facebook Watch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-supportdownload-easy-access-to-the-latest-gpio-drivers-for-enhanced-performance/"><u>AMD Support/Download: Easy Access to the Latest GPIO Drivers for Enhanced Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-infinix-note-30-vip-racing-edition-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/efficient-methods-for-converting-avi-files-to-the-compact-3gp-format/"><u>Efficient Methods for Converting AVI Files to the Compact 3GP Format</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/innovative-techniques-for-flawless-voice-capture-in-facetime-calls-for-2024/"><u>Innovative Techniques for Flawless Voice Capture in FaceTime Calls for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/perfect-screen-capture-on-mac-the-top-5-recommended-approaches-for-2024/"><u>Perfect Screen Capture on Mac The Top 5 Recommended Approaches for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-solutions-to-overcome-code-0x800f0922-and-update-windows-10-successfully/"><u>Top 5 Solutions to Overcome Code 0X800f0922 and Update Windows 10 Successfully</u></a></li>
+</ul></div>
 

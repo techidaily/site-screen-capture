@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Basic Steps  Flip Video Using VLC Software\""
-date: 2024-11-17T23:38:19.186Z
-updated: 2024-11-19T21:09:48.659Z
+date: 2024-11-27T00:28:39.076Z
+updated: 2024-11-28T16:14:12.088Z
 tags: 
   - screen-recording
   - ai video
@@ -73,6 +73,10 @@ Step 8: Finally, click on Save button and then on Close button.
 
 Now, you will get to see the video as per your selected angle instantly. But note that this VLC rotate effect will stay with VLC and if you open any other video file, it will also be displayed as per your selected angle. In order to disable this rotation effect, follow the same steps and this time, uncheck Transform and Rotate options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Rotate Video in VLC on Mac
 
 The process of VLC Media Player rotate video is slightly different on Mac as compared to Windows. Here are the steps to follow to rotate video on VLC temporarily.
@@ -96,10 +100,6 @@ The options available are - rotate by 90 degrees, 180 degrees, and 270 degrees. 
 Step 6: Once done, just close Video Effects window and the changes will get saved automatically.
 
 Just like Windows, this rotation will automatically apply to all the videos you open thereafter. Therefore, you have to repeat the steps and uncheck Transform option to undo the rotation effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Make the Rotation Permanent
 
@@ -127,10 +127,6 @@ Step 8: Under Convert Window, select Convert radio button and select a video out
 
 ![convert video vlc](https://images.wondershare.com/filmora/article-images/convert-vdeo-vlc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 9: Under Profile Edition window, go to Video Codec tab. Select Video Transformation Filter option and click on Save button.
 
 Step 10: You are back on Convert Window and finally, select a Destination File to save the new rotated video file and click on Start button.
@@ -157,13 +153,13 @@ Step 2: Double-click on the video file and you will enter Video Editing Panel. C
 
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/rotate-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Go to Export option and select the file format and set the other parameters correctly and click on Export button.
 
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/start-rotate-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, you can check the destination folder to find the video file which is now permanently rotated.
 
@@ -264,7 +260,7 @@ Step 5: Check Video transformation Filter option and click on Save button.
 ![vlc transformtation filters](https://images.wondershare.com/filmora/article-images/vlc-transformation-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 6: Go to Media menu and click on Convert Save option.
@@ -306,10 +302,14 @@ Step 3: Go to Export option and select the file format and set the other paramet
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/start-rotate-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, you can check the destination folder to find the video file which is now permanently rotated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -345,6 +345,10 @@ Step 3: Once the video opens, go to Tools > Effects and Filters option.
 
 ![vlc tools option](https://images.wondershare.com/filmora/article-images/vlc-tools-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: From Adjustments and Effects window, go to Video Effects tab.
 
 Step 5: Under Video Effects tab, go to Geometry tab.
@@ -365,10 +369,6 @@ Step 8: Finally, click on Save button and then on Close button.
 
 Now, you will get to see the video as per your selected angle instantly. But note that this VLC rotate effect will stay with VLC and if you open any other video file, it will also be displayed as per your selected angle. In order to disable this rotation effect, follow the same steps and this time, uncheck Transform and Rotate options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Rotate Video in VLC on Mac
 
 The process of VLC Media Player rotate video is slightly different on Mac as compared to Windows. Here are the steps to follow to rotate video on VLC temporarily.
@@ -380,6 +380,10 @@ Step 2: Once you have opened the file, go to Window menu option.
 Step 3: From the menu, select Video Effects option.
 
 ![vlc video effects mac](https://images.wondershare.com/filmora/article-images/vlc-video-effects-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: From Video Effects window, check Transform option.
 
@@ -394,7 +398,7 @@ Step 6: Once done, just close Video Effects window and the changes will get save
 Just like Windows, this rotation will automatically apply to all the videos you open thereafter. Therefore, you have to repeat the steps and uncheck Transform option to undo the rotation effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. How to Make the Rotation Permanent
@@ -527,15 +531,15 @@ Step 5: From the drop-down menu, select the option as per your requirement.
 
 ![vlc rotation](https://images.wondershare.com/filmora/article-images/vlc-rotation-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The options available are - rotate by 90 degrees, 180 degrees, and 270 degrees. Besides, you can flip horizontally or vertically.
 
 Step 6: Once done, just close Video Effects window and the changes will get saved automatically.
 
 Just like Windows, this rotation will automatically apply to all the videos you open thereafter. Therefore, you have to repeat the steps and uncheck Transform option to undo the rotation effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Make the Rotation Permanent
 
@@ -548,6 +552,10 @@ Step 2: Follow all the steps we have mentioned on Method 1 - How to rotate video
 Step 3: Thereafter, go to Tool menu and select Preferences option.
 
 ![vlc preferences](https://images.wondershare.com/filmora/article-images/vlc-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Under Advanced Preferences option, go to Video > Filters option from the left menu.
 
@@ -623,24 +631,17 @@ VLC Media Player is a great tool to rotate any video at any desired angle. You c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-capturing-the-cloud-techniques-for-digital-show-archives/"><u>[New] Capturing the Cloud Techniques for Digital Show Archives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-maximize-game-time-top-10-ps5-external-hddssd-for-2024/"><u>[New] Maximize Game Time Top 10 PS5 External HDD/SSD for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-reviving-the-reluctant-connection-of-your-obs-capture-device/"><u>[New] Reviving the Reluctant Connection of Your OBS Capture Device</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-timely-team-setups-adjusting-backdrop-beforeafter-calls-for-2024/"><u>[New] Timely Team Setups Adjusting Backdrop Before/After Calls for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-record-to-remember-top-5-best-tools-for-virtual-meeting-capture-for-2024/"><u>[Updated] Record to Remember Top 5 Best Tools for Virtual Meeting Capture for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-blueprint-to-tally-your-youtube-growth-and-income-for-2024/"><u>[Updated] The Complete Blueprint to Tally Your YouTube Growth and Income for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-100-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidia-geforce-rtx-1080-drivers-for-windows-10-quick-and-simple-guide/"><u>Download Nvidia GeForce RTX 1080 Drivers for Windows 10: Quick & Simple Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-the-updated-style-and-features-of-the-amazon-echo-dot-gen-4-a-review/"><u>Explore the Updated Style and Features of the Amazon Echo Dot (Gen 4) - A Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-infinix-hot-30i-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Infinix Hot 30i Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-cutting-edge-video-recording-for-windows-users/"><u>In 2024, Cutting-Edge Video Recording for Windows Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-plus-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 Plus to PC via USB? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-master-amazon-live-features-pro-tips-and-future-trends/"><u>New Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optimal-bitrate-configuration-for-1080p-at-60fps-choosing-the-right-obs-recording-settings/"><u>Optimal Bitrate Configuration for 1080P at 60Fps: Choosing the Right OBS Recording Settings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streamline-workflow-learn-io-screen-recording-for-2024/"><u>Streamline Workflow Learn IO Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streamlining-the-recording-process-in-virtual-gatherings/"><u>Streamlining the Recording Process in Virtual Gatherings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-your-mobile-device-a-comprehensive-tone-customization-strategy-for-2024/"><u>Transforming Your Mobile Device A Comprehensive Tone Customization Strategy for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/uncharted-visual-narrative-evaluation-and-parallel-proposals-for-2024/"><u>Uncharted Visual Narrative Evaluation & Parallel Proposals for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-heroic-quests-ranking-gaming-epics-in-action-adventure-for-2024/"><u>[New] Heroic Quests Ranking Gaming Epics in Action-Adventure for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exclusive-list-of-windows-10-recording-software/"><u>[New] In 2024, Exclusive List of Windows 10 Recording Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-free-viewer-cam-parties/"><u>[New] Ultimate Free Viewer Cam Parties</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-precision-flight-matching-cameras-to-ideal-gimbal-models/"><u>[Updated] 2024 Approved Precision Flight Matching Cameras to Ideal Gimbal Models</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-apeak-recording-examined-quality-and-features-decoded-for-2024/"><u>[Updated] Apeak Recording Examined Quality and Features Decoded for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb-for-2024/"><u>[Updated] Capture and Share Live to The Max with 4 Pro Tips on FB for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>[Updated] Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-overwatch-video-preservation-techniques/"><u>[Updated] Mastering Overwatch Video Preservation Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-performance-best-windows-player-apps-reviewed/"><u>[Updated] Prime Performance Best Windows Player Apps Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-simple-steps-to-import-youtube-music-into-imovie/"><u>2024 Approved Simple Steps to Import YouTube Music Into iMovie</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-comprehensive-list-top-screenshot-videography-tools/"><u>In 2024, Comprehensive List Top Screenshot Videography Tools</u></a></li>
+<li><a href="https://win-hot.techidaily.com/optimierung-mit-ssd-wartung-in-windows-11-effiziente-methoden-erklart/"><u>Optimierung Mit SSD-Wartung in Windows 11 - Effiziente Methoden Erklärt</u></a></li>
 </ul></div>
 

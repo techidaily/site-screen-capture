@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Invisible Footage  Methods to Obfuscate Private Elements\""
-date: 2024-08-10T01:03:05.805Z
-updated: 2024-08-11T01:03:05.805Z
+date: 2024-11-22T16:36:07.178Z
+updated: 2024-11-28T18:59:18.095Z
 tags: 
   - screen-recording
   - ai video
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 # How to Blur and Hide Private Information in Recorded Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,6 +30,10 @@ Filmora Scrn is a screen recording software that is very easy to master. Still, 
 This article will take you through all the steps you need to take to hide private and sensitive info from the videos you captured using Filmora Scrn. If you are wondering why you should choose Filmora Scrn to protect your personal and sensitive information, below are the answers.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -52,13 +52,14 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Choose Filmora Scrn to Blur and Hide Private Information in a Video You Recorded?
 
 #### 1. One-Stop Service for Recording & Editing Videos
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
 
 Besides being one of the best screen capturing computer programs for beginners in the industry, Wondershare's Filmora Scrn also features a video editor that allows you to polish your videos immediately after the recording session without using third-party apps.
@@ -73,18 +74,12 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 #### 3. Edit Video Footage with Creative Effects
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
 
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
@@ -95,32 +90,27 @@ The original frame is shown below, and I want to blur and hide these two sensiti
 
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
 
 #### Step 1. Record a video or import a video file into the editor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -135,6 +125,10 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 #### Step 3. Tweaking the Effect's Settings
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
@@ -154,11 +148,28 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-exitingmycam-entry-to-exceptionalcameras/"><u>[New] 2024 Approved ExitingMyCam Entry to ExceptionalCameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-harnessing-power-of-ez-grabber-quick-start-guide-to-usage/"><u>[New] 2024 Approved Harnessing Power of EZ Grabber - Quick Start Guide to Usage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-for-the-tech-sleuth-dissecting-the-best-top-10-fb-videos-downloaders/"><u>[New] In 2024, For the Tech Sleuth Dissecting the Best Top 10 FB Videos Downloaders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>[New] Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastery-of-planting-the-finest-valheim-seeds/"><u>[Updated] 2024 Approved Mastery of Planting The Finest Valheim Seeds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call-for-2024/"><u>[Updated] How to Use Zoom Video Filters to Make a High-Quality Video Call for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-6-modern-homes-for-minecraft-enthusiasts/"><u>[Updated] In 2024, Best 6 Modern Homes for Minecraft Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-professional-audio-recorder-reviews-ipad-edition-3/"><u>[Updated] In 2024, Professional Audio Recorder Reviews IPad Edition #3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-step-by-step-guide-accessing-voice-messages-on-android-devices/"><u>1. Step-by-Step Guide: Accessing Voice Messages on Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutthroat-countdown-best-zombies-in-gaming-unveiled-for-2024/"><u>Cutthroat Countdown Best Zombies In Gaming Unveiled for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enabling-and-disabling-subtitles-on-netflix-easy-instructions/"><u>Enabling and Disabling Subtitles on Netflix - Easy Instructions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-s17t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo S17t Location | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-507-instagram-caption-ideas-for-hitting-the-high-notes/"><u>Top 507 Instagram Caption Ideas for Hitting the High Notes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-software-picks-audio-adjustment-for-virtual-personalities-for-2024/"><u>Top-Rated Software Picks Audio Adjustment for Virtual Personalities for 2024</u></a></li>
+</ul></div>
+

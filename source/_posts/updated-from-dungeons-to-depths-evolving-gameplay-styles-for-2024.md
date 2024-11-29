@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2024-11-15T11:09:07.848Z
-updated: 2024-11-20T10:55:01.527Z
+date: 2024-11-21T18:37:36.708Z
+updated: 2024-11-28T22:55:58.074Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -89,6 +89,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -109,10 +113,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -122,6 +122,10 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -136,7 +140,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
@@ -144,10 +148,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,18 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-screen-capture-with-irecorder/"><u>[New] In 2024, Mastering Screen Capture with iRecorder</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-navigating-social-media-how-to-proficiently-record-live-on-fb-for-2024/"><u>[New] Navigating Social Media How to Proficiently Record Live on FB for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-winning-software-to-capture-your-display-on-windows-10-for-2024/"><u>[New] Winning Software to Capture Your Display on Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[Updated] How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-viral-strategy-for-impressive-instagram-stories/"><u>[Updated] In 2024, A Viral Strategy for Impressive Instagram Stories</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-secrets-of-facebook-video-content-success-for-2024/"><u>[Updated] Unveiling the Secrets of Facebook Video Content Success for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-vs-fortune-tellers-which-shines-light-on-tomorrow/"><u>AI Vs. Fortune-Tellers: Which Shines Light on Tomorrow?</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-n53-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo N53 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tips-for-stunning-gopro-timelapse-projects/"><u>In 2024, Pro Tips for Stunning GoPro Timelapse Projects</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-securing-skype-conversations-via-obs/"><u>In 2024, Securing Skype Conversations via OBS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/paww-wavesound-3-review-value-packed-headphones/"><u>Paww Wavesound 3 Review: Value Packed Headphones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/shadow-scribes-compendium-best-kept-voice-apps-iosandroid-for-2024/"><u>Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-catching-every-frame-leading-windows-10-capture-tools/"><u>[New] 2024 Approved Catching Every Frame Leading Windows 10 Capture Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[New] 2024 Approved The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>[New] Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-craft-decoding-filmora-questions/"><u>[New] Mastering Video Craft Decoding Filmora Questions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-obs-streams-to-facebook-success/"><u>[Updated] 2024 Approved The Ultimate Guide OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-find-your-perfect-game-recorder-top-10-free-apps/"><u>[Updated] Find Your Perfect Game Recorder Top 10 Free Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-get-it-right-three-pro-tips-for-lol-gameplay-captures-for-2024/"><u>[Updated] Get It Right Three Pro Tips for LOL Gameplay Captures for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-choosing-between-obs-and-fraps-for-capture/"><u>[Updated] In 2024, Choosing Between OBS and Fraps for Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-methods-for-downloading-vimeo-clips/"><u>[Updated] In 2024, Easy Methods for Downloading Vimeo Clips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unfollow-trail-on-the-social-giant-instagram-for-2024/"><u>[Updated] Unfollow Trail on the Social Giant Instagram for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-1-key-youtube-tactics-for-effective-brand-promotion/"><u>2024 Approved 1 Key YouTube Tactics for Effective Brand Promotion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-learn-to-record-mi-11s-display-effortlessly/"><u>2024 Approved Learn to Record Mi 11'S Display Effortlessly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-mastering-anime-aesthetics-in-viral-tiktoks/"><u>2024 Approved Mastering Anime Aesthetics in Viral TikToks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adobe-lightroom-essentials-review-for-2024/"><u>Adobe Lightroom Essentials Review for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-artificamoebas-make-funny-investigating-the-development-of-laptops-and-the-improvement-in-virtual-private-networks/"><u>Do Artificamoebas Make Funny? Investigating the Development of Laptops and the Improvement in Virtual Private Networks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-fcp-on-the-house-simple-steps-for-2024/"><u>Getting FCP on the House - Simple Steps for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-converter-mp4-para-avi-online-movavi/"><u>Gratuito Converter MP4 Para AVI Online - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi A2+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pros-and-cons-of-using-chatgpt-for-creative-writing/"><u>The Pros and Cons of Using ChatGPT for Creative Writing</u></a></li>
 </ul></div>
 

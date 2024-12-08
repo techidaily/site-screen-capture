@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dark Realm Explorations  Do's & Don'ts of Nocturnal Shooting\""
-date: 2024-11-25T16:32:39.293Z
-updated: 2024-11-28T23:02:41.929Z
+date: 2024-12-02T22:46:41.609Z
+updated: 2024-12-07T22:08:54.660Z
 tags: 
   - screen-recording
   - ai video
@@ -23,10 +23,6 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -37,6 +33,10 @@ One of the most difficult repercussions of **night mode portraits** is that ever
 
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Lighting your Subject
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
@@ -45,15 +45,15 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Shooting with a Stabilizer
 
@@ -78,13 +78,13 @@ When it comes to wearing black for night portraits, experts suggest avoiding it 
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
@@ -100,26 +100,26 @@ Speaking about white balance, it is a setting to make sure the colors in the pho
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Should You Need to Avoid in Portrait Photography?
@@ -160,20 +160,20 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-apowersoft-free-screen-recorder-review-and-alternative-for-2024/"><u>[New] Apowersoft Free Screen Recorder Review and Alternative for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-steps-to-confirm-and-secure-your-tiktok-videos-for-posting/"><u>[Updated] 2024 Approved Steps to Confirm and Secure Your TikTok Videos for Posting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamline-your-presentation-process-webcam-recording-tips/"><u>[Updated] In 2024, Streamline Your Presentation Process Webcam Recording Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screencapture-2023-top-techs-recommendations/"><u>2024 Approved ScreenCapture 2023 Top Tech's Recommendations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-low-speed-photo-and-video-capture-tools-iosandroid/"><u>Best Low-Speed Photo and Video Capture Tools, iOS/Android</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capturewiz-windows-10s-snapshot-hero/"><u>CaptureWiz Windows 10'S Snapshot Hero</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-wi-fi-authentication-problems-on-android/"><u>How to Fix Wi-Fi Authentication Problems on Android</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-rog-phone-8-by-fonelab-android-recover-music/"><u>How to restore wiped music on ROG Phone 8</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-f5-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco F5 5G Device</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unveil-the-magic-of-media-rotation-using-vlc-players-features/"><u>In 2024, Unveil the Magic of Media Rotation Using VLC Player's Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/innovative-guide-to-efficient-and-effective-screen-recording-for-2024/"><u>Innovative Guide to Efficient and Effective Screen Recording for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-fixing-issues-with-safari-on-your-iphone-quickly-and-easily/"><u>Step-by-Step Guide: Fixing Issues with Safari on Your iPhone Quickly and Easily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-guide-to-automated-mac-lecture-recording/"><u>The Ultimate Guide to Automated Mac Lecture Recording</u></a></li>
-<li><a href="https://fox-that.techidaily.com/undoing-the-unintentional-getting-back-your-lost-iphone-notes/"><u>Undoing the Unintentional: Getting Back Your Lost iPhone Notes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/why-the-samsung-galaxy-a71-5g-stands-out-as-a-practical-alternative-to-premium-phones/"><u>Why the Samsung Galaxy A71 5G Stands Out as a Practical Alternative to Premium Phones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-art-of-anonymity-in-video-hiding-private-data-for-2024/"><u>[New] The Art of Anonymity in Video Hiding Private Data for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-recording-tips-capturing-video-from-macbook-pro/"><u>[Updated] Essential Recording Tips Capturing Video From MacBook Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-art-of-changing-meeting-screens-on-microsoft-teams/"><u>[Updated] In 2024, The Art of Changing Meeting Screens on Microsoft Teams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-plex-vs-studio-prodigies-for-2024/"><u>[Updated] Plex vs Studio Prodigies for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simple-screen-recorder-for-windows-10/"><u>[Updated] Simple Screen Recorder for Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-an-ai-fitness-companion-with-your-sports-watch-unveiling-the-power-of-a-built-in-gpt-like-running-coach/"><u>Experience an AI Fitness Companion with Your Sports Watch: Unveiling the Power of a Built-In GPT-Like Running Coach</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y27s-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y27s</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-13t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 13T Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-7-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 7 Bootloader Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-list-of-leading-free-screen-capture-programs-for-2024/"><u>Master List of Leading Free Screen Capture Programs for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-sound-crackles-master-the-art-of-troubleshooting-cyberpunk-2077s-audio-problems/"><u>No More Sound Crackles! Master the Art of Troubleshooting Cyberpunk 2077'S Audio Problems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/remove-background-in-logitech-webcam-recording/"><u>Remove Background in Logitech Webcam Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-backchannel-bridge-engaging-with-your-audience/"><u>The Backchannel Bridge Engaging with Your Audience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-tier-external-ssds-for-elevated-xbox-use/"><u>Top-Tier External SSDs for Elevated Xbox Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008389256-troubleshooting-made-easy-resolve-deathloops-pc-crashes-in-just-a-few-quick-steps/"><u>Troubleshooting Made Easy: Resolve Deathloop's PC Crashes in Just a Few Quick Steps!</u></a></li>
 </ul></div>
 

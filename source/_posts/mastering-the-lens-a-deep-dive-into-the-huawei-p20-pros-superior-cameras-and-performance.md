@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
-date: 2024-11-27T18:47:22.098Z
-updated: 2024-11-28T17:11:31.253Z
+date: 2024-12-04T01:49:13.279Z
+updated: 2024-12-08T04:34:27.228Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
@@ -14,16 +14,12 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 3.4
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/HeiIUMzNfcdABm8uXby7X0Qo3dE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
 
@@ -44,6 +40,10 @@ Lifewire / Bill Thomas
 [View On Amazon $25](https://www.amazon.com/dp/B00IF0JAYE/?tag=lifewire-onsite-prod-20&ascsubtag=4686094%7Cn04462eaac973429b8b417ec47f0b261514%7CB00IF0JAYE) [View On Walmart $76](https://www.walmart.com/ip/NETGEAR-N600-8x4-WiFi-Cable-Modem-Router-Combo-C3700-DOCSIS-3-0-Certified-for-XFINITY-by-Comcast-Spectrum-Cox-and-more-C3700-100NAS/36009477) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-dual-band-n600-router-with-8-x-4-docsis-3-0-cable-modem-black%2F3707003.p%3Fcmp%3DRMX%26skuId%3D3707003)
 
 3.4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear C3700 Cable Modem Router
 
@@ -81,23 +81,23 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Setup: Nice and simple
 
@@ -108,10 +108,6 @@ Lifewire / Bill Thomas
  Once everything is set up, you can go through the online management portal to change wireless settings. This is an optional step since the wireless network works right out of the box using the information printed on the side of the modem.
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Connectivity: Everything a small home needs
 
@@ -133,6 +129,10 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software: No frills
 
  We prefer a network backend that’s straight to the point, and that’s exactly what we got with the Netgear C3700.
@@ -149,10 +149,6 @@ Lifewire / Bill Thomas
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -166,6 +162,10 @@ Lifewire / Bill Thomas
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -202,24 +202,17 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-scouting-the-finest-cameras-for-twitch-broadcast-success/"><u>[New] In 2024, Scouting the Finest Cameras for Twitch Broadcast Success</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-intriguing-youtube-intros-without-spending/"><u>[Updated] 2024 Approved Crafting Intriguing YouTube Intros Without Spending</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ideal-free-webcam-video-grabber-solution/"><u>[Updated] 2024 Approved Ideal Free Webcam Video Grabber Solution</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-dark-art-of-night-photography-best-practices-revealed/"><u>[Updated] 2024 Approved The Dark Art of Night Photography Best Practices Revealed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-basic-tips-how-to-record-and-save-google-voice-calls/"><u>[Updated] In 2024, Basic Tips How to Record and Save Google Voice Calls</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-video-editor-battle-filmora-versus-democracy-creator/"><u>[Updated] In 2024, Top Video Editor Battle Filmora versus Democracy Creator</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>[Updated] Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-faces-incorporating-motion-blur-in-photos-with-picsart-for-2024/"><u>[Updated] Mastering Faces Incorporating Motion Blur in Photos with Picsart for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-intuitive-guide-how-to-capture-on-vimeo/"><u>2024 Approved Intuitive Guide How to Capture on Vimeo</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-streaming-success-capturing-dota-2s-epic-battles-2enas/"><u>2024 Approved Streaming Success Capturing Dota 2'S Epic Battles (2Enas)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/easy-peel-mac-screenshots-for-no-cost-for-2024/"><u>Easy-Peel Mac Screenshots for No Cost for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-strategies-for-home-based-podcast-recordings/"><u>Expert Strategies for Home-Based Podcast Recordings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/giggle-geniuses-selecting-superior-memery-apps/"><u>Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-s23plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel S23+</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-gadgets-with-tom-your-ultimate-hardware-guide/"><u>Navigating the Latest Gadgets with Tom: Your Ultimate Hardware Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-guide-download-your-samsung-m2070fw-printer-drivers/"><u>Quick and Easy Guide: Download Your Samsung M2070FW Printer Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-why-cyberpunk-2077-wont-start/"><u>Resolved Issue: Why Cyberpunk 2077 Won't Start</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssential-list-6-diverse-websites-for-youtube-visuals-for-2024/"><u>The Essential List 6 Diverse Websites for YouTube Visuals for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unlock-your-screen-androids-premier-free-recorder-tools/"><u>[New] In 2024, Unlock Your Screen Android's Premier Free Recorder Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-gamers-blueprint-techniques-to-record-virtual-realms-for-2024/"><u>[New] The Gamer's Blueprint Techniques to Record Virtual Realms for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-educator-approved-video-capture-apps/"><u>[Updated] Top 10 Educator-Approved Video Capture Apps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-viral-video-roundup-top-tiktok-reaction-shenanigans/"><u>[Updated] Viral Video Roundup Top TikTok Reaction Shenanigans</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-allow-or-block-domain-users-from-using-biometrics-on-windows-11/"><u>How to Allow or Block Domain Users From Using Biometrics on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-screencast-creators-handbook/"><u>In 2024, The Screencast Creator's Handbook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-quicktime-video-editing-on-mac/"><u>New The Ultimate Guide to QuickTime Video Editing on Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/premier-selection-ultimate-omnidirectional-cameras/"><u>Premier Selection Ultimate Omnidirectional Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/starters-guide-to-optimal-gopro-accessories-list-for-2024/"><u>Starter’s Guide to Optimal GoPro Accessories List for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-skype-call-techniques-for-effective-recordings-free-and-paid-on-computers/"><u>Top Skype Call Techniques for Effective Recordings (Free & Paid) on Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-step-by-step-tutorial-on-how-to-extract-movies-from-dvds-with-handbrake-on-pc-and-mac-2021-update/"><u>Ultimate Step-by-Step Tutorial on How to Extract Movies From DVDs with Handbrake on PC & Mac - 2021 Update!</u></a></li>
 </ul></div>
 

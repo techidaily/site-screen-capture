@@ -1,7 +1,7 @@
 ---
 title: "\"How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices\""
-date: 2024-08-10T00:56:38.814Z
-updated: 2024-08-11T00:56:38.814Z
+date: 2024-12-05T21:36:16.109Z
+updated: 2024-12-07T16:44:56.365Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -68,9 +65,6 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -87,9 +81,6 @@ The best thing about Apex Legends is that it has multiplatform support. You can 
 
 **Microsoft Xbox One S and X**
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-one.jpg)You can play Apex Legends on Xbox One S, but you may need to compromise a little bit and play on a low resolution for better fps. Although the game will run just fine, you may need to make some adjustments to your graphics settings. You can play this game on 720p on Xbox One S, so make sure to sit a little closer to your screen to see everything.
 
 If you want to get Apex's best experience on Xbox consoles, you should play it on Xbox One X. If you switch from Xbox one S to Xbox one X, you will see a significant difference in the game performance. On the X version, you can run the game on 1080p. It offers overall better performance in terms of gameplay as compared to other Xbox variants.
@@ -110,9 +101,6 @@ Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is alr
 
 **PC**
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -146,14 +134,8 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -162,8 +144,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,5 +151,28 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-avoiding-lost-frames-during-video-capture-in-obs/"><u>[New] 2024 Approved Avoiding Lost Frames During Video Capture in OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-seamless-integration-of-links-into-tiktok-profiles/"><u>[New] 2024 Approved Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-hidden-techniques-for-clear-ppt-transcriptions/"><u>[New] 2024 Approved Unveiling Hidden Techniques for Clear PPT Transcriptions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-echoes-of-amusement-comical-tune-transformations/"><u>[New] Echoes of Amusement Comical Tune Transformations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-guide-to-tape-twitch-streams-effectively/"><u>[New] Guide to Tape Twitch Streams Effectively</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-methods-for-android-video-preservation/"><u>[New] In 2024, Ultimate Methods for Android Video Preservation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-learn-to-record-mac-display-like-a-pro-in-2024/"><u>[New] Learn to Record MAC Display Like a Pro, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture/"><u>[Updated] 2024 Approved Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-castcritique-report/"><u>[Updated] In 2024, CastCritique Report</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-cosmic-quest-for-entertainment-the-outer-worlds-delivers-a-captivating-story-and-shooter-experience/"><u>A Cosmic Quest for Entertainment: 'The Outer Worlds' Delivers a Captivating Story & Shooter Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-newly-listed-31-motherboards-from-maxsun-showcasing-intel-arrow-lake-and-amd-ryzen-nine-zero-across-five-cutting-edge-unannounced-chi96/"><u>Comprehensive Guide to Newly Listed 31 Motherboards From Maxsun - Showcasing Intel Arrow Lake and AMD Ryzen Nine Zero, Across Five Cutting-Edge Unannounced Chipset Variants with PCIe 800 Branding</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-engagement-amplify-audience-youtube-marketing/"><u>Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>From Camera Lens to Screen Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-list-of-idevice-screen-recorders/"><u>In 2024, Ultimate List of iDevice Screen Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-value-capture-budget-cam-essentials/"><u>In 2024, Value Capture Budget Cam Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-device-not-initialized-warning-in-win-11/"><u>Rectifying 'Device Not Initialized' Warning in Win 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-windows-compatible-creative-camera-drivers-download-now/"><u>Update Your Windows-Compatible Creative Camera Drivers - Download Now</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

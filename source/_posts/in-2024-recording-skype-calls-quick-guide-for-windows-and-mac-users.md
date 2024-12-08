@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Recording Skype Calls - Quick Guide for Windows and Mac Users\""
-date: 2024-08-02T23:39:35.763Z
-updated: 2024-08-03T23:39:35.763Z
+date: 2024-12-06T02:10:20.521Z
+updated: 2024-12-07T21:14:37.302Z
 tags: 
   - screen-recording
   - ai video
@@ -40,17 +40,19 @@ Skype for Business offers you several options for recording and managing your re
 
 * Press the “Gear icon” right next to the options menu. It will open an “Options” dialog box. Or you can also access the Options by clicking the downward-facing arrow next to the gear, then choosing the “Tools” and finally chose “Options”.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![options dialog box](https://images.wondershare.com/filmora/article-images/options-dialog-box1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * In the Options window, you’ll get a list of settings options on the left pane, press “Recording” to open the recording options.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recording options](https://images.wondershare.com/filmora/article-images/recording-options2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Here you can determine the location where all the recordings will be saved. Also, you can select the video quality under the image resolution section.
 
@@ -69,30 +71,26 @@ Skype for Business allows you to record skype meetings on Windows PCs directly f
 
 * You can check who is recording the Skype meeting by pointing to the red recording button on the top right corner of the Skype meeting. When one or any of the participants is recording the Skype for Business meeting all the other participants will see this indicator.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![red indicator](https://images.wondershare.com/filmora/article-images/red-indicator5.jpg)
 
 * After recording your family meeting or office presentation you want to save the recorded video, go to the same menu “More options” and press the “Stop Recording”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![stop recording](https://images.wondershare.com/filmora/article-images/stop-recording6.jpg)
 
 * All the recordings will be stopped, and you’ll be notified.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![see participant](https://images.wondershare.com/filmora/article-images/see-participant7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Skype for Business saves the recording automatically in an MP4 format that is compatible with Windows Media Player. The recording takes some time to process the meanwhile you can exit the meeting. Skype will show a notification when the recorded file is ready for viewing or sharing.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Record Skype Meeting on Mac
 
 According to [**Microsoft guidelines**](https://docs.microsoft.com/en-us/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison?redirectedfrom=MSDN), Microsoft has yet to introduce the recording feature to its Mac version of Skype for Business. Recording on Mac has not been made available.
@@ -109,16 +107,10 @@ Let’s see how to record skype meeting on Mac using Wondershare Filmora:
 
 * Open Filmora, then click on the “New Project” option to enter the full feature mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![click new project](https://images.wondershare.com/filmora/article-images/click-new-project9.jpg)
 
 * Go to Record, then drop-down the menu, and chose the “Record PC Screen” option.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find record pc](https://images.wondershare.com/filmora/article-images/find-record-pc10.jpg)
 
 * Now head over to the skype meeting you want to record.
@@ -130,24 +122,30 @@ Let’s see how to record skype meeting on Mac using Wondershare Filmora:
 
 ![stop skype meeting](https://images.wondershare.com/filmora/article-images/stop-skype-meeting12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Press the Stop button to finish recording the skype meeting. You’ll be taken back to the filmora editor window where you can tweak around with the recorded meeting.
 
 ![find recorded skype](https://images.wondershare.com/filmora/article-images/find-recorded-skype13.jpg)
 
 * You can locate the recorded file by right-clicking the recorded file in the media library and selecting the “Reveal in Explorer” option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![reveal in folder](https://images.wondershare.com/filmora/article-images/reveal-in-folder14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You can drag and drop the recorded file to the timeline if you want to edit it. Filmora can easily cut, trim, rotate, layer multiple video effects, and much more. That’s up to you how deep you want to dig into the features of this amazing video editing toolkit.
 
 ![add effects skype](https://images.wondershare.com/filmora/article-images/add-effects-skype15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: Manage Your Recordings
 
 The Skype for Business recording manager allows you to view all the recordings and prepare them for sharing. You can open the recording manager in two ways:
@@ -155,6 +153,10 @@ The Skype for Business recording manager allows you to view all the recordings a
 * one way is to open it from the Skype for Business main window by pressing the down arrow or drop-down menu next to the settings icon. Then select “Tools” and “Recording Manager” from the list.
 
 ![recording manager](https://images.wondershare.com/filmora/article-images/recording-manager16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You will see “More Options” menu and selects the Recording Manager to open it.
 
@@ -166,17 +168,15 @@ Now that you have access to Skype for Business Recording Manager, you can view a
 
 To prepare it for sharing with other participants, click on the “Publish” button. It will open a “Save and Publish” window where you can name the recording file, specify the location to save, and under the options chose what parts of the meeting to include i.e. video, audio, panorama video, messaging, and presented content. When everything is ready press the “OK” button to save the recorded meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Skype for Business allows the presenters to **record skype meeting** with all the details like video, audio, PowerPoint slides, etc. The in-app recording feature records every members’ video and audio at the same time. For the limitations of call recording on Mac, Wondershare Filmora can also be a good choice for you. It offers unparalleled features with an intuitive design, and you can record unlimited Skype calls and that with no limitation on Windows or Mac computer systems.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -184,11 +184,25 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-disrupted-tunes-the-best-audio-rippers/"><u>[Updated] In 2024, Disrupted Tunes The Best Audio Rippers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-simplifying-the-screen-recording-process-for-dell-users/"><u>[Updated] In 2024, Simplifying the Screen-Recording Process for Dell Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-real-time-broadcast-logging-made-simple/"><u>[Updated] Real-Time Broadcast Logging Made Simple</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-free-serenity-top-10-indoor-games-for-non-networked-play-android/"><u>2024 Approved Screen-Free Serenity Top 10 Indoor Games for Non-Networked Play (Android)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/crafting-flawless-game-captures-roblox-and-macos-techniques-for-2024/"><u>Crafting Flawless Game Captures Roblox & macOS Techniques for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-selection-of-elite-games-why-you-need-google-play-pass-now/"><u>Exclusive Selection of Elite Games - Why You Need Google Play Pass Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-reasons-why-oxygen-not-included-cant-start/"><u>Fixing Common Reasons Why Oxygen Not Included Can't Start</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-solutions-to-record-video-without-sound/"><u>In 2024, Best Solutions to Record Video Without Sound</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-guide-video-recording-with-vlc/"><u>In 2024, Essential Guide Video Recording with VLC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-srt-file-creation-a-comprehensive-manual/"><u>In 2024, Mastering SRT File Creation A Comprehensive Manual</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+</ul></div>
+

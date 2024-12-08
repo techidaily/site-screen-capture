@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2024-11-24T17:33:18.730Z
-updated: 2024-11-29T01:03:48.513Z
+date: 2024-11-30T22:54:48.434Z
+updated: 2024-12-07T21:10:35.188Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -66,10 +66,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -108,13 +104,13 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -139,15 +135,19 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -164,22 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-record-films-seamlessly-across-tech-devices/"><u>[New] 2024 Approved How to Record Films Seamlessly Across Tech Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-copyright-laws-and-screencasting-of-online-video-platforms-youtube-for-2024/"><u>[New] Copyright Laws and Screencasting of Online Video Platforms (YouTube) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-youtube-stream-the-wirecast-way/"><u>[New] In 2024, Elevating Your YouTube Stream The WireCast Way</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-revolutionary-recorders-outside-the-native-windows-ecosystem-for-2024/"><u>[New] Revolutionary Recorders Outside the Native Windows Ecosystem for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-echoenthusiast-auditory-review-exploration/"><u>[Updated] 2024 Approved EchoEnthusiast Auditory Review Exploration</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-motivational-speaker-appraisal-edition-8/"><u>[Updated] 2024 Approved Motivational Speaker Appraisal, Edition 8</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-focus-frameworks-key-tools-to-brighten-videos/"><u>[Updated] In 2024, Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-premier-producer-a-choreography-of-colors-and-tones/"><u>[Updated] In 2024, Premier Producer A Choreography of Colors & Tones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-must-visit-web-resources-for-text-aesthetics-and-functionality-for-2024/"><u>[Updated] Must-Visit Web Resources for Text Aesthetics & Functionality for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-livestreaming-seminars-at-no-expense-for-2024/"><u>[Updated] The Art of Livestreaming Seminars at No Expense for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-the-essence-of-sims-gaming/"><u>2024 Approved Capturing the Essence of Sims Gaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-google-pixel-fold-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Google Pixel Fold Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-blowout-save-big-with-this-deal-250-off-the-versatile-power-packed-dell-inspiron-16-inch-2-in-1-laptop/"><u>Black Friday Blowout! Save Big with This Deal: $250 Off the Versatile, Power-Packed Dell Inspiron 16-Inch 2-in-1 Laptop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/game-changing-tips-master-the-art-of-minecraft-capture-on-a-mac-for-2024/"><u>Game-Changing Tips Master the Art of Minecraft Capture on a Mac for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/gaming-memories-made-easy-with-fraps-for-2024/"><u>Gaming Memories Made Easy with Fraps for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-instant-grooves-lasting-stories-making-sense-of-music-shorts/"><u>In 2024, Instant Grooves, Lasting Stories Making Sense of Music Shorts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unveil-the-power-of-vrecorder-installs-demystified-for-2024/"><u>Unveil the Power of VRecorder Installs Demystified for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-firecapture-pro-for-ff/"><u>[New] 2024 Approved FireCapture Pro for FF</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comparing-the-most-popular-linux-snapshots-tools/"><u>[New] Comparing the Most Popular Linux Snapshots Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expertise-in-making-screen-captures-on-ios-easier/"><u>[New] Expertise in Making Screen Captures on iOS Easier</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-lenovo-screenshots-in-minutes/"><u>[Updated] Mastering Lenovo Screenshots in Minutes</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-the-disparities-apples-m1-pro-and-m1-max/"><u>Dissecting the Disparities Apple's M1 Pro and M1 Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-minutes-full-vsco-app-guide/"><u>In 2024, Mastery in Minutes Full VSCO App Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/key-techniques-for-capturing-youtube-streaming-content/"><u>Key Techniques for Capturing YouTube Streaming Content</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/670854-9781101514238-the-kybalion/"><u>The Kybalion | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-manual-overcoming-common-problems-with-remote-mics-not-working/"><u>Ultimate Solution Manual: Overcoming Common Problems with Remote Mics Not Working</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/uncovering-stardews-depths-with-ginger-island-adventures-for-2024/"><u>Uncovering Stardew's Depths with Ginger Island Adventures for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-leading-10-free-subtitle-editors-for-srt-files-for-2024/"><u>Unveiling Leading 10 FREE Subtitle Editors for SRT Files for 2024</u></a></li>
 </ul></div>
 

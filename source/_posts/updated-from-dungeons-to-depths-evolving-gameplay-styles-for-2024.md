@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2024-11-21T18:37:36.708Z
-updated: 2024-11-28T22:55:58.074Z
+date: 2024-12-01T18:21:08.988Z
+updated: 2024-12-07T18:08:43.269Z
 tags: 
   - screen-recording
   - ai video
@@ -45,19 +45,19 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -89,10 +89,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -111,6 +107,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Roguelite Games
@@ -124,7 +124,7 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -133,15 +133,15 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
@@ -164,24 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-catching-every-frame-leading-windows-10-capture-tools/"><u>[New] 2024 Approved Catching Every Frame Leading Windows 10 Capture Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[New] 2024 Approved The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>[New] Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-craft-decoding-filmora-questions/"><u>[New] Mastering Video Craft Decoding Filmora Questions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-obs-streams-to-facebook-success/"><u>[Updated] 2024 Approved The Ultimate Guide OBS Streams to Facebook Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-find-your-perfect-game-recorder-top-10-free-apps/"><u>[Updated] Find Your Perfect Game Recorder Top 10 Free Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-get-it-right-three-pro-tips-for-lol-gameplay-captures-for-2024/"><u>[Updated] Get It Right Three Pro Tips for LOL Gameplay Captures for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-choosing-between-obs-and-fraps-for-capture/"><u>[Updated] In 2024, Choosing Between OBS and Fraps for Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-methods-for-downloading-vimeo-clips/"><u>[Updated] In 2024, Easy Methods for Downloading Vimeo Clips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unfollow-trail-on-the-social-giant-instagram-for-2024/"><u>[Updated] Unfollow Trail on the Social Giant Instagram for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-1-key-youtube-tactics-for-effective-brand-promotion/"><u>2024 Approved 1 Key YouTube Tactics for Effective Brand Promotion</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-learn-to-record-mi-11s-display-effortlessly/"><u>2024 Approved Learn to Record Mi 11'S Display Effortlessly</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-mastering-anime-aesthetics-in-viral-tiktoks/"><u>2024 Approved Mastering Anime Aesthetics in Viral TikToks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adobe-lightroom-essentials-review-for-2024/"><u>Adobe Lightroom Essentials Review for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-artificamoebas-make-funny-investigating-the-development-of-laptops-and-the-improvement-in-virtual-private-networks/"><u>Do Artificamoebas Make Funny? Investigating the Development of Laptops and the Improvement in Virtual Private Networks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/getting-fcp-on-the-house-simple-steps-for-2024/"><u>Getting FCP on the House - Simple Steps for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratuito-converter-mp4-para-avi-online-movavi/"><u>Gratuito Converter MP4 Para AVI Online - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi A2+ To Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-pros-and-cons-of-using-chatgpt-for-creative-writing/"><u>The Pros and Cons of Using ChatGPT for Creative Writing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-bandicam-revolutionizing-screen-capture-for-modern-media-for-2024/"><u>[New] Bandicam Revolutionizing Screen Capture for Modern Media for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-from-separation-to-synergy-unite-obs-with-zoom-for-2024/"><u>[New] From Separation to Synergy Unite OBS with Zoom for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-enhance-audibility-with-adjusted-obs-settings-for-2024/"><u>[New] How to Enhance Audibility with Adjusted OBS Settings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-social-media-presence-insta-videography/"><u>[New] In 2024, Elevate Your Social Media Presence Insta-Videography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-no-cost-speedy-tips-for-exposing-deceptive-instagram-acquaintances/"><u>[New] In 2024, No-Cost, Speedy Tips for Exposing Deceptive Instagram Acquaintances</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[New] Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-top-8-multiparty-android-conferencing-apps/"><u>[New] The Top 8 Multiparty Android Conferencing Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-the-secrets-to-effective-video-capturing-with-vsdc-and-others/"><u>[New] Unveiling the Secrets to Effective Video Capturing with VSDC & Others</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-comprehensive-list-of-leading-no-cost-video-chat-apps-iosandroid/"><u>[Updated] 2024 Approved Comprehensive List of Leading No-Cost Video Chat Apps (iOS/Android)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-live-viewing-archive/"><u>[Updated] Live Viewing Archive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-repair-sounds-not-working-in-dying-light-game/"><u>How To Troubleshoot and Repair Sounds Not Working in Dying Light Game</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-razr-40-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Razr 40 Ultra Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use/"><u>In 2024, The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>New Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/nokia-71-analysis-exceptional-display-and-imaging-capabilities-at-a-budget-friendly-cost/"><u>Nokia 7.1 Analysis: Exceptional Display & Imaging Capabilities at a Budget-Friendly Cost</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-un65ru8000fxza-an-examination-of-its-stunning-visuals-and-smart-capabilities/"><u>Samsung UN65RU8000FXZA: An Examination of Its Stunning Visuals and Smart Capabilities</u></a></li>
 </ul></div>
 

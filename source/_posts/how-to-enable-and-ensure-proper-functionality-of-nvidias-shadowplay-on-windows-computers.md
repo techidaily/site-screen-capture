@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Ensure Proper Functionality of Nvidia's Shadowplay on Windows Computers
-date: 2024-11-24T16:24:59.827Z
-updated: 2024-11-28T19:55:02.350Z
+date: 2024-12-02T05:15:20.410Z
+updated: 2024-12-08T01:51:59.405Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 **SnowRunner keeps crashing on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Although the causes of SnowRunner crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether SnowRunner crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 5. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  Corrupted game files may cause SnowRunner to crash. If you’re not sure if the game crashing issue is triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
@@ -52,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 2. click on the **three dots** under the **SnowRunner** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Relaunch SnowRunner after the verifying process completed to see if this fix works. If not, don’t worry. Just move on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -73,12 +77,12 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  Launch SnowRunner and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -107,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  To turn on VSync in Nvidia graphics card, just open **Nvidia Control Panel** , then go to **Manage 3D Settings** \> **Program Settings** , then add **SnowRunner** . Scroll down to set **VSync** to **ON** . Then launch SnowRunner to enable VSync at in-game graphics settings.
 
  Launch the game and see if this fix works. If the game still crashes, just try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Close CPU / memory hogging applications
 
@@ -133,28 +141,20 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and run SnowRunner to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -188,22 +188,24 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-key-steps-to-screen-record-on-your-phone/"><u>[New] 2024 Approved Key Steps to Screen Record on Your Phone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] 2024 Approved The Ultimate Guide to Mac's Image File Transformation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unlocking-the-door-to-joining-a-tiktok-gathering/"><u>[New] 2024 Approved Unlocking the Door to Joining a TikTok Gathering</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-from-separation-to-symbiosis-logic-pro-x-audio-blending-for-2024/"><u>[New] From Separation To Symbiosis Logic Pro X Audio Blending for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-identifying-top-8-linux-tools-for-immediate-screenshots-for-2024/"><u>[New] Identifying Top 8 Linux Tools for Immediate Screenshots for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-noise-cancelled-skype-communication/"><u>[New] In 2024, Noise-Cancelled Skype Communication</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-muting-mastery-keeping-your-meeting-focus-on-google-go/"><u>[New] Muting Mastery Keeping Your Meeting Focus on Google Go</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-screen-replay-masters-leading-browser-capture-solutions-for-2024/"><u>[New] Screen Replay Masters Leading Browser Capture Solutions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-starting-from-scratch-stardews-ginger-island-guide/"><u>[New] Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-elite-tech-list-screen-recorders-with-zero-latency-for-2024/"><u>[Updated] Elite Tech List Screen Recorders with Zero Latency for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-enhancing-detail-in-scenes-using-kinemaster-zoom-features/"><u>[Updated] Enhancing Detail in Scenes Using Kinemaster Zoom Features</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-craft-compelling-loops-best-practices-for-instagram-posts/"><u>[Updated] In 2024, Craft Compelling Loops Best Practices for Instagram Posts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-video-visibility-on-youtube-through-lighting/"><u>[Updated] Maximizing Video Visibility on YouTube Through Lighting</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-s18-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo S18 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-galactic-game-guide-the-top-10-affordable-mmo-titles/"><u>In 2024, Galactic Game Guide The Top 10 Affordable MMO Titles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-live-streaming-simplified-with-top-webcam-recorders/"><u>In 2024, Live Streaming Simplified with Top WebCam Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-experience-unlimited-recording-review-of-free-screen-tools-for-cameras/"><u>[New] 2024 Approved Experience Unlimited Recording – Review of Free Screen Tools for Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>[New] 2024 Approved Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>[New] 2024 Approved Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-circuit-conquerors-ranking-your-top-5-speed-driven-games/"><u>[New] Circuit Conquerors Ranking Your Top 5 Speed-Driven Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-dual-display-dynamics-video-recorder-rankings/"><u>[New] Dual Display Dynamics Video Recorder Rankings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-collective-wisdom-on-easeus-products/"><u>[New] In 2024, Collective Wisdom on EaseUS Products</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-mac-toolkit-capturing-netflix-views-for-2024/"><u>[New] The Ultimate Mac Toolkit Capturing Netflix Views for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-online-presence-sharing-youtube-videos-on-fb-today/"><u>[New] Transform Your Online Presence Sharing YouTube Videos on FB Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigating-your-net-gain-three-steps-to-quantify-your-youtube-earnings/"><u>[Updated] 2024 Approved Navigating Your Net Gain Three Steps to Quantify Your YouTube Earnings</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012998956-ashen-crash-troubles-master-quick-solutions-today/"><u>Ashen Crash Troubles? Master Quick Solutions Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-drivers-for-gigabyte-gc-wb867d-i-motherboard/"><u>Download Drivers for Gigabyte GC-WB867D-I Motherboard</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensure-full-control-setting-up-universal-administrator-execution-in-windows-11-apps/"><u>Ensure Full Control: Setting Up Universal Administrator Execution in Windows 11 Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-hype-booster-maker/"><u>In 2024, Premier Hype Booster Maker</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-full-screen-recording-features-in-mi-11/"><u>In 2024, Unlocking Full-Screen Recording Features in Mi 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pioneering-apps-for-diverse-game-file-logging-needs-for-2024/"><u>Pioneering Apps for Diverse Game File Logging Needs for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1127086-9781612831978-spirit-animals-and-the-wheel-of-life/"><u>Spirit Animals and the Wheel of Life | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726220847308-3gpwma-movavi/"><u>オンラインで3GPとWMAファイルを無料で変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-11-24T22:45:24.697Z
-updated: 2024-11-28T20:29:25.993Z
+date: 2024-12-02T05:26:45.635Z
+updated: 2024-12-08T00:49:28.649Z
 tags: 
   - screen-recording
   - ai video
@@ -39,15 +39,15 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -56,7 +56,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -70,6 +74,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -107,11 +115,11 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -122,10 +130,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -138,10 +142,6 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
@@ -164,18 +164,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-inside-screencasting-obs-tools-analyzed-for-optimal-broadcasts-for-2024/"><u>[New] Inside Screencasting OBS Tools Analyzed for Optimal Broadcasts for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mobile-mastery-using-phone-as-a-camera-for-recording/"><u>[New] Mobile Mastery Using Phone as a Camera for Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-prime-screen-recording-tools-for-no-ad-android/"><u>[Updated] 2024 Approved Prime Screen Recording Tools for No-Ad Android</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-boosting-gamers-skills-with-accurate-xbox-captures-for-2024/"><u>[Updated] Boosting Gamers' Skills with Accurate Xbox Captures for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-cost-efficient-top-screen-recorder-apps-for-chromeos-for-2024/"><u>[Updated] Cost-Efficient Top Screen Recorder Apps for ChromeOS for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-the-magic-searching-for-photos-on-pexels/"><u>2024 Approved Unleashing the Magic Searching for Photos on Pexels</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-11-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 11 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-tecno-spark-20-proplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Spark 20 Pro+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210346028-9782226460554-les-cles-de-lesoterisme-chakras/"><u>Les Clés de l'ésotérisme - Chakras | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-chatgpt-shared-linking/"><u>Navigating the World of ChatGPT Shared Linking</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/siege-showdowns-top-10-royale-arena-fighters-for-2024/"><u>Siege Showdowns Top 10 Royale Arena Fighters for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-proplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 Pro+ on Windows?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-boosting-stream-consistency-with-obs-fixes/"><u>[New] Boosting Stream Consistency with OBS Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-from-puzzles-to-peril-the-gaming-genres-progression/"><u>[New] From Puzzles to Peril The Gaming Genre's Progression</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovating-communication-integrate-google-meets-in-daily-life/"><u>[New] Innovating Communication Integrate Google Meets in Daily Life</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-through-digital-profit-landscapes-for-2024/"><u>[New] Navigating Through Digital Profit Landscapes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-precision-in-screenshots-a-detailed-guide-for-2024/"><u>[New] Precision in Screenshots A Detailed Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screensnap-secrets-the-ultimate-guide-to-record-your-world/"><u>[New] ScreenSnap Secrets The Ultimate Guide to Record Your World</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-one-step-at-a-time-how-to-create-a-skype-group-on-both-platforms/"><u>[Updated] 2024 Approved One Step at a Time How to Create a Skype Group on Both Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-overcoming-audio-glitches-with-obs-enhancements/"><u>[Updated] In 2024, Overcoming Audio Glitches with OBS Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-multimodal-ai-comprehensive-insights-and-applications/"><u>Exploring the World of Multimodal AI: Comprehensive Insights and Applications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-14-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi 14</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-11-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 11 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-appreciation-bundle-ultimate-selection-of-templates/"><u>In 2024, Appreciation Bundle Ultimate Selection of Templates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-methods-chronicling-your-ps3-gameplay/"><u>Master Methods Chronicling Your PS3 Gameplay</u></a></li>
+<li><a href="https://win-dash.techidaily.com/tp-links-new-bluetooth-dongle-update-and-driver-installation-guide/"><u>TP-Link's New Bluetooth Dongle Update & Driver Installation Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-expert-selection-ultimate-guide-to-elite-gaming-mouse-pads-of-2024/"><u>ZDNET's Expert Selection: Ultimate Guide to Elite Gaming Mouse Pads of 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Dirt 5 From Crashing on Your Computer - Effective Fixes and Tweaks
-date: 2024-12-03T00:17:11.849Z
-updated: 2024-12-07T22:57:13.170Z
+date: 2024-12-08T04:13:00.901Z
+updated: 2024-12-13T18:15:52.307Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 ## Halo ([Solved] Crashing on Computer - Top Fixes and Tips
 
 Games crashes are not something uncommon. And you might encounter the same issue while playing the popular Halo 3\. That’s pretty frustrating, right? Don’t worry, you can try these simple fixes in this article to rule out the causes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,6 +48,10 @@ _Halo 3 Minimum System Requirements_
 
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
@@ -58,10 +66,6 @@ _Halo 3 Minimum System Requirements_
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
@@ -70,10 +74,6 @@ _Halo 3 Minimum System Requirements_
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  OR  
   
@@ -85,10 +85,6 @@ _Halo 3 Minimum System Requirements_
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -120,6 +116,10 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -133,7 +133,7 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
@@ -149,7 +149,7 @@ To do so:
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the**Services** tab.  
@@ -161,6 +161,10 @@ To do so:
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
@@ -168,10 +172,6 @@ To do so:
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Restart your computer and it’ll be in a clean boot environment.
 
@@ -183,6 +183,10 @@ To do so:
   
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
@@ -197,10 +201,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Install the latest game patch
 
  When a new game is released, there are still many bugs in it. And those bugs might cause the game crash issues. So developers keep updating the games to fix the bugs and improve the gaming performance.  
@@ -208,10 +208,6 @@ To do so:
  So if there is a patch available, download and install it, then run the game again to check if the problem is solved. If it isn’t, or there is no new patch available, then move on to Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Verify the integrity of game files
 
@@ -224,19 +220,23 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
@@ -264,19 +264,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-advanced-game-monitoring-tools-for-diverse-formats-for-2024/"><u>[New] Advanced Game Monitoring Tools for Diverse Formats for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-steam-playback-perfection-in-video-games/"><u>[New] Steam Playback Perfection in Video Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>[New] The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-halo-infinite-not-launching-due-to-directx12-error/"><u>[SOLVED] Halo Infinite Not Launching Due to DirectX12 Error</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-methods-for-device-capturing-applications/"><u>[Updated] 2024 Approved Essential Methods for Device Capturing Applications</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-insights-crafting-videos-via-google-trends/"><u>[Updated] In 2024, Unlocking Insights Crafting Videos via Google Trends</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[Updated] Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unveiling-the-11-most-innovative-sound-recording-options/"><u>[Updated] Unveiling the 11 Most Innovative Sound Recording Options</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-15-best-tools-to-capture-classroom-learning-moments/"><u>In 2024, 15 Best Tools to Capture Classroom Learning Moments</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-transforming-android-devices-into-broadcast-powerhouses-with-obs/"><u>In 2024, Transforming Android Devices Into Broadcast Powerhouses with OBS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ration-on-screen-top-youtube-themes-for-channels-prosperity/"><u>Inspiration on Screen Top YouTube Themes for Channels' Prosperity</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phantom-v-fold-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phantom V Fold Phone FRP Lock</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-11dvd-dvd/"><u>Windows 11でDVDディスクのバックアップ作成ガイド - DVDコピー手順</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-tip-mastering-green-screen-techniques/"><u>[New] 2024 Approved Fast Tip Mastering Green Screen Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-maximizing-your-camera-masterful-android-time-lapse-videography/"><u>[New] 2024 Approved Maximizing Your Camera Masterful Android Time-Lapse Videography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-cheapest-android-calls-top-free-apps-rated/"><u>[New] In 2024, Cheapest Android Calls Top Free Apps Rated</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-depth-look-at-engaging-with-youtube-comment-threads-for-2024/"><u>[New] In-Depth Look at Engaging with YouTube Comment Threads for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premier-choices-high-quality-free-screen-recorder-software-for-2024/"><u>[New] Premier Choices High-Quality Free Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-by-step-dell-desktop-screen-capture-tutorial/"><u>[New] Step-by-Step Dell Desktop Screen Capture Tutorial</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-monetary-impact-of-mr-beast/"><u>[New] The Monetary Impact of Mr. Beast</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-androidios-techniques-screening-google-meets/"><u>[Updated] 2024 Approved Android/iOS Techniques Screening Google Meets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-efficient-presentation-recording-with-a-webcam-on-handy-guide/"><u>[Updated] 2024 Approved Efficient Presentation Recording with a Webcam on Handy Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-capture-to-curve-an-insider-look-at-editing-and-sharing-360-videos-on-youtube/"><u>[Updated] 2024 Approved From Capture to Curve An Insider Look at Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-screenshots-programs-ranked-1-8-for-2024/"><u>[Updated] Best Screenshots Programs Ranked #1-8 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigate-the-post-production-maze-with-timestamps-and-labels/"><u>[Updated] In 2024, Navigate the Post-Production Maze with Timestamps & Labels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-key-top-5-ultra-light-action-recording-models-for-2024/"><u>[Updated] Key Top 5 Ultra-Light Action Recording Models for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-media-craft-debate-between-filmora-and-democracy-creator/"><u>[Updated] Mastering Media Craft Debate Between Filmora & Democracy Creator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-how-to-record-hulu-on-winmacmobile-for-2024/"><u>[Updated] The Ultimate Guide How To Record Hulu On Win/Mac/Mobile for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-schools-8-persuasive-arguments-why-teachers-should-choose-adaptation-over-apprehension/"><u>AI in Schools: 8 Persuasive Arguments Why Teachers Should Choose Adaptation Over Apprehension</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-gathering-insights-on-latest-trends-and-speculations/"><u>Upcoming Google Gathering: Insights on Latest Trends & Speculations</u></a></li>
 </ul></div>
 

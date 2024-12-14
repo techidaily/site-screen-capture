@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Ensure Proper Functionality of Nvidia's Shadowplay on Windows Computers
-date: 2024-12-02T05:15:20.410Z
-updated: 2024-12-08T01:51:59.405Z
+date: 2024-12-07T04:13:53.401Z
+updated: 2024-12-13T20:26:44.695Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify integrity of game files
@@ -44,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
 
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Relaunch SnowRunner after the verifying process completed to see if this fix works. If not, don’t worry. Just move on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -77,12 +73,12 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  Launch SnowRunner and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  Launch the game and see if this fix works. If the game still crashes, just try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Close CPU / memory hogging applications
@@ -144,15 +140,19 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -188,24 +188,17 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-experience-unlimited-recording-review-of-free-screen-tools-for-cameras/"><u>[New] 2024 Approved Experience Unlimited Recording – Review of Free Screen Tools for Cameras</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>[New] 2024 Approved Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>[New] 2024 Approved Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-circuit-conquerors-ranking-your-top-5-speed-driven-games/"><u>[New] Circuit Conquerors Ranking Your Top 5 Speed-Driven Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-dual-display-dynamics-video-recorder-rankings/"><u>[New] Dual Display Dynamics Video Recorder Rankings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-collective-wisdom-on-easeus-products/"><u>[New] In 2024, Collective Wisdom on EaseUS Products</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-mac-toolkit-capturing-netflix-views-for-2024/"><u>[New] The Ultimate Mac Toolkit Capturing Netflix Views for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ransform-your-online-presence-sharing-youtube-videos-on-fb-today/"><u>[New] Transform Your Online Presence Sharing YouTube Videos on FB Today</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigating-your-net-gain-three-steps-to-quantify-your-youtube-earnings/"><u>[Updated] 2024 Approved Navigating Your Net Gain Three Steps to Quantify Your YouTube Earnings</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012998956-ashen-crash-troubles-master-quick-solutions-today/"><u>Ashen Crash Troubles? Master Quick Solutions Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-drivers-for-gigabyte-gc-wb867d-i-motherboard/"><u>Download Drivers for Gigabyte GC-WB867D-I Motherboard</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ensure-full-control-setting-up-universal-administrator-execution-in-windows-11-apps/"><u>Ensure Full Control: Setting Up Universal Administrator Execution in Windows 11 Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-hype-booster-maker/"><u>In 2024, Premier Hype Booster Maker</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-full-screen-recording-features-in-mi-11/"><u>In 2024, Unlocking Full-Screen Recording Features in Mi 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pioneering-apps-for-diverse-game-file-logging-needs-for-2024/"><u>Pioneering Apps for Diverse Game File Logging Needs for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1127086-9781612831978-spirit-animals-and-the-wheel-of-life/"><u>Spirit Animals and the Wheel of Life | Free Book</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1726220847308-3gpwma-movavi/"><u>オンラインで3GPとWMAファイルを無料で変換 - Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles/"><u>[New] 2024 Approved Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>[New] In 2024, Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-pioneering-quests-and-thrills-top-10-game-wonders-top-10/"><u>[New] In 2024, Pioneering Quests & Thrills – Top 10 Game Wonders (Top 10)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-challenge-away-from-grand-theft/"><u>[New] The Ultimate Challenge Away From Grand Theft</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-free-tool-your-android-unhindered/"><u>[Updated] 2024 Approved Best Free Tool Your Android, Unhindered</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-arcade-affordability-index-for-2024/"><u>[Updated] ARCADE AFFORDABILITY INDEX for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-turn-your-videos-into-money-with-vimeo-expertise/"><u>[Updated] How to Turn Your Videos Into Money with Vimeo Expertise</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-14-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 14 Pro? How to Fix it?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quality-retention-techniques-for-reducing-size-of-avi-video-clips-using-windows-10-tools/"><u>Quality Retention Techniques for Reducing Size of AVI Video Clips Using Windows 10 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-value-cannot-be-established-errors-on-windows-devices/"><u>Resolving Value Cannot Be Established Errors on Windows Devices</u></a></li>
+<li><a href="https://win-best.techidaily.com/solutions-for-non-responsive-optical-drives-tips-from-yl-computing-and-software-experts/"><u>Solutions for Non-Responsive Optical Drives - Tips From YL Computing & Software Experts</u></a></li>
 </ul></div>
 

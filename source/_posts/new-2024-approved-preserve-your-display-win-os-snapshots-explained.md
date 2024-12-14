@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Preserve Your Display  Win OS Snapshots Explained\""
-date: 2024-12-05T22:54:14.224Z
-updated: 2024-12-07T23:24:32.239Z
+date: 2024-12-09T19:55:21.173Z
+updated: 2024-12-14T03:35:47.659Z
 tags: 
   - screen-recording
   - ai video
@@ -59,7 +59,7 @@ You can either double-click on the app's desktop icon or you can launch it from 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
@@ -75,7 +75,7 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
@@ -101,7 +101,7 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
@@ -109,10 +109,6 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
@@ -123,7 +119,7 @@ You can launch the app from the Start menu or by typing its name in the Search C
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
@@ -146,13 +142,13 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -188,6 +184,10 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,22 +203,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-decide-on-video-frames-per-second-comparing-30-vs-60/"><u>[New] How to Decide on Video Frames Per Second? Comparing 30 Vs. 60</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-live-stream-reader/"><u>[New] In 2024, Live Stream Reader</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-the-art-of-audio-with-zoom-your-complete-guidebook/"><u>[New] In 2024, Mastering the Art of Audio with Zoom Your Complete Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-6-minecraft-abodes-for-survivors/"><u>[New] In 2024, Top 6 Minecraft Abodes for Survivors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-instant-recording-audio-enriched-screens/"><u>[Updated] 2024 Approved Instant Recording Audio-Enriched Screens</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-audio-callback-logger-for-iphone-2024/"><u>[Updated] Audio Callback Logger for iPhone 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-conduct-screenshares-in-zoom/"><u>[Updated] How to Conduct Screenshares in Zoom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-transformative-techniques-to-enhance-your-powerpoint-recordings/"><u>[Updated] In 2024, Transformative Techniques to Enhance Your PowerPoint Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pioneering-techniques-for-smooth-recording-in-virtual-sessions-for-2024/"><u>[Updated] Pioneering Techniques for Smooth Recording in Virtual Sessions for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728476536817-sd/"><u>「パソコンを使ってSDカードを初期化するための詳細ガイド：ステップバイステップ」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-brief-scene-structure-summary/"><u>2024 Approved Brief Scene Structure Summary</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gratuit-mov-to-mxf-konvertor-enligpt-online-movavi/"><u>Gratuit MOV-to-MXF Konvertor Enligpt Online - Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-hp-scanner-software-for-windows-systems/"><u>How to Get the Latest HP Scanner Software for Windows Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y36-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y36 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-art-of-building-engaging-facebook-moment-slides/"><u>In 2024, The Art of Building Engaging Facebook Moment Slides</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/slash-prices-by-40-secure-your-anker-power-generator-before-the-next-big-freeze-insights-for-homeowners/"><u>Slash Prices by 40%: Secure Your Anker Power Generator Before the Next Big Freeze - Insights for Homeowners</u></a></li>
-<li><a href="https://solve-info.techidaily.com/sofia-tarasova-expert-collaborator-in-randd-and-product-innovation/"><u>Sofia Tarasova - Expert Collaborator in R&D & Product Innovation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-harness-the-power-of-color-grading-a-guide-to-luts-in-photoshop-cs6/"><u>[New] 2024 Approved Harness the Power of Color Grading A Guide to LUTs in Photoshop CS6</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-direct-technique-swap-film-direction-in-media-player/"><u>[New] In 2024, Direct Technique Swap Film Direction in Media Player</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unveiling-the-art-of-screencasting-orderly-tutorial-series/"><u>[New] In 2024, Unveiling the Art of Screencasting Orderly Tutorial Series</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[Updated] 2024 Approved Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-list-10-prime-video-cameras-for-pcs/"><u>[Updated] In 2024, Ultimate List 10 Prime Video Cameras for PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>[Updated] StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-quitvideo-on-the-go-quickaction-tips/"><u>2024 Approved QuitVideo On-the-Go QuickAction Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-swaying-symbols-dynamic-animation-for-text-effects/"><u>2024 Approved Swaying Symbols Dynamic Animation for Text Effects</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aussie-slang-unleashed-mastering-local-expressions/"><u>Aussie Slang Unleashed: Mastering Local Expressions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-80s-film-gems-you-shouldnt-miss-updated-list/"><u>Essential '80S Film Gems You Shouldn't Miss (Updated List)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>In 2024, The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-ready-for-the-big-screen-top-10-movie-trailer-apps-for-ios/"><u>New 2024 Approved Get Ready for the Big Screen Top 10 Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-securely-saving-new-encryption-dvds-and-recent-movie-releases/"><u>Step-by-Step Guide: Securely Saving New Encryption DVDs & Recent Movie Releases</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-comedic-potential-of-the-metaverses-vast-space/"><u>The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-updating-your-razer-blade-17-graphics-and-chipset-drivers-on-windows-11-10-8-and-7/"><u>Ultimate Guide: Updating Your Razer Blade 17 Graphics and Chipset Drivers on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-shooting-top-10-high-definition-dslr-stands/"><u>Ultimate Shooting Top 10 High-Definition DSLR Stands</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2024-12-01T18:21:08.988Z
-updated: 2024-12-07T18:08:43.269Z
+date: 2024-12-07T23:38:27.750Z
+updated: 2024-12-13T21:07:15.970Z
 tags: 
   - screen-recording
   - ai video
@@ -46,11 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -70,6 +66,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -108,7 +108,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -124,7 +124,7 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -132,10 +132,6 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -148,6 +144,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,22 +164,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-bandicam-revolutionizing-screen-capture-for-modern-media-for-2024/"><u>[New] Bandicam Revolutionizing Screen Capture for Modern Media for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-from-separation-to-synergy-unite-obs-with-zoom-for-2024/"><u>[New] From Separation to Synergy Unite OBS with Zoom for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-enhance-audibility-with-adjusted-obs-settings-for-2024/"><u>[New] How to Enhance Audibility with Adjusted OBS Settings for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-social-media-presence-insta-videography/"><u>[New] In 2024, Elevate Your Social Media Presence Insta-Videography</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-no-cost-speedy-tips-for-exposing-deceptive-instagram-acquaintances/"><u>[New] In 2024, No-Cost, Speedy Tips for Exposing Deceptive Instagram Acquaintances</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[New] Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-top-8-multiparty-android-conferencing-apps/"><u>[New] The Top 8 Multiparty Android Conferencing Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unveiling-the-secrets-to-effective-video-capturing-with-vsdc-and-others/"><u>[New] Unveiling the Secrets to Effective Video Capturing with VSDC & Others</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-comprehensive-list-of-leading-no-cost-video-chat-apps-iosandroid/"><u>[Updated] 2024 Approved Comprehensive List of Leading No-Cost Video Chat Apps (iOS/Android)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-live-viewing-archive/"><u>[Updated] Live Viewing Archive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-repair-sounds-not-working-in-dying-light-game/"><u>How To Troubleshoot and Repair Sounds Not Working in Dying Light Game</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-razr-40-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Razr 40 Ultra Phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use/"><u>In 2024, The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>New Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nokia-71-analysis-exceptional-display-and-imaging-capabilities-at-a-budget-friendly-cost/"><u>Nokia 7.1 Analysis: Exceptional Display & Imaging Capabilities at a Budget-Friendly Cost</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-un65ru8000fxza-an-examination-of-its-stunning-visuals-and-smart-capabilities/"><u>Samsung UN65RU8000FXZA: An Examination of Its Stunning Visuals and Smart Capabilities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-from-pixels-to-perfection-selecting-the-premier-screen-recording-software/"><u>[Updated] 2024 Approved From Pixels to Perfection Selecting the Premier Screen Recording Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-securely-saving-device-interactions-on-android-for-2024/"><u>[Updated] Step by Step Securely Saving Device Interactions on Android for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tailoring-speech-interpretation-a-guide-with-google-translate/"><u>[Updated] Tailoring Speech Interpretation A Guide with Google Translate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-visual-snippet-retriever/"><u>[Updated] Visual Snippet Retriever</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-webcam-setup-simplified-for-hp-and-chrome-users-for-2024/"><u>[Updated] Webcam Setup Simplified for HP & Chrome Users for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728467008209-windows/"><u>簡単で信頼性高いWindowsベストファイルバックアップソフトウェア -無料ダウンロード可能！</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/gratis-wiederherstellungsoptionen-nach-ctrlplusz-fehler-wie-kann-ich-meine-dateien-retten/"><u>Gratis Wiederherstellungsoptionen Nach Ctrl+Z-Fehler: Wie Kann Ich Meine Dateien Retten?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/guide-to-quick-video-recording-on-youtube-for-2024/"><u>Guide to Quick Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-11r-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus 11R to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-evaluating-virtual-realms-pros-and-cons/"><u>In 2024, Evaluating Virtual Realms Pros and Cons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-everyone-struggling-with-playstation-online-services-or-is-it-just-my-connection/"><u>Is Everyone Struggling with PlayStation Online Services, Or Is It Just My Connection?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/losung-fur-den-fehlenden-gespeicherten-excel-dokumentenabruf-wiederherstellungsstrategie/"><u>Lösung Für Den Fehlenden Gespeicherten Excel-Dokumentenabruf: Wiederherstellungsstrategie</u></a></li>
+<li><a href="https://techidaily.com/tecno-pop-7-pro-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Pop 7 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
 

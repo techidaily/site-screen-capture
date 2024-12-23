@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2024-11-30T22:54:48.434Z
-updated: 2024-12-07T21:10:35.188Z
+date: 2024-12-21T22:59:30.025Z
+updated: 2024-12-23T05:27:22.431Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -85,6 +85,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -104,14 +108,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -129,25 +129,25 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,18 +164,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-firecapture-pro-for-ff/"><u>[New] 2024 Approved FireCapture Pro for FF</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-comparing-the-most-popular-linux-snapshots-tools/"><u>[New] Comparing the Most Popular Linux Snapshots Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-expertise-in-making-screen-captures-on-ios-easier/"><u>[New] Expertise in Making Screen Captures on iOS Easier</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-lenovo-screenshots-in-minutes/"><u>[Updated] Mastering Lenovo Screenshots in Minutes</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dissecting-the-disparities-apples-m1-pro-and-m1-max/"><u>Dissecting the Disparities Apple's M1 Pro and M1 Max</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-minutes-full-vsco-app-guide/"><u>In 2024, Mastery in Minutes Full VSCO App Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/key-techniques-for-capturing-youtube-streaming-content/"><u>Key Techniques for Capturing YouTube Streaming Content</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/670854-9781101514238-the-kybalion/"><u>The Kybalion | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solution-manual-overcoming-common-problems-with-remote-mics-not-working/"><u>Ultimate Solution Manual: Overcoming Common Problems with Remote Mics Not Working</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/uncovering-stardews-depths-with-ginger-island-adventures-for-2024/"><u>Uncovering Stardew's Depths with Ginger Island Adventures for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-leading-10-free-subtitle-editors-for-srt-files-for-2024/"><u>Unveiling Leading 10 FREE Subtitle Editors for SRT Files for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-yielding-income-a-streamers-guide-to-earning/"><u>[New] 2024 Approved Yielding Income A Streamer's Guide to Earning</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-drone-shopping-secrets-hidden-insights-for-successful-buyers/"><u>[New] In 2024, Drone Shopping Secrets Hidden Insights for Successful Buyers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-speedy-snapshot-and-voice-guided-session-creator-for-2024/"><u>[New] Speedy Snapshot & Voice-Guided Session Creator for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-editor-apps-to-polish-your-webcam-recordings-for-2024/"><u>[Updated] Best Editor Apps to Polish Your Webcam Recordings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-memorize-mastery-galaxy-phone-gameplay-archive/"><u>[Updated] Memorize Mastery Galaxy Phone Gameplay Archive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-cultural-influences-on-consumer-behavior-in-global-markets/"><u>[Updated] Understanding Cultural Influences on Consumer Behavior in Global Markets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigate-the-post-production-maze-with-timestamps-and-labels/"><u>2024 Approved Navigate the Post-Production Maze with Timestamps & Labels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-tips-that-make-every-iphone-landscape-stand-out/"><u>2024 Approved Pro Tips That Make Every iPhone Landscape Stand Out</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analysis-of-virtual-conversations-gpt-and-bing-compared/"><u>Analysis of Virtual Conversations: GPT & Bing Compared</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-skype-recorders-for-quality-compiled/"><u>Best Skype Recorders for Quality Compiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-apeaksofts-screen-tech-revolution-2023-review/"><u>In 2024, Apeaksoft's Screen Tech Revolution 2023 Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elevate-your-online-sound-experience-with-these-5-steps/"><u>In 2024, Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-photography-with-darktable-the-premier-open-source-raw-image-editor-for-mac-and-linux/"><u>Revolutionize Your Photography with Darktable: The Premier Open-Source Raw Image Editor for Mac & Linux</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/transferer-des-fichiers-image-entre-ordinateurs-sous-windows-11-guide-complet/"><u>Transférer Des Fichiers Image Entre Ordinateurs Sous Windows 11 : Guide Complet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-gimps-power-as-a-gratis-and-versatile-graphic-design-software/"><u>Unveiling GIMP's Power as a Gratis and Versatile Graphic Design Software</u></a></li>
 </ul></div>
 

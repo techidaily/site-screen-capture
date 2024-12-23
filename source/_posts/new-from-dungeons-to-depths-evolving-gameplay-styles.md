@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-12-08T21:34:24.408Z
-updated: 2024-12-14T05:52:06.269Z
+date: 2024-12-19T00:15:00.855Z
+updated: 2024-12-22T23:10:43.815Z
 tags: 
   - screen-recording
   - ai video
@@ -46,11 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -59,11 +55,23 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -107,11 +115,11 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -122,10 +130,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -142,10 +146,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -164,18 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comprehensive-manual-mastering-mobizen-recorders/"><u>[New] 2024 Approved Comprehensive Manual Mastering Mobizen Recorders</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ouble-trouble-replaying-youtube-videos-on-your-set-for-2024/"><u>[New] Double Trouble Replaying YouTube Videos on Your Set for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-momentum-at-rest-best-idle-pc-games/"><u>[New] In 2024, Momentum at Rest Best Idle PC Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-key-techniques-for-capturing-youtube-streaming-content/"><u>[New] Key Techniques for Capturing YouTube Streaming Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-modern-techniques-record-idevice-screen-effortlessly/"><u>[New] Modern Techniques Record iDevice Screen Effortlessly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pixelpilot-w11-lightweight-screenshot-and-recording-app-for-2024/"><u>[Updated] PixelPilot W11 Lightweight Screenshot & Recording App for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-masterclass-crafting-youtube-trailers-using-filmora/"><u>[Updated] Video Masterclass Crafting YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-eluding-prying-eyes-privacy-preserving-video-editing/"><u>2024 Approved Eluding Prying Eyes Privacy-Preserving Video Editing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-magic-5-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Magic 5.</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-8-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 8 Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-steps-for-when-you-cant-start-a-game-checking-game-files/"><u>Solution Steps for When You Can’t Start a Game - Checking Game Files</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pro-apk-we-put-its-editing-capabilities-to-the-test/"><u>Updated VN Video Editor Pro Apk We Put Its Editing Capabilities to the Test</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/your-go-to-list-for-immersive-sandboxes-for-2024/"><u>Your Go-To List for Immersive Sandboxes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-gathering-groups-video-content-easily/"><u>[New] 2024 Approved Gathering Groups' Video Content Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-digital-sound-logging-system-inputs-for-2024/"><u>[New] Digital Sound Logging System Inputs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-critical-selection-of-best-screen-recorders-android/"><u>[New] In 2024, Critical Selection of Best Screen Recorders (Android)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-list-of-high-quality-recorders-for-mac-users/"><u>[New] In 2024, Essential List of High-Quality Recorders for Mac Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drowsy-documentaries-film-reviews/"><u>[Updated] Drowsy Documentaries Film Reviews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-the-potential-of-screen-sharing-on-google-meet-for-2024/"><u>[Updated] Unlocking the Potential of Screen Sharing on Google Meet for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-hilarious-youtube-content-from-2016-and-2017-top-10-picks/"><u>Best Hilarious YouTube Content From 2016 & 2017: Top 10 Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-writing-the-best-8-ai-resources-for-a-streamlined-content-processing-experience/"><u>Boost Your Writing: The Best 8 AI Resources for a Streamlined Content Processing Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-g310-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia G310 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-9a-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 9A</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-connection-woes-addressed-fixing-the-local-client-process-failure/"><u>Steam Connection Woes Addressed - Fixing the Local Client Process Failure</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-6-high-performance-recording-tools-with-smooth-60fps-playback/"><u>Top 6 High-Performance Recording Tools with Smooth 60Fps Playback</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-problem-14-ways-to-restore-faceid-functionality-on-your-iphone/"><u>Unlocking the Problem: 14 Ways to Restore FaceID Functionality on Your iPhone</u></a></li>
 </ul></div>
 

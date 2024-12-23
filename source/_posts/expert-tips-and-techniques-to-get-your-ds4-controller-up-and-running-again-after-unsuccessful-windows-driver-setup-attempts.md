@@ -1,7 +1,7 @@
 ---
 title: Expert Tips and Techniques to Get Your DS4 Controller Up & Running Again After Unsuccessful Windows Driver Setup Attempts
-date: 2024-12-08T17:32:20.278Z
-updated: 2024-12-13T19:18:13.300Z
+date: 2024-12-15T22:21:59.991Z
+updated: 2024-12-22T20:41:14.061Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -36,21 +40,17 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/DLC-uncheck-install.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, you should be able to fix the game stuck at 57.4/64 GB issue. If this didn’t work for you, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Change Steam download server
 
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Set Steam’s priority to High
 
  Waiting for Steam games to update or download can be vexing. And you would be quite frustrated with the slow unpacking speed. But the good news is, setting Steam’s priority to High in the Task Manager can help you. Follow the steps below to do that:
@@ -79,33 +83,21 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**Processes** tab, locate**Steam Client Bootstrapper** . Right-click it and select**Go to details** .  
   
 ![set Steam's priority to high](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You’re directed to the**Details** tab and**steam.exe** will be highlighted. Right-click it and select**Set priority > High** .  
   
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once done, your game’s unpacking speed should be boosted.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update network adapter driver
 
@@ -136,6 +128,10 @@ Here’s how it works:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Clear download cache
 
  Clearing your download cache can solve problems with game’s slow download speed or other download issues. This process will not affect your currently installed games, but you’ll need to log into Steam afterwards. Here’s how you can do this:
@@ -144,6 +140,10 @@ Here’s how it works:
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab and you’ll find the**CLEAR DOWNLOAD CACHE** button at the bottom. Simply click on it.  
   
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
@@ -151,6 +151,10 @@ Here’s how it works:
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
   
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -161,10 +165,6 @@ Here’s how it works:
  1) From your Steam Client, open the Settings panel by selecting**Steam** \>**Settings** from the top left client menu.  
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
@@ -191,20 +191,16 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-quick-guide-capturing-time-lapse-on-your-ipad/"><u>[New] In 2024, Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences/"><u>[New] In 2024, The Perfect Playback Top Strategies to Record and Share Your VR Experiences</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-depth-analysis-of-fb-chat-recording-techniques/"><u>[New] In-Depth Analysis of FB Chat Recording Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-quickquip-quarterfreeze-media/"><u>[Updated] In 2024, QuickQuip QuarterFreeze Media</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-depth-guide-to-mobilepcmac-movie-capture/"><u>[Updated] In-Depth Guide to Mobile/PC/Mac Movie Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-strategies-to-combat-freezing-in-high-quality-mode-for-2024/"><u>[Updated] Strategies to Combat Freezing in High Quality Mode for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-leading-screen-recorders-for-effective-teaching-methods/"><u>[Updated] The Leading Screen Recorders for Effective Teaching Methods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-effective-naming-adjustments-for-google-meet-users-laptopmobile/"><u>2024 Approved Effective Naming Adjustments for Google Meet Users (Laptop/Mobile)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/budget-friendly-microsoft-office-suite-get-project-and-visio-pro-for-only-20-from-zdnet-today/"><u>Budget-Friendly Microsoft Office Suite: Get Project and Visio Pro for Only $20 From ZDNet Today!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/dungeons-deep-and-deeper-old-school-and-hybrid-games-for-2024/"><u>Dungeons Deep & Deeper Old School and Hybrid Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/first-steps-in-windows-understanding-aids-and-assists/"><u>First Steps in Windows: Understanding Aids and Assists</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 8 without Losing Data? | Stellar</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windowed-discord-for-flawless-search-experience/"><u>Optimizing Windowed Discord for Flawless Search Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-restore-charge-to-your-laptop-easily-and-effectively/"><u>Troubleshoot and Restore Charge to Your Laptop Easily & Effectively!</u></a></li>
-<li><a href="https://facebook.techidaily.com/unsettling-eu-giants-metas-strategic-game-changer-for-facebookinsta/"><u>Unsettling EU Giants: Meta's Strategic Game-Changer for Facebook/Insta</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-art-of-minimizing-lag-with-additional-ram-for-minecraft/"><u>[New] 2024 Approved The Art of Minimizing Lag with Additional RAM for Minecraft</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-establishing-group-communication-on-skype-windows-mac/"><u>[Updated] 2024 Approved Establishing Group Communication on Skype (Windows, Mac)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-screen-capture-methods-for-rainbow-six-siege/"><u>[Updated] Essential Screen Capture Methods for Rainbow Six Siege</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>[Updated] In 2024, Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-insiders-guide-to-flawless-skype-call-recordings/"><u>[Updated] In 2024, The Insider's Guide to Flawless Skype Call Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pioneering-eco-friendly-visual-effects-aids-for-2024/"><u>[Updated] Pioneering Eco-Friendly Visual Effects Aids for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-simplifying-the-complexity-of-digital-enhancements/"><u>2024 Approved Simplifying the Complexity of Digital Enhancements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-efficiency-the-ultimate-guide-to-setting-up-slack-notifications/"><u>Mastering Efficiency: The Ultimate Guide to Setting Up Slack Notifications</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ommercial-viability-of-creative-video-content-for-2024/"><u>The Commercial Viability of Creative Video Content for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unraveling-the-mystery-of-frame-rates-in-videos/"><u>Unraveling the Mystery of Frame Rates in Videos</u></a></li>
 </ul></div>
 

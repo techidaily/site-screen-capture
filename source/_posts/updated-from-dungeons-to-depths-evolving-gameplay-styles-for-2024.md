@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2024-12-07T23:38:27.750Z
-updated: 2024-12-13T21:07:15.970Z
+date: 2024-12-22T05:40:07.971Z
+updated: 2024-12-23T01:00:58.059Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -54,6 +54,10 @@ In order to best understand these two game genres, we must first analyze the ori
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -68,7 +72,7 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Clear Distinction
@@ -108,10 +112,14 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -122,10 +130,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -145,10 +149,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -164,19 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-from-pixels-to-perfection-selecting-the-premier-screen-recording-software/"><u>[Updated] 2024 Approved From Pixels to Perfection Selecting the Premier Screen Recording Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-securely-saving-device-interactions-on-android-for-2024/"><u>[Updated] Step by Step Securely Saving Device Interactions on Android for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-tailoring-speech-interpretation-a-guide-with-google-translate/"><u>[Updated] Tailoring Speech Interpretation A Guide with Google Translate</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-visual-snippet-retriever/"><u>[Updated] Visual Snippet Retriever</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-webcam-setup-simplified-for-hp-and-chrome-users-for-2024/"><u>[Updated] Webcam Setup Simplified for HP & Chrome Users for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728467008209-windows/"><u>簡単で信頼性高いWindowsベストファイルバックアップソフトウェア -無料ダウンロード可能！</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/gratis-wiederherstellungsoptionen-nach-ctrlplusz-fehler-wie-kann-ich-meine-dateien-retten/"><u>Gratis Wiederherstellungsoptionen Nach Ctrl+Z-Fehler: Wie Kann Ich Meine Dateien Retten?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/guide-to-quick-video-recording-on-youtube-for-2024/"><u>Guide to Quick Video Recording on YouTube for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-11r-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus 11R to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-evaluating-virtual-realms-pros-and-cons/"><u>In 2024, Evaluating Virtual Realms Pros and Cons</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-everyone-struggling-with-playstation-online-services-or-is-it-just-my-connection/"><u>Is Everyone Struggling with PlayStation Online Services, Or Is It Just My Connection?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/losung-fur-den-fehlenden-gespeicherten-excel-dokumentenabruf-wiederherstellungsstrategie/"><u>Lösung Für Den Fehlenden Gespeicherten Excel-Dokumentenabruf: Wiederherstellungsstrategie</u></a></li>
-<li><a href="https://techidaily.com/tecno-pop-7-pro-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Pop 7 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-liberty-cam-studios-features-and-functionality/"><u>[New] 2024 Approved Liberty Cam Studio's Features and Functionality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-a-compreenas-guide-to-high-quality-mov-recording-in-windows-10/"><u>[New] A Compreenas Guide to High-Quality MOV Recording in Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>[New] In 2024, Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-live-streamed-gaming-sessions/"><u>[New] Mastering Live-Streamed Gaming Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-the-world-of-online-discussion-mastering-zoom-chat-techniques-for-2024/"><u>[New] Navigating the World of Online Discussion Mastering Zoom Chat Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-free-mac-screenshoter-extraordinaire/"><u>[Updated] 2024 Approved Free Mac Screenshoter Extraordinaire</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-mac-studio-for-exceptional-video-and-audiophile-recordings/"><u>[Updated] In 2024, Top Mac Studio for Exceptional Video & Audiophile Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premium-top-11-list-best-audio-tech-showcase/"><u>[Updated] Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-and-easy-xbox-one-image-snaps-for-gaming-for-2024/"><u>[Updated] Quick & Easy Xbox One Image Snaps for Gaming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-chromes-multi-screen-magic-pip-tutorial/"><u>2024 Approved Chrome's Multi-Screen Magic PIP Tutorial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-industrys-leading-heavy-duty-drone-picks/"><u>2024 Approved Industry's Leading Heavy-Duty Drone Picks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-validating-your-channels-ad-based-income/"><u>2024 Approved Validating Your Channel’s Ad-Based Income</u></a></li>
+<li><a href="https://games-able.techidaily.com/detectives-playground-ai-infused-online-mysteries/"><u>Detective's Playground: AI-Infused Online Mysteries</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-picks-for-superior-steadicams-in-aerial-cinema-for-2024/"><u>Expert Picks for Superior Steadicams in Aerial Cinema for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>Free Graphic Goldmine A Roadmap to Premium Visuals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a56s-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A56s 5G Fingerprint Lock</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-precision-sculpting-perfect-circles-spheres-in-minecraft-world/"><u>In 2024, Precision Sculpting Perfect Circles, Spheres in Minecraft World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-leading-small-form-factor-desktops-for-gamers/"><u>The Leading Small Form Factor Desktops for Gamers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-budget-friendly-gaming-unlocking-free-to-play-event-opportunities/"><u>Top Budget-Friendly Gaming: Unlocking Free to Play Event Opportunities</u></a></li>
 </ul></div>
 

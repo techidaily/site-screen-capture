@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Preserve Your Display  Win OS Snapshots Explained\""
-date: 2024-12-21T23:23:46.953Z
-updated: 2024-12-23T00:00:18.069Z
+date: 2024-12-21T20:26:38.500Z
+updated: 2024-12-28T22:40:10.138Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ In this article, we are going to show you five different ways of creating screen
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -66,6 +66,10 @@ The Windows Key + Shift + S keyboard shortcut can also be used to activate the S
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
 #### Step 2. Editing the Screenshot
@@ -74,16 +78,12 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3. Saving and Exporting Screenshots
@@ -105,7 +105,7 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
@@ -122,10 +122,6 @@ You can launch the app from the Start menu or by typing its name in the Search C
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -133,6 +129,10 @@ Afterward, you can just hold the left mouse button and drag the mouse to select 
 Once you've taken the screenshot you can use the Pen and Highlighter features to add annotations, while the Eraser tool will enable you to easily correct all mistakes you make during this process.
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
@@ -149,6 +149,10 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -184,10 +188,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,24 +203,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-discover-5-best-webcams-featuring-crystal-clear-mics/"><u>[New] 2024 Approved Discover 5 Best Webcams Featuring Crystal Clear Mics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-strategies-for-high-quality-youtube-recording/"><u>[New] Essential Strategies for High-Quality YouTube Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-win10-ultimate-screenshot-and-video-capture-kit/"><u>[New] Win10 Ultimate Screenshot & Video Capture Kit</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-experience-professional-video-calling-explore-the-top-5-devices/"><u>[Updated] 2024 Approved Experience Professional Video Calling - Explore The Top 5 Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-thorough-analysis-elevating-video-recording-with-obs/"><u>[Updated] In 2024, A Thorough Analysis Elevating Video Recording with OBS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-into-better-imaging-with-these-gopro-extras/"><u>[Updated] In 2024, Step Into Better Imaging with These GoPro Extras</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-worlds-beyond-borders-best-10-mmo-adventures-for-free/"><u>[Updated] In 2024, Worlds Beyond Borders Best 10 MMO Adventures for Free</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-splitcam-examination-camera-quality-showdown/"><u>[Updated] SplitCam Examination - Camera Quality Showdown?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-best-7-high-resolution-dslrs-for-engaging-video-blogs/"><u>2024 Approved Best 7 High-Resolution DSLRs for Engaging Video Blogs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/identifying-early-warning-symptoms-of-a-hard-drive-malfunction-with-tips-by-yl-computing/"><u>Identifying Early Warning Symptoms of a Hard Drive Malfunction with Tips by YL Computing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-beginners-walkthrough-for-screencastify-recorder/"><u>In 2024, Beginner's Walkthrough for Screencastify Recorder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-solving-blurry-footage-on-online-video-platforms/"><u>In 2024, Solving Blurry Footage on Online Video Platforms</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-final-cut-pro-tutorial-adding-emotional-depth-with-the-ken-burns-effect-updated-2023-for-2024/"><u>New Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023) for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-if-you-have-transferred-to-the-mac-platform-you-may-need-virtualdub-for-mac-alternatives-because-virtualdub-only-supports-windows-os-natively-for-2024.m/"><u>New If You Have Transferred to the Mac Platform, You May Need VirtualDub for Mac Alternatives because VirtualDub only Supports Windows OS Natively for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-viewing-experience-with-streamlined-navigation-on-your-google-tv/"><u>Revolutionize Your Viewing Experience with Streamlined Navigation on Your Google TV</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-with-avatar-frontiers-of-pandora-failure-to-load/"><u>Solving the Problem with Avatar: Frontiers of Pandora Failure to Load</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-dealing-with-mss32dll-error-missing-or-not-detected/"><u>Troubleshooting Steps: Dealing with mss32.dll Error - Missing or Not Detected</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/virtual-voyage-unlimited-the-ultimate-selection-of-free-roleplayers/"><u>Virtual Voyage Unlimited The Ultimate Selection of Free Roleplayers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-beginners-pathway-prime-video-game-editing-applications/"><u>[New] 2024 Approved Beginner's Pathway Prime Video Game Editing Applications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-groundbreaking-biodegradable-film-technology-advice/"><u>[New] 2024 Approved Groundbreaking Biodegradable Film Technology Advice</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levating-engagement-strategic-use-of-youtube-titles-for-2024/"><u>[New] Elevating Engagement Strategic Use of Youtube Titles for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-detailed-evaluation-razer-kiyo-webcam/"><u>[New] In 2024, Detailed Evaluation Razer Kiyo Webcam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-capturing-with-camstudio-complete/"><u>[New] In 2024, Mastering Capturing with CamStudio Complete</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-comparing-cameras-obs-vs-twitch-studio-edition/"><u>[Updated] 2024 Approved Comparing Cameras OBS vs Twitch Studio Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ioss-best-selection-of-premium-psp-emulators/"><u>[Updated] 2024 Approved IOS's Best Selection of Premium PSP Emulators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-quick-steps-to-capture-ios-audio-files/"><u>[Updated] 2024 Approved Quick Steps to Capture iOS Audio Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-briskbounce-momentmirror-tape/"><u>[Updated] BriskBounce MomentMirror Tape</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-checklist-to-prepare-your-zoom-room-for-2024/"><u>[Updated] The Ultimate Checklist to Prepare Your Zoom Room for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>[Updated] Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-obs-setup-for-skype-screenshots/"><u>Advanced OBS Setup for Skype Screenshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/apeak-captures-attention-an-in-depth-screen-recorder-examination/"><u>Apeak Captures Attention An In-Depth Screen Recorder Examination</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/peaceful-playtimes-best-idle-gaming-choices-for-2024/"><u>Peaceful Playtimes Best Idle Gaming Choices for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/premium-4k-resolution-visual-themes-and-design-backgrounds-yl-computing-collection/"><u>Premium 4K Resolution Visual Themes & Design Backgrounds - YL Computing Collection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-avchd-viewing-tips-enhancing-your-iphone-experience/"><u>Seamless AVCHD Viewing Tips: Enhancing Your iPhone Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sharpen-your-ais-focus-with-these-tactics-how-to-cut-down-on-hallucinations-through-expertly-crafted-prompts/"><u>Sharpen Your AI's Focus with These Tactics: How To Cut Down on Hallucinations Through Expertly Crafted Prompts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sj7-unveils-its-ultimate-4k-action-camera-a-comprehensive-report/"><u>SJ7 Unveils Its Ultimate 4K Action Camera - A Comprehensive Report</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-video-conference-solutions-security-first-for-businesses-for-2024/"><u>Top Video Conference Solutions Security First for Businesses for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
-date: 2024-12-19T18:07:44.576Z
-updated: 2024-12-22T18:28:10.943Z
+date: 2024-12-22T20:53:29.892Z
+updated: 2024-12-28T18:16:24.916Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![Netgear C3700](https://www.lifewire.com/thmb/HeiIUMzNfcdABm8uXby7X0Qo3dE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
@@ -40,6 +40,10 @@ Lifewire / Bill Thomas
 [View On Amazon $25](https://www.amazon.com/dp/B00IF0JAYE/?tag=lifewire-onsite-prod-20&ascsubtag=4686094%7Cn04462eaac973429b8b417ec47f0b261514%7CB00IF0JAYE) [View On Walmart $76](https://www.walmart.com/ip/NETGEAR-N600-8x4-WiFi-Cable-Modem-Router-Combo-C3700-DOCSIS-3-0-Certified-for-XFINITY-by-Comcast-Spectrum-Cox-and-more-C3700-100NAS/36009477) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-dual-band-n600-router-with-8-x-4-docsis-3-0-cable-modem-black%2F3707003.p%3Fcmp%3DRMX%26skuId%3D3707003)
 
 3.4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear C3700 Cable Modem Router
 
@@ -77,10 +81,6 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
@@ -91,6 +91,10 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -100,10 +104,6 @@ Lifewire / Bill Thomas
  Once everything is set up, you can go through the online management portal to change wireless settings. This is an optional step since the wireless network works right out of the box using the information printed on the side of the modem.
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Connectivity: Everything a small home needs
 
@@ -125,6 +125,10 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software: No frills
 
  We prefer a network backend that’s straight to the point, and that’s exactly what we got with the Netgear C3700.
@@ -136,7 +140,7 @@ Lifewire / Bill Thomas
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price: It pays for itself
@@ -154,17 +158,13 @@ Lifewire / Bill Thomas
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -202,24 +202,18 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-discover-the-best-10-audio-capturing-software-on-spotify/"><u>[New] 2024 Approved Discover the Best 10 Audio Capturing Software on Spotify</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-inspire-yourself-with-these-ten-high-growth-youtube-sources/"><u>[New] Inspire Yourself with These Ten High-Growth YouTube Sources</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-optimizing-zoom-hd-quality-clear-methods/"><u>[New] Optimizing Zoom HD Quality Clear Methods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-perfecting-pics-with-practicality-top-5-pc-snipping-tools-for-2024/"><u>[New] Perfecting Pics with Practicality - Top 5 PC Snipping Tools for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-pixelpioneer-screensaver-logging/"><u>[New] PixelPioneer Screensaver Logging</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-a-guide-to-tailoring-your-hashtag-strategy-for-maximum-engagement-and-conversion-rates-on-facebook/"><u>[Updated] 2024 Approved A Guide to Tailoring Your Hashtag Strategy for Maximum Engagement and Conversion Rates on Facebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-gamings-finest-top-12-tycoon-games-ensuring-hours-of-fun/"><u>[Updated] 2024 Approved Gaming's Finest - Top 12 Tycoon Games Ensuring Hours of Fun</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tips-for-recording-high-quality-video-in-zoom/"><u>[Updated] 2024 Approved Tips for Recording High-Quality Video in Zoom</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-mixer-streaming-tips-for-mac-users/"><u>[Updated] In 2024, Essential Mixer Streaming Tips for Mac Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-innovating-filming-techniques-smartphones-as-webcams-for-2024/"><u>[Updated] Innovating Filming Techniques Smartphones as Webcams for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-the-mechanics-of-mobile-video-capture/"><u>[Updated] Mastering the Mechanics of Mobile Video Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-secrets-to-flawless-remote-audio-production-for-2024/"><u>[Updated] Secrets to Flawless Remote Audio Production for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-melody-maps-scouting-prime-auditory-starts-for-podcasters/"><u>2024 Approved Melody Maps Scouting Prime Auditory Starts for Podcasters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/efficient-screen-capture-devices-for-education-for-2024/"><u>Efficient Screen Capture Devices for Education for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-m54-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy M54 5G FRP?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-13-pro-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 13 Pro on MetroPCS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/itop-screen-recorder-review-should-you-install-it-in-2024/"><u>ITop Screen Recorder Review Should You Install It, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/photo-your-desktop-windows-edition/"><u>Photo Your Desktop Windows Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-mobileweb-image-magnification-toolkit-for-2024/"><u>Unmatched Mobile/Web Image Magnification Toolkit for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-10-superior-choices-high-end-video-conferencing-software-for-2024/"><u>[New] 10 Superior Choices High-End Video Conferencing Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-12-capture-providers-never-stop/"><u>[New] In 2024, Top 12 Capture Providers, Never Stop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-action-archetypes-choosing-the-best-7-first-person-shooters/"><u>[Updated] 2024 Approved Action Archetypes Choosing the Best 7 First-Person Shooters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secure-your-favorite-igtv-videos-download-strategies-for-pcmac-os-users/"><u>[Updated] 2024 Approved Secure Your Favorite IGTV Videos Download Strategies for PC/Mac OS Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>2024 Approved Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/contemporary-techniques-for-crafting-effective-audio-echoes/"><u>Contemporary Techniques for Crafting Effective Audio Echoes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/duel-of-ai-giants-exploring-contrasting-features-of-gpt-vs-bert-language-models/"><u>Duel of AI Giants: Exploring Contrasting Features of GPT Vs. BERT Language Models</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-narzo-60-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme Narzo 60 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-convert-and-share-simplified-mp3-to-youtube-process-3-phases/"><u>In 2024, Convert & Share Simplified MP3 to YouTube Process [3 Phases]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/obs-versus-streamlabs-the-live-stream-software-duel/"><u>OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Solutions for Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/virtual-venue-verdict-navigating-between-obs-and-twitch-streaming-for-2024/"><u>Virtual Venue Verdict Navigating Between OBS & Twitch Streaming for 2024</u></a></li>
 </ul></div>
 

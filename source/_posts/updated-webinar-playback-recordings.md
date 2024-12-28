@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Webinar Playback Recordings"
-date: 2024-12-18T16:11:34.870Z
-updated: 2024-12-22T18:56:44.321Z
+date: 2024-12-24T16:14:33.020Z
+updated: 2024-12-28T16:26:22.903Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ A career is a journey on which we are continually learning and developing new sk
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -66,13 +66,13 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -81,6 +81,10 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -94,10 +98,6 @@ You can stop recording by hitting the F10 key on the keyboard again, and once yo
 
 ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
 Following these simple steps will help you produce insightful and well-rounded webinars that will attract a lot of attention online.
@@ -105,7 +105,7 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips for Recording Webinars
@@ -117,7 +117,7 @@ Making sure that all the settings are adjusted properly and that the amount of b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -135,19 +135,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-deleted-history-uncovered-your-guide-to-online-video-retrieval/"><u>[New] 2024 Approved Deleted History Uncovered Your Guide to Online Video Retrieval</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-sculpting-speed-at-winter-olympics/"><u>[New] 2024 Approved Sculpting Speed at Winter Olympics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-implementing-soft-decline-in-logic-pro-audio/"><u>[New] Implementing Soft Decline in Logic Pro Audio</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-demystifying-ps4s-capture-features-a-comprehensive-walkthrough/"><u>[New] In 2024, Demystifying PS4's Capture Features A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-facetime-with-your-android-phone/"><u>[New] In 2024, How To Facetime with Your Android Phone ?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-zoom-meetings-effectively-utilizing-whiteboard-on-various-devices-for-2024/"><u>[New] Zoom Meetings Effectively Utilizing Whiteboard on Various Devices for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>2024 Approved Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs/"><u>2024 Approved Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-venturing-into-video-production-top-5-mac-videographers/"><u>2024 Approved Venturing Into Video Production? Top 5 Mac Videographers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-itel-a60s-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Itel A60s</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-x-voice-sync-studio-windows-version/"><u>In 2024, X-Voice Sync Studio, Windows Version</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ploughing-through-the-past-top-farming-games-follow-for-2024/"><u>Ploughing Through the Past Top Farming Games Follow for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-sensations-navigating-facebook-twitter-instagram-and-youtubes-popularity/"><u>Social Sensations: Navigating Facebook, Twitter, Instagram and YouTube's Popularity</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-6-mickey-mouse-voice-generators-for-2024/"><u>Updated Top 6 Mickey Mouse Voice Generators for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-conquering-chaos-muting-tactics-for-seamless-gmeet-participation/"><u>[New] Conquering Chaos Muting Tactics for Seamless GMeet Participation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cross-border-tech-assessment-by-experts/"><u>[Updated] 2024 Approved Cross-Border Tech Assessment by Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-evaluating-fraps-as-a-screen-grab-pro/"><u>[Updated] Evaluating Fraps as a Screen Grab Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-reduce-audio-noise-in-video-recording-free-and-paid/"><u>[Updated] How to Reduce Audio Noise in Video Recording [Free and Paid]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-definitive-guide-to-flawless-morphvox-technique/"><u>2024 Approved The Definitive Guide to Flawless MorphVOX Technique</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1726223550088-png/"><u>網路上免費改變格式的PNG圖片 - 移動瓦維</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-htc-u23-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your HTC U23 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-disconnected-drives-in-windows-1110/"><u>How to Fix Disconnected Drives in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-infinix-smart-8-hd-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Infinix Smart 8 HD</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-newly-revamped-xps-series-by-dell-enhanced-with-cutting-edge-artificer-features-and-continues-to-impress-aesthetically-insights-by-zdnet/"><u>Introducing the Newly Revamped XPS Series by Dell: Enhanced with Cutting-Edge Artificer Features & Continues to Impress Aesthetically - Insights by ZDNET</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-scan-maker-chrome-os-for-2024/"><u>Quick Scan Maker (Chrome OS) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/strengthen-your-apple-accounts-implementing-two-factor-auth-for-icloud-mail-protection/"><u>Strengthen Your Apple Accounts: Implementing Two-Factor Auth for iCloud Mail Protection</u></a></li>
 </ul></div>
 

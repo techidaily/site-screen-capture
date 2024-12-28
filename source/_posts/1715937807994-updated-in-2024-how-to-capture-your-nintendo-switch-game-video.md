@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Capture Your Nintendo Switch Game Video"
-date: 2024-08-24T10:33:01.879Z
-updated: 2024-08-25T10:33:01.879Z
+date: 2024-12-24T18:10:56.928Z
+updated: 2024-12-28T18:37:03.362Z
 tags: 
   - screen-recording
   - ai video
@@ -43,9 +43,6 @@ Part I: Capture Your Switch Video
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Capture the 30s video with Nintendo Switch Record button
 
 The controllers come up with the built-in capture button. However, this button only allows the screenshot of the video which is not ideal in any case. But it records the video for 30 seconds as well. If this time is enough to capture your gameplay then do the steps:
@@ -56,6 +53,10 @@ The controllers come up with the built-in capture button. However, this button o
 
 ![switch-game-console](https://images.wondershare.com/filmora/article-images/switch-console-pic.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Hold down this capture button marked with the square
 
 **Step 4:** Wait until the message regarding capture completion is received at the screen top
@@ -63,6 +64,10 @@ The controllers come up with the built-in capture button. However, this button o
 **Step 5:** Your last 30 seconds of gameplay will be saved in the ‘Albums.’ It will record the 30 seconds gameplay right before you press the button down, so there is no need to worry about hitting it in advance. It is a quite simple step and allows only posting the clips to social media or saving them in your phone album. It also provides video editing before posting it on social media. You will be able to see the Nintendo Switch video capture in the Albums.
 
  ![switch-interface](https://images.wondershare.com/filmora/article-images/switch-interface.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Record your whole gameplay with game built-in function
 
@@ -75,15 +80,13 @@ If you wish to save some important moves of your game in your album, then here i
 
 Let’s take Smach Bros as an example. To do the recording, follow the steps:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 1:** As soon as you have finished the game, the screen of the final score appears. A button appears at the top right down corner of the screen ‘Do you want to save the game’. ![smash-bro-ending](https://images.wondershare.com/filmora/article-images/smash-bros-interface.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Click on the ‘Y’ button and then click on ‘Save.’![smash-bros-saving](https://images.wondershare.com/filmora/article-images/smash-bros-saving.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to save the gameplay. The game replay will be lost if you do so.
 
@@ -97,15 +100,21 @@ Tips: Within the video conversion settings, you can include information about th
 
  **![saving-folder](https://images.wondershare.com/filmora/article-images/gameplay-folder1.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Record your whole gameplay with Capture Card
 
 Choose your capture card, connect it with Nintendo switch and your PC, you can capture the gameplay through a computer with the following steps:
 
 * **Step 1:** Launch the democreator**,** hit **New Rocording**.![demo-interface](https://images.wondershare.com/filmora/article-images/demo-smash2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 * **Step 2:** Select screen area that you want to save.![demo-interface](https://images.wondershare.com/filmora/article-images/demo-smash1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Step 3:** Hit microphone to choose from audio sources.
 * **Step 4:** Hit the big red button, and you will start recording.
 
@@ -119,8 +128,9 @@ Part II: Edit Your Switch Game Video
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Trim gameplay video within Nintendo Switch
 
 Nintendo Switch allows you to trim video easily in album:
@@ -130,18 +140,12 @@ Nintendo Switch allows you to trim video easily in album:
 * **Step 3:** Slide the marker to choose the start point and endpoint of the video.
 * **Step 4:** When you feel good about the result, ‘save’ and the video will be saved as a new clip.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![zelda-trim](https://images.wondershare.com/filmora/article-images/zelda-trim.png)
 
 ### 2\. Edit gameplay with Filmora X
 
 Filmora X is a multipurpose video editing tool that can be used to edit your videos in the best possible way. One way is to edit the gaming montage is by editing it to the beat and the other is the speed control. Beat detection by beat marker is done by software automatically and adjusted with the video. Speed control is the key element here and adjusts it with the video. Adjust the speed by adjusting the duration. You can also add effects such as clinches to the video while adjusting the speed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### **Conclusion**
@@ -179,8 +183,9 @@ Part I: Capture Your Switch Video
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Capture the 30s video with Nintendo Switch Record button
 
 The controllers come up with the built-in capture button. However, this button only allows the screenshot of the video which is not ideal in any case. But it records the video for 30 seconds as well. If this time is enough to capture your gameplay then do the steps:
@@ -189,9 +194,6 @@ The controllers come up with the built-in capture button. However, this button o
 
 **Step 2:** Press the capture button on the left side of controller.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch-game-console](https://images.wondershare.com/filmora/article-images/switch-console-pic.png)
 
 **Step 3:** Hold down this capture button marked with the square
@@ -200,10 +202,11 @@ The controllers come up with the built-in capture button. However, this button o
 
 **Step 5:** Your last 30 seconds of gameplay will be saved in the ‘Albums.’ It will record the 30 seconds gameplay right before you press the button down, so there is no need to worry about hitting it in advance. It is a quite simple step and allows only posting the clips to social media or saving them in your phone album. It also provides video editing before posting it on social media. You will be able to see the Nintendo Switch video capture in the Albums.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![switch-interface](https://images.wondershare.com/filmora/article-images/switch-interface.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Record your whole gameplay with game built-in function
 
@@ -218,9 +221,6 @@ Let’s take Smach Bros as an example. To do the recording, follow the steps:
 
 **Step 1:** As soon as you have finished the game, the screen of the final score appears. A button appears at the top right down corner of the screen ‘Do you want to save the game’. ![smash-bro-ending](https://images.wondershare.com/filmora/article-images/smash-bros-interface.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Click on the ‘Y’ button and then click on ‘Save.’![smash-bros-saving](https://images.wondershare.com/filmora/article-images/smash-bros-saving.png)
 
 Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to save the gameplay. The game replay will be lost if you do so.
@@ -235,18 +235,21 @@ Tips: Within the video conversion settings, you can include information about th
 
  **![saving-folder](https://images.wondershare.com/filmora/article-images/gameplay-folder1.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Record your whole gameplay with Capture Card
 
 Choose your capture card, connect it with Nintendo switch and your PC, you can capture the gameplay through a computer with the following steps:
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **Step 1:** Launch the democreator**,** hit **New Rocording**.![demo-interface](https://images.wondershare.com/filmora/article-images/demo-smash2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **Step 2:** Select screen area that you want to save.![demo-interface](https://images.wondershare.com/filmora/article-images/demo-smash1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Step 3:** Hit microphone to choose from audio sources.
 * **Step 4:** Hit the big red button, and you will start recording.
 
@@ -268,9 +271,6 @@ Nintendo Switch allows you to trim video easily in album:
 * **Step 3:** Slide the marker to choose the start point and endpoint of the video.
 * **Step 4:** When you feel good about the result, ‘save’ and the video will be saved as a new clip.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![zelda-trim](https://images.wondershare.com/filmora/article-images/zelda-trim.png)
 
 ### 2\. Edit gameplay with Filmora X
@@ -313,10 +313,20 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-youtube-exchange-threads/"><u>[New] 2024 Approved Decoding YouTube Exchange Threads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-handbook-obspluszoom-collaboration/"><u>[New] In 2024, The Ultimate Handbook OBS+Zoom Collaboration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-expert-guide-to-swift-fb-profiling-for-2024/"><u>[New] The Expert Guide to Swift FB Profiling for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-resolving-disabled-state-of-obs-fullscreen/"><u>[Updated] In 2024, Resolving Disabled State of OBS Fullscreen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-precision-playback-aligning-video-views-in-real-time/"><u>[Updated] Precision Playback Aligning Video Views in Real-Time</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-combat-and-correct-electrical-surges-throughout-my-devices-main-interface/"><u>How I Combat and Correct Electrical Surges Throughout My Device's Main Interface</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-real-time-recording-made-easy-for-your-skype-sessions/"><u>In 2024, Real-Time Recording Made Easy for Your Skype Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-art-of-vocal-performance-for-video-projects/"><u>In 2024, The Art of Vocal Performance for Video Projects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-your-phones-callback-diary-iphone-future/"><u>In 2024, Your Phone's Callback Diary - iPhone Future</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-cyber-monday-savings-on-gaming-laptops-get-the-razer-blade-14-for-920-less/"><u>Massive Cyber Monday Savings on Gaming Laptops - Get the Razer Blade 14 for $920 Less!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-simple-guide-how-to-restore-your-iphone-without-an-update/"><u>Quick and Simple Guide: How to Restore Your iPhone Without an Update</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/strategy-dominion-discovering-the-7-pinnacle-conflicts-for-2024/"><u>Strategy Dominion Discovering the 7 Pinnacle Conflicts for 2024</u></a></li>
+</ul></div>
 

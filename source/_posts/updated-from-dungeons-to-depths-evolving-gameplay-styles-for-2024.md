@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2024-12-22T05:40:07.971Z
-updated: 2024-12-23T01:00:58.059Z
+date: 2024-12-21T21:06:58.480Z
+updated: 2024-12-28T17:16:15.545Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -55,25 +55,21 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -111,15 +107,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -131,11 +119,19 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -148,6 +144,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,24 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-liberty-cam-studios-features-and-functionality/"><u>[New] 2024 Approved Liberty Cam Studio's Features and Functionality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-a-compreenas-guide-to-high-quality-mov-recording-in-windows-10/"><u>[New] A Compreenas Guide to High-Quality MOV Recording in Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>[New] In 2024, Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-live-streamed-gaming-sessions/"><u>[New] Mastering Live-Streamed Gaming Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-navigating-the-world-of-online-discussion-mastering-zoom-chat-techniques-for-2024/"><u>[New] Navigating the World of Online Discussion Mastering Zoom Chat Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-free-mac-screenshoter-extraordinaire/"><u>[Updated] 2024 Approved Free Mac Screenshoter Extraordinaire</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-mac-studio-for-exceptional-video-and-audiophile-recordings/"><u>[Updated] In 2024, Top Mac Studio for Exceptional Video & Audiophile Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premium-top-11-list-best-audio-tech-showcase/"><u>[Updated] Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quick-and-easy-xbox-one-image-snaps-for-gaming-for-2024/"><u>[Updated] Quick & Easy Xbox One Image Snaps for Gaming for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-chromes-multi-screen-magic-pip-tutorial/"><u>2024 Approved Chrome's Multi-Screen Magic PIP Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-industrys-leading-heavy-duty-drone-picks/"><u>2024 Approved Industry's Leading Heavy-Duty Drone Picks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-validating-your-channels-ad-based-income/"><u>2024 Approved Validating Your Channel’s Ad-Based Income</u></a></li>
-<li><a href="https://games-able.techidaily.com/detectives-playground-ai-infused-online-mysteries/"><u>Detective's Playground: AI-Infused Online Mysteries</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-picks-for-superior-steadicams-in-aerial-cinema-for-2024/"><u>Expert Picks for Superior Steadicams in Aerial Cinema for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>Free Graphic Goldmine A Roadmap to Premium Visuals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a56s-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A56s 5G Fingerprint Lock</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-precision-sculpting-perfect-circles-spheres-in-minecraft-world/"><u>In 2024, Precision Sculpting Perfect Circles, Spheres in Minecraft World</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-leading-small-form-factor-desktops-for-gamers/"><u>The Leading Small Form Factor Desktops for Gamers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-budget-friendly-gaming-unlocking-free-to-play-event-opportunities/"><u>Top Budget-Friendly Gaming: Unlocking Free to Play Event Opportunities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-high-speed-snapshot-and-voice-commentary-assistant-device/"><u>[New] 2024 Approved High-Speed Snapshot & Voice Commentary Assistant Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-the-melody-of-text-vocal-styling-for-ppt/"><u>[New] 2024 Approved Mastering the Melody of Text Vocal Styling for PPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-swiftrecord-the-quick-windows-11-recorder/"><u>[New] In 2024, SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-and-easy-iphone-screen-capture-techniques-for-2024/"><u>[New] Quick and Easy iPhone Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[Updated] From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>[Updated] In 2024, Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[Updated] In 2024, Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-reviewing-free-screen-recorder-tools-for-pc-for-2024/"><u>[Updated] Reviewing Free Screen Recorder Tools for PC for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-cutting-edge-splitcams-rated-or-not/"><u>2024 Approved Cutting-Edge SplitCams Rated or Not?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726224727549-ramwma-movavi/"><u>網路直接無成本轉換RAM成WMA格式 - 利用Movavi編解碼器</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-steps-for-iptv-video-recording/"><u>Essential Steps for IPTV Video Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-non-game-console-apps-excelling-at-game-recordings/"><u>In 2024, Non-Game Console Apps Excelling at Game Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-step-into-the-directors-chair-for-sims-4-playback/"><u>In 2024, Step Into the Director's Chair for Sims 4 Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-a-step-by-step-fix-for-your-broken-headphones-on-windows-10/"><u>Restoring Audio: A Step-By-Step Fix For Your Broken Headphones On Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shining-up-your-videos-on-android/"><u>Shining Up Your Videos on Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-6-android-time-management-applications-enhance-your-productivity/"><u>Top 6 Android Time Management Applications: Enhance Your Productivity</u></a></li>
 </ul></div>
 

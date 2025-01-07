@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-12-26T20:08:24.415Z
-updated: 2024-12-28T23:00:22.942Z
+date: 2024-12-30T18:31:34.831Z
+updated: 2025-01-07T03:27:24.350Z
 tags: 
   - screen-recording
   - ai video
@@ -39,21 +39,25 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -66,6 +70,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -104,10 +112,14 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -118,10 +130,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -139,15 +147,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,20 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-echoing-giggles-ultimate-ringtone-vaults/"><u>[New] In 2024, Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-professional-gamers-guide-optimal-video-capture-tips/"><u>[New] Professional Gamers' Guide Optimal Video Capture Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-transform-slideshow-into-video/"><u>[New] Transform Slideshow Into Video</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-best-3-ways-to-record-live-sports-streaming/"><u>[Updated] Best 3 Ways to Record Live Sports Streaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators-for-2024/"><u>[Updated] PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators for 2024</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1726028888456-avisynth/"><u>AviSynthを使って簡単なビデオ編集 - ステップバイステップガイド</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/catalonias-linguistic-leap-each-day/"><u>Catalonia's Linguistic Leap – Each Day!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/gaming-with-style-perfecting-your-steam-footage-for-2024/"><u>Gaming with Style - Perfecting Your Steam Footage for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C55</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-decades-best-list-of-budget-friendly-desktop-recorders/"><u>In 2024, Decade's Best List of Budget-Friendly Desktop Recorders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>In 2024, Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-11-pro-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 11 Pro Smoothly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-full-length-youtube-watching-mode-for-2024/"><u>Master Full-Length YouTube Watching Mode for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-freezing-glitches-on-steam-solutions-and-tips/"><u>Overcoming Freezing Glitches on Steam - Solutions & Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-photo-deformation/"><u>The Ultimate Guide to Photo Deformation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-ways-to-record-steam-gameplay-2023/"><u>[New] 2024 Approved Easy Ways to Record Steam Gameplay 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-centralized-content-management-and-broadcasting-for-2024/"><u>[New] Centralized Content Management and Broadcasting for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-easy-guide-to-screenshots-and-recordings-with-macos/"><u>[New] Easy Guide to Screenshots & Recordings with macOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[New] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-parallel-screen-data-replay-for-2024/"><u>[New] Parallel Screen Data Replay for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-quick-steps-to-clear-the-exterior-of-your-photos-in-affinity/"><u>[New] Quick Steps to Clear the Exterior of Your Photos in Affinity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-breakdown-of-sharex-expert-opinions-and-alternatives/"><u>[Updated] 2024 Approved Breakdown of ShareX Expert Opinions & Alternatives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-fbx-recorder-alternatives-the-new-era-of-gaming-capture/"><u>[Updated] 2024 Approved FBX Recorder Alternatives The New Era of Gaming Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-recording-games-on-xbox-one/"><u>[Updated] 2024 Approved Step-by-Step Recording Games on Xbox One</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-pacing-with-macos-a-specialists-guide-to-srt-editing/"><u>[Updated] Perfect Pacing with macOS A Specialist's Guide to SRT Editing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device-for-2024/"><u>[Updated] Proper Techniques to Snag Free, Secure VLC on a Mac Device for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-samsungs-gaming-memories-record-and-reveal/"><u>[Updated] Samsung's Gaming Memories Record and Reveal</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-up-your-iphones-selfie-game-with-these-best-free-app-tools/"><u>[Updated] Step-Up Your iPhone's Selfie Game with These Best Free App Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-nubia-z50s-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Nubia Z50S Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a05-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A05 to Protect Your Individual Information</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-through-instagram-video-woes-with-ease-for-2024/"><u>Navigating Through Instagram Video Woes with Ease for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-defense-mechanisms-against-cybersecurity-risks/"><u>Understanding ChatGPT's Defense Mechanisms Against Cybersecurity Risks</u></a></li>
 </ul></div>
 

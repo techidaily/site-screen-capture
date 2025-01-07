@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Tips for Perfect Control  How to Use Your Switch Pro on Steam\""
-date: 2024-11-25T20:07:21.401Z
-updated: 2024-11-28T20:41:34.181Z
+date: 2024-12-31T04:40:04.499Z
+updated: 2025-01-06T20:28:05.970Z
 tags: 
   - screen-recording
   - ai video
@@ -62,9 +62,17 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
@@ -75,10 +83,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
@@ -86,7 +90,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
@@ -102,14 +106,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -122,7 +122,7 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Final Verdict**
@@ -146,18 +146,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-record-steam-gameplay/"><u>[New] 2024 Approved How to Record Steam Gameplay</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-choosing-your-recording-champion-pick-obs-or-bandicam-in-2024/"><u>[New] Choosing Your Recording Champion Pick OBS or Bandicam, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-use-your-switch-pro-controller-on-steam/"><u>[New] How to Use Your Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capture-windows-11-simplify-your-life-for-2024/"><u>[Updated] Capture Windows 11, Simplify Your Life for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-tactics-for-topical-tweets-virality-in-the-facebook-era-for-2024/"><u>[Updated] Tactics for Topical Tweets Virality in the Facebook Era for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-discovering-the-best-uses-for-nikon-d7500/"><u>2024 Approved Discovering the Best Uses for Nikon D7500</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-htc-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from HTC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008988825-easy-solutions-to-prevent-gamepad-malfunctions-no-more-crashing/"><u>Easy Solutions to Prevent Gamepad Malfunctions - No More Crashing!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-the-advantages-of-switching-to-macos-11-big-sur-for-2024/"><u>Explore the Advantages of Switching to macOS 11 Big Sur for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g13-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/resolving-the-issue-of-invisible-shared-drives-on-onedrive-via-explorer/"><u>Resolving the Issue of Invisible Shared Drives on OneDrive via Explorer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-explained-maximizing-presence-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants Explained: Maximizing Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unlock-iphonepcs-full-potential-with-these-top-8-converters/"><u>[New] 2024 Approved Unlock iPhone/PC's Full Potential With These Top 8 Converters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-game-series-parallels-not-gta-v-edition/"><u>[New] In 2024, Ultimate Game Series Parallels - Not GTA V Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-5-elite-webcams-offering-clear-visuals-and-inbuilt-mics/"><u>[Updated] 2024 Approved 5 Elite Webcams Offering Clear Visuals & Inbuilt Mics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-innovative-ways-to-log-ps3-competitive-sessions/"><u>[Updated] In 2024, Innovative Ways to Log PS3 Competitive Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-maximize-your-home-studio-webcam-recorder-essentials/"><u>[Updated] In 2024, Maximize Your Home Studio - WebCam Recorder Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[Updated] Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-eyesharp-hd-high-definition-chromecasting/"><u>2024 Approved EyeSharp HD High Definition Chromecasting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>2024 Approved Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
+<li><a href="https://discover-community.techidaily.com/aigpt/"><u>AI動画制作のコツ：チャットGPTと強力なプラグインを活用してお見事！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-malware-navigating-a-new-technological-threat/"><u>ChatGPT & Malware: Navigating a New Technological Threat</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-online-security-by-editing-phone-and-email/"><u>Enhance Online Security by Editing Phone & Email</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-p55t-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel P55T Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
 

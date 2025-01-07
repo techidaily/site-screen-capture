@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
-date: 2024-12-22T20:53:29.892Z
-updated: 2024-12-28T18:16:24.916Z
+date: 2025-01-03T01:59:53.492Z
+updated: 2025-01-07T10:49:33.084Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/HeiIUMzNfcdABm8uXby7X0Qo3dE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
 
@@ -40,10 +36,6 @@ Lifewire / Bill Thomas
 [View On Amazon $25](https://www.amazon.com/dp/B00IF0JAYE/?tag=lifewire-onsite-prod-20&ascsubtag=4686094%7Cn04462eaac973429b8b417ec47f0b261514%7CB00IF0JAYE) [View On Walmart $76](https://www.walmart.com/ip/NETGEAR-N600-8x4-WiFi-Cable-Modem-Router-Combo-C3700-DOCSIS-3-0-Certified-for-XFINITY-by-Comcast-Spectrum-Cox-and-more-C3700-100NAS/36009477) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-dual-band-n600-router-with-8-x-4-docsis-3-0-cable-modem-black%2F3707003.p%3Fcmp%3DRMX%26skuId%3D3707003)
 
 3.4
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Netgear C3700 Cable Modem Router
 
@@ -91,10 +83,6 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -105,6 +93,10 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -112,6 +104,10 @@ Lifewire / Bill Thomas
  It is an 8x4 DOCSIS 3.0 modem, meaning it’s capable of handling internet speeds up to 340 Mbps. But that N600 wireless speed means that devices on Wi-Fi won’t be that fast. If you have a really fast internet connection like we do, it might be best to use an external wireless router.
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Network Performance: Great when wired, but wireless speeds lag
 
@@ -123,10 +119,14 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Software: No frills
@@ -139,15 +139,15 @@ Lifewire / Bill Thomas
 
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Price: It pays for itself
 
  The Netgear C3700 retails for $109.99, but you should be able to find it for less (as of the time of this writing, it’s on sale for about $95). At this price, the modem has a head start on paying for itself.
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
@@ -158,14 +158,14 @@ Lifewire / Bill Thomas
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -202,18 +202,16 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-10-superior-choices-high-end-video-conferencing-software-for-2024/"><u>[New] 10 Superior Choices High-End Video Conferencing Software for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-12-capture-providers-never-stop/"><u>[New] In 2024, Top 12 Capture Providers, Never Stop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-action-archetypes-choosing-the-best-7-first-person-shooters/"><u>[Updated] 2024 Approved Action Archetypes Choosing the Best 7 First-Person Shooters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secure-your-favorite-igtv-videos-download-strategies-for-pcmac-os-users/"><u>[Updated] 2024 Approved Secure Your Favorite IGTV Videos Download Strategies for PC/Mac OS Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>2024 Approved Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/contemporary-techniques-for-crafting-effective-audio-echoes/"><u>Contemporary Techniques for Crafting Effective Audio Echoes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/duel-of-ai-giants-exploring-contrasting-features-of-gpt-vs-bert-language-models/"><u>Duel of AI Giants: Exploring Contrasting Features of GPT Vs. BERT Language Models</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-narzo-60-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme Narzo 60 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-convert-and-share-simplified-mp3-to-youtube-process-3-phases/"><u>In 2024, Convert & Share Simplified MP3 to YouTube Process [3 Phases]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/obs-versus-streamlabs-the-live-stream-software-duel/"><u>OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Solutions for Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/virtual-venue-verdict-navigating-between-obs-and-twitch-streaming-for-2024/"><u>Virtual Venue Verdict Navigating Between OBS & Twitch Streaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-ace-your-edits-pro-level-tips-for-lunapic-users/"><u>[New] Ace Your Edits Pro-Level Tips for LunaPic Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rowth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>[New] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-webinar-session-screening-for-2024/"><u>[New] Webinar Session Screening for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets-for-2024/"><u>[Updated] Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-obs-screen-recorder-review/"><u>[Updated] In 2024, OBS Screen Recorder Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-into-the-virtual-vortex-mastering-techniques-of-gameplay-recording/"><u>[Updated] Into the Virtual Vortex Mastering Techniques of Gameplay Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-virtual-realities-google-cardboard-meets-samsung-gear/"><u>2024 Approved Virtual Realities Google Cardboard Meets Samsung Gear</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/premium-internet-voice-pads-for-2024/"><u>Premium Internet Voice Pads for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-qr-code-scanning-problems-with-these-10-tips/"><u>Solve Your iPhone's QR Code Scanning Problems with These 10 Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-roadmap-how-to-protect-and-list-your-email-securely/"><u>The Comprehensive Roadmap: How to Protect & List Your Email Securely</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-the-dying-light-noise-error-for-a-flawless-gaming-experience/"><u>Troubleshoot the Dying Light Noise Error for a Flawless Gaming Experience</u></a></li>
 </ul></div>
 

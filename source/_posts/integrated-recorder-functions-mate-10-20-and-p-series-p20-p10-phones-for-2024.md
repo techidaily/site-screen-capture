@@ -1,7 +1,7 @@
 ---
 title: "\"Integrated Recorder Functions  Mate 10, 20 & P-Series (P20, P10) Phones for 2024\""
-date: 2024-12-26T16:11:05.199Z
-updated: 2024-12-28T19:39:33.834Z
+date: 2025-01-05T07:50:04.474Z
+updated: 2025-01-07T02:02:36.159Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -46,16 +50,16 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
@@ -69,7 +73,7 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
@@ -89,7 +93,7 @@ Before using the double knuckles to record the screen activities, you need to en
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
@@ -99,10 +103,6 @@ The maximum duration of the screen recording you can make can't exceed the five-
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -125,14 +125,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-6-ways-to-record-minecraft-gameplay/"><u>[Updated] 6 Ways to Record Minecraft Gameplay</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dynamic-lighting-elevating-video-aesthetics/"><u>[Updated] In 2024, Dynamic Lighting Elevating Video Aesthetics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tactical-guide-to-screening-meetings-on-mobilepc/"><u>[Updated] In 2024, Tactical Guide to Screening Meetings on Mobile/PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-recollect-rivals-mobile-battlegrounds-in-samsungs-for-2024/"><u>[Updated] Recollect Rivals Mobile Battlegrounds in Samsungs for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-fundamentals-of-fluent-google-meet-conversations/"><u>[Updated] The Fundamentals of Fluent Google Meet Conversations</u></a></li>
-<li><a href="https://common-error.techidaily.com/0x800705b4-error-in-windows-update-in-windows-11-solved/"><u>0X800705b4 Error in Windows Update in Windows 11 [Solved]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-techniques-for-efficient-iphone-7-recording-for-2024/"><u>Essential Techniques for Efficient iPhone 7 Recording for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ideal-steps-for-silent-screen-imaging-for-2024/"><u>Ideal Steps for Silent Screen Imaging for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-launch-details-and-pricing-guide-free-download/"><u>IOS 18 Unveiled: Launch Details & Pricing Guide - Free Download</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mov-file-preservation-securing-and-organizing-on-windows-systems/"><u>.mov File Preservation Securing & Organizing on Windows Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-inside-sharex-assessments-and-counterparts/"><u>[New] 2024 Approved Inside ShareX Assessments & Counterparts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-online-meeting-applications-no-zoom/"><u>[New] In 2024, Premium Online Meeting Applications (No Zoom)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premium-zero-cost-live-capture-program/"><u>[New] Premium Zero-Cost Live Capture Program</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-android-photography-hacks-and-applications/"><u>[New] Pro Android Photography Hacks and Applications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-start-mastering-ez-grabbers-downloading-and-usage-for-2024/"><u>[New] Quick Start Mastering EZ Grabber's Downloading & Usage for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>2024 Approved Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10s-0x80072efd-error-step-by-step-guide/"><u>Fixing Windows 10'S 0X80072EFD Error: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/netgear-orbi-770-is-a-high-speed-wi-fi-mesh-network-worth-its-cost/"><u>Netgear Orbi 770: Is a High-Speed Wi-Fi Mesh Network Worth Its Cost?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/snapping-your-view-on-windows-devices-for-2024/"><u>Snapping Your View on Windows Devices for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
 

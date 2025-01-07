@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Issues - Solutions to 'Praeyst for the Gods' Constant Crashes
-date: 2024-12-21T17:54:05.387Z
-updated: 2024-12-28T19:20:58.774Z
+date: 2025-01-01T01:31:58.920Z
+updated: 2025-01-07T09:37:20.501Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  It can be challenging, if not possible, to identify the core issue of the game crash since you all have your own game settings and use unique hardware, but no worries. This article provides 6 solutions to help you rule out common causes of this error and potentially resolve this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -33,10 +29,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -52,15 +44,15 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -84,7 +76,7 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
@@ -107,19 +99,23 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run your game in compatibility mode
 
@@ -140,12 +136,16 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue has been resolved.
 
 If your problem still exists, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
 
@@ -167,16 +167,12 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -184,6 +180,10 @@ If your problem still exists, go ahead with the fix below.
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
@@ -212,24 +212,21 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-evaluating-cybernetic-screen-recorder-functionality/"><u>[New] Evaluating Cybernetic Screen Recorder Functionality</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-eliminating-backlogged-videos-from-your-youtube-history/"><u>[New] In 2024, Eliminating Backlogged Videos From Your YouTube History</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-sims-chronicles-unplugged-innovative-techniques-to-recording-without-reliance-on-video/"><u>[New] In 2024, Sims Chronicles Unplugged Innovative Techniques to Recording Without Reliance on Video</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve-for-2024/"><u>[New] Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-shorts-a-comprehensive-marketing-tool/"><u>[Updated] 2024 Approved YouTube Shorts A Comprehensive Marketing Tool</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-clearshot-vision-screen-recap/"><u>[Updated] ClearShot Vision Screen Recap</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos/"><u>[Updated] In 2024, How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastery-in-saving-lesson-content-for-2024/"><u>[Updated] Mastery in Saving Lesson Content for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-screening-your-gaming-a-nintendo-switch-tutorial-for-2024/"><u>[Updated] Screening Your Gaming A Nintendo Switch Tutorial for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-decoding-zdsofts-key-recording-features/"><u>2024 Approved Decoding ZDSoft's Key Recording Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-visual-voyage-documenting-desktop-views-on-winos/"><u>2024 Approved Visual Voyage Documenting Desktop Views on WinOS</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac/"><u>Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elevate-your-video-remove-extraneous-details-effectively/"><u>Elevate Your Video - Remove Extraneous Details Effectively</u></a></li>
-<li><a href="https://win-online.techidaily.com/free-online-3gpp-wav-format-converter-by-movavi-no-cost-effortless-audio-file-transformation/"><u>Free Online 3GPP WAV Format Converter by Movavi - No Cost, Effortless Audio File Transformation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-your-essential-list-of-free-high-quality-online-meeting-software/"><u>In 2024, Your Essential List of Free, High-Quality Online Meeting Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-animated-videos-like-a-pro-top-online-tools-and-makers/"><u>New 2024 Approved Make Animated Videos Like a Pro Top Online Tools and Makers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/playing-minecraft-solo-a-guide-to-enjoying-the-game-without-an-internet-connection-on-windows-11/"><u>Playing Minecraft Solo: A Guide to Enjoying the Game Without an Internet Connection on Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/proven-methods-for-capturing-ipad-content-for-2024/"><u>Proven Methods for Capturing iPad Content for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-for-iphone-remote-control-app-malfunctions/"><u>Step-by-Step Fixes for iPhone Remote Control App Malfunctions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-steps-to-screen-record-on-macbook-air/"><u>[New] 2024 Approved Easy Steps to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-farming-to-the-next-level-stardews-leading-mods-listed/"><u>[New] Farming to the Next Level Stardew's Leading Mods Listed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-open-worlds-you-cant-ignore/"><u>[New] In 2024, Essential Open Worlds You Can't Ignore</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069723127-new-in-2024-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[New] In 2024, Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capture-unrooted-sounds-in-android-4-methods-for-2024/"><u>[Updated] Capture Unrooted Sounds in Android [4 Methods] for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-guide-to-conveniently-documenting-your-gaming-victories/"><u>[Updated] In 2024, A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unpacking-the-sequencing-of-a-20mb-file/"><u>[Updated] In 2024, Unpacking the Sequencing of a 20MB File</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-integrating-obs-streams-with-the-worlds-largest-social-network-fb/"><u>[Updated] Integrating OBS Streams with the World's Largest Social Network, FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-use-hashtags-on-instagram/"><u>2024 Approved How to Use Hashtags on Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-any-interview-with-chatgpt-innovative-techniques-and-tips/"><u>Ace Any Interview with ChatGPT: Innovative Techniques and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-installation-process-setting-up-your-apple-watch-for-the-first-time-with-expert-advice/"><u>Easy Installation Process: Setting Up Your Apple Watch for the First Time with Expert Advice</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>In 2024, Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-vector-databases-for-improved-ai-performance-and-efficiency/"><u>Leveraging Vector Databases for Improved AI Performance and Efficiency</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/professional-mov-file-handling-on-your-latest-windows-11-system/"><u>Professional .MOV File Handling on Your Latest Windows 11 System</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-p60-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from P60</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-playback-woes-heres-how-to-solve-them/"><u>Valorant Playback Woes? Here's How to Solve Them !</u></a></li>
 </ul></div>
 

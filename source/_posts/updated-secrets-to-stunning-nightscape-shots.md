@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Secrets to Stunning Nightscape Shots"
-date: 2024-12-23T22:34:57.134Z
-updated: 2024-12-28T21:30:10.348Z
+date: 2025-01-03T12:45:18.810Z
+updated: 2025-01-07T13:19:57.753Z
 tags: 
   - screen-recording
   - ai video
@@ -39,21 +39,17 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
 
-For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Shooting with a Stabilizer
 
@@ -70,11 +66,11 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
-## Part 2: Don't-Dos in Night Portraits
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 2: Don't-Dos in Night Portraits
 
 ### 1\. Don't dress in dark
 
@@ -87,7 +83,7 @@ When it comes to wearing black for night portraits, experts suggest avoiding it 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
@@ -98,25 +94,29 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Capture Good Portraits at Night?
 
@@ -160,18 +160,14 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-refined-approaches-from-obs-studio-to-facebook-screenshots/"><u>[New] In 2024, Refined Approaches From OBS Studio to Facebook Screenshots</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-use-io-screen-recorder/"><u>[Updated] In 2024, How to Use IO Screen Recorder</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-green-filmmaking-made-simple-with-smart-tech/"><u>2024 Approved Green Filmmaking Made Simple with Smart Tech</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/ad-overload-unveiling-the-quantity-of-ads-people-experience-each-day/"><u>Ad Overload: Unveiling the Quantity of Ads People Experience Each Day</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-storm-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/avoid-game-crash-in-cult-of-the-lamb-expert-tips-for-a-smooth-pc-gaming-experience/"><u>Avoid Game Crash in 'Cult of the Lamb': Expert Tips for a Smooth PC Gaming Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/cinematic-capture-top-picks-from-video-experts-for-2024/"><u>Cinematic Capture Top Picks From Video Experts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-windows-11s-revolutionary-features-in-recent-patch/"><u>Exploring Windows 11'S Revolutionary Features in Recent Patch</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-14-ultra-by-drfone-android/"><u>How to Bypass FRP on Xiaomi 14 Ultra?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-top-10-igtv-channels-you-should-start-following-now/"><u>In 2024, Top 10 IGTV Channels You Should Start Following Now</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/minecraft-shapes-magic-creating-perfect-circles-spheres-for-2024/"><u>Minecraft Shapes Magic Creating Perfect Circles, Spheres for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/oculus-quest-2-evaluation-seamless-superior-vr-fun-without-breaking-your-budget/"><u>Oculus Quest 2 Evaluation: Seamless, Superior VR Fun without Breaking Your Budget</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlocking-potential-exploring-ginger-valley-for-2024/"><u>Unlocking Potential Exploring Ginger Valley for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-surviving-to-conquering-top-zombie-games-decoded/"><u>[New] 2024 Approved From Surviving to Conquering Top Zombie Games Decoded</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-shorts-money-making-guide-key-requirements-and-potential-income/"><u>[New] 2024 Approved Youtube Shorts Money-Making Guide Key Requirements & Potential Income</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unlock-your-farming-potential-with-top-valheim-seeds/"><u>[New] In 2024, Unlock Your Farming Potential with Top Valheim Seeds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-razer-kiyo-webcam-detailed-review/"><u>[New] Razer Kiyo Webcam - Detailed Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-skype-sessions-captured-effective-freepaid-windowsmac-methods/"><u>[Updated] In 2024, Skype Sessions Captured Effective Free/Paid Windows/Mac Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-camon-20-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Camon 20?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207016283-trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-your-pcs-cpu-heat-issue-an-in-depth-guide-by-yl-computing/"><u>Understanding Your PC's CPU Heat Issue: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210632190-9781633530492-zen-cats/"><u>Zen Cats | Free Book</u></a></li>
 </ul></div>
 

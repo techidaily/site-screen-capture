@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-12-30T18:31:34.831Z
-updated: 2025-01-07T03:27:24.350Z
+date: 2025-01-12T20:12:41.044Z
+updated: 2025-01-13T18:19:01.752Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rogue: Where it all started
@@ -49,15 +49,15 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -70,10 +70,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -93,6 +89,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -111,15 +111,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -143,11 +135,19 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,22 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-ways-to-record-steam-gameplay-2023/"><u>[New] 2024 Approved Easy Ways to Record Steam Gameplay 2023</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-centralized-content-management-and-broadcasting-for-2024/"><u>[New] Centralized Content Management and Broadcasting for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-easy-guide-to-screenshots-and-recordings-with-macos/"><u>[New] Easy Guide to Screenshots & Recordings with macOS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[New] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-parallel-screen-data-replay-for-2024/"><u>[New] Parallel Screen Data Replay for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-quick-steps-to-clear-the-exterior-of-your-photos-in-affinity/"><u>[New] Quick Steps to Clear the Exterior of Your Photos in Affinity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-breakdown-of-sharex-expert-opinions-and-alternatives/"><u>[Updated] 2024 Approved Breakdown of ShareX Expert Opinions & Alternatives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-fbx-recorder-alternatives-the-new-era-of-gaming-capture/"><u>[Updated] 2024 Approved FBX Recorder Alternatives The New Era of Gaming Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-recording-games-on-xbox-one/"><u>[Updated] 2024 Approved Step-by-Step Recording Games on Xbox One</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-pacing-with-macos-a-specialists-guide-to-srt-editing/"><u>[Updated] Perfect Pacing with macOS A Specialist's Guide to SRT Editing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device-for-2024/"><u>[Updated] Proper Techniques to Snag Free, Secure VLC on a Mac Device for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-samsungs-gaming-memories-record-and-reveal/"><u>[Updated] Samsung's Gaming Memories Record and Reveal</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-up-your-iphones-selfie-game-with-these-best-free-app-tools/"><u>[Updated] Step-Up Your iPhone's Selfie Game with These Best Free App Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-nubia-z50s-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Nubia Z50S Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a05-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A05 to Protect Your Individual Information</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-through-instagram-video-woes-with-ease-for-2024/"><u>Navigating Through Instagram Video Woes with Ease for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-defense-mechanisms-against-cybersecurity-risks/"><u>Understanding ChatGPT's Defense Mechanisms Against Cybersecurity Risks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-obs-settings-for-low-end-pcs/"><u>[New] In 2024, Best OBS Settings for Low-End PCs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-the-full-potential-top-9-methods-in-vr-cinematography-for-2024/"><u>[New] Unlocking the Full Potential Top 9 Methods in VR Cinematography for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-your-game-library-the-finest-pc-based-gba-emulation-tools/"><u>[Updated] 2024 Approved Mastering Your Game Library The Finest PC-Based GBA Emulation Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-problem-is-over-your-shorts-show-up-now/"><u>[Updated] 2024 Approved The Problem Is Over Your Shorts Show Up Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-efficient-use-of-obs-with-zoom-video-platform/"><u>[Updated] Efficient Use of OBS with Zoom Video Platform</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-learn-to-turn-comments-on-or-off-on-youtube-easily/"><u>[Updated] Learn to Turn Comments On or Off on YouTube Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-night-photos-checklist-dos-and-donts/"><u>[Updated] The Ultimate Night Photos Checklist Do's and Don'ts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-eco-friendly-recorder-ads-absolved/"><u>2024 Approved Eco-Friendly Recorder - Ads Absolved</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-innovative-fading-approaches-with-ableton/"><u>2024 Approved Innovative Fading Approaches with Ableton</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-space-not-time-discover-the-coolest-34-phone-apps-for-slashing-size/"><u>2024 Approved Maximize Space, Not Time Discover the Coolest 34 Phone Apps for Slashing Size</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/act-fast-premium-quality-photo-rehabilitation-available-now/"><u>Act Fast - Premium Quality Photo Rehabilitation Available Now!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/hitching-a-ride-on-stream-success-obs-plus-zoom/"><u>Hitching a Ride on Stream Success OBS + Zoom</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-smart-8-hdmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Smart 8 HDMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-tips-for-iphone-voice-note-making/"><u>In 2024, Essential Tips for iPhone Voice Note Making</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-iconic-meme-blueprints-of-the-year/"><u>In 2024, Iconic Meme Blueprints of the Year</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-xbox-screencast-capture-techniques/"><u>Mastering Xbox Screencast Capture Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-background-guide-for-online-video-calls-for-2024/"><u>The Ultimate Background Guide for Online Video Calls for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-expression-master-device-based-filters-and-effects-for-2024/"><u>Unlock Creative Expression Master Device-Based Filters and Effects for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-next-for-meta-quest-exploring-the-rumored-release-of-meta-quest-3lite-with-projections-on-pricing-and-technical-specifications/"><u>What's Next for Meta Quest: Exploring the Rumored Release of Meta Quest ^3Lite with Projections on Pricing and Technical Specifications</u></a></li>
 </ul></div>
 

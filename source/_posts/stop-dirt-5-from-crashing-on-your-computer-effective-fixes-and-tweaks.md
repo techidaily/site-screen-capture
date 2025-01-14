@@ -1,7 +1,7 @@
 ---
 title: Stop Dirt 5 From Crashing on Your Computer - Effective Fixes and Tweaks
-date: 2025-01-02T22:32:36.210Z
-updated: 2025-01-06T18:50:26.867Z
+date: 2025-01-11T16:34:09.214Z
+updated: 2025-01-13T19:59:35.836Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ Games crashes are not something uncommon. And you might encounter the same issue
 6. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
 7. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Before getting started
 
  Halo 3 could be crashing because you’re running it beyond your computer’s abilities. So make sure your computer meets the requirements for the game.
@@ -48,6 +44,10 @@ _Halo 3 Minimum System Requirements_
 
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
@@ -56,10 +56,6 @@ _Halo 3 Minimum System Requirements_
   
 
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Privacy** .  
   
@@ -75,10 +71,6 @@ _Halo 3 Minimum System Requirements_
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  OR  
   
  Under the Choose which apps can run in the background section, manually select the ones you want to stop.  
@@ -86,9 +78,17 @@ _Halo 3 Minimum System Requirements_
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/choose-which-apps-can-run-in-the-background-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -120,6 +120,10 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -131,10 +135,6 @@ Here’s how to update your drivers with Driver Easy:
  After updating your drivers, restart your computer and launch Halo3 to check if the issue is fixed. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -148,17 +148,13 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
@@ -173,7 +169,15 @@ To do so:
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Restart your computer and it’ll be in a clean boot environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
 
@@ -189,10 +193,6 @@ To do so:
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
  4) Relaunch Halo 3.  
@@ -200,10 +200,6 @@ To do so:
  If the problem still persists, then try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Install the latest game patch
 
@@ -224,19 +220,23 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
@@ -264,22 +264,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rafting-perfect-thumbnails-for-higher-clickthrough-rates/"><u>[New] Crafting Perfect Thumbnails for Higher Clickthrough Rates</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-embrace-classic-gaming-leading-ps3-tools-for-pcs/"><u>[New] Embrace Classic Gaming Leading PS3 Tools for PCs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-amateurs-to-pros-mastering-mac-audio-in-audacity-for-2024/"><u>[New] From Amateurs to Pros Mastering Mac Audio in Audacity for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-evaluating-cybernetic-screen-recorder-functionality/"><u>[New] In 2024, Evaluating Cybernetic Screen Recorder Functionality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-obs-upgrade-tips-clearer-footage/"><u>[New] In 2024, OBS Upgrade Tips Clearer Footage</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-excellent-free-cam-snipping-software/"><u>[Updated] 2024 Approved Excellent Free Cam Snipping Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unleashing-screen-content-with-zdsofts-magic/"><u>[Updated] 2024 Approved Unleashing Screen Content with ZDSoft's Magic</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts/"><u>[Updated] 2024 Approved Unlock Your Tech Potential Mastering Mac's Screen Capturing with Just Shortcuts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-improve-your-videography-the-itunes-way/"><u>[Updated] In 2024, Improve Your Videography The iTunes Way</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-guide-to-valheim-sowing-seeds-for-2024/"><u>[Updated] Ultimate Guide to Valheim Sowing Seeds for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-slowing-youtube-videos-37-chars/"><u>2024 Approved The Ultimate Guide to Slowing YouTube Videos (37 Chars)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-uplifting-films-for-momentum-and-motivation/"><u>2024 Approved Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-m6-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on M6 Pro 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix GT 10 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-tecno-spark-10-4g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Tecno Spark 10 4G Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-superior-mac-hd-recorders-with-in-built-sound-capture/"><u>In 2024, Superior Mac HD Recorders with In-Built Sound Capture</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/troubleshooting-tips-solving-your-softwares-startup-issues-insights-from-yl-computing/"><u>Troubleshooting Tips: Solving Your Software's Startup Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-high-fidelity-playback-of-games-using-obs/"><u>[New] High Fidelity Playback of Games Using OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-techniques-for-dell-pc-screen-saving/"><u>[New] In 2024, Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-livestreaming-a-comprehensive-guide/"><u>[New] In 2024, Twitter Livestreaming A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-insider-tips-for-documenting-your-favorite-games-on-ps4/"><u>[New] Insider Tips for Documenting Your Favorite Games on PS4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-hassle-free-hd-video-on-your-device/"><u>[Updated] Hassle-Free HD Video on Your Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>[Updated] In 2024, Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>[Updated] Perfect Video Conferencing The Essential List of 10 Free Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-tutorial-for-using-ez-grabber-like-a-pro/"><u>[Updated] Step-by-Step Tutorial for Using EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-screen-capture-tools/"><u>[Updated] The Ultimate Guide to Screen Capture Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-maximum-mac-gif-recorder/"><u>2024 Approved Maximum Mac Gif Recorder</u></a></li>
+<li><a href="https://win-help.techidaily.com/configuring-login-duration-in-vmware-esxi-hosts-essential-steps-for-optimal-performance/"><u>Configuring Login Duration in VMware ESXi Hosts: Essential Steps for Optimal Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-persistent-issues-with-no-rest-for-the-wicked-pc-performance-and-stability/"><u>Fix Persistent Issues with 'No Rest for the Wicked' PC Performance and Stability</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme 11 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shake-up-your-streams-xplit-alternatives-explored-for-2024/"><u>Shake Up Your Streams Xplit-Alternatives Explored for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-art-of-speech-interpretation-via-googles-technology-for-2024/"><u>The Art of Speech Interpretation via Google's Technology for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817773387-win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now</u></a></li>
 </ul></div>
 

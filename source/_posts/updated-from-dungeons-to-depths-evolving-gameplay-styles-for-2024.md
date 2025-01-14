@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2025-01-01T19:43:26.591Z
-updated: 2025-01-06T19:00:23.178Z
+date: 2025-01-09T21:30:58.889Z
+updated: 2025-01-13T19:50:37.811Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -51,25 +55,25 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -110,7 +114,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -129,10 +133,6 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -143,11 +143,11 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,16 +164,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-integrated-media-and-live-stream-services-from-ms-videospace/"><u>[New] Integrated Media & Live Stream Services From MS VideoSpace</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-integrated-systems-approach-for-film-recording-on-diverse-computers-for-2024/"><u>[New] Integrated Systems Approach for Film Recording on Diverse Computers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-master-the-art-of-seamless-video-compatibility-for-2024/"><u>[New] Master the Art of Seamless Video Compatibility for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-quadcopter-power-5-premium-engine-choices/"><u>[New] Mastering Quadcopter Power 5 Premium Engine Choices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-one-click-iphone-screen-capture/"><u>[New] One-Click Iphone Screen Capture</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-exploring-best-text-enhancements-in-after-effects/"><u>[Updated] Exploring Best Text Enhancements in After Effects</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>Canon Camera Experience No Cost, But Pay for More LUTs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-6-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 6</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-sale-alert-secure-up-to-1000-off-on-lenovo-business-laptops-before-octobers-amazon-prime-day-exclusive/"><u>Huge Sale Alert: Secure Up To $1,000 Off On Lenovo Business Laptops Before October's Amazon Prime Day Exclusive</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/seamlessly-share-videos-on-mstream-services-for-2024/"><u>Seamlessly Share Videos on MStream Services for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-repairing-the-microphone-in-oculus-quest-2-headsets/"><u>Solving Audio Issues: Repairing the Microphone in Oculus Quest 2 Headsets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-webinar-video-archive-creation/"><u>[New] 2024 Approved Webinar Video Archive Creation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ethical-implications-recording-whatsapp-calls-responsibly/"><u>[New] In 2024, Ethical Implications Recording WhatsApp Calls Responsibly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-the-secrets-of-high-quality-twitch-broadcasts-for-2024/"><u>[Updated] Unlocking the Secrets of High-Quality Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-upgrade-your-iphone-cinematic-experience-must-have-equipment-for-2024/"><u>[Updated] Upgrade Your iPhone Cinematic Experience Must-Have Equipment for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-restoring-functionality-to-your-corsair-virtuoso-mic/"><u>DIY Solutions: Restoring Functionality to Your Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-a2-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo A2 Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-razr-40-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sonic-and-the-hedgehog-switch-edition-top-10/"><u>Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unleashing-shareability-secrets-of-trending-on-fb/"><u>Unleashing Shareability Secrets of Trending on Fb</u></a></li>
 </ul></div>
 

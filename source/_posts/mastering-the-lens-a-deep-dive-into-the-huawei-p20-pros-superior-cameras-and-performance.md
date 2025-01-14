@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
-date: 2025-01-03T01:59:53.492Z
-updated: 2025-01-07T10:49:33.084Z
+date: 2025-01-07T16:56:15.121Z
+updated: 2025-01-13T19:20:50.712Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
@@ -37,6 +37,10 @@ Lifewire / Bill Thomas
 
 3.4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
@@ -65,6 +69,10 @@ Lifewire / Bill Thomas
 
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
@@ -81,7 +89,15 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Setup: Nice and simple
 
@@ -93,10 +109,6 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -106,7 +118,7 @@ Lifewire / Bill Thomas
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Network Performance: Great when wired, but wireless speeds lag
@@ -119,15 +131,7 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Bill Thomas
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Software: No frills
 
@@ -145,10 +149,6 @@ Lifewire / Bill Thomas
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -158,14 +158,14 @@ Lifewire / Bill Thomas
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -202,16 +202,24 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-ace-your-edits-pro-level-tips-for-lunapic-users/"><u>[New] Ace Your Edits Pro-Level Tips for LunaPic Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rowth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>[New] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-webinar-session-screening-for-2024/"><u>[New] Webinar Session Screening for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets-for-2024/"><u>[Updated] Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-obs-screen-recorder-review/"><u>[Updated] In 2024, OBS Screen Recorder Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-into-the-virtual-vortex-mastering-techniques-of-gameplay-recording/"><u>[Updated] Into the Virtual Vortex Mastering Techniques of Gameplay Recording</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-virtual-realities-google-cardboard-meets-samsung-gear/"><u>2024 Approved Virtual Realities Google Cardboard Meets Samsung Gear</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/premium-internet-voice-pads-for-2024/"><u>Premium Internet Voice Pads for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-qr-code-scanning-problems-with-these-10-tips/"><u>Solve Your iPhone's QR Code Scanning Problems with These 10 Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-roadmap-how-to-protect-and-list-your-email-securely/"><u>The Comprehensive Roadmap: How to Protect & List Your Email Securely</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-the-dying-light-noise-error-for-a-flawless-gaming-experience/"><u>Troubleshoot the Dying Light Noise Error for a Flawless Gaming Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capturing-the-thrill-pro-gamers-guide-to-recordings/"><u>[New] 2024 Approved Capturing the Thrill Pro Gamer's Guide to Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-quick-fix-for-downloading-funny-images-on-pc/"><u>[New] 2024 Approved Twitter's Quick-Fix for Downloading Funny Images on PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-5-essential-steps-to-prevent-blank-screen-issues-in-obs-for-2024/"><u>[New] 5 Essential Steps to Prevent Blank-Screen Issues in OBS for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-digital-decoder-masterful-online-tv-recording-methods-for-2024/"><u>[New] Digital Decoder Masterful Online TV Recording Methods for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-futurecamerasbeyondmycam/"><u>[New] In 2024, FutureCamerasBeyondMyCam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quickquip-quarterfreeze-media/"><u>[New] QuickQuip QuarterFreeze Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-5-tools-for-cutting-edge-video-title-and-tag-generation/"><u>[Updated] 2024 Approved 5 Tools for Cutting Edge Video Title & Tag Generation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>[Updated] 2024 Approved Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-emulators-the-ultimate-guide-for-classic-ps1-games-on-pc/"><u>[Updated] 2024 Approved Top 5 Emulators The Ultimate Guide for Classic PS1 Games on PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-advice-tailoring-ppt-presentations-on-google-meet/"><u>[Updated] Expert Advice Tailoring PPT Presentations on Google Meet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-speedy-solutions-snapshots-of-slideshows/"><u>[Updated] In 2024, Speedy Solutions Snapshots of Slideshows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of F5 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combining-ai-innovation-with-agile-practices-faces-challenges-insights-from-recent-research/"><u>Combining AI Innovation with Agile Practices Faces Challenges: Insights From Recent Research</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-docm-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .docm file free</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-preeminent-audience-alteration-tools-for-content-casters/"><u>In 2024, Preeminent Audience Alteration Tools for Content Casters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028165521-swfmp4/"><u>SWFからMP4に変換方法・失敗した原因と解決策</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-checklist-for-windows-11-in-place-upsizing/"><u>The Essential Checklist for Windows 11, In-Place Upsizing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-insiders-method-for-rl-recording/"><u>The Insider's Method for RL Recording</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial-recovered-thousands-of-photos-from-memory-card-with-stellar-photo-recovery/"><u>Video - Customer Testimonial: Recovered Thousands of Photos From Memory Card with Stellar Photo Recovery</u></a></li>
 </ul></div>
 

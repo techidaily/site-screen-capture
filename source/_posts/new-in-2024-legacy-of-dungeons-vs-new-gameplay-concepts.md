@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2025-01-09T19:36:24.492Z
-updated: 2025-01-13T16:25:23.229Z
+date: 2025-01-19T03:48:00.333Z
+updated: 2025-01-20T01:53:49.904Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,15 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -62,7 +62,7 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
@@ -90,7 +90,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -123,10 +123,6 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
@@ -144,10 +140,14 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,21 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-shared-surface-video-chronicling/"><u>[New] 2024 Approved Shared Surface Video Chronicling</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamline-your-teamwork-zooming-through-screenshares-for-2024/"><u>[New] Streamline Your Teamwork Zooming Through Screenshares for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>[New] Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-live-streaming-and-screen-capture-a-comprehensive-obs-analysis/"><u>[Updated] 2024 Approved Live Streaming & Screen Capture A Comprehensive OBS Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-picture-in-picture-features-in-firefox/"><u>[Updated] 2024 Approved Navigating Picture-in-Picture Features in Firefox</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ps3-game-viewers-guide-filming-your-playtime/"><u>[Updated] 2024 Approved The PS3 Game Viewer's Guide Filming Your Playtime</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-democracy-dive-deep-top-5-political-simulation-titles/"><u>[Updated] In 2024, Democracy Dive Deep Top 5 Political Simulation Titles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more/"><u>[Updated] Instant Transformation Gifs Becoming Stickers Across Discord, WhatsApp & More</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-nintendo-switchs-ultimate-hd-gameplay-for-2024/"><u>[Updated] Nintendo Switch's Ultimate HD Gameplay for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-obs-vs-twitch-hub-best-platform-debate-for-2024/"><u>[Updated] OBS Vs. Twitch Hub Best Platform Debate for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-optimal-video-sizes-on-instagram-explained/"><u>[Updated] Optimal Video Sizes on Instagram Explained</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-virtual-odyssey-comparing-oculus-htc-vive-and-ps-vrs-gaming-offerings-for-2024/"><u>[Updated] Virtual Odyssey Comparing Oculus, HTC Vive & PS VR’s Gaming Offerings for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/examining-obss-recording-features-in-detail/"><u>Examining OBS's Recording Features in Detail</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/spotted-drivers-issue-restored-gpu-health-nvidia/"><u>Spotted Drivers Issue, Restored GPU Health (NVIDIA)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-shopping-in-china-major-changes-in-the-industry/"><u>Updated Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-getting-the-most-out-of-google-meet-for-free/"><u>[New] 2024 Approved Getting the Most Out of Google Meet (For Free)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-alternatives-to-microsofts-game-bar-recording-features-for-2024/"><u>[New] Best Alternatives to Microsoft's Game Bar Recording Features for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-camstudio-screen-capturing-a-comprehensive-analysis-users-for-2024/"><u>[New] CamStudio Screen Capturing A Comprehensive Analysis Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-easy-entree-straightforward-screen-capture-methods-dell/"><u>[New] Easy Entrée Straightforward Screen Capture Methods (Dell)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-techniques-for-turning-youtube-watching-into-a-screenshot/"><u>[New] Free Techniques for Turning YouTube Watching Into a Screenshot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-immediate-window-image-retrieval-windows/"><u>[New] Immediate Window Image Retrieval (Windows)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-techniques-for-convenient-iphone-screen-recording/"><u>[New] In 2024, Essential Techniques for Convenient Iphone Screen Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-record-gameplay-on-ps4/"><u>[New] In 2024, How to Record Gameplay on PS4</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-laugh-line-by-line-building-a-meme-friendly-video-portfolio-for-2024/"><u>[New] Laugh Line by Line Building a Meme-Friendly Video Portfolio for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-complete-screenrec-manual-for-laptops-for-2024/"><u>[New] The Complete ScreenRec Manual for Laptops for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-10-iconic-beauty-personalities-to-follow-on-youtube/"><u>[Updated] 10 Iconic Beauty Personalities to Follow on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-exploring-top-iphone-video-editors-cameo-and-filmorago-face-off/"><u>[Updated] 2024 Approved Exploring Top iPhone Video Editors Cameo & FilmoraGo Face-Off</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence/"><u>[Updated] The Ideal Companion 15 Tripods and Mounts for GoPro Excellence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-boundless-capabilities-of-ai-to-reshape-our-lives/"><u>Exploring the Boundless Capabilities of AI to Reshape Our Lives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-4k-gimbal-picks-top-ten-mirrorless-companions/"><u>In 2024, 4K Gimbal Picks Top Ten Mirrorless Companions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-audio-prime-9-mic-recording-solutions-for-2024/"><u>Mastering Audio Prime 9 Mic Recording Solutions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-controls-dial-back-speed-settings-windows-1011/"><u>Mastering Mouse Controls: Dial Back Speed Settings Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-your-next-move-should-you-embrace-ios-17/"><u>Navigating Your Next Move: Should You Embrace iOS 17?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-pc-video-dubbing-made-easy-top-software-options/"><u>New In 2024, PC Video Dubbing Made Easy Top Software Options</u></a></li>
 </ul></div>
 

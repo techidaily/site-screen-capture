@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
-date: 2025-01-07T16:56:15.121Z
-updated: 2025-01-13T19:20:50.712Z
+date: 2025-01-12T18:00:22.819Z
+updated: 2025-01-20T03:37:08.086Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Lens: A Deep Dive Into the Huawei P20 Pro's Superior Cameras and Performance"
@@ -37,10 +37,6 @@ Lifewire / Bill Thomas
 
 3.4
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
@@ -70,7 +66,7 @@ Lifewire / Bill Thomas
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design: Small and inconspicuous
@@ -81,6 +77,10 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
@@ -90,14 +90,10 @@ Lifewire / Bill Thomas
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Setup: Nice and simple
 
@@ -117,10 +113,6 @@ Lifewire / Bill Thomas
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -131,7 +123,15 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software: No frills
 
@@ -164,7 +164,7 @@ Lifewire / Bill Thomas
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -202,24 +202,18 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capturing-the-thrill-pro-gamers-guide-to-recordings/"><u>[New] 2024 Approved Capturing the Thrill Pro Gamer's Guide to Recordings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-quick-fix-for-downloading-funny-images-on-pc/"><u>[New] 2024 Approved Twitter's Quick-Fix for Downloading Funny Images on PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-5-essential-steps-to-prevent-blank-screen-issues-in-obs-for-2024/"><u>[New] 5 Essential Steps to Prevent Blank-Screen Issues in OBS for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-digital-decoder-masterful-online-tv-recording-methods-for-2024/"><u>[New] Digital Decoder Masterful Online TV Recording Methods for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-futurecamerasbeyondmycam/"><u>[New] In 2024, FutureCamerasBeyondMyCam</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quickquip-quarterfreeze-media/"><u>[New] QuickQuip QuarterFreeze Media</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-5-tools-for-cutting-edge-video-title-and-tag-generation/"><u>[Updated] 2024 Approved 5 Tools for Cutting Edge Video Title & Tag Generation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>[Updated] 2024 Approved Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-emulators-the-ultimate-guide-for-classic-ps1-games-on-pc/"><u>[Updated] 2024 Approved Top 5 Emulators The Ultimate Guide for Classic PS1 Games on PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-advice-tailoring-ppt-presentations-on-google-meet/"><u>[Updated] Expert Advice Tailoring PPT Presentations on Google Meet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-speedy-solutions-snapshots-of-slideshows/"><u>[Updated] In 2024, Speedy Solutions Snapshots of Slideshows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of F5 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/combining-ai-innovation-with-agile-practices-faces-challenges-insights-from-recent-research/"><u>Combining AI Innovation with Agile Practices Faces Challenges: Insights From Recent Research</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-docm-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .docm file free</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-preeminent-audience-alteration-tools-for-content-casters/"><u>In 2024, Preeminent Audience Alteration Tools for Content Casters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028165521-swfmp4/"><u>SWFからMP4に変換方法・失敗した原因と解決策</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-checklist-for-windows-11-in-place-upsizing/"><u>The Essential Checklist for Windows 11, In-Place Upsizing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-insiders-method-for-rl-recording/"><u>The Insider's Method for RL Recording</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial-recovered-thousands-of-photos-from-memory-card-with-stellar-photo-recovery/"><u>Video - Customer Testimonial: Recovered Thousands of Photos From Memory Card with Stellar Photo Recovery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-gaming-evolution-top-7-stardew-valley-enhancements-7/"><u>[New] 2024 Approved Gaming Evolution Top 7 Stardew Valley Enhancements (#7)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-converting-gifs-to-emoticon-stickers-on-telegram-and-friends-servers/"><u>[New] Converting GIFs to Emoticon Stickers on Telegram & Friends Servers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-maximize-your-screen-recording-experience-with-w8-tools-for-2024/"><u>[New] Maximize Your Screen Recording Experience with W8 Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-webcam-creation-video-making-for-mac-users/"><u>[New] Webcam Creation Video Making for Mac Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-initiate-internet-income-low-cost-youtube-channel-buys/"><u>[Updated] In 2024, Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-windows-11-gamers-guide-to-stunning-game-recordings/"><u>[Updated] In 2024, Windows 11 Gamers' Guide to Stunning Game Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-right-device-ipad-pro-vs-macbook-air-a-comprehensive-review-techadvisor/"><u>Choosing the Right Device: IPad Pro Vs. MacBook Air - A Comprehensive Review | TechAdvisor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/impact-of-poorly-managed-data-centers-on-environmental-goals-and-artificial-intelligence-progress-insights-from-zdnet/"><u>Impact of Poorly Managed Data Centers on Environmental Goals & Artificial Intelligence Progress: Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-pro-tips-chromebooks-finest-pencil-based-software/"><u>In 2024, Pro Tips Chromebook's Finest Pencil-Based Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-vidmas-screen-recorder-an-in-depth-review/"><u>In 2024, Vidma’s Screen Recorder An In-Depth Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-restoring-bluetooth-functionality-on-a-windows-10-computer/"><u>Master the Art of Restoring Bluetooth Functionality on a Windows 10 Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-ev-variants-discovering-the-distinctions-between-bev-phev-and-hybrids/"><u>Navigating Through EV Variants: Discovering The Distinctions Between BEV, PHEV and Hybrids</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-lensdirect-spectacles-a-detailed-review-of-their-effectiveness-in-filtering-harmful-screen-radiation-for-prescription-wearers/"><u>Top Rated LensDirect Spectacles: A Detailed Review of Their Effectiveness in Filtering Harmful Screen Radiation for Prescription Wearers</u></a></li>
 </ul></div>
 

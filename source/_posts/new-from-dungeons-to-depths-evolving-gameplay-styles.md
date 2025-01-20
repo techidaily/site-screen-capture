@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2025-01-12T20:12:41.044Z
-updated: 2025-01-13T18:19:01.752Z
+date: 2025-01-12T23:58:13.805Z
+updated: 2025-01-20T00:20:49.458Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rogue: Where it all started
@@ -56,7 +56,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -64,6 +68,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -89,10 +97,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -110,6 +114,10 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,19 +143,11 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,24 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-obs-settings-for-low-end-pcs/"><u>[New] In 2024, Best OBS Settings for Low-End PCs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unlocking-the-full-potential-top-9-methods-in-vr-cinematography-for-2024/"><u>[New] Unlocking the Full Potential Top 9 Methods in VR Cinematography for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-your-game-library-the-finest-pc-based-gba-emulation-tools/"><u>[Updated] 2024 Approved Mastering Your Game Library The Finest PC-Based GBA Emulation Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-problem-is-over-your-shorts-show-up-now/"><u>[Updated] 2024 Approved The Problem Is Over Your Shorts Show Up Now</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-efficient-use-of-obs-with-zoom-video-platform/"><u>[Updated] Efficient Use of OBS with Zoom Video Platform</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-learn-to-turn-comments-on-or-off-on-youtube-easily/"><u>[Updated] Learn to Turn Comments On or Off on YouTube Easily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-night-photos-checklist-dos-and-donts/"><u>[Updated] The Ultimate Night Photos Checklist Do's and Don'ts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-eco-friendly-recorder-ads-absolved/"><u>2024 Approved Eco-Friendly Recorder - Ads Absolved</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-innovative-fading-approaches-with-ableton/"><u>2024 Approved Innovative Fading Approaches with Ableton</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-space-not-time-discover-the-coolest-34-phone-apps-for-slashing-size/"><u>2024 Approved Maximize Space, Not Time Discover the Coolest 34 Phone Apps for Slashing Size</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/act-fast-premium-quality-photo-rehabilitation-available-now/"><u>Act Fast - Premium Quality Photo Rehabilitation Available Now!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/hitching-a-ride-on-stream-success-obs-plus-zoom/"><u>Hitching a Ride on Stream Success OBS + Zoom</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-smart-8-hdmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Smart 8 HDMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-tips-for-iphone-voice-note-making/"><u>In 2024, Essential Tips for iPhone Voice Note Making</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-iconic-meme-blueprints-of-the-year/"><u>In 2024, Iconic Meme Blueprints of the Year</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-xbox-screencast-capture-techniques/"><u>Mastering Xbox Screencast Capture Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-background-guide-for-online-video-calls-for-2024/"><u>The Ultimate Background Guide for Online Video Calls for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-creative-expression-master-device-based-filters-and-effects-for-2024/"><u>Unlock Creative Expression Master Device-Based Filters and Effects for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-next-for-meta-quest-exploring-the-rumored-release-of-meta-quest-3lite-with-projections-on-pricing-and-technical-specifications/"><u>What's Next for Meta Quest: Exploring the Rumored Release of Meta Quest ^3Lite with Projections on Pricing and Technical Specifications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>[New] 2024 Approved Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-depth-look-at-macs-top-screen-capture-apps/"><u>[New] 2024 Approved In-Depth Look at Mac's Top Screen Capture Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-outwiththeold-camerasbeyondmycam/"><u>[New] 2024 Approved OutWithTheOld CamerasBeyondMyCam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-terraria-modifications-guide-for-2024/"><u>[New] Advanced Terraria Modifications Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-convenient-interaction-starting-a-skype-group-for-windowsmac-users-for-2024/"><u>[New] Convenient Interaction Starting a Skype Group for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-audio-guide-for-vloggers-for-2024/"><u>[New] Expert Audio Guide for Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-resolve-ipadiphone-fb-video-playback-delays/"><u>[New] Resolve iPad/iPhone FB Video Playback Delays</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-streamline-and-slim-vids-instagram-tips-using-macos/"><u>[New] Streamline and Slim Vids Instagram Tips Using macOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-complete-obs-toolkit-for-flawless-instagram-streams-for-2024/"><u>[New] The Complete OBS Toolkit for Flawless Instagram Streams for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unleash-creative-potential-with-free-effs/"><u>[Updated] 2024 Approved Unleash Creative Potential with Free Effs!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-download-and-installation-101-your-pathway-to-mastering-ez-grabber-for-2024/"><u>[Updated] Download & Installation 101 Your Pathway to Mastering EZ Grabber for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows/"><u>[Updated] In 2024, Ultimate Guide to Choosing Winning Screen Recording Software for Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-laptop-and-mobile-entry-into-google-meet/"><u>[Updated] Laptop & Mobile Entry Into Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-phones-as-webcams-tips-and-tricks-for-quality-videos-for-2024/"><u>[Updated] Phones as Webcams Tips and Tricks for Quality Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>[Updated] TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[Updated] Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guide-on-stellars-photo-repair-software-windows-a-comprehensive-overview/"><u>Guide on Stellar's Photo Repair Software (Windows) - A Comprehensive Overview</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-note-13-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi Note 13 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-future-of-computing-introducing-geekoms-ax8-mini-pc-with-support-for-intel-13th-and-amd-ryzen-8000-cpus/"><u>The Future of Computing: Introducing GeekOm's AX8 Mini PC with Support for Intel 13Th and AMD Ryzen 8000 CPUs</u></a></li>
 </ul></div>
 

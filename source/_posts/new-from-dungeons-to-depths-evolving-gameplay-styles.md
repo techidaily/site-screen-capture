@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2025-01-12T23:58:13.805Z
-updated: 2025-01-20T00:20:49.458Z
+date: 2025-01-21T17:01:31.703Z
+updated: 2025-01-26T02:03:02.335Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rogue: Where it all started
@@ -55,23 +55,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -97,6 +85,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -116,10 +108,14 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -149,6 +145,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -164,24 +164,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>[New] 2024 Approved Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-depth-look-at-macs-top-screen-capture-apps/"><u>[New] 2024 Approved In-Depth Look at Mac's Top Screen Capture Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-outwiththeold-camerasbeyondmycam/"><u>[New] 2024 Approved OutWithTheOld CamerasBeyondMyCam</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-advanced-terraria-modifications-guide-for-2024/"><u>[New] Advanced Terraria Modifications Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-convenient-interaction-starting-a-skype-group-for-windowsmac-users-for-2024/"><u>[New] Convenient Interaction Starting a Skype Group for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-audio-guide-for-vloggers-for-2024/"><u>[New] Expert Audio Guide for Vloggers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-resolve-ipadiphone-fb-video-playback-delays/"><u>[New] Resolve iPad/iPhone FB Video Playback Delays</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-streamline-and-slim-vids-instagram-tips-using-macos/"><u>[New] Streamline and Slim Vids Instagram Tips Using macOS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-complete-obs-toolkit-for-flawless-instagram-streams-for-2024/"><u>[New] The Complete OBS Toolkit for Flawless Instagram Streams for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unleash-creative-potential-with-free-effs/"><u>[Updated] 2024 Approved Unleash Creative Potential with Free Effs!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-download-and-installation-101-your-pathway-to-mastering-ez-grabber-for-2024/"><u>[Updated] Download & Installation 101 Your Pathway to Mastering EZ Grabber for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows/"><u>[Updated] In 2024, Ultimate Guide to Choosing Winning Screen Recording Software for Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-laptop-and-mobile-entry-into-google-meet/"><u>[Updated] Laptop & Mobile Entry Into Google Meet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-phones-as-webcams-tips-and-tricks-for-quality-videos-for-2024/"><u>[Updated] Phones as Webcams Tips and Tricks for Quality Videos for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>[Updated] TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[Updated] Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guide-on-stellars-photo-repair-software-windows-a-comprehensive-overview/"><u>Guide on Stellar's Photo Repair Software (Windows) - A Comprehensive Overview</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-note-13-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi Note 13 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-future-of-computing-introducing-geekoms-ax8-mini-pc-with-support-for-intel-13th-and-amd-ryzen-8000-cpus/"><u>The Future of Computing: Introducing GeekOm's AX8 Mini PC with Support for Intel 13Th and AMD Ryzen 8000 CPUs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-top-8-smoothest-capture-tools/"><u>[New] In 2024, Premium Top 8 Smoothest Capture Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigating-skype-recordings-on-windows-and-mac-free-vs-paid-guide/"><u>[Updated] In 2024, Navigating Skype Recordings on Windows & Mac - Free vs Paid Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook-for-2024/"><u>[Updated] The Key to Earning on YouTube In-Depth Ad Revenue Guidebook for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-6-cool-minecraft-house-ideas-for-2024/"><u>[Updated] Top 6 Cool Minecraft House Ideas for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-excellent-tools-to-save-live-feeds-from-youtube-vids/"><u>2024 Approved Excellent Tools to Save Live Feeds From YouTube Vids</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-and-learn-with-animated-youtubers-top-picks-for-today/"><u>In 2024, Laugh and Learn with Animated YouTubers - Top Picks for Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>In 2024, The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-15-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 15 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-a-complete-guide-to-translate-video-with-google/"><u>Updated In 2024, A Complete Guide To Translate Video With Google</u></a></li>
 </ul></div>
 

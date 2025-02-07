@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2025-01-21T17:01:31.703Z
-updated: 2025-01-26T02:03:02.335Z
+date: 2025-02-06T19:57:13.509Z
+updated: 2025-02-07T19:10:00.076Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rogue: Where it all started
@@ -55,6 +55,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
@@ -66,6 +70,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -84,10 +92,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 **You might also like:** [Top 10 Roguelike or Roguelite Games](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelike Games
 
@@ -108,14 +112,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -146,7 +146,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,15 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-top-8-smoothest-capture-tools/"><u>[New] In 2024, Premium Top 8 Smoothest Capture Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigating-skype-recordings-on-windows-and-mac-free-vs-paid-guide/"><u>[Updated] In 2024, Navigating Skype Recordings on Windows & Mac - Free vs Paid Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook-for-2024/"><u>[Updated] The Key to Earning on YouTube In-Depth Ad Revenue Guidebook for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-6-cool-minecraft-house-ideas-for-2024/"><u>[Updated] Top 6 Cool Minecraft House Ideas for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-excellent-tools-to-save-live-feeds-from-youtube-vids/"><u>2024 Approved Excellent Tools to Save Live Feeds From YouTube Vids</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-and-learn-with-animated-youtubers-top-picks-for-today/"><u>In 2024, Laugh and Learn with Animated YouTubers - Top Picks for Today</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>In 2024, The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-15-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 15 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-a-complete-guide-to-translate-video-with-google/"><u>Updated In 2024, A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamlining-video-production-green-screen-magic-unveiled/"><u>[New] 2024 Approved Streamlining Video Production Green Screen Magic Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-audio-enthusiasts-guide-to-the-best-10-spotify-recorders/"><u>[New] Audio Enthusiast's Guide to the Best 10 Spotify Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-picture-perfect-creating-screenshots-in-windows-for-2024/"><u>[New] Picture Perfect Creating Screenshots in Windows for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-5-cutting-edge-capture-apps-for-macos-users-for-2024/"><u>[New] Top 5 Cutting-Edge Capture Apps for macOS Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streaming-and-saving-games-on-xbox-one/"><u>[Updated] 2024 Approved Streaming and Saving Games on Xbox One</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-efficacy-of-vlcs-screen-recording-for-2024/"><u>[Updated] The Efficacy of VLC's Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-elevate-your-videos-advanced-recording-in-adobe-presenter/"><u>2024 Approved Elevate Your Videos Advanced Recording in Adobe Presenter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/3-proven-methods-to-enhance-your-music-archives-for-2024/"><u>3 Proven Methods to Enhance Your Music Archives for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-value-your-essential-guide-to-vr-headsets/"><u>Choosing Value: Your Essential Guide to VR Headsets</u></a></li>
+<li><a href="https://win-tips.techidaily.com/critical-security-alert-vmware-vcenter-exposed-vulnerabilities/"><u>Critical Security Alert: VMware vCenter Exposed Vulnerabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2s-exciting-new-update-a-fresh-perspective-on-broccoli-combat/"><u>Destiny 2'S Exciting New Update: A Fresh Perspective on Broccoli Combat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exclusive-realms-for-artificial-intelligence-prompt-sharing/"><u>Exclusive Realms for Artificial Intelligence Prompt Sharing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guia-paso-a-paso-para-iniciar-sesion-en-windows-11-acceso-al-menu-de-recuperacion/"><u>Guía Paso a Paso Para Iniciar Sesión en Windows 11: Acceso Al Menú De Recuperación</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-the-malfunctioning-rockstar-launcher-for-a-smooth-gaming-experience/"><u>How to Troubleshoot the Malfunctioning Rockstar Launcher for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-google-pixel-7a-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Google Pixel 7a to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-approaches-turning-visual-content-into-music-files/"><u>In 2024, Key Approaches Turning Visual Content Into Music Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>In 2024, Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-the-art-of-video-rotation-using-vlc-media-player/"><u>Master the Art of Video Rotation Using VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-firewall-issues-with-firefox/"><u>Troubleshooting Steps for Resolving Firewall Issues with Firefox</u></a></li>
 </ul></div>
 

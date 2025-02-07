@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2025-01-23T01:32:04.917Z
-updated: 2025-01-26T03:38:55.967Z
+date: 2025-02-04T20:00:39.522Z
+updated: 2025-02-07T21:25:33.965Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rogue: Where it all started
@@ -50,7 +50,11 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -60,7 +64,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -93,10 +97,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -118,7 +118,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -164,19 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-essential-tips-for-achieving-facebooks-trusted-marker/"><u>[New] 2024 Approved Essential Tips for Achieving Facebook's Trusted Marker</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-fbx-recorder-alternatives-the-new-era-of-gaming-capture/"><u>[New] FBX Recorder Alternatives The New Era of Gaming Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-digital-leaders-the-top-10-online-video-recorder-apps/"><u>[Updated] In 2024, Digital Leaders The Top 10 Online Video Recorder Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-effective-audio-capture-for-your-zoom-sessions/"><u>[Updated] In 2024, Effective Audio Capture for Your Zoom Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-fbx-less-game-capture-techniques/"><u>2024 Approved Mastering the Art of FBX-Less Game Capture Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-setup-problem-solved/"><u>Direct3D Setup Problem Solved</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy S24 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortlessly-stream-mp3-to-youtube-with-3-key-steps/"><u>In 2024, Effortlessly Stream MP3 to YouTube with 3 Key Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-switching-to-grid-view-in-google-meet-chat-room/"><u>In 2024, Switching to Grid View in Google Meet Chat Room</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-understanding-zoom-webinars-a-stepwise-learning-path/"><u>In 2024, Understanding Zoom Webinars A Stepwise Learning Path</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/quick-guide-resolving-error-code-0x8004dc5-with-simple-steps/"><u>Quick Guide: Resolving Error Code 0X8004DC5 with Simple Steps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/scrutinizing-active-presenters-record-quality/"><u>Scrutinizing Active Presenter's Record Quality</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-filmmakers-toolkit-for-dynamic-video-colors-for-2024/"><u>The Filmmaker's Toolkit for Dynamic Video Colors for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-setting-up-the-superior-sg-wizard-in-kodi-with-top-tier-leia-configurations/"><u>Ultimate Guide: Setting Up the Superior SG Wizard in Kodi with Top-Tier Leia Configurations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1716276230286-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-smoothly-record-time-lapse-on-your-ipad/"><u>[New] 2024 Approved Smoothly Record Time-Lapse on Your iPad</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigate-through-the-5-best-mac-sniping-apps-easily/"><u>[New] In 2024, Navigate Through The 5 Best Mac Sniping Apps Easily</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-smoother-rides-with-htc-vive-anti-nausea-tips/"><u>[New] In 2024, Smoother Rides with HTC Vive Anti-Nausea Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/evel-in-the-rush-free-zone-unveiling-three-ways-to-slowdown-youtube-streams-62-chars-slightly-over-but-justified-with-context/"><u>[New] Revel in the Rush-Free Zone Unveiling Three Ways to Slowdown YouTube Streams (62 Chars, Slightly over but Justified with Context)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-expert-android-guide-to-top-gba-emulators/"><u>[Updated] 2024 Approved Expert Android Guide to Top GBA Emulators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-approach-to-secure-and-quality-vimeo-recording/"><u>[Updated] 2024 Approved Innovative Approach to Secure & Quality Vimeo Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhance-visuals-with-better-obs-settings/"><u>[Updated] Enhance Visuals with Better OBS Settings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-hp-laptop-screen-recording-the-best-approaches-explained/"><u>[Updated] In 2024, HP Laptop Screen Recording The Best Approaches Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-raising-livestock-a-guide-to-ginger-island-farm/"><u>[Updated] Raising Livestock A Guide to Ginger Island Farm</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-5-best-live-stream-video-conference-recorders-for-2024/"><u>[Updated] Top 5 Best Live Stream Video Conference Recorders for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/bulk-conversion-of-videos-into-audio-files-with-vlc-a-comprehensive-guide/"><u>Bulk Conversion of Videos Into Audio Files with VLC: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-navigating-to-success-boosting-viewership-and-subs-on-youtube/"><u>In 2024, Navigating to Success Boosting Viewership and Subs on Youtube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insider-tips-for-ffxp-functionality-for-2024/"><u>Insider Tips for FFXP Functionality for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/professionelle-tipps-zur-sicherung-und-wiederherstellung-des-outlook-postfachs-in-ein-paar-minuten/"><u>Professionelle Tipps Zur Sicherung Und Wiederherstellung Des Outlook-Postfachs in Ein Paar Minuten</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-pop-8-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Pop 8</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-a2plus-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi A2+ Phone Hassle-Free</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-issues-in-call-of-duty-modern-warfare-2-for-pc/"><u>Troubleshooting Frame Rate Issues in Call of Duty: Modern Warfare 2 for PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-zoom-potentials-a-complete-guide-to-excellent-audio-recordings-for-2024/"><u>Unlocking Zoom Potentials A Complete Guide to Excellent Audio Recordings for 2024</u></a></li>
 </ul></div>
 

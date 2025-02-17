@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fraps for Gamers  A Screen Record Review\""
-date: 2024-09-22T17:45:36.659Z
-updated: 2024-09-23T19:03:47.022Z
+date: 2025-02-14T19:34:30.483Z
+updated: 2025-02-17T05:41:14.897Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ If you like to record video games, Fraps can help you take your YouTube channel 
 
 Fraps is one of the most well-known third-party programs for PC gamers, thanks to its free and simple benchmarking features that can test the performance of almost any game. It's also a simple method to put a frame rate counter in the corner of your screen to keep an eye on in-game performance second by second. FRAPS can capture up to 7680 x 4800 at bespoke frame rates ranging from 1 to 120 frames per second, making it stand out among its peers. Skype calls from online or video games are among the features available. It can also record sounds through a microphone, making it the most versatile of all the options thus far. There is no way to capture webcam footage or create a timeline. It also can't add video titles or capture audio from the system. None of these drawbacks, we believe, are relevant to video game recording fans. FRAPS has numerous drawbacks despite its low cost and flexibility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Download and Install
 
 Fraps can also record videos of your gaming sessions, but unlike the other tools in our overview of gameplay capture software, you must pay to use the program's full video recording features. Minimized start, always on top view, show status on LCD, minimize to system tray exclusively, and more options are available under Fraps' general settings. Games that utilize OpenGL and DirectX technologies are compatible with the system.
@@ -33,33 +37,17 @@ DOWNLOAD LINK: [FRAPS](https://fraps.com/)
 
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Step 2:** Fraps' benchmarking tools are located under the FPS tab. When Fraps is active, the framerate counter is always visible in-game. If you want to record a benchmark while playing, just press F11, but first adjust the benchmarking parameters under FPS > Benchmark Settings to your desire.
 
 ![fps](https://images.wondershare.com/filmora/article-images/fps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:** Stop the recording, then go to the Movies tab to see how Fraps is recording your game. Some choices are accessible in the free version, while others are not. The loop buffer length is deactivated, which allows you to use the hotkey to record the latest "X" seconds of gameplay. You may, however, choose whether you want a full-size or half-size recording and select the maximum frame rate when recording. You may also change the sound capture settings, record your microphone, hide or show the mouse pointer, lock the framerate while recording, and capture lossless RGB.
 
 ![movies](https://images.wondershare.com/filmora/article-images/movies.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Pros and Cons
 
@@ -106,11 +94,19 @@ To get started with this program, go to the following links, which we've divided
 
 ![the recording screen](https://images.wondershare.com/filmora/guide/recording-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Customize the Recording Screen
 
 The next step is to use the completely configurable tools to configure the screen for recording purposes. You may also choose the frame rate and the area of the recording screen to include in your recordings.
 
 ![customize the recording screen](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3\. Recording Start/Stop
 
@@ -119,10 +115,7 @@ When you're through with the changes, press the record button to begin recording
 ![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, you must manually send the recording by clicking the Stop button, which will terminate the recording and take you to the editor.
@@ -175,18 +168,15 @@ The next step is to use the completely configurable tools to configure the scree
 
 ![customize the recording screen](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3\. Recording Start/Stop
 
 When you're through with the changes, press the record button to begin recording the screen straight away. All you have to do is press the red outlined button, and everything that happens within the recording area will be captured.
 
 ![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, you must manually send the recording by clicking the Stop button, which will terminate the recording and take you to the editor.
 
@@ -195,13 +185,6 @@ Step 4\. Export or Share Recordings
 Finally, you may save your video with editing to your selected place on your PC, or you can post it to YouTube with a simple click on the YouTube menu bar.
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -214,13 +197,6 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 * It is not possible to record the computer screen or webcam.
 * You can't post a captured video to YouTube or Vimeo using it.
 * The Mac version of Fraps Screen Recorder is currently unavailable.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Best Fraps Alternative
 
@@ -237,10 +213,7 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ****Steps to Use Filmora**
@@ -299,6 +272,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ****Steps to Use Filmora**
 
 The complete step-by-step instructions for quickly acclimating to this master toolbox may be found below. To discover more about Filmora, go here.
@@ -309,24 +286,15 @@ To get started with this program, go to the following links, which we've divided
 
 ![the recording screen](https://images.wondershare.com/filmora/guide/recording-02.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2\. Customize the Recording Screen
 
 The next step is to use the completely configurable tools to configure the screen for recording purposes. You may also choose the frame rate and the area of the recording screen to include in your recordings.
 
 ![customize the recording screen](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3\. Recording Start/Stop
 
@@ -341,6 +309,10 @@ Step 4\. Export or Share Recordings
 Finally, you may save your video with editing to your selected place on your PC, or you can post it to YouTube with a simple click on the YouTube menu bar.
 
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -368,5 +340,17 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mjolnir-strikes-back-release-day/"><u>[New] In 2024, Mjölnir Strikes Back! Release Day</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>[New] Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-rankings-decoded-is-pickups-editorivity-leading-android/"><u>[Updated] In 2024, Top Rankings Decoded Is PickUp's Editorivity Leading Android?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tunefabs-top-screen-recorder-picks/"><u>2024 Approved Tunefab's Top Screen Recorder Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevating-ppt-impact-through-high-quality-recordings-for-2024/"><u>Elevating PPT Impact Through High-Quality Recordings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-webcam-recording-with-vlc-streaming-capabilities/"><u>In 2024, Effortless Webcam Recording with VLC Streaming Capabilities</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-lava-yuva-2-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Lava Yuva 2 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-using-chatgpt-for-streamlined-and-successful-online-team-meetings/"><u>The Ultimate Guide to Using ChatGPT for Streamlined and Successful Online Team Meetings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-guide-to-top-9-online-microphone-recorder-choices-for-2024/"><u>Ultimate Guide to Top 9 Online Microphone Recorder Choices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/urgent-improvements-for-enriching-chatgpt-plugin-experience/"><u>Urgent Improvements for Enriching ChatGPT Plugin Experience</u></a></li>
+</ul></div>
 

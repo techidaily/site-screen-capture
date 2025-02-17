@@ -1,7 +1,7 @@
 ---
 title: Stop Dirt 5 From Crashing on Your Computer - Effective Fixes and Tweaks
-date: 2025-02-04T22:11:27.633Z
-updated: 2025-02-07T17:04:29.947Z
+date: 2025-02-11T01:40:11.195Z
+updated: 2025-02-17T03:02:11.875Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 ## Halo ([Solved] Crashing on Computer - Top Fixes and Tips
 
 Games crashes are not something uncommon. And you might encounter the same issue while playing the popular Halo 3\. That’s pretty frustrating, right? Don’t worry, you can try these simple fixes in this article to rule out the causes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,10 +44,6 @@ _Halo 3 Minimum System Requirements_
 
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
@@ -67,17 +59,25 @@ _Halo 3 Minimum System Requirements_
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) You can stop all the apps from running in the background with just one click by switching**Let apps run in the background** to**Off** . But before you do this, make sure you’ve saved the files you’re currently editing.  
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  OR  
   
@@ -91,7 +91,7 @@ _Halo 3 Minimum System Requirements_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
@@ -124,10 +124,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -158,23 +154,31 @@ To do so:
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Restart your computer and it’ll be in a clean boot environment.
@@ -192,6 +196,10 @@ To do so:
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
@@ -220,18 +228,10 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
@@ -264,14 +264,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-storing-itunes-video-files/"><u>[New] Comprehensive Guide to Storing iTunes Video Files</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-srt-conversion-made-easy-a-step-by-step-approach/"><u>[New] SRT Conversion Made Easy A Step-by-Step Approach</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-5-android-emulators-for-playstation-2-gaming/"><u>[Updated] In 2024, Top 5 Android Emulators for PlayStation 2 Gaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-dell-desktop-screen-capture-tutorial/"><u>[Updated] Step-by-Step Dell Desktop Screen Capture Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-editing-picarts-techniques-for-background-subtraction/"><u>2024 Approved Precision Editing PicArt's Techniques for Background Subtraction</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/polishing-your-youtube-projects-the-premiere-pro-way/"><u>Polishing Your YouTube Projects The Premiere Pro Way</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/premium-ashley-greene-picture-gallery-for-pc-ultra-definition-hd-walls-and-images-by-yl-digital-artistry/"><u>Premium Ashley Greene Picture Gallery for PC: Ultra Definition HD Walls and Images by YL Digital Artistry</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pro-gamers-fbx-filming-techniques/"><u>Pro Gamers' FBX Filming Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-beats-and-bars-mastering-video-sounds-on-instagram/"><u>[New] 2024 Approved Beats & Bars Mastering Video Sounds on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-prime-concepts-to-transform-vhs-imagery-on-computers/"><u>[New] 2024 Approved Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>[New] In 2024, Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-solving-sync-issues-between-cameras-and-obs/"><u>[Updated] 2024 Approved Solving Sync Issues Between Cameras and OBS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transforming-your-youtube-profile-descriptions/"><u>[Updated] 2024 Approved Transforming Your YouTube Profile Descriptions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-framebyframe-faceoff/"><u>[Updated] In 2024, FrameByFrame Faceoff</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/"><u>[Updated] In 2024, The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unpacking-online-influence-your-channel-versus-competitors-strategies/"><u>[Updated] In 2024, Unpacking Online Influence Your Channel Versus Competitors' Strategies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premium-eco-conscious-video-recorders-how-to-use-for-2024/"><u>[Updated] Premium Eco-Conscious Video Recorders How to Use for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users/"><u>2024 Approved Free, Secure Video Calls Top 10 Safe Apps for Android and iOS Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-facebook-video-content-success/"><u>2024 Approved Unveiling the Secrets of Facebook Video Content Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-and-share-your-screens-bandicam-vs-camtasia/"><u>Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-insight-the-most-efficient-snipping-software-for-windows/"><u>In 2024, Essential Insight The Most Efficient Snipping Software for WINDOWS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-premium-fullscreen-screen-recording-tools/"><u>In 2024, Premium Fullscreen Screen Recording Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-potential-within-chatgpts-token-boundaries/"><u>Maximizing Potential Within ChatGPT's Token Boundaries</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smooth-transition-from-records-to-digital-the-at-lp120xusb-experience/"><u>Smooth Transition From Records to Digital - The AT-LP120XUSB Experience</u></a></li>
 </ul></div>
 

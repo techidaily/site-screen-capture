@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2025-01-20T20:47:39.901Z
-updated: 2025-01-25T18:03:17.438Z
+date: 2025-02-15T07:02:59.076Z
+updated: 2025-02-16T17:20:00.776Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rogue: Where it all started
@@ -55,6 +55,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
@@ -66,10 +70,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -88,10 +88,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 **You might also like:** [Top 10 Roguelike or Roguelite Games](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelike Games
 
@@ -112,7 +108,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -127,21 +123,25 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
@@ -164,21 +164,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-beginners-guide-to-sony-vegas-and-youtube-cutting-for-2024/"><u>[New] A Beginner's Guide to Sony Vegas and YouTube Cutting for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-improve-iphone-filmingphotography-premium-accessory-guide-for-2024/"><u>[New] Improve iPhone Filming/Photography Premium Accessory Guide for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ultimate-microphone-choices-for-filmmakers/"><u>[Updated] 2024 Approved Ultimate Microphone Choices for Filmmakers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-visionaries-inventing-new-marvel-worlds/"><u>[Updated] 2024 Approved Visionaries Inventing New Marvel Worlds</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ideal-screencasting-software-for-effective-teaching/"><u>2024 Approved Ideal Screencasting Software for Effective Teaching</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capturing-facetime-best-practices-unveiled/"><u>Capturing FaceTime Best Practices Unveiled</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/critical-selection-of-1-5-best-snippers-for-windows-for-2024/"><u>Critical Selection of #1-5 Best Snippers for WINDOWS for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/finding-your-ideal-video-capture-solution-bandicam-vs-camtasia/"><u>Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a58-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A58 4G Devices | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-to-record-video-with-logitech-webcam/"><u>How to Record Video with Logitech Webcam</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-presence-how-to-effortlessly-eliminate-borders/"><u>In 2024, Enhancing Presence How to Effortlessly Eliminate Borders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-nighttime-photography-success-tips-and-tricks/"><u>In 2024, Nighttime Photography Success Tips & Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-web-based-video-editing-platforms-for-vertical-content-creators-for-2024/"><u>New Web-Based Video Editing Platforms for Vertical Content Creators for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/onedrive-dateivorschlage-verstandnis-der-unterschiede-zwischen-loschung-und-papierkorb-in-microsoft-clouds/"><u>OneDrive Dateivorschläge: Verständnis Der Unterschiede Zwischen Löschung Und Papierkorb in Microsoft Clouds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-steam-connection-to-your-windows-system/"><u>Restoring Steam Connection to Your Window's System</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-stopping-windows-11-security-guard/"><u>Tutorial: Stopping Windows 11 Security Guard</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-xsplit-library-downloads-and-critical-perspectives/"><u>[New] 2024 Approved XSplit Library Downloads and Critical Perspectives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>[Updated] The Ultimate Ranking Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-video-capture-master-pro-x/"><u>[Updated] Video Capture Master Pro X</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-hitpaw-screen-recorder-review-and-alternative/"><u>2024 Approved HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-videopie-interpretation-platform/"><u>2024 Approved VideoPie Interpretation Platform</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capturing-consciousness-proven-techniques-for-documenting-virtual-play-for-2024/"><u>Capturing Consciousness Proven Techniques for Documenting Virtual Play for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>In 2024, Top Audio Interfaces Unveiled The Podcaster's Must-Have List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

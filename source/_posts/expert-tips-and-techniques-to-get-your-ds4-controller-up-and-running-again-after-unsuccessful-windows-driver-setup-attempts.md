@@ -1,7 +1,7 @@
 ---
 title: Expert Tips and Techniques to Get Your DS4 Controller Up & Running Again After Unsuccessful Windows Driver Setup Attempts
-date: 2025-02-02T20:31:47.472Z
-updated: 2025-02-07T18:30:11.694Z
+date: 2025-02-10T10:56:01.605Z
+updated: 2025-02-16T17:12:27.109Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 
 **[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47)**  is finally out! Players can’t wait to add it to their game list. But the issue you might be encountering is, the download on Steam is stuck at 57.4 GB or the download speed is super slow. In this article, we’ll guide you how to fix it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -32,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -41,16 +41,24 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/DLC-uncheck-install.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, you should be able to fix the game stuck at 57.4/64 GB issue. If this didn’t work for you, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Change Steam download server
 
@@ -91,17 +99,9 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
   
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once done, your game’s unpacking speed should be boosted.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update network adapter driver
 
@@ -140,6 +140,10 @@ Here’s how it works:
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab and you’ll find the**CLEAR DOWNLOAD CACHE** button at the bottom. Simply click on it.  
   
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
@@ -147,10 +151,6 @@ Here’s how it works:
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
   
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,7 +167,7 @@ Here’s how it works:
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you should be able to download your game at a faster speed.
@@ -191,24 +191,19 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-10-best-online-learning-sites-like-udemy-for-2024/"><u>[New] 10 Best Online Learning Sites Like Udemy for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-through-ioss-recording-software-landscape/"><u>[New] 2024 Approved Navigating Through iOS's Recording Software Landscape</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-paws-and-play-androids-animal-simulator-choices/"><u>[New] 2024 Approved Paws and Play Android’s Animal Simulator Choices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-full-screen-recorder-reviews-pcmac-edition/"><u>[New] Essential Full-Screen Recorder Reviews PC/Mac Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-gaming-advanced-techniques-for-recording-minecraft/"><u>[New] In 2024, Elevate Your Gaming Advanced Techniques for Recording Minecraft</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-premier-gaming-liquids-best-of-breed-lists-for-2024/"><u>[New] Premier Gaming Liquids Best of Breed Lists for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-closing-videos-effectively-for-2024/"><u>[New] The Ultimate Guide to Closing Videos Effectively for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-live-techniques-lowering-volume-gradually/"><u>[Updated] 2024 Approved Live Techniques Lowering Volume Gradually</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pioneering-water-dynamics-video-games-roundup/"><u>[Updated] Pioneering Water Dynamics Video Games Roundup</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-100-working-method-for-adding-link-to-tiktok-bio/"><u>2024 Approved 100% Working Method for Adding Link to TikTok Bio</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-itel-a70-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Itel A70 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-nikon-d7500-performance/"><u>Comprehensive Guide to Nikon D7500 Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-high-cpu-usage-by-vanguards-sleep-service/"><u>Diagnosing High CPU Usage by Vanguard's Sleep Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-your-ideal-windows-11-drawing-software-choices/"><u>Discover Your Ideal Windows 11 Drawing Software Choices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gsl-mastered-pearson-and-mondly-uniting-forces/"><u>GSL Mastered - Pearson and Mondly Uniting Forces</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-150-2023-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 150 (2023) To Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/perfect-play-5-outstanding-gba-console-emulators-on-desktop-pcs-for-2024/"><u>Perfect Play 5 Outstanding GBA Console Emulators on Desktop PCs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivation-process-phone-link-non-functional-windows-notifications/"><u>Reactivation Process: Phone Link' Non-Functional Windows Notifications</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/terrarias-richest-realms-5-best-gold-hunt-spots-for-2024/"><u>Terraria's Richest Realms 5 Best Gold Hunt Spots for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-for-saving-and-archiving-periscope-footage/"><u>[New] Expert Advice for Saving and Archiving Periscope Footage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-compreehensive-look-at-itunes-video-capture/"><u>[New] In 2024, A Compreehensive Look at iTunes Video Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cut-down-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile/"><u>[Updated] 2024 Approved Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/"><u>[Updated] 2024 Approved Mastering the Art of Virtual Board Usage in Web Conferences Android, Apple & PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-ways-to-screen-record-on-android/"><u>[Updated] In 2024, Best Ways to Screen Record on Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-framework-for-captivating-streams-on-youtube/"><u>[Updated] In 2024, The Ultimate Framework for Captivating Streams on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screen-capture-showdown-is-obs-superior-to-twitch-studio/"><u>[Updated] Screen Capture Showdown Is OBS Superior to Twitch Studio?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-the-frustration-of-error-code-0x800f0831-leveraging-windows-update-for-quick-repairs/"><u>Avoiding the Frustration of Error Code 0X800f0831: Leveraging Windows Update for Quick Repairs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>Digital Deviation Expert Strategies to Rotate Videos on YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-epson-workforce-ds30-printer-driver-on-windows-11/"><u>Download Epson WorkForce DS30 Printer Driver on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/hit-parade-the-top-10-songs-on-spotify-for-2024/"><u>Hit Parade The Top 10 Songs on Spotify for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-elite-choices-in-total-sweep-cinematography/"><u>In 2024, Elite Choices in Total Sweep Cinematography</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-blaze-2-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Blaze 2 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 8 Plus | Dr.fone</u></a></li>
 </ul></div>
 

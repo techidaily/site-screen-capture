@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Ensure Proper Functionality of Nvidia's Shadowplay on Windows Computers
-date: 2025-02-02T21:17:06.754Z
-updated: 2025-02-07T18:08:41.417Z
+date: 2025-02-16T04:40:10.429Z
+updated: 2025-02-17T02:27:16.384Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 **SnowRunner keeps crashing on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 4. **[Enable VSync](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Verify integrity of game files
 
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
@@ -55,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. click on the **three dots** under the **SnowRunner** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  Launch the game and see if this fix works. If the game still crashes, just try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Close CPU / memory hogging applications
 
  Another common cause of SnowRunner crashes is insufficient memory. If there’re lots of applications running in the background at the same time, your computer may run out of RAM and the game may crash.
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If SnowRunner works well after you closed those CPU / memory hogging applications, congratulations!
@@ -134,25 +134,25 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -188,24 +188,22 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-guiding-principles-for-modifying-photographic-identities-on-major-social-platforms/"><u>[New] 2024 Approved Guiding Principles for Modifying Photographic Identities on Major Social Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-leading-15-android-virtual-machines-for-your-devices/"><u>[New] 2024 Approved The Leading 15 Android Virtual Machines for Your Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-straightforward-video-recorders-for-win10/"><u>[Updated] 2024 Approved Straightforward Video Recorders for Win10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unbeatable-screen-grabbers-for-modern-windows-pcs/"><u>[Updated] 2024 Approved Unbeatable Screen Grabbers for Modern Windows PCs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capturing-champions-faceoff/"><u>[Updated] Capturing Champions Faceoff</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-beyondbasics-the-futurepost-mycam-cameras/"><u>[Updated] In 2024, BeyondBasics The FuturePost-MyCam Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-start-zooming-into-success-with-win11/"><u>[Updated] Quick Start Zooming Into Success with Win11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quieting-mute-voices-on-obs-platforms-for-2024/"><u>[Updated] Quieting Mute Voices on OBS Platforms for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-realms-of-play-top-10-costless-online-roleplayers-for-2024/"><u>[Updated] Realms of Play Top 10 Costless Online Roleplayers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-activating-hardware-encoding-with-handbrake/"><u>Comprehensive Guide: Activating Hardware Encoding with HandBrake</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-dll-file-not-found-a-step-by-step-troubleshooting-guide/"><u>Fixing 'DLL File Not Found': A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-paid-to-free-embracing-the-world-of-fcp-for-2024/"><u>From Paid to Free Embracing the World of FCP for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Smart 7 HD.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adepts-compendium-of-fullscreen-insights-in-premiere-pro/"><u>In 2024, Adept's Compendium of Fullscreen Insights in Premiere Pro</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-methods-for-recording-youtube-live-streaming/"><u>In 2024, Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-troubleshooting-solving-crashes-in-guilty-gear-strive/"><u>PC Troubleshooting: Solving Crashes in Guilty Gear Strive</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/rhythm-research-capture-and-review-music-files/"><u>Rhythm Research Capture & Review Music Files</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/troubleshooting-steps-to-overcome-directx-glitches-in-cod-mw2/"><u>Troubleshooting Steps to Overcome DirectX Glitches in CoD MW2</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-fcp-x-pro-tutorials-creating-realistic-green-screen-effects/"><u>Updated FCP X Pro Tutorials Creating Realistic Green Screen Effects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-luminous-language-the-secret-of-dynamic-story-titles/"><u>[New] 2024 Approved Luminous Language The Secret of Dynamic Story Titles</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhancing-visuals-on-tiktok-the-digit-editing-guide/"><u>[New] Enhancing Visuals on TikTok The Digit Editing Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-seamless-mac-screen-record-with-audio-device/"><u>[New] In 2024, Seamless Mac Screen Record with Audio Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series-for-2024/"><u>[Updated] Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-noise-free-videography-utilizing-free-tools-or-purchasing/"><u>[Updated] In 2024, Noise-Free Videography Utilizing Free Tools or Purchasing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pro-level-pc-webcam-recorders-tested-in-windows-11/"><u>[Updated] Pro-Level PC Webcam Recorders Tested in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-closer-examination-the-finest-mac-recording-software-for-2024/"><u>A Closer Examination The Finest Mac Recording Software for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oppo-by-drfone-android/"><u>Full Guide to Unlock Your Oppo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-a-perfect-playtime-how-to-take-great-xbox-one-shots/"><u>In 2024, A Perfect Playtime How to Take Great Xbox One Shots</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x-fold-2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X Fold 2FRP Lock</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-5-premium-hd-webcams-featuring-sound/"><u>In 2024, Top 5 Premium HD Webcams Featuring Sound</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>Melody of Affection Greatest Love Songs to Sweeten a Proposal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nier-automata-for-pc-how-to-prevent-game-stalls-and-crashing-episodes/"><u>Nier Automata for PC - How to Prevent Game Stalls & Crashing Episodes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005946279-quick-fix-guide-for-uninterrupted-gaming-eliminating-control-malfunctions/"><u>Quick-Fix Guide for Uninterrupted Gaming - Eliminating Control Malfunctions!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/supercharge-your-farming-fun-in-stardew-valley-top-7-upgrades-for-2024/"><u>Supercharge Your Farming Fun in Stardew Valley (Top 7 Upgrades) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-basics-of-biometrics-what-you-need-to-know/"><u>The Basics of Biometrics: What You Need to Know</u></a></li>
 </ul></div>
 

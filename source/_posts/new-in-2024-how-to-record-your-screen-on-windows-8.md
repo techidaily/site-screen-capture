@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How To Record Your Screen On Windows 8"
-date: 2025-01-31T17:25:13.296Z
-updated: 2025-02-07T16:07:25.128Z
+date: 2025-02-14T05:26:29.163Z
+updated: 2025-02-17T01:51:33.750Z
 tags: 
   - screen-recording
   - ai video
@@ -42,19 +42,27 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
 
- **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
 ## Part 2: How to Record Screen with Steps Recorder on Windows 8
 
@@ -68,6 +76,10 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Use Free Chrome Extension
 
 [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
@@ -78,10 +90,6 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Steps to download and use it to record computer screen:
 
  **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
@@ -91,10 +99,6 @@ Steps to download and use it to record computer screen:
  **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
 
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Use Free Recording Software
 
@@ -110,10 +114,6 @@ Here's the stpes:
 
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
@@ -125,7 +125,7 @@ These are just a few extensions and software that can be used to record computer
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -143,24 +143,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-globalviewers-access-unlimited-local-tv-for-life/"><u>[New] 2024 Approved GlobalViewers Access Unlimited Local TV for Life</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-from-dungeons-to-depths-evolving-gameplay-styles/"><u>[New] From Dungeons to Depths Evolving Gameplay Styles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-innovative-tools-for-high-definition-gaming-logging-beyond-fbx/"><u>[New] Innovative Tools for High-Definition Gaming Logging Beyond FBX</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-perfecting-skype-calls-dial-down-distractions-for-2024/"><u>[New] Perfecting Skype Calls Dial Down Distractions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-tycoon-titanics-unveil-the-best-12-for-your-ultimate-business-triumph-for-2024/"><u>[New] Tycoon Titanics Unveil the Best 12 for Your Ultimate Business Triumph for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-vlcs-full-potential-an-overview/"><u>[New] Unlocking VLC's Full Potential An Overview</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unpacking-manycams-revolutionary-recording-features-for-2024/"><u>[New] Unpacking ManyCam's Revolutionary Recording Features for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-no-fuss-guides-for-documenting-video-calls/"><u>[Updated] 2024 Approved No-Fuss Guides for Documenting Video Calls</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-pro-tips-for-rapidly-creating-effective-subtitles-on-fb-for-2024/"><u>[Updated] Pro Tips for Rapidly Creating Effective Subtitles on FB for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-quick-gain-techniques-to-expand-your-channels-audience/"><u>[Updated] Quick-Gain Techniques to Expand Your Channel's Audience</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-k11x-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo K11x Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-snapchat-expressions-your-complete-emoji-cheat-sheet/"><u>Deciphering Snapchat Expressions: Your Complete Emoji Cheat Sheet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-tcl-nxtpaper-11-your-inexpensive-colorful-ebook-reader-option/"><u>Discover the TCL NXTPAPER 11 - Your Inexpensive, Colorful Ebook Reader Option</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-utilize-your-logitee-keyboard-for-quick-and-effective-screen-captures-a-complete-how-to/"><u>How to Utilize Your Logitee Keyboard for Quick and Effective Screen Captures: A Complete How-To.</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-an-insiders-look-at-toolwizs-photo-editing-features/"><u>In 2024, An Insider’s Look at Toolwiz's Photo Editing Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/no-cost-asrock-ab350-pro4-window-updates-ready-grab-the-latest-drivers-here/"><u>No Cost ASRock AB350 Pro4 Window Updates Ready! Grab the Latest Drivers Here</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/step-by-step-guide-to-navigating-io-screener-for-2024/"><u>Step-by-Step Guide to Navigating IO Screener for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-craft-of-loom-seamless-screen-recording-guide-for-2024/"><u>The Craft of Loom Seamless Screen Recording Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-quick-fixes-addressing-top-youtube-short-challenges/"><u>[New] In 2024, Quick Fixes Addressing Top YouTube Short Challenges</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-using-zooms-snap-to-boost-video-conferences/"><u>[New] In 2024, Using Zoom’s Snap to Boost Video Conferences</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-error-code-following-device-suspend-w7/"><u>[Solved] Printer Error Code Following Device Suspend, W7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-voice-transformers-top-7-android-audio-apps/"><u>[Updated] In 2024, Best Voice Transformers Top 7 Android Audio Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capture-the-essence-of-xiaomis-latest-smartphones/"><u>[Updated] In 2024, Capture the Essence of Xiaomi's Latest Smartphones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-no-cost-online-sensual-playgrounds/"><u>[Updated] In 2024, No-Cost Online Sensual Playgrounds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[Updated] In 2024, Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-immersive-iphone-vr-viewing/"><u>[Updated] In 2024, The Ultimate Tutorial for Immersive iPhone VR Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-8-youtube-channels-with-rapid-expansion/"><u>[Updated] Leading 8 YouTube Channels with Rapid Expansion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-guide-to-switch-game-recording/"><u>[Updated] Step-by-Step Guide to Switch Game Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamlining-lenovo-capture-features-for-2024/"><u>[Updated] Streamlining Lenovo Capture Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>[Updated] The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-critique-the-ultimate-review-for-bublcam-360-camera/"><u>Complete Critique The Ultimate Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/crime-quest-clones-video-game-list-like-gta-v/"><u>Crime Quest Clones Video Game List Like GTA V</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-the-full-star-wars-timeline-a-step-by-step-disneypluss-guide/"><u>How To Enjoy The Full 'Star Wars' Timeline: A Step-by-Step Disney+'s Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-10-top-editing-apps-at-no-cost-online/"><u>In 2024, 10 Top Editing Apps at No Cost Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
 </ul></div>
 

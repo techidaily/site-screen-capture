@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How To Record Your Screen On Windows 8\""
-date: 2025-02-06T20:52:57.617Z
-updated: 2025-02-07T22:13:12.898Z
+date: 2025-02-11T18:02:41.888Z
+updated: 2025-02-17T06:38:53.091Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,6 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
@@ -54,10 +50,14 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Record Screen with Steps Recorder on Windows 8
@@ -70,11 +70,11 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 ![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
 
-**Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
 ## Part 3: Use Free Chrome Extension
 
@@ -86,10 +86,6 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Steps to download and use it to record computer screen:
 
  **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
@@ -99,6 +95,10 @@ Steps to download and use it to record computer screen:
  **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
 
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Use Free Recording Software
 
@@ -125,7 +125,7 @@ These are just a few extensions and software that can be used to record computer
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -143,17 +143,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snapchats-filter-frenzy-a-comprehensive-handbook/"><u>[New] 2024 Approved Mastering Snapchat's Filter Frenzy A Comprehensive Handbook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-5-best-terraria-map-viewers-to-find-treasure/"><u>[New] 2024 Approved Top 5 Best Terraria Map Viewers to Find Treasure</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-prime-cardboard-compatible-vr-adventures/"><u>[New] Explore Prime Cardboard-Compatible VR Adventures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unveiling-new-ways-to-record-presentations-for-2024/"><u>[New] Unveiling New Ways to Record Presentations for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-adapting-your-tech-skills-for-facetime-call-logging/"><u>[Updated] 2024 Approved Adapting Your Tech Skills for FaceTime Call Logging</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-dive-into-iphones-audio-memos-made-simple/"><u>[Updated] In 2024, Dive Into iPhone's Audio Memos Made Simple</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-innovative-methods-for-high-definition-vr-gameplay-recordings/"><u>[Updated] Innovative Methods for High-Definition VR Gameplay Recordings</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012239627-discover-how-disco-elysium-plays-smoothly-on-your-pc-common-issues-solved/"><u>Discover How 'Disco Elysium' Plays Smoothly on Your PC – Common Issues Solved!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/easy-methods-for-downloading-vimeo-clips-for-2024/"><u>Easy Methods for Downloading Vimeo Clips for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1x-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1x 5G Phone without PIN</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-downloading-videos-from-youtube-using-a-link/"><u>Step-by-Step Guide: Downloading Videos From YouTube Using a Link</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-define-new-destination-for-mac-screenshots/"><u>[New] In 2024, Define New Destination for Mac Screenshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-steps-for-effective-ipad-screen-casts/"><u>[New] Steps for Effective iPad Screen Casts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-10-online-collaboration-tools-ensuring-privacy-for-2024/"><u>[Updated] Essential 10 Online Collaboration Tools Ensuring Privacy for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-powerful-partnerships-a-guide-to-choosing-youtube-allies/"><u>[Updated] In 2024, Crafting Powerful Partnerships A Guide to Choosing YouTube Allies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cutting-edge-5-online-video-capture-applications/"><u>[Updated] In 2024, Cutting-Edge 5 Online Video Capture Applications</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-elite-playlist-compiler-android-edition/"><u>[Updated] In 2024, Elite Playlist Compiler Android Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premium-pcandroid-mkv-player/"><u>[Updated] In 2024, Premium PC/Android MKV Player</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>2024 Approved Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/arcshell-ar-5-review-solid-performance-at-a-bargain-price/"><u>Arcshell AR-5 Review: Solid Performance at a Bargain Price</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/feed-flourish-elevating-engagement-from-ordinary-posts-for-2024/"><u>Feed Flourish Elevating Engagement From Ordinary Posts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-cod-modern-warfare-persistent-crashing-issues/"><u>How To Fix Cod: Modern Warfare Persistent Crashing Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-your-home-internet-with-asus-zenwifi-xt8-ax6600-expert-review-and-insights/"><u>Mastering Your Home Internet with ASUS ZenWiFi XT8 AX6600 - Expert Review & Insights</u></a></li>
 </ul></div>
 

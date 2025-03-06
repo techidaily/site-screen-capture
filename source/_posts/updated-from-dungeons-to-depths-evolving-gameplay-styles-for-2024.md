@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Dungeons to Depths  Evolving Gameplay Styles for 2024\""
-date: 2025-02-13T02:36:01.460Z
-updated: 2025-02-17T02:46:17.594Z
+date: 2025-02-27T01:31:38.690Z
+updated: 2025-03-06T01:15:01.687Z
 tags: 
   - screen-recording
   - ai video
@@ -45,29 +45,17 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -92,10 +80,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 **You might also like:** [Top 10 Roguelike or Roguelite Games](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelike Games
 
@@ -139,10 +123,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -164,19 +144,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-breaking-down-barriers-combining-obs-with-zoom/"><u>[New] In 2024, Breaking Down Barriers Combining OBS with Zoom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-no-limit-video-recorders-the-best-12-picks/"><u>[New] In 2024, No Limit Video Recorders - The Best 12 Picks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-game-recording-steam-edition-techniques/"><u>[Updated] 2024 Approved Mastering Game Recording Steam Edition Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vsdc-insight-an-in-depth-look-at-its-features-and-rivals/"><u>[Updated] 2024 Approved VSDC Insight An In-Depth Look at Its Features and Rivals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mycamadventure-discovering-new-camera-worlds/"><u>2024 Approved MyCamAdventure Discovering New Camera Worlds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-7th-gen-ipods-role-in-music-devices/"><u>Analyzing the 7Th Gen iPod's Role in Music Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-overwatch-2s-startup-problems-in-202n-top-7-solutions-you-need-to-try/"><u>Fix Overwatch 2'S Startup Problems in 202N - Top 7 Solutions You Need to Try!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-k70-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi K70 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-se-2022-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone SE (2022)? 5 Tips You Must Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-amds-rdna-3-written-in-technology-and-launch-dates/"><u>Navigating Through AMD's RDNA 3 Written in Technology and Launch Dates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reactivating-your-airpods-when-resetting-fails/"><u>Step-by-Step Guide: Reactivating Your AirPods When Resetting Fails</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-complete-2023-bandicam-insight-and-tips/"><u>The Complete 2023 Bandicam Insight & Tips</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tutorial-perbaiki-untuk-hapus-atau-kembali-windows-re-umum/"><u>Tutorial Perbaiki Untuk Hapus Atau Kembali Windows RE Umum</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/unlocking-your-dvd-player-techniques-to-alter-region-settings-easily/"><u>Unlocking Your DVD Player: Techniques to Alter Region Settings Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-redirect-saved-image-to-custom-folder-on-mac/"><u>[New] 2024 Approved Redirect Saved Image to Custom Folder on Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc-for-2024/"><u>[New] Expert Tips on Angling Videos Unlocking Full Potential with VLC for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-play-your-srt-files-easily-winmac-tips/"><u>[New] Play Your SRT Files Easily Win/Mac Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-playstation-plaza-your-gateway-to-a-thousand-channels/"><u>[New] PlayStation Plaza Your Gateway to a Thousand Channels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>[Updated] 2024 Approved Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-side-by-side-display-logging/"><u>[Updated] 2024 Approved Side-by-Side Display Logging</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-explore-the-best-no-cost-video-meeting-apps-iosandroid-for-2024/"><u>[Updated] Explore the Best No-Cost Video Meeting Apps - iOS/Android for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-add-music-to-facebook-videos-for-2024/"><u>[Updated] How to Add Music to Facebook Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-securely-capture-web-series-every-time-you-watch-for-2024/"><u>[Updated] How to Securely Capture Web Series Every Time You Watch for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-optimizing-color-depth-and-gradients-for-obs-for-2024/"><u>[Updated] Optimizing Color Depth and Gradients for OBS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellent-choice-7-premium-videos-on-mac/"><u>Excellent Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-10-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-electorate-engagement-enigma-top-simulator-series/"><u>In 2024, Electorate Engagement Enigma Top Simulator Series</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-content-the-key-to-engaging-yt-shorts/"><u>In 2024, Mastering Content The Key to Engaging YT Shorts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/making-the-most-of-siri-voice-interactions-for-tiktok-content-for-2024/"><u>Making the Most of Siri Voice Interactions for TikTok Content for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-strategies-leveraging-chatgpt-for-career-hunting/"><u>Top 6 Strategies: Leveraging ChatGPT for Career Hunting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Dirt 5 From Crashing on Your Computer - Effective Fixes and Tweaks
-date: 2025-02-11T01:40:11.195Z
-updated: 2025-02-17T03:02:11.875Z
+date: 2025-02-26T23:52:25.765Z
+updated: 2025-03-05T20:50:52.150Z
 tags:
   - win11
   - win10
@@ -58,26 +58,14 @@ _Halo 3 Minimum System Requirements_
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) You can stop all the apps from running in the background with just one click by switching**Let apps run in the background** to**Off** . But before you do this, make sure you’ve saved the files you’re currently editing.  
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  OR  
   
@@ -89,10 +77,6 @@ _Halo 3 Minimum System Requirements_
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -153,33 +137,17 @@ To do so:
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Restart your computer and it’ll be in a clean boot environment.
 
@@ -196,10 +164,6 @@ To do so:
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
@@ -264,21 +228,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-beats-and-bars-mastering-video-sounds-on-instagram/"><u>[New] 2024 Approved Beats & Bars Mastering Video Sounds on Instagram</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-prime-concepts-to-transform-vhs-imagery-on-computers/"><u>[New] 2024 Approved Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>[New] In 2024, Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-solving-sync-issues-between-cameras-and-obs/"><u>[Updated] 2024 Approved Solving Sync Issues Between Cameras and OBS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transforming-your-youtube-profile-descriptions/"><u>[Updated] 2024 Approved Transforming Your YouTube Profile Descriptions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-framebyframe-faceoff/"><u>[Updated] In 2024, FrameByFrame Faceoff</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/"><u>[Updated] In 2024, The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unpacking-online-influence-your-channel-versus-competitors-strategies/"><u>[Updated] In 2024, Unpacking Online Influence Your Channel Versus Competitors' Strategies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premium-eco-conscious-video-recorders-how-to-use-for-2024/"><u>[Updated] Premium Eco-Conscious Video Recorders How to Use for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users/"><u>2024 Approved Free, Secure Video Calls Top 10 Safe Apps for Android and iOS Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-facebook-video-content-success/"><u>2024 Approved Unveiling the Secrets of Facebook Video Content Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-and-share-your-screens-bandicam-vs-camtasia/"><u>Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-insight-the-most-efficient-snipping-software-for-windows/"><u>In 2024, Essential Insight The Most Efficient Snipping Software for WINDOWS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-premium-fullscreen-screen-recording-tools/"><u>In 2024, Premium Fullscreen Screen Recording Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-potential-within-chatgpts-token-boundaries/"><u>Maximizing Potential Within ChatGPT's Token Boundaries</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/smooth-transition-from-records-to-digital-the-at-lp120xusb-experience/"><u>Smooth Transition From Records to Digital - The AT-LP120XUSB Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-checklist-for-capturing-live-conversations/"><u>[New] 2024 Approved The Ultimate Checklist for Capturing Live Conversations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-explore-top-ios-emulators-for-playing-psp-games/"><u>[New] Explore Top iOS Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastery-in-monitoring-adding-time-based-events-to-obs-for-2024/"><u>[New] Mastery in Monitoring Adding Time-Based Events to OBS for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-techniques-screen-recording-in-google-meet/"><u>[Updated] 2024 Approved Efficient Techniques Screen Recording in Google Meet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-filmmakers-essential-guide-to-free-royalty-free-audiosites/"><u>[Updated] A Filmmaker's Essential Guide to Free Royalty-Free Audiosites</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-direct-technique-swap-film-direction-in-media-player-for-2024/"><u>[Updated] Direct Technique Swap Film Direction in Media Player for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-immaculate-visual-logging-systems/"><u>[Updated] Immaculate Visual Logging Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-crafting-professional-focus-mastering-teamblend-background-artistry/"><u>[Updated] In 2024, Crafting Professional Focus Mastering Teamblend Background Artistry</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-your-keys-easily-with-these-exceptional-trackers-of-2024/"><u>Find Your Keys Easily with These Exceptional Trackers of 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/fresh-camera-lens-captured-analysis-with-backup-titles/"><u>Fresh Camera Lens Captured Analysis with Backup Titles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-x7b-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor X7b Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-g24-power-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola G24 Power Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-gameplay-journey-top-10-adventures-in-gaming/"><u>In 2024, The Ultimate Gameplay Journey Top 10 Adventures in Gaming</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/is-your-pcs-frequent-freezing-due-to-a-faulty-processor-insights-from-yl-computing/"><u>Is Your PC's Frequent Freezing Due to a Faulty Processor? Insights From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-day-best-to-do-lists-on-pc/"><u>Streamlining Your Day: Best To-Do Lists on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-best-cooking-show-selections-available-on-netflix/"><u>Ultimate List: Best Cooking Show Selections Available on Netflix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wie-man-die-winxvideo-kunstliche-intelligenz-auf-android-and-ios-geraten-aktiviert/"><u>Wie Man Die Winxvideo Künstliche Intelligenz Auf Android & iOS Geräten Aktiviert</u></a></li>
 </ul></div>
 

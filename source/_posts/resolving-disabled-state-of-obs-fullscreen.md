@@ -1,7 +1,7 @@
 ---
 title: "Resolving Disabled State of OBS Fullscreen"
-date: 2025-01-24T22:56:25.648Z
-updated: 2025-01-26T03:32:00.547Z
+date: 2025-02-26T21:06:09.010Z
+updated: 2025-03-06T00:40:49.575Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ Step 4: Change CPU Usage Present from Veryfast to Ultrafast so that OBS uses les
 
 ![obs change cpu usage](https://images.wondershare.com/filmora/article-images/obs-change-cpu-usage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Click on Apply and Ok button.
 
 ## Way 2\. Shut Down The Game Bar Recording
@@ -69,19 +65,11 @@ Step 3: On Task manager, find OBS Studio under Apps. Right-click on it and selec
 
 ![windows task manager properties](https://images.wondershare.com/filmora/article-images/windows-task-manager-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: From Properties, copy the file location. Open File Explorer and go to the copied location by pasting on Address Bar.
 
 Step 5: Find OBS Studio Application file and right-click on it and select Properties.
 
 ![found obs studio application file](https://images.wondershare.com/filmora/article-images/found-obs-studio-application-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
@@ -90,10 +78,6 @@ Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility
 Step 7: Click on Apply and OK button.
 
 Relaunch OBS Studio and check if the problem is solved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 4\. Turn Your Gameplay to Windowed Mode
 
@@ -145,10 +129,6 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -189,10 +169,6 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -200,10 +176,6 @@ Step 2: Select the recording screen size as full screen.
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,17 +189,9 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
@@ -261,22 +225,24 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-youtube-craft-your-ultimate-music-collection/"><u>[New] In 2024, Mastering YouTube Craft Your Ultimate Music Collection</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-reach-strategies-from-seasoned-tubebuddy-experts/"><u>[New] In 2024, Maximizing Reach Strategies From Seasoned TubeBuddy Experts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-visual-detail-with-kinemasters-zooming-features/"><u>[New] Optimizing Visual Detail with Kinemaster’s Zooming Features</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-apeaksoft-screen-recorder-review-for-2024/"><u>[Updated] Apeaksoft Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-spectrum-of-sharing-navigating-video-distribution-on-fb/"><u>[Updated] In 2024, The Spectrum of Sharing Navigating Video Distribution on FB</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-a-critical-look-at-the-leading-economically-friendly-lut-sources/"><u>2024 Approved A Critical Look at the Leading, Economically Friendly LUT Sources</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-preserve-the-ephemeral-magic-of-discords-streaming-world/"><u>2024 Approved How to Preserve the Ephemeral Magic of Discord's Streaming World</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-mastery-5-edits-that-will-elevate-your-work/"><u>2024 Approved OBS Mastery 5 Edits That Will Elevate Your Work</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-sharex-review-and-best-alternatives/"><u>2024 Approved ShareX Review and Best Alternatives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/assessing-the-dominance-of-splitcam-recording-for-2024/"><u>Assessing the Dominance of SplitCam Recording for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/best-5-for-high-speed-video-capture-tech-for-2024/"><u>Best 5 for High-Speed Video Capture Tech for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/best-8-high-performance-screenshots/"><u>Best 8 High-Performance Screenshots</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/celebrate-earth-day-with-vibrant-hd-wallpapers-create-an-eco-friendly-digital-experience-by-yl-software/"><u>Celebrate Earth Day with Vibrant HD Wallpapers - Create an Eco-Friendly Digital Experience by YL Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/convenient-techniques-for-saving-youtube-videos-for-2024/"><u>Convenient Techniques for Saving YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/experts-picks-top-11-mac-applications-for-screen-capture/"><u>Expert's Picks Top 11 Mac Applications for Screen Capture</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-10-advanced-gpt-creations-to-supercharge-your-experience-with-chatgpt/"><u>The Ultimate List of 10 Advanced GPT Creations to Supercharge Your Experience with ChatGPT</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>[New] 2024 Approved High-Quality Video Calling Solutions Top 10 Best Apps Ranked</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-use-vlc-for-professional-screen-recording/"><u>[New] 2024 Approved How to Use VLC for Professional Screen Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-the-action-screen-recorder-roundup/"><u>[New] Capturing the Action Screen Recorder Roundup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capture-and-share-your-win10-gaming-life/"><u>[New] In 2024, Capture and Share Your Win10 Gaming Life</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-realtime-replay-recorder-for-2024/"><u>[New] RealTime Replay Recorder for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2-ways-to-loop-a-youtube-video-on-tv-for-2024/"><u>[Updated] 2 Ways to Loop a YouTube Video On TV for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-50-greatest-virtual-scenes-for-online-meetings/"><u>[Updated] 2024 Approved 50 Greatest Virtual Scenes for Online Meetings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-platforms-secure-and-reliable-video-services-for-smes/"><u>[Updated] 2024 Approved Essential Platforms Secure & Reliable Video Services for SMEs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vintage-video-card-patch/"><u>[Updated] 2024 Approved Vintage Video Card Patch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mac-acoustics-for-aspiring-artists/"><u>[Updated] In 2024, Mac Acoustics for Aspiring Artists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-raisingthebarbeyondmycam-cameras-for-2024/"><u>[Updated] RaisingTheBarBeyondMyCam Cameras for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sprinting-into-the-digital-age-picks-on-vr-treadmills/"><u>2024 Approved Sprinting Into the Digital Age Picks on VR Treadmills</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-linking-method-for-youtube-video-content-for-2024/"><u>Facebook Linking Method for YouTube Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-up-close-with-the-enhanced-apple-vision-pro-at-in-store-demos-book-yours-now-with-expert-advice-zdnet/"><u>Get Up Close with the Enhanced Apple Vision Pro at In-Store Demos – Book Yours Now with Expert Advice | ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hearthstone-audio-trouble-heres-how-to-get-your-game-echoing-once-more/"><u>Hearthstone Audio Trouble? Here's How to Get Your Game Echoing Once More</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-crafting-compelling-narratives-with-facebook-cover-vids/"><u>In 2024, Crafting Compelling Narratives with Facebook Cover Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-your-ultimate-guide-to-mac-audio-capture-via-audacity/"><u>In 2024, Your Ultimate Guide to Mac Audio Capture via Audacity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/intuitive-method-for-adjusting-iphone-screen/"><u>Intuitive Method for Adjusting iPhone Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-formatra-kozvetlen-online-konvertalas-effizientes-ingyenes-hatosag-movavi-video-tool/"><u>MP4 Formátra Közvetlen Önline Konvertálás - Effizientes Ingyenes Hatóság: Movavi Video Tool</u></a></li>
 </ul></div>
 

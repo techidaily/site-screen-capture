@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Screen Sessions with OBS & Skype for 2024"
-date: 2025-02-11T20:56:32.166Z
-updated: 2025-02-17T10:16:45.710Z
+date: 2025-03-02T23:22:12.522Z
+updated: 2025-03-06T04:29:35.629Z
 tags: 
   - screen-recording
   - ai video
@@ -37,23 +37,11 @@ After this you have to open the OBS program and set it up for skype calls, firs 
 
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
 
 ![obc ndi plugin visit](https://images.wondershare.com/filmora/article-images/obc-ndi-plugin-visit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And after addition of plug in you would want to click on ‘+’ again and select NDI plugin and you can select the source video which is going to be the received video.
 
@@ -67,21 +55,9 @@ As you receive the call from the reciever you will see the incoming feed of him 
 
 ![obs receive the call](https://images.wondershare.com/filmora/article-images/obs-receive-the-call.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: OBS Alternative to Record Skype
 
@@ -108,10 +84,6 @@ For macOS 10.12 or later
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
@@ -214,17 +186,9 @@ For macOS 10.12 or later
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * After the configuration, you can click on the big red button to start the recording.
 
@@ -334,16 +298,19 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/uture-fortunes-for-virtual-game-masters/"><u>[New] Future Fortunes for Virtual Game Masters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-virtual-reality-filming-tips-and-tricks-for-gamers/"><u>[New] In 2024, Virtual Reality Filming Tips and Tricks for Gamers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-step-by-step-io-screen-capture-tutorial-for-2024/"><u>[New] Step-by-Step IO Screen Capture Tutorial for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-boost-your-creative-output-mastering-template-centric-video-making-for-tiktok/"><u>[Updated] 2024 Approved Boost Your Creative Output Mastering Template-Centric Video Making for TikTok</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-gameplay-journey-top-10-adventures-in-gaming-for-2024/"><u>[Updated] The Ultimate Gameplay Journey Top 10 Adventures in Gaming for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/10-best-zoom-alternatives/"><u>10 Best Zoom Alternatives</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-story-whats-not-in-public-knowledge/"><u>2024 Approved Instagram Story What's Not in Public Knowledge?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y02t-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y02T</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-the-issue-why-modern-warfare-fails-to-start-on-your-pc/"><u>Resolving the Issue: Why 'Modern Warfare' Fails to Start on Your PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-pc-workaround-for-console-gaming-recordings-for-2024/"><u>The Ultimate PC Workaround for Console Gaming Recordings for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-dslrmirrorless-guide-top-ten-gimbal-choices/"><u>[New] In 2024, DSLR/Mirrorless Guide Top Ten Gimbal Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-strategies-for-quiet-capturing/"><u>[Updated] 2024 Approved Advanced Strategies for Quiet Capturing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-discover-your-new-favorites-with-our-best-offline-ios-games-list/"><u>[Updated] Discover Your New Favorites with Our Best Offline iOS Games List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-budget-computer-mastering-obs-configurations/"><u>2024 Approved Budget Computer - Mastering OBS Configurations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capturing-stories-the-best-cinematographic-techniques/"><u>Capturing Stories The Best Cinematographic Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077s-frame-rate-recovery-after-fixes-increase-gameplay-fluidity/"><u>Cyberpunk 2077'S Frame Rate Recovery After Fixes Increase Gameplay Fluidity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/delving-into-recmeisters-capabilities-for-quality-video-capture-for-2024/"><u>Delving Into Recmeister’s Capabilities for Quality Video Capture for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/empowering-online-presence-with-the-advanced-analytics-of-cookiebot-technology/"><u>Empowering Online Presence with the Advanced Analytics of Cookiebot Technology</u></a></li>
+<li><a href="https://win-forum.techidaily.com/experience-hassle-free-app-uninstallation-with-the-revo-uninstaller-hunter-mode/"><u>Experience Hassle-Free App Uninstallation with the Revo Uninstaller Hunter Mode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-k11-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo K11 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-s17t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo S17t?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/master-class-in-music-production-dj-video-samples-galore/"><u>Master Class in Music Production DJ Video Samples Galore</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-trends-with-toms-hardware-experts/"><u>Navigating New Tech Trends with Tom's Hardware Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unleashing-potential-best-macos-recording-apps-analysis/"><u>Unleashing Potential Best macOS Recording Apps Analysis</u></a></li>
 </ul></div>
 

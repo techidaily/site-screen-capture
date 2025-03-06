@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Secrets to Stunning Nightscape Shots"
-date: 2025-02-10T11:05:16.610Z
-updated: 2025-02-17T09:06:11.088Z
+date: 2025-03-02T06:01:27.514Z
+updated: 2025-03-06T01:57:18.552Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
@@ -68,19 +64,11 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 
 ## Part 2: Don't-Dos in Night Portraits
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Don't do a capture shoot
 
@@ -100,17 +88,9 @@ Speaking about white balance, it is a setting to make sure the colors in the pho
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -121,10 +101,6 @@ As per the experts, the lower the aperture, the more light your camera will rece
 ### What Should You Need to Avoid in Portrait Photography?
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Are the Best Camera Settings for Night Photography?
 
@@ -160,19 +136,16 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-clear-views-combating-fog-in-gopro-photos/"><u>[New] Clear Views Combating Fog in GoPro Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-elite-hd-video-recorder-macpc-fullscreen-for-2024/"><u>[New] Elite HD Video Recorder MacPC Fullscreen for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>[New] In 2024, How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-seamless-editing-removing-out-of-place-backgrounds/"><u>[New] Seamless Editing Removing Out-of-Place Backgrounds</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-visual-vanguard-revived-radeon-for-2024/"><u>[New] Visual Vanguard Revived Radeon for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-humorhub-easy-login-easy-signup/"><u>[Updated] HumorHub Easy Login, Easy Signup</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-get-savvy-with-screen-recording-on-xiaomi-mi-11/"><u>2024 Approved Get Savvy with Screen Recording on Xiaomi Mi 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enlarge-your-windows-11-pin-for-better-protection/"><u>Enlarge Your Windows 11 PIN for Better Protection</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/halting-real-time-recordings-on-qt-player/"><u>Halting Real-Time Recordings on QT Player</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-guide-for-trackir-hardware-integration/"><u>How-To Guide for TrackIR Hardware Integration</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-traffic-with-these-must-use-freefire-tags-for-videos/"><u>In 2024, Maximize Traffic with These Must-Use FreeFire Tags for Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mellow-playtime-10-top-rated-stress-erasers/"><u>In 2024, Mellow Playtime 10 Top-Rated Stress Erasers</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-managing-user-profiles-via-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Managing User Profiles via the Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-iphone-15-in-depth-analysis-and-why-its-a-must-have-even-for-seasoned-professionals-zdnet-insights/"><u>Unveiling the Power of iPhone 15: In-Depth Analysis & Why It's a Must-Have Even for Seasoned Professionals | ZDNET Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-apowersoft-picks-the-ultimate-pc-screen-capture-solution/"><u>[New] In 2024, Apowersoft Picks The Ultimate PC Screen Capture Solution</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-by-step-guide-using-nvidia-recorder/"><u>[New] In 2024, Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-prime-selection-of-invisible-android-recorders/"><u>[Updated] In 2024, Prime Selection of Invisible Android Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-snowy-standouts-from-winter-2022-olympics/"><u>2024 Approved Snowy Standouts From Winter 2022 Olympics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-transformation-blueprint-for-igtv-adaptation/"><u>2024 Approved YouTube's Transformation Blueprint for IGTV Adaptation</u></a></li>
+<li><a href="https://win-bits.techidaily.com/guia-paso-a-paso-para-rescatar-la-memoria-interna-de-tu-acer-aspire-y-restaurar-los-datos/"><u>Guía Paso a Paso Para Rescatar La Memoria Interna De Tu Acer Aspire Y Restaurar Los Datos</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-s23-ultra-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Samsung Galaxy S23 Ultra Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Asus ROG Phone 7 Ultimate.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-make-money-on-youtube/"><u>In 2024, How To Make Money on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>In 2024, WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/webcam-filming-made-professional-in-no-time/"><u>Webcam Filming Made Professional in No Time</u></a></li>
 </ul></div>
 

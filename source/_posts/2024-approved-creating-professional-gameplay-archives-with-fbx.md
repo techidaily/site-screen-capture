@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Creating Professional Gameplay Archives with FBX\""
-date: 2024-07-18T21:49:16.256Z
-updated: 2024-07-19T21:49:16.256Z
+date: 2025-03-03T03:07:03.660Z
+updated: 2025-03-06T03:18:57.782Z
 tags: 
   - screen-recording
   - ai video
@@ -57,135 +57,6 @@ However, FBX application is only available for Windows only. There is no FBX gam
 
 There are two types of Pro accounts available. The first option is to go for a lifetime license where you have to pay one-time fee for lifetime access. The second option is to go for annual subscription and you have to renew the subscription every year. With a Pro account, you can use the screen recorder on two PCs simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2\. How to Use FBX Game Recorder
-
-FBX gameplay recorder comes with an intuitive and easy-to-use interface. Therefore, if you are using the software for the first time, it is not going to be a big deal for you. Along with recording the gameplay, you can record audio as well as webcam. Besides, you can set hotkeys to use during the recording to perform various operations. Here are the steps to record with FBX gameplay recorder.
-
-Step 1: Download and install FBX game recorder from the official website.
-
-Step 2: After installation, launch the application. You will be asked to create an account. You can either create a Pro account or log in as a guest through your Facebook account.
-
-![fbx home screen](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
-
-Step 3: After you have logged into the application, go to Settings tab and set up the Hotkeys.
-
-For example, Ctrl + F12 hotkey is to start and stop recording while F8 hotkey is to pause and resume recording as required. These are default hotkeys and you can change them if you want.
-
-Step 5: Open the game that you want to record and you will see FBX logo at the top. To start recording, press Ctrl + F12 keys together. If you want to stop recording, press the same hotkeys.
-
-![fbx capture mode](https://images.wondershare.com/filmora/article-images/fbx-capture-mode.jpg)
-
-Step 7: Once you are done playing, come back FBX application and you will find saved recording. You can edit the recording as per your requirements. Thereafter, you can export the file as MP4 or upload directly on YouTube.
-
-## Part 3\. Pros and Cons
-
-Every software has its benefits as well as shortcomings. FBX game recording software is quite simple yet powerful. Before you install and even go for a Pro account, there are pros and cons of FBX screen recorder you should be aware of.
-
-**Pros -**
-
-* Superior game recording up to 144FPS.
-* Hardware acceleration for lag-free performance.
-* Non-stop recording in the background.
-* Capture instant clips and add GIFS and animated stickers.
-* Add awesome sound and visual effects during editing.
-* Intuitive and user-friendly interface.
-* Suitable for desktop and web games.
-
-**Cons -**
-
-* The software is only compatible with Windows OS.
-* Not suitable for any other screen recording except gameplay.
-* There will be a watermark if you use the free version of the software.
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4\. Best FBX Recorder Alternative
-
-If you are not satisfied with the features of FBX game recording software, there are better alternatives available. [Filmora Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative that is available not only for Windows but also Mac users. The features and functionalities are tailor-made for professional-quality recording and editing. Hence, it is safe to say that Filmora is far superior to FBX recorder.
-
-Filmora lets users capture the entire screen as well as a specific part of the screen as required. While FBX recording software is only suitable for gameplay capturing, Filmora is suitable for any type of screen capture. Moreover, you can add voiceover and drawings to make the video interesting. In terms of editing, there are special effects, filters as well as transitions for the video to be stunning and professional. Here are the steps to follow on how to [record gameplay](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora.
-
-Step 1: Download and install Wondershare Filmora on your PC.
-
-#### Wondershare Filmora
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-Step 2: Launch Filmora and go for New Project.
-
-Step 3: Go to Record menu option and click on Record PC Screen option.
-
-Step 4: The default setting is to capture the entire screen. But you can customize the setting to record a specific part of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
-
-Step 5: Click on Record button to start recording.
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![record games filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
-
-Step 6: Filmora gives a few buffer seconds for you to launch the game whose screen you want to record.
-
-To stop recording any time, hover on the top bar and click on Stop button. You will check Filmora folder to get the saved recordings.
-
-## Conclusion
-
-If you are looking for a screen recorder that is specifically designed to capture gameplay, FBX fame recorder clearly stands out. You can not only record your gameplay but also edit the recordings to add sound and visual effects. You can extract instant clips and GIFs, and you can operate everything with Hotkeys. However, if you are looking for a professional game recorder cum editor, Wondershare Filmora is the best software available. There are superior features available for high-quality, customized screen recording and pro-level editing.
-
-Part 2. [How to Use FBX Game Recorder](#part2)
-
-Part 3. [Pros and Cons](#part3)
-
-Part 4. [FBX Free Screen Recorder Alternatives](#part4)
-
-## Part 1\. Features and Specifications
-
-Here is the complete list of features you get on FBX recorder that makes it one of the best applications for gameplay recording.
-
-**Non-Stop Recording** \- With FBX DVR-style recording, the application does non-stop recording of your gameplay in the background without any interruption. The recording could be up to HD resolution.
-
-**Instant Clips** \- You can instantly make and save the short videos of your best gameplay by hitting a hotkey combination. You can capture high-quality screenshots of the best moments and share them on social media platforms.
-
-**Web Recording** \- Apart from recording gameplay on desktop games, the application is also suitable for web and online games.
-
-**Bandwidth Adjustment** \- FBX screen recorder can adjust to your available bandwidth so that there is no lag in live streaming. Besides, it saves the live stream sessions on your hard drive.
-
-Awesome Editor - You can add GIFs, stunning visual and sound effects, animated stickers, and customized captions for a professional yet fun video.
-
-### Technical Specifications
-
-Minimum specifications are Windows 7, 4GB RAM and 250MB of free space on HDD.
-
-Recommended specifications are Windows 10, 8GB RAM, a standard graphics card.
-
-**Supported Games** \- You can use FBX recording software for any modern PC game that runs on OpenGL and DirectX9 or above. Besides, you can always record retro games and web games.
-
-However, FBX application is only available for Windows only. There is no FBX game recorder for Android available.
-
-**Subscription Details** \- Anyone can download and install FBX software and start using it without creating an account. However, when you use the free version, there will always be FBX watermark added to all the recordings. For FBX game recorder no watermark, you have to opt for a FBX Pro account.
-
-There are two types of Pro accounts available. The first option is to go for a lifetime license where you have to pay one-time fee for lifetime access. The second option is to go for annual subscription and you have to renew the subscription every year. With a Pro account, you can use the screen recorder on two PCs simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to Use FBX Game Recorder
 
 FBX gameplay recorder comes with an intuitive and easy-to-use interface. Therefore, if you are using the software for the first time, it is not going to be a big deal for you. Along with recording the gameplay, you can record audio as well as webcam. Besides, you can set hotkeys to use during the recording to perform various operations. Here are the steps to record with FBX gameplay recorder.
@@ -266,9 +137,6 @@ Part 3. [Pros and Cons](#part3)
 
 Part 4. [FBX Free Screen Recorder Alternatives](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. Features and Specifications
 
 Here is the complete list of features you get on FBX recorder that makes it one of the best applications for gameplay recording.
@@ -305,9 +173,6 @@ Step 1: Download and install FBX game recorder from the official website.
 
 Step 2: After installation, launch the application. You will be asked to create an account. You can either create a Pro account or log in as a guest through your Facebook account.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![fbx home screen](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
 
 Step 3: After you have logged into the application, go to Settings tab and set up the Hotkeys.
@@ -340,9 +205,6 @@ Every software has its benefits as well as shortcomings. FBX game recording soft
 * Not suitable for any other screen recording except gameplay.
 * There will be a watermark if you use the free version of the software.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Best FBX Recorder Alternative
 
 If you are not satisfied with the features of FBX game recording software, there are better alternatives available. [Filmora Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative that is available not only for Windows but also Mac users. The features and functionalities are tailor-made for professional-quality recording and editing. Hence, it is safe to say that Filmora is far superior to FBX recorder.
@@ -355,9 +217,6 @@ Step 1: Download and install Wondershare Filmora on your PC.
 
 Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 Step 2: Launch Filmora and go for New Project.
@@ -366,25 +225,16 @@ Step 3: Go to Record menu option and click on Record PC Screen option.
 
 Step 4: The default setting is to capture the entire screen. But you can customize the setting to record a specific part of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 Step 5: Click on Record button to start recording.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![record games filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 Step 6: Filmora gives a few buffer seconds for you to launch the game whose screen you want to record.
 
 To stop recording any time, hover on the top bar and click on Stop button. You will check Filmora folder to get the saved recordings.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you are looking for a screen recorder that is specifically designed to capture gameplay, FBX fame recorder clearly stands out. You can not only record your gameplay but also edit the recordings to add sound and visual effects. You can extract instant clips and GIFs, and you can operate everything with Hotkeys. However, if you are looking for a professional game recorder cum editor, Wondershare Filmora is the best software available. There are superior features available for high-quality, customized screen recording and pro-level editing.
@@ -409,9 +259,6 @@ Here is the complete list of features you get on FBX recorder that makes it one 
 
 Awesome Editor - You can add GIFs, stunning visual and sound effects, animated stickers, and customized captions for a professional yet fun video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Technical Specifications
 
 Minimum specifications are Windows 7, 4GB RAM and 250MB of free space on HDD.
@@ -426,9 +273,6 @@ However, FBX application is only available for Windows only. There is no FBX gam
 
 There are two types of Pro accounts available. The first option is to go for a lifetime license where you have to pay one-time fee for lifetime access. The second option is to go for annual subscription and you have to renew the subscription every year. With a Pro account, you can use the screen recorder on two PCs simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to Use FBX Game Recorder
 
 FBX gameplay recorder comes with an intuitive and easy-to-use interface. Therefore, if you are using the software for the first time, it is not going to be a big deal for you. Along with recording the gameplay, you can record audio as well as webcam. Besides, you can set hotkeys to use during the recording to perform various operations. Here are the steps to record with FBX gameplay recorder.
@@ -437,9 +281,6 @@ Step 1: Download and install FBX game recorder from the official website.
 
 Step 2: After installation, launch the application. You will be asked to create an account. You can either create a Pro account or log in as a guest through your Facebook account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fbx home screen](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
 
 Step 3: After you have logged into the application, go to Settings tab and set up the Hotkeys.
@@ -448,16 +289,10 @@ For example, Ctrl + F12 hotkey is to start and stop recording while F8 hotkey is
 
 Step 5: Open the game that you want to record and you will see FBX logo at the top. To start recording, press Ctrl + F12 keys together. If you want to stop recording, press the same hotkeys.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fbx capture mode](https://images.wondershare.com/filmora/article-images/fbx-capture-mode.jpg)
 
 Step 7: Once you are done playing, come back FBX application and you will find saved recording. You can edit the recording as per your requirements. Thereafter, you can export the file as MP4 or upload directly on YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Pros and Cons
 
 Every software has its benefits as well as shortcomings. FBX game recording software is quite simple yet powerful. Before you install and even go for a Pro account, there are pros and cons of FBX screen recorder you should be aware of.
@@ -478,9 +313,114 @@ Every software has its benefits as well as shortcomings. FBX game recording soft
 * Not suitable for any other screen recording except gameplay.
 * There will be a watermark if you use the free version of the software.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+## Part 4\. Best FBX Recorder Alternative
+
+If you are not satisfied with the features of FBX game recording software, there are better alternatives available. [Filmora Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative that is available not only for Windows but also Mac users. The features and functionalities are tailor-made for professional-quality recording and editing. Hence, it is safe to say that Filmora is far superior to FBX recorder.
+
+Filmora lets users capture the entire screen as well as a specific part of the screen as required. While FBX recording software is only suitable for gameplay capturing, Filmora is suitable for any type of screen capture. Moreover, you can add voiceover and drawings to make the video interesting. In terms of editing, there are special effects, filters as well as transitions for the video to be stunning and professional. Here are the steps to follow on how to [record gameplay](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora.
+
+Step 1: Download and install Wondershare Filmora on your PC.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+Step 2: Launch Filmora and go for New Project.
+
+Step 3: Go to Record menu option and click on Record PC Screen option.
+
+Step 4: The default setting is to capture the entire screen. But you can customize the setting to record a specific part of the screen.
+
+![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
+
+Step 5: Click on Record button to start recording.
+
+![record games filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+Step 6: Filmora gives a few buffer seconds for you to launch the game whose screen you want to record.
+
+To stop recording any time, hover on the top bar and click on Stop button. You will check Filmora folder to get the saved recordings.
+
+## Conclusion
+
+If you are looking for a screen recorder that is specifically designed to capture gameplay, FBX fame recorder clearly stands out. You can not only record your gameplay but also edit the recordings to add sound and visual effects. You can extract instant clips and GIFs, and you can operate everything with Hotkeys. However, if you are looking for a professional game recorder cum editor, Wondershare Filmora is the best software available. There are superior features available for high-quality, customized screen recording and pro-level editing.
+
+Part 2. [How to Use FBX Game Recorder](#part2)
+
+Part 3. [Pros and Cons](#part3)
+
+Part 4. [FBX Free Screen Recorder Alternatives](#part4)
+
+## Part 1\. Features and Specifications
+
+Here is the complete list of features you get on FBX recorder that makes it one of the best applications for gameplay recording.
+
+**Non-Stop Recording** \- With FBX DVR-style recording, the application does non-stop recording of your gameplay in the background without any interruption. The recording could be up to HD resolution.
+
+**Instant Clips** \- You can instantly make and save the short videos of your best gameplay by hitting a hotkey combination. You can capture high-quality screenshots of the best moments and share them on social media platforms.
+
+**Web Recording** \- Apart from recording gameplay on desktop games, the application is also suitable for web and online games.
+
+**Bandwidth Adjustment** \- FBX screen recorder can adjust to your available bandwidth so that there is no lag in live streaming. Besides, it saves the live stream sessions on your hard drive.
+
+Awesome Editor - You can add GIFs, stunning visual and sound effects, animated stickers, and customized captions for a professional yet fun video.
+
+### Technical Specifications
+
+Minimum specifications are Windows 7, 4GB RAM and 250MB of free space on HDD.
+
+Recommended specifications are Windows 10, 8GB RAM, a standard graphics card.
+
+**Supported Games** \- You can use FBX recording software for any modern PC game that runs on OpenGL and DirectX9 or above. Besides, you can always record retro games and web games.
+
+However, FBX application is only available for Windows only. There is no FBX game recorder for Android available.
+
+**Subscription Details** \- Anyone can download and install FBX software and start using it without creating an account. However, when you use the free version, there will always be FBX watermark added to all the recordings. For FBX game recorder no watermark, you have to opt for a FBX Pro account.
+
+There are two types of Pro accounts available. The first option is to go for a lifetime license where you have to pay one-time fee for lifetime access. The second option is to go for annual subscription and you have to renew the subscription every year. With a Pro account, you can use the screen recorder on two PCs simultaneously.
+
+## Part 2\. How to Use FBX Game Recorder
+
+FBX gameplay recorder comes with an intuitive and easy-to-use interface. Therefore, if you are using the software for the first time, it is not going to be a big deal for you. Along with recording the gameplay, you can record audio as well as webcam. Besides, you can set hotkeys to use during the recording to perform various operations. Here are the steps to record with FBX gameplay recorder.
+
+Step 1: Download and install FBX game recorder from the official website.
+
+Step 2: After installation, launch the application. You will be asked to create an account. You can either create a Pro account or log in as a guest through your Facebook account.
+
+![fbx home screen](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
+
+Step 3: After you have logged into the application, go to Settings tab and set up the Hotkeys.
+
+For example, Ctrl + F12 hotkey is to start and stop recording while F8 hotkey is to pause and resume recording as required. These are default hotkeys and you can change them if you want.
+
+Step 5: Open the game that you want to record and you will see FBX logo at the top. To start recording, press Ctrl + F12 keys together. If you want to stop recording, press the same hotkeys.
+
+![fbx capture mode](https://images.wondershare.com/filmora/article-images/fbx-capture-mode.jpg)
+
+Step 7: Once you are done playing, come back FBX application and you will find saved recording. You can edit the recording as per your requirements. Thereafter, you can export the file as MP4 or upload directly on YouTube.
+
+## Part 3\. Pros and Cons
+
+Every software has its benefits as well as shortcomings. FBX game recording software is quite simple yet powerful. Before you install and even go for a Pro account, there are pros and cons of FBX screen recorder you should be aware of.
+
+**Pros -**
+
+* Superior game recording up to 144FPS.
+* Hardware acceleration for lag-free performance.
+* Non-stop recording in the background.
+* Capture instant clips and add GIFS and animated stickers.
+* Add awesome sound and visual effects during editing.
+* Intuitive and user-friendly interface.
+* Suitable for desktop and web games.
+
+**Cons -**
+
+* The software is only compatible with Windows OS.
+* Not suitable for any other screen recording except gameplay.
+* There will be a watermark if you use the free version of the software.
+
 ## Part 4\. Best FBX Recorder Alternative
 
 If you are not satisfied with the features of FBX game recording software, there are better alternatives available. [Filmora Video Recorder](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative that is available not only for Windows but also Mac users. The features and functionalities are tailor-made for professional-quality recording and editing. Hence, it is safe to say that Filmora is far superior to FBX recorder.
@@ -537,8 +477,24 @@ If you are looking for a screen recorder that is specifically designed to captur
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-exploring-different-approaches-to-game-playback-for-2024/"><u>[New] Exploring Different Approaches to Game Playback for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-photo-story-platinum-best-photo-movie-story-maker-wondershare/"><u>[New] Photo Story Platinum - Best Photo Movie Story Maker | Wondershare</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-transition-magic-4-simplified-fading-methods/"><u>[New] Transition Magic 4 Simplified Fading Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unleash-the-potential-of-your-webcam-for-slideshows-for-2024/"><u>[New] Unleash the Potential of Your Webcam for Slideshows for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-illuminated-insights-best-practices-for-nighttime-portraiture/"><u>[Updated] In 2024, Illuminated Insights Best Practices for Nighttime Portraiture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use-for-2024/"><u>[Updated] The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-mastering-twitter-uploading-videos-compliance/"><u>2024 Approved Mastering Twitter Uploading Videos Compliance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-prime-5-hd-webcams-for-seamless-video-conferencing/"><u>2024 Approved Prime 5 HD Webcams For Seamless Video Conferencing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pro-video-recording-software-for-mp4/"><u>2024 Approved Pro Video Recording Software for MP4</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-seamless-gaming-top-5-high-res-display-with-hdmi-21/"><u>2024 Approved Seamless Gaming Top 5 High-Res Display with HDMI 2.1</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlenet-wont-open-a-step-by-step-fix-guide-for-gamers/"><u>Battle.net Won't Open? A Step-by-Step Fix Guide for Gamers</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-s17-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo S17 phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-for-gradual-audio-dimming-with-lumafusion/"><u>In 2024, Steps for Gradual Audio Dimming with Lumafusion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-clear-way-to-capture-your-screen-best-free-tools-explored/"><u>In 2024, The Clear Way to Capture Your Screen – Best Free Tools Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-electronics-insights-from-toms-hardware-gurus/"><u>Navigate the Future of Electronics - Insights From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/sculpting-an-impactful-tiktok-conclusion-for-2024/"><u>Sculpting an Impactful TikTok Conclusion for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-5-innovative-multimedia-collaboration-services/"><u>Top 5 Innovative Multimedia Collaboration Services</u></a></li>
+</ul></div>
 

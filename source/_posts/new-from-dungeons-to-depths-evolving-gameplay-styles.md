@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2025-02-09T18:50:57.667Z
-updated: 2025-02-16T23:32:44.880Z
+date: 2025-02-28T18:41:58.268Z
+updated: 2025-03-06T04:50:14.475Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,6 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
@@ -105,10 +101,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -119,19 +111,11 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -144,10 +128,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,16 +144,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-seamless-workflow-achieved-utilize-the-io-screener-efficiently/"><u>[New] 2024 Approved Seamless Workflow Achieved Utilize the IO Screener Efficiently</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-accelerate-your-classic-gaming-top-choices-of-android-emulators-for-ps2/"><u>[Updated] 2024 Approved Accelerate Your Classic Gaming - Top Choices of Android Emulators for PS2</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-navigating-the-nuances-of-simplified-live-streaming/"><u>[Updated] Navigating the Nuances of Simplified Live Streaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-recordtv-easy-cost-free-windows-software-tips/"><u>[Updated] RecordTV Easy, Cost-Free Windows Software Tips</u></a></li>
-<li><a href="https://win-help.techidaily.com/hdd-virtualbox/"><u>高效克隆 HDD 至VirtualBox：完美过渡方法解密</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-5-star-titles-in-hydro-dynamics-gaming-world/"><u>In 2024, 5-Star Titles in Hydro Dynamics Gaming World</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-motorola-edge-40-neo-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Motorola Edge 40 Neo Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>In 2024, Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-skype-to-mp3-capturing-calls-at-no-charge/"><u>In 2024, Skype to MP3 Capturing Calls at No Charge</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-adjusting-your-macs-snapshot-formats-with-ease/"><u>[New] 2024 Approved Adjusting Your Mac's Snapshot Formats with Ease</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-portable-playstation-storage-best-external-units/"><u>[New] 2024 Approved Elite Portable PlayStation Storage Best External Units</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streaming-into-the-future-a-review/"><u>[New] 2024 Approved Streaming Into the Future A Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-time-travel-through-snapshots-using-camera-roll-on-snapchat/"><u>[New] 2024 Approved Time-Travel Through Snapshots Using Camera Roll on Snapchat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-enabling-the-virtual-screen-layout-in-google-meet/"><u>[New] In 2024, Enabling the Virtual Screen Layout in Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-farm-fun-quest-the-leading-10-farm-themed-gaming-titles/"><u>[New] In 2024, Farm Fun Quest The Leading 10 Farm-Themed Gaming Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-the-art-top-5-fluid-gaming-journeys/"><u>[New] In 2024, Mastering the Art Top 5 Fluid Gaming Journeys</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-uniting-communication-and-visuals-a-detailed-plan-for-slack-plus-filmora-meetings-for-2024/"><u>[New] Uniting Communication & Visuals A Detailed Plan for Slack + Filmora Meetings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-which-is-the-top-screener-bandicam-or-camtasia/"><u>[Updated] 2024 Approved Which Is the Top Screener? - Bandicam Or Camtasia</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-the-art-of-pc-games-screen-capture-for-2024/"><u>[Updated] Unlocking the Art of PC Games Screen Capture for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>2024 Approved Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y17s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y17s Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-home-security-elite-smart-locks-ranking-for-2eplust2eplusr2024/"><u>Discover the Leading Home Security: Elite Smart Locks Ranking for 2E+t2e+r2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-upgrades-with-ai-vision-capabilities-inspired-by-google-lens-the-next-level-of-smartphone-photography-insights/"><u>IPhone 16 Upgrades with AI Vision Capabilities Inspired by Google Lens: The Next Level of Smartphone Photography - Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stabilizing-your-handhits-on-a-smartphone-for-2024/"><u>Stabilizing Your Handhits on a Smartphone for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-srt-subtitle-translation-tools-and-techniques/"><u>Updated In 2024, SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y100A? | Dr.fone</u></a></li>
 </ul></div>
 

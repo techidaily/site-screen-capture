@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Ergodyne Topo Standing Desk Mat: A Solution to Reduce Workplace Strain"
-date: 2025-01-16T23:47:55.251Z
-updated: 2025-01-20T00:46:11.156Z
+date: 2025-03-02T21:33:51.377Z
+updated: 2025-03-05T16:14:11.741Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of the Ergodyne Topo Standing Desk Mat: A Solution to Reduce Workplace Strain"
@@ -36,10 +36,6 @@ Lifewire / Zach Sweat
 [View On Amazon $150](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=lifewire-onsite-prod-20&ascsubtag=4796457%7Cnbd5105eb0dc54e3e804df51703e5036902%7CB07SFKTLZM) [View On Walmart $150](https://www.walmart.com/ip/Microsoft-Xbox-Elite-Wireless-Controller-Series-2-Black-FST-00001/784834522) [View On Adorama.com $180](https://www.adorama.com/xbfst00001.html)
 
 4.8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Xbox One Elite Series 2 Controller
 
@@ -100,10 +96,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Comfort: Hefty, but darn comfy**
 
  The original Elite was perhaps the most comfortable controller I’ve ever used, so with the Series 2, I had high hopes in this department. Thanks to some clever but subtle changes by the Microsoft team, this controller is even better.
@@ -117,10 +109,6 @@ Lifewire / Zach Sweat
  The only real issue some users may see as a downside of this controller is that it’s quite a hefty device. The controller weighs 348 grams with all attachments, so it might take some getting used to compared to the 210 gram S controller. I personally love the bulk, as it feels premium, but it might not be for everyone.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -143,10 +131,6 @@ Lifewire / Zach Sweat
  If you plan to buy this controller to use with other electronics that support Bluetooth devices, make sure you do some research before committing to it, as it doesn’t always work with everything. That said, we did manage to pair the controller with a couple other devices that weren’t officially supported.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -172,10 +156,6 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -187,10 +167,6 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
@@ -238,18 +214,24 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-key-steps-to-perfectly-mix-obs-and-zoom/"><u>[New] 2024 Approved The Key Steps to Perfectly Mix OBS & Zoom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-voice-logging-made-simple-with-ipad-apps/"><u>[New] 2024 Approved Voice Logging Made Simple with iPad Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-an-exclusive-guide-to-deck-to-deck-technology-durecorder/"><u>[New] An Exclusive Guide to Deck-to-Deck Technology DuRecorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-tools-for-virtual-meeting-efficiency-for-2024/"><u>[Updated] Premium Tools for Virtual Meeting Efficiency for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-professional-level-communication-on-skype/"><u>[Updated] Professional-Level Communication on Skype</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>From Concept to Completion Utilizing LUTs Effectively in Premiere Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leading-the-way-in-affordable-video-conferencing-technology/"><u>Leading the Way in Affordable Video Conferencing Technology</u></a></li>
-<li><a href="https://win-superb.techidaily.com/master-the-art-of-personal-computing-care-emulate-pro-it-support-strategies-for-home-use/"><u>Master the Art of Personal Computing Care – Emulate Pro IT Support Strategies for Home Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-geforce-experience-cannot-fetch-configurations-issue/"><u>Resolved: Fixing 'GeForce Experience Cannot Fetch Configurations' Issue</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-100-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/troubleshooting-ea-app-issues-quick-solutions-to-restore-functionality/"><u>Troubleshooting EA App Issues - Quick Solutions to Restore Functionality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-guide-streaming-games-with-ease-on-rust-legacy-for-2024/"><u>Ultimate Guide Streaming Games with Ease on Rust Legacy for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-google-meet-recording-made-easy-for-smartphone-users/"><u>[New] Google Meet Recording Made Easy for Smartphone Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-goovision-chromium-captures-on-screen/"><u>[New] In 2024, GooVision Chromium Captures On-Screen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials-for-2024/"><u>[New] Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-easy-passes-to-friends-tiktok-live-events-for-2024/"><u>[Updated] Easy Passes to Friends' TikTok Live Events for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-professional-pcmac-screen-recorders-for-2024/"><u>[Updated] Professional PC/Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-streamlining-content-effortless-conversion-from-srt-for-2024/"><u>[Updated] Streamlining Content Effortless Conversion From SRT for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensively-understanding-wm6-setup/"><u>2024 Approved Comprehensively Understanding WM6 Setup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/3-easy-ways-to-record-overwatch-gameplay-for-2024/"><u>3 Easy Ways to Record Overwatch Gameplay for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cam-protection-the-ultimate-10-guide-for-2024/"><u>Cam Protection The Ultimate 10 Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/collection-media-compilation-portfolio-assemblage-and-diverse-content-repository/"><u>Collection, Media Compilation, Portfolio Assemblage, and Diverse Content Repository.</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-clock-divergence-chrome-vs-windows/"><u>Correcting Clock Divergence: Chrome vs Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutting-edge-audio-capture-gear-top-7-list-2023-edition/"><u>Cutting-Edge Audio Capture Gear Top 7 List, 2023 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-strategies-for-high-quality-macbook-webcam-recordings/"><u>Expert Strategies for High-Quality MacBook Webcam Recordings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-itel-p55-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Itel P55 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speaking-medias-language-mastering-srt-conversions/"><u>In 2024, Speaking Media's Language Mastering SRT Conversions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-audio-transitions-in-premiere-pro/"><u>Mastering Audio Transitions in Premiere Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/rhythm-and-pixels-recording-in-a-mac-studio-for-2024/"><u>Rhythm and Pixels Recording in a Mac Studio for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unmasking-cryptic-stability-the-stablecoin-phenomenon/"><u>Unmasking Cryptic Stability: The Stablecoin Phenomenon</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unveiling-the-secrets-of-easy-and-effective-video-clipping-from-streamtape/"><u>Unveiling the Secrets of Easy and Effective Video Clipping From Streamtape</u></a></li>
 </ul></div>
 

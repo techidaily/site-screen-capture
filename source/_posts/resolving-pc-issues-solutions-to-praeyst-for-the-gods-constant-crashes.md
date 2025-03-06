@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Issues - Solutions to 'Praeyst for the Gods' Constant Crashes
-date: 2025-01-19T21:20:50.795Z
-updated: 2025-01-26T01:19:16.843Z
+date: 2025-02-27T22:19:14.911Z
+updated: 2025-03-05T19:20:17.439Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  Game issues, including crashes, freezing, or lag, are often caused by outdated or corrupted graphics drivers. Keeping your graphics driver up to date is a critical step. There are two ways you can get the correct graphics driver:
@@ -48,19 +44,11 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -93,10 +81,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify the integrity of game files
 
  Occasionally, game files can become corrupted or altered due to malware on your PC. If your game is crashing for no obvious reason, consider verifying the integrity of your game files through Steam.
@@ -107,17 +91,9 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
@@ -159,10 +135,6 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
@@ -180,10 +152,6 @@ If your problem still exists, go ahead with the fix below.
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
@@ -212,14 +180,19 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-greatest-of-all-time-reddits-favorite-threads/"><u>[New] In 2024, Greatest of All Time Reddit's Favorite Threads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>2024 Approved Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-right-approach-for-accurate-google-speech-to-text/"><u>2024 Approved The Right Approach for Accurate Google Speech-to-Text</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/epic-gaming-recorded-an-analysis-for-2024/"><u>Epic Gaming Recorded An Analysis for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/from-casual-to-expert-your-path-with-obs-gaming-capture-for-2024/"><u>From Casual to Expert Your Path with OBS Gaming Capture for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-editors-toolkit-elevating-your-youtube-videos-via-windows-pc-for-2024/"><u>The Editor's Toolkit Elevating Your YouTube Videos via Windows PC for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/trailblazers-in-virtual-reality-experience/"><u>Trailblazers in Virtual Reality Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ace-your-shots-top-cameras-and-lenses-for-youtubers/"><u>[Updated] 2024 Approved Ace Your Shots Top Cameras & Lenses for YouTubers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-9-expert-picked-smartphone-chat-apps-for-business-use/"><u>[Updated] 2024 Approved Top 9 Expert-Picked Smartphone Chat Apps for Business Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-video-transcriber-chrome-os-companion-for-2024/"><u>[Updated] Best Video Transcriber Chrome OS Companion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fight-for-finesse-the-best-of-royale-battles/"><u>[Updated] In 2024, Fight for Finesse The Best of Royale Battles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-rapid-capture-technique-timelapse-toptech/"><u>[Updated] In 2024, Rapid Capture Technique Timelapse #TopTech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-essential-guide-to-documentary-storytelling-mechanics/"><u>[Updated] In 2024, The Essential Guide to Documentary Storytelling Mechanics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-pros-guide-to-iphone-voice-memos-and-more/"><u>[Updated] In 2024, The Pro's Guide to iPhone Voice Memos and More</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tuxera-nero-reader-comprehensive-multimedia-tool/"><u>[Updated] In 2024, Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-success-in-stardews-enigmatic-ginger-isle-for-2024/"><u>[Updated] The Ultimate Guide to Success in Stardew's Enigmatic Ginger Isle for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-instructions-on-changing-fb-page-backdrop/"><u>2024 Approved Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-blast-your-favorite-episode-now/"><u>In 2024, Instagram Blast Your Favorite Episode Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-guide-displaylink-drivers-for-windows-10/"><u>Quick & Easy Installation Guide: DisplayLink Drivers for Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-effortless-amd-driver-downloads-auto-detection-feature/"><u>Quick and Effortless AMD Driver Downloads - Auto-Detection Feature</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/streamlining-bill-payments-at-milaha-with-the-joint-solution-by-abbyy-fournxt-and-blue-prism/"><u>Streamlining Bill Payments at Milaha with the Joint Solution by ABBYY, FourNxt and Blue Prism</u></a></li>
 </ul></div>
 

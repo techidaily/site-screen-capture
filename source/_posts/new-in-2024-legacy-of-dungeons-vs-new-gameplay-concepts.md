@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Legacy of Dungeons Vs. New Gameplay Concepts"
-date: 2025-02-15T07:02:59.076Z
-updated: 2025-02-16T17:20:00.776Z
+date: 2025-03-02T19:25:11.265Z
+updated: 2025-03-05T19:32:57.009Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -54,10 +50,6 @@ In order to best understand these two game genres, we must first analyze the ori
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -107,10 +99,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Roguelite Games
@@ -129,19 +117,11 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
@@ -164,14 +144,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-xsplit-library-downloads-and-critical-perspectives/"><u>[New] 2024 Approved XSplit Library Downloads and Critical Perspectives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>[Updated] The Ultimate Ranking Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-video-capture-master-pro-x/"><u>[Updated] Video Capture Master Pro X</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-hitpaw-screen-recorder-review-and-alternative/"><u>2024 Approved HitPaw Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-videopie-interpretation-platform/"><u>2024 Approved VideoPie Interpretation Platform</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capturing-consciousness-proven-techniques-for-documenting-virtual-play-for-2024/"><u>Capturing Consciousness Proven Techniques for Documenting Virtual Play for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>In 2024, Top Audio Interfaces Unveiled The Podcaster's Must-Have List</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>[New] 2024 Approved Recording Techniques for Stellar Voice-Over Audio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-efficient-chromebook-screen-logger/"><u>[New] In 2024, Efficient Chromebook Screen Logger</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-explanation-of-youtube-keyword-optimization-for-2024/"><u>[New] The Ultimate Explanation of YouTube Keyword Optimization for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-essential-gameplay-cams-for-live-streamers/"><u>[Updated] 2024 Approved Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps/"><u>2024 Approved Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-skype-call-chronicles-20plus-strategies-for-savvy-windowsmac-users/"><u>2024 Approved Skype Call Chronicles 20+ Strategies for Savvy Windows/Mac Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-build-circles-and-spheres-in-minecraft-for-2024/"><u>How to Build Circles and Spheres in Minecraft for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-video-workflow-capture-save-refine-using-adobe-connect/"><u>In 2024, Streamlining Video Workflow Capture, Save, Refine Using Adobe Connect</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ultimate-headgear-selection-for-your-virtual-exploration/"><u>In 2024, Ultimate Headgear Selection for Your Virtual Exploration</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-world-of-youtube-building-strong-partner-relationships/"><u>Navigating the World of YouTube Building Strong Partner Relationships</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmarting-bogus-promo-ploys-in-gaming/"><u>Outsmarting Bogus Promo Ploys in Gaming</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-exceptional-no-limit-character-ai-solutions-for-dynamic-experiences/"><u>Unveiling Exceptional No-Limit Character AI Solutions for Dynamic Experiences</u></a></li>
 </ul></div>
 

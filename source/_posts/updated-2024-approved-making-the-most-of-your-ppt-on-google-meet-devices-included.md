@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Making the Most of Your PPT on Google Meet  Devices Included\""
-date: 2025-01-15T16:43:26.970Z
-updated: 2025-01-20T00:02:23.718Z
+date: 2025-03-03T02:31:13.473Z
+updated: 2025-03-06T01:52:15.932Z
 tags: 
   - screen-recording
   - ai video
@@ -63,19 +63,11 @@ There you will see two options and must click one of the following options,
 
 ![Google Meet Present Now Options   ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. If the presenter decides to go with the “A Window” option then click the window that shows your PowerPoint slides then select share.
 
 ![Share PPT on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet.jpg)
 
 The slideshow will automatically start to broadcast to viewers. We are sure you are not wondering **how to present a ppt in Google Meet** anymore!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Presenting Google Slides in Google Meet on Laptop
 
@@ -92,10 +84,6 @@ So to answer your question on **how to present slide in Google Meet**,
 If you decide to go with the latter option, then click the “Present” option. Since I’m using the Chrome browser, I will choose the slides tab to share. If you would like to share any audio, make sure to tick the share tab audio button as well!
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-tab-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
 
@@ -114,10 +102,6 @@ Step 2) To start sharing your screen, press the three-button icon which appears 
 To be sure if the screen is being shared check the top of the iPhone or iPad and if there is a red stripe, it means the screen is being broadcasted to participants. Moreover, do not worry while switching apps, you will still be in the Google Meet session even if you go onto PowerPoint or Google Slides while sharing your screen on a mobile or tablet device.
 
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/iphone-screen-broadcast-share-powerpoint-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Presenting PowerPoint or Slides in Google Meet on Android
 
@@ -149,14 +133,6 @@ Moreover, if you are on an iPhone or iPad, you can simply click the red stripe o
 
 ![stop  PPT present on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-present-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ about Presenting PowerPoint on Google Meet
 
 1. **Can others see you while you are presenting a PPT?**
@@ -177,10 +153,6 @@ Presenting a ppt on Google Meet is not all that difficult, if you know what to d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -196,18 +168,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-exploring-stardews-peak-mods-list-of-the-best/"><u>[New] 2024 Approved Exploring Stardew's Peak Mods - List of the Best</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-installation-masterclass-transitioning-to-macos-sierra/"><u>[New] 2024 Approved Installation Masterclass Transitioning to macOS Sierra</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>[New] 2024 Approved The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-from-playback-to-perfection-expert-steam-video-guidance-for-2024/"><u>[New] From Playback to Perfection Expert Steam Video Guidance for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>[New] In 2024, From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-recording-success-the-ultimate-guide-for-facetime-conversations/"><u>[New] In 2024, Recording Success The Ultimate Guide for FaceTime Conversations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-multi-screen-recording-setup/"><u>[Updated] 2024 Approved Multi-Screen Recording Setup</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cuddly-creatures-galore-best-android-wildlife-titles/"><u>[Updated] In 2024, Cuddly Creatures Galore Best Android Wildlife Titles</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-guiding-steps-for-obtaining-professional-grade-images/"><u>2024 Approved Guiding Steps for Obtaining Professional-Grade Images</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-simplified-processes-for-adobe-presenter-video-saves/"><u>2024 Approved Simplified Processes for Adobe Presenter Video Saves</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs/"><u>In 2024, Live on Air How to Broadcast on YouTube & Twitch Using OBS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-your-gameplay-frame-rate-expert-tips-for-increasing-fps-in-tainted-grail-conquest/"><u>Maximizing Your Gameplay Frame Rate: Expert Tips for Increasing FPS in Tainted Grail - Conquest</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-7-must-play-imessage-games-taking-over-2024/"><u>The 7 Must-Play iMessage Games Taking Over 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-drone-buying-101-essential-info-to-make-an-informed-choice-for-2024/"><u>[New] Drone Buying 101 Essential Info to Make an Informed Choice for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-your-guide-to-premium-full-screen-recorders-for-pcmac/"><u>[New] Your Guide to Premium Full-Screen Recorders for PC/Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-26-low-cost-strategies-capture-webinars-without-spending-money/"><u>[Updated] 2024 Approved 26 Low-Cost Strategies Capture Webinars Without Spending Money</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-screen-time-for-peaceful-phone-puzzles/"><u>[Updated] 2024 Approved Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-digital-leaders-the-top-10-online-video-recorder-apps/"><u>[Updated] In 2024, Digital Leaders The Top 10 Online Video Recorder Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-effective-audio-capture-for-your-zoom-sessions/"><u>[Updated] In 2024, Effective Audio Capture for Your Zoom Sessions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-knowledge-nexus-best-ed-sources-on-youtube/"><u>[Updated] Knowledge Nexus Best Ed Sources on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/beat-the-bad-guys-top-kung-fu-action-puzzle-games/"><u>Beat the Bad Guys Top Kung Fu Action Puzzle Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rhythmic-reconnaissance-video-music-matchmaking/"><u>Rhythmic Reconnaissance Video Music Matchmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-selecting-and-downloading-top-turkey-day-tunes-for-your-festive-family-gathering/"><u>Step-by-Step Guide: Selecting and Downloading Top Turkey Day Tunes for Your Festive Family Gathering</u></a></li>
 </ul></div>
 
